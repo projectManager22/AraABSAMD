@@ -1,0 +1,1872 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><sentences>
+           <sentence id="0">
+                    <text>وجهت جامعة #محمد_السادس دعوة للأكاديمي المؤيد لمذابح الإبادة في #فلسطين، مايكل برونشتاين، وألزمت الجامعة الطلبة بحضور محاضرته.  دعا اتحاد طلبة الجامعة الطلاب لمقاطعة المحاضرة، واستجاب الجميع، مما أجبر إدارة الجامعة على إلغاء المحاضرة.  محمد السادس، لولا المعارضين للتطبيع في بلده،</text>
+                    <aspectTerms>
+                        <aspectTerm  target="دعوة للأكاديمي المؤيد لمذابح الإبادة في #فلسطين"  polarity="negative" from="24" to="71"/> <aspectTerm  target="وألزمت الجامعة الطلبة بحضور محاضرته"  polarity="negative" from="90" to="125"/> <aspectTerm  target="دعا اتحاد طلبة الجامعة الطلاب لمقاطعة المحاضرة"  polarity="positive" from="128" to="174"/> <aspectTerm  target="دارة الجامعة على إلغاء المحاضرة"  polarity="positive" from="202" to="233"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="1">
+                    <text>أكاديميّة نماء للدراسات والبحوث  في ٣ ذو القعدة ١٤٤٦هـ، الموافق ١ مايو ٢٠٢٥م، شرفنا بزيارة أكاديمية نماء للعلوم الإسلامية والإنسانية ، على ضفاف البحر الأبيض المتوسط، في عاصمة المغرب الحبيب &amp;quot;الرباط&amp;quot;؛ رباط الفتح، مع صديقة باحثة جادة، وكان في استقبالنا الدكتورة العظيمة بذاتها</text>
+                    <aspectTerms>
+                        <aspectTerm  target="أكاديميّة نماء للدراسات والبحوث"  polarity="positive" from="0" to="31"/> <aspectTerm  target=" استقبالنا الدكتورة العظيمة"  polarity="positive" from="239" to="266"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="3">
+                    <text>ملف ساعات التطوّع  https://x.com/BadrAL_Balawi/status/1867631222081696132…  ملف ترقية المعلم  https://x.com/BadrAL_Balawi/status/1773809615274197014…  ملف ساعات التطوير المهني للمعلم  https://x.com/BadrAL_Balawi/status/1874408293537361946…  ملف الحصول على تدريب من المعهد الوطني للتطوير المهني التعليمي https://x.com/BadrAL_Balawi/status/1861873282598752648…  ملف نموذج الأداء الوظيفي الجديد للمعلمين</text>
+                    <aspectTerms>
+                        <aspectTerm  target="نموذج الأداء الوظيفي الجديد للمعلمين"  polarity="neutral" from="364" to="400"/> <aspectTerm  target="ملف ساعات التطوير المهني للمعلم"  polarity="neutral" from="151" to="182"/> <aspectTerm  target="ترقية المعلم"  polarity="neutral" from="80" to="92"/> <aspectTerm  target="تدريب من المعهد الوطني للتطوير المهني التعليمي"  polarity="neutral" from="256" to="302"/> <aspectTerm  target="ساعات التطوّع"  polarity="neutral" from="4" to="17"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="4">
+                    <text>التدريب في منصة المعهد الوطني للتطوير المهني التعليمي   تدخل  من الرابط التالي : https://niepd.futurex.sa/about عبر النفاذ الوطني  ثم تختار : البرامج التدريبية   ثم تسجيل ( للبرامج اللي يناسبك ) ثم عرض المقرر  ثم تبدأ التدريب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التدريب في منصة المعهد الوطني للتطوير المهني التعليمي"  polarity="neutral" from="0" to="53"/> <aspectTerm  target="البرامج التدريبية"  polarity="neutral" from="142" to="159"/> <aspectTerm  target=" تبدأ التدريب"  polarity="neutral" from="212" to="225"/> <aspectTerm  target="عرض المقرر"  polarity="neutral" from="198" to="208"/> <aspectTerm  target="تسجيل"  polarity="neutral" from="165" to="170"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="7">
+                    <text>إصلاح التعليم لا يتوقف عند &amp;quot;الكتاب المدرسي&amp;quot; دعوة لنظرة شمولية في تطوير العملية التعليمية في ظل ما أعلنته وزارة التربية من خطوات نحو &amp;quot;إعادة بناء شاملة للمناهج الدراسية&amp;quot; بدءا من الصف الأول وحتى الصف التاسع فإن هذه المبادرة الطموحة تعكس حرصا على تطوير التعليم وتعزيز الهوية الوطنية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الكتاب المدرسي"  polarity="neutral" from="28" to="42"/> <aspectTerm  target=" تطوير العملية التعليمية"  polarity="positive" from="64" to="88"/> <aspectTerm  target="إعادة بناء شاملة للمناهج الدراسية"  polarity="positive" from="133" to="166"/> <aspectTerm  target="تطوير التعليم وتعزيز الهوية الوطنية"  polarity="positive" from="243" to="278"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="8">
+                    <text>صورة هذا الصباح ،مع إمام مسجد الإمام مالك بيعقوب المنصور بالرباط ، كثيرا ما أقول أن المغرب هو البلد الوحيد في العالم الإسلامي الذي يُقرأ فيه القرآن( السلكة) مرتين في اليوم ، إمام مسجد الإمام مالك أضاف لي مسألة أخرى،هي أن تلاوة القرآن تتم يوميا مرات متعددة في كل مناطق  المغرب في</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تلاوة القرآن تتم يوميا"  polarity="positive" from="221" to="243"/> <aspectTerm  target="يُقرأ فيه القرآن( السلكة) مرتين في اليوم"  polarity="positive" from="131" to="171"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="9">
+                    <text>طالب المجلس الوطني للجمعية المغربية لأساتذة التربية الإسلامية وزارةَ التربية الوطنية والتعليم الأولي والرياضة بالزيادة في حصص المادة والرفع من معاملها في الأسلاك التعليمية، داعيا إلى اعتبار “الإسلاميات” قطبا مستقلا قائما بذاته في تجربة مؤسسات الريادة.  ورد ذلك في بلاغ للجمعية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="بالزيادة في حصص المادة"  polarity="positive" from="110" to="132"/> <aspectTerm  target="الرفع من معاملها"  polarity="positive" from="134" to="150"/> <aspectTerm  target="اعتبار “الإسلاميات” قطبا مستقلا"  polarity="positive" from="183" to="214"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="10">
+                    <text>قد مررت على مقررات البناء المنهجي متعلمًا -خاصة القسم الشرعي-، وأشهد الله أنها موادٌ صافية نقيّة، لا إفراط فيها ولا تفريط، تُنزل موضوعات الدين منازلها، وتمركزها انطلاقًا من حزمة أدلة من القرآن والسنة، لا من هوى شيخٍ أو جماعة. موادٌ تُعظّم أوامر الله، وتُرسّخ عدة مفاهيم كـ&amp;quot;التسليم</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مقررات البناء المنهجي متعلمًا -خاصة القسم الشرعي"  polarity="positive" from="12" to="60"/> <aspectTerm  target="حزمة أدلة من القرآن والسنة"  polarity="positive" from="173" to="199"/> <aspectTerm  target="تُعظّم أوامر الله"  polarity="positive" from="232" to="249"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="11">
+                    <text>حينما تم التضييق على الكتاتيب القرآنية، بل وحتى إلغاء العديد الأكبر منها في المغرب، تم تفريخ أجيال من الشباب الفارغ ذهنيا، المتنكر لكل وازع ديني، فتفشى الانحراف والإجرام وتعاطي المخدرات، خاصة بين الشباب المنقطع عن الدراسة. لا يمكن للمجتمع أن يكون محصنا إلا بالتشبت بتعالم الإسلام.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التضييق على الكتاتيب القرآنية"  polarity="negative" from="9" to="38"/> <aspectTerm  target="تفريخ أجيال من الشباب الفارغ ذهنيا"  polarity="negative" from="87" to="121"/> <aspectTerm  target="فتفشى الانحراف والإجرام وتعاطي المخدرات"  polarity="negative" from="146" to="185"/> <aspectTerm  target=" بالتشبت بتعالم الإسلام"  polarity="positive" from="256" to="279"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="12">
+                    <text> درس المغرب لشيخنا الفاضل ماهر بن ظافر القحطاني حفظه الله تعالى في شرح صحيح الإمام محمد بن اسماعيل البخاري  كتاب المظالم و الغصب                  باب نصرة المظلوم               رابط  الدرس   http://mixlr.com/assunan</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" شرح صحيح الإمام محمد بن اسماعيل البخاري"  polarity="positive" from="66" to="106"/> <aspectTerm  target="باب نصرة المظلوم"  polarity="positive" from="146" to="162"/> <aspectTerm  target="درس المغرب لشيخنا الفاضل ماهر بن ظافر القحطاني"  polarity="positive" from="1" to="47"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="13">
+                    <text>المعلم   ..   هو اللبنة الأساسية في بناء الحضارات عبر الأزمان، وهو صانع الإنسان بدءًا من أدواره التاريخية في حفظ التراث ونشر العلوم، مرورًا بدوره في ترسيخ المواطنة والوعي المدني، وصولًا إلى كونه محركًا للابتكار والتقدم الاقتصادي، ويتجلّى أثر المعلم في كل نواحي الحياة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="هو اللبنة الأساسية في بناء الحضارات عبر الأزمان"  polarity="positive" from="14" to="61"/> <aspectTerm  target="مرورًا بدوره في ترسيخ المواطنة والوعي المدني"  polarity="positive" from="133" to="177"/> <aspectTerm  target="محركًا للابتكار والتقدم الاقتصادي"  polarity="positive" from="195" to="228"/> <aspectTerm  target="أثر المعلم في كل نواحي الحياة"  polarity="positive" from="238" to="267"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="14">
+                    <text>العاهل المغربي يأمر بتغيير مناهج التربية الدينية للتركيز على القيم الإسلامية السمحة     http://v.aa.com.tr/517396</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مناهج التربية الدينية"  polarity="neutral" from="27" to="48"/> <aspectTerm  target=" القيم الإسلامية السمحة"  polarity="positive" from="60" to="83"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="15">
+                    <text>مناهجنا عقيمة وغير مجدية، ولا تواكب متطلبات الحياة الحديثة،ولهاذا لم يحدث أي تغيير للأفضل، ولازلنا نركض للخلف عكس التيار الحداثي..</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مناهجنا عقيمة وغير مجدية"  polarity="negative" from="0" to="24"/> <aspectTerm  target="لا تواكب متطلبات الحياة الحديثة"  polarity="negative" from="27" to="58"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="16">
+                    <text>تحذير من “مستقبل قاتم” لمنظومة التعليم في المغرب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مستقبل قاتم"  polarity="negative" from="10" to="21"/> <aspectTerm  target="منظومة التعليم في المغرب"  polarity="negative" from="24" to="48"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="17">
+                    <text>مخرجات التعليم الان غير مسؤول المعلم وذلك لاسباب راح اذكرها : اولاً المناهج ركيكة ولا يتوفر فيها الماده العلمية الديمه التي توفي الدروس مثير من المعلمين يجتهدون ويجيبو ماده علميه لاستزاده الطالب بالدرس من الفائده  ثانياً: مافيه كتابه كل شي صور ولو طلبت دفتر ويكتب قالو ليه</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مخرجات التعليم"  polarity="negative" from="0" to="14"/> <aspectTerm  target="المناهج ركيكة"  polarity="negative" from="68" to="81"/> <aspectTerm  target="الماده العلمية"  polarity="negative" from="97" to="111"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="18">
+                    <text>#عاجل   وزارة التربية  @moedu_iq  تُعلن المناهج الدراسية التي تم تكييفها على وفق قرار هيأة الرأي للصف الثالث المتوسط والسادس الاعدادي بفروعه كافة، بعد تشكيل لجان فنية مختصة تولت النظر بالمواد المكيفة، للعام الدراسي ٢٠٢٣_٢٠٢٤ …</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المناهج الدراسية"  polarity="neutral" from="40" to="56"/> <aspectTerm  target="لجان فنية مختصة"  polarity="neutral" from="157" to="172"/> <aspectTerm  target="هيأة الرأي للصف الثالث المتوسط والسادس الاعدادي"  polarity="neutral" from="86" to="133"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="19">
+                    <text>وأوضح ميداوي أن المغرب يمتلك جامعات ضخمة ومتعددة المواقع، حيث تضم أكثر من 160 ألف طالب، في حين لا توجد جامعة في المغرب تضم أقل من 80 ألف طالب، ما يؤدي إلى الاكتظاظ وضعف التأطير البيداغوجي والإداري. وذكر الوزير أن المعدل العالمي هو أستاذ واحد لكل ...</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" الاكتظاظ"  polarity="negative" from="154" to="163"/> <aspectTerm  target="جامعات ضخمة ومتعددة المواقع"  polarity="neutral" from="29" to="56"/> <aspectTerm  target="ضعف التأطير البيداغوجي والإداري"  polarity="negative" from="165" to="196"/> <aspectTerm  target="ذكر الوزير أن المعدل العالمي هو أستاذ"  polarity="neutral" from="199" to="236"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="20">
+                    <text>مدارسنا تحوّلت إلى «منصات تحميل». المعلم يشرح، الطالب يُصوّر، الجهاز يخزّن، ثم تُنسى كل تلك المعارف عند أول امتحان. يتخرّج الطالب بتقدير امتياز، لكنه لا يعرف كيف يكتب خطاباً، أو يُجري حواراً، أو يُحلل فكرة. نحن نمنحهم شهادات... لا فهماً. نخرّج أدمغة تحفظ، لكنها لا تُنتج، تنفّذ</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مدارسنا تحوّلت إلى «منصات تحميل»"  polarity="negative" from="0" to="32"/> <aspectTerm  target="المعلم يشرح، الطالب يُصوّر، الجهاز يخزّن"  polarity="negative" from="34" to="74"/> <aspectTerm  target="يتخرّج الطالب بتقدير امتياز، لكنه لا يعرف كيف يكتب خطاباً"  polarity="negative" from="116" to="173"/> <aspectTerm  target="يُجري حواراً، أو يُحلل فكرة"  polarity="negative" from="178" to="205"/> <aspectTerm  target="نخرّج أدمغة تحفظ، لكنها لا تُنتج، تنفّذ"  polarity="negative" from="238" to="277"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="21">
+                    <text>نظّم معهد محمد السادس للقراءات بالمملكة المغربية ندوة علمية بعنوان: (تاريخ المصحف الشريف بالمغرب)، وهذا التقرير يسلّط الضوء على هذه الندوة؛ فيعرض أهدافها، ومحاورها، كما يعرّف بجلساتها العلمية وعناوين البحوث المعروضة فيها. http://tafsiroqs.com/article?article_id=4451…  #مرصد_تفسير</text>
+                    <aspectTerms>
+                        <aspectTerm  target="نظّم معهد محمد السادس للقراءات بالمملكة المغربية ندوة علمية"  polarity="positive" from="0" to="59"/> <aspectTerm  target="تاريخ المصحف الشريف بالمغرب"  polarity="positive" from="69" to="96"/> <aspectTerm  target="يعرّف بجلساتها العلمية وعناوين البحوث المعروضة فيها"  polarity="positive" from="169" to="220"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="22">
+                    <text>المنهج الذي يكون افقيا  يحقق : التكامل  التوازن  التتابع _____ الطريقة المناسبة الي يستخدمها مدير المدرسة لمعرفة تطبيق المعلمين لطرق التدريس هي ؟ المقابلة . الملاحظة. الاستبانة . الاختبارات . _______ اذا كلف المدير معلم بعمل يتعارض مع عمله فإنه يراجع الدليل ؟؟ التنظيمي </text>
+                    <aspectTerms>
+                        <aspectTerm  target="المنهج الذي يكون افقيا "  polarity="positive" from="0" to="23"/> <aspectTerm  target=" تطبيق المعلمين لطرق التدريس"  polarity="neutral" from="112" to="140"/> <aspectTerm  target="كلف المدير معلم بعمل يتعارض مع عمله "  polarity="negative" from="204" to="240"/> <aspectTerm  target="الدليل ؟؟ التنظيمي"  polarity="neutral" from="251" to="269"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="23">
+                    <text>بالنسبة لتعديل المناهج لا يحتج عليه إلا كل ساذج مايزال يقبع في قوقعة التضليل البعثي. المعلومات التاريخية مثلا الواردة في مناهج النظام تربي جيلا غبيا يشبه من يؤمن بهرطقات الشيعة وأبو طاقة. الفارق الفكري بين الثوار والعبيد كبير. ومهمتنا تربية الفكر وتنمية الوعي عند عبيد النظام</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تعديل المناهج"  polarity="positive" from="9" to="22"/> <aspectTerm  target="المعلومات التاريخية"  polarity="negative" from="85" to="104"/> <aspectTerm  target="مناهج النظام"  polarity="negative" from="121" to="133"/> <aspectTerm  target="تربية الفكر وتنمية الوعي"  polarity="positive" from="235" to="259"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="24">
+                    <text>أرجو من القائمين على المناهج والمسؤولين في وزارة التربية، الاهتمام بغرس المهارات بدل تلقين المعلومات، تصلنا مخرجات التعليم الحكومي مفتقرة إلى بديهيات المهارات الدراسية، مثل إعمال العقل، والتفكير الإبداعي، ناهيكم عن مهارات الكتابة المعدومة، والعجز عن التعبير. الأمر يحتاج وقفة جادة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="القائمين على المناهج والمسؤولين في وزارة التربية"  polarity="negative" from="8" to="56"/> <aspectTerm  target="الاهتمام بغرس المهارات"  polarity="positive" from="58" to="80"/> <aspectTerm  target=" تلقين المعلومات"  polarity="negative" from="84" to="100"/> <aspectTerm  target="مخرجات التعليم الحكومي"  polarity="negative" from="108" to="130"/> <aspectTerm  target="بديهيات المهارات الدراسية"  polarity="negative" from="142" to="167"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="25">
+                    <text>ليس من الخير أن نأخذ مناهج التعليم كما هي من الشرق أو الغرب، ثم نُقدّمها لأبنائنا دون أن ننظر: هل تناسبهم؟ هل تُشبه بيئتهم؟ وهل تُعبّر عن لغتهم وثقافتهم؟ #التعليم لا يكون حيّاً إلا إذا خرج من واقع المجتمع، وتكلّم بلغتهم، وخاطب عقولهم وولج إلى قلوبهم. ولا يمكن أن نُعلّم أبناءنا حب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="نأخذ مناهج التعليم كما هي من الشرق أو الغرب"  polarity="negative" from="16" to="59"/> <aspectTerm  target="التعليم لا يكون حيّاً إلا إذا خرج من واقع المجتمع"  polarity="positive" from="155" to="204"/> <aspectTerm  target="تكلّم بلغتهم، وخاطب عقولهم وولج إلى قلوبهم"  polarity="positive" from="207" to="249"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="27">
+                    <text>الشهادة الثانوية الأدبية في المغرب: قراءة تقويمية للوضعية الراهنة نادر البقالي  #التعليم #اللغة_العربية #اللغة_الفرنسية #اللغة_الانجليزية #المغرب #مناهج_التعليم #مناهج_دراسية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الشهادة الثانوية الأدبية في المغرب"  polarity="neutral" from="0" to="34"/> <aspectTerm  target="مناهج_التعليم"  polarity="neutral" from="147" to="160"/> <aspectTerm  target="مناهج_دراسية"  polarity="neutral" from="162" to="174"/> <aspectTerm  target="اللغة_العربية"  polarity="neutral" from="90" to="103"/> <aspectTerm  target="اللغة_الفرنسية"  polarity="neutral" from="105" to="119"/> <aspectTerm  target="اللغة_الانجليزية"  polarity="neutral" from="121" to="137"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="28">
+                    <text>رابط مميز ومفيد للجميع  كل مايخص #المناهج_المدرسية من أولى ابتدائي إلى ثالث ثانوي (للفصلين الأول والثاني)، ويشمل كل شيء من: (حل واجبات، أوراق عمل، توزيع منهج، والكتاب المدرسي PDF..إلخ).  الطبعه الجديدة لعام ١٤٤١/١٤٤٠هـ  https://ktbby.com #العلاوه_السنويه70</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لمناهج_المدرسية من أولى ابتدائي إلى ثالث ثانوي"  polarity="positive" from="35" to="81"/> <aspectTerm  target="حل واجبات"  polarity="positive" from="125" to="134"/> <aspectTerm  target="أوراق عمل"  polarity="positive" from="136" to="145"/> <aspectTerm  target="توزيع منهج"  polarity="positive" from="147" to="157"/> <aspectTerm  target="الكتاب المدرسي"  polarity="positive" from="160" to="174"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="29">
+                    <text>التعليم يتغير بسرعة جنونية، أسرع من قدرة كل مؤسسات العالم وجامعاته على اللحاق به. المناهج تتأخر عن الواقع والفجوة تكبر كل يوم، حتى صار ما في الكتب شيئ وما في الحياة شيئ آخر تماماً. وإن كانت هذه الفجوة بين المنهج والواقع، فكيف بما بين المنهج والمعلم، وبين المعلم والطالب؟ وفي زمن</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم يتغير بسرعة جنونية"  polarity="negative" from="0" to="26"/> <aspectTerm  target="المناهج تتأخر عن الواقع"  polarity="negative" from="82" to="105"/> <aspectTerm  target="الفجوة تكبر كل يوم"  polarity="negative" from="107" to="125"/> <aspectTerm  target="الفجوة بين المنهج والواقع"  polarity="negative" from="194" to="219"/> <aspectTerm  target=" المنهج والمعلم"  polarity="negative" from="233" to="248"/> <aspectTerm  target="المعلم والطالب"  polarity="negative" from="255" to="269"/> <aspectTerm  target="المعلم والطالب"  polarity="negative" from="255" to="269"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="30">
+                    <text>للمهتمين بالمناهج وتطورها: ملف pdf بعنوان  الورشة الوطنية لمتطلبات المناهج وفق مدخل المعايير وتشرح تطور التربية من الأهداف إلى الكفايات والمعايير ويقع الملف في 284 صفحة الرابط:http://damascusuniversity.edu.sy/faculties/edu/images/stories/news/wl.pdf…</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لورشة الوطنية لمتطلبات المناهج"  polarity="positive" from="44" to="74"/> <aspectTerm  target="تطور التربية"  polarity="positive" from="99" to="111"/> <aspectTerm  target="من الأهداف إلى الكفايات والمعايير"  polarity="positive" from="112" to="145"/> <aspectTerm  target="للمهتمين بالمناهج وتطوره"  polarity="positive" from="0" to="24"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="31">
+                    <text>مهم جداً أنواع المناهج احفظها زي اسمك   المنهج الإثرائي : للطلاب الموهوبين و المتميزين .   المنهج الخفي : يؤثر على سلوك الطالب و هو عكس المنهج النظامي .   المنهج المحوري : لـ الطلاب المقيدين في المستوى التعليمي .   المنهج الموضوعي : هو الأنسب للموهبين .   المنهج</text>
+                    <aspectTerms>
+                        <aspectTerm  target="أنواع المناهج"  polarity="neutral" from="9" to="22"/> <aspectTerm  target="المنهج الإثرائي"  polarity="positive" from="40" to="55"/> <aspectTerm  target="المنهج الخفي"  polarity="neutral" from="91" to="103"/> <aspectTerm  target="المنهج المحوري"  polarity="neutral" from="155" to="169"/> <aspectTerm  target="المنهج الموضوعي"  polarity="positive" from="215" to="230"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="34">
+                    <text>المعلم : -خبرة ميدانية:* المعلمون هم من يتعاملون مباشرة مع الطلاب ويفهمون احتياجاتهم الفعلية. - تحسين جودة المناهج:* يمكن أن يسهم إشراكهم في جعل المناهج أكثر تفاعلية وتطبيقية. - زيادة الدافعية:* عندما يكون للمعلمين دور في إعداد المناهج، يشعرون بمسؤولية أكبر تجاه تنفيذها.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المعلمون هم من يتعاملون مباشرة مع الطلاب"  polarity="positive" from="25" to="65"/> <aspectTerm  target=" تحسين جودة المناهج"  polarity="positive" from="95" to="114"/> <aspectTerm  target="زيادة الدافعية"  polarity="positive" from="178" to="192"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="35">
+                    <text>الآن مباشرة عن بعد   التعليق على كتاب الأجوبة المفيدة عن أسئلة المناهج الجديدة | الأستاذ أبي أيوب هشام بن زكري البيضاوي حفظه الله  الدرس الخامس والثلاثون  السؤال : 64 و 65  الدرس على يوتيوب   https://youtube.com/live/XEOnxkJ-ri8…  الدرس على فيسبوك   https://facebook.com/share/v/18iadhkc3y…</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المناهج الجديدة"  polarity="neutral" from="63" to="78"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="36">
+                    <text> إختصارات مهمه جداً في التربوي     الكل إلى الجزء استنباط.  الجزء إلى الكل استقراء.   العصف الذهني؛ الحصول على أكبر عدد من الأفكار.   الأسئلة الموضوعية اجابتها نموذجية لا تعتمد على تقدير المصحح.. وتغطي كل المنهج.   الانحراف المعياري يشير لتشتت درجات الاختبار.   الصدق في</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" الكل إلى الجزء استنباط"  polarity="neutral" from="34" to="57"/> <aspectTerm  target="الجزء إلى الكل استقراء"  polarity="neutral" from="60" to="82"/> <aspectTerm  target="العصف الذهني"  polarity="neutral" from="86" to="98"/> <aspectTerm  target="الأسئلة الموضوعية"  polarity="neutral" from="134" to="151"/> <aspectTerm  target=" الانحراف المعياري"  polarity="neutral" from="214" to="232"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="37">
+                    <text>مناهجنا تحتاج لمراجعة شاملة   كثرة الأهداف أفسدت المنظومة التعليمية   التربية الإسلامية  الطالب يدرس أحكام التجويد كاملا والنتيجة بعد الصف الثاني عشر ؟  أتوقع الجميع يدرك الجواب  اللغة العربية  يدرس النحو كاملا والصرف والترقيم والعروض والإملاء والنتيجة ؟   اللغة الإنجليزية  الصف</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مناهجنا "  polarity="negative" from="0" to="8"/> <aspectTerm  target="كثرة الأهداف أفسدت المنظومة التعليمية"  polarity="negative" from="30" to="67"/> <aspectTerm  target="التربية الإسلامية"  polarity="negative" from="70" to="87"/> <aspectTerm  target="اللغة العربية"  polarity="negative" from="179" to="192"/> <aspectTerm  target="اللغة الإنجليزية"  polarity="negative" from="257" to="273"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="38">
+                    <text>وزير التعليم:  - إيقاف تدريس المادة من غير التخصص.  - سيكون هناك تقييم ذاتي لكل مدرسة و قائدها.  - قريبا.. سيتم إيصال الكتب الدراسية إلى منازل الطلبة.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تدريس المادة من غير التخصص"  polarity="positive" from="23" to="49"/> <aspectTerm  target="تقييم ذاتي لكل مدرسة و قائدها"  polarity="positive" from="65" to="94"/> <aspectTerm  target="إيصال الكتب الدراسية إلى منازل الطلبة"  polarity="positive" from="112" to="149"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="39">
+                    <text>نعم، إن فرض الفرنسية كلغة تدريس للعلوم والمواد التربوية لم يكن خيارًا شعبيًا، بل تم بالقوة عبر سياسات استئصالية همّشت العربية عمدًا، دون أي تنافس لغوي عادل.  لم يكن ذلك نتيجة تفوق الفرنسية، بل قرارًا سياسيًا لإخضاع الهوية المحلية لمنظومة استعمارية خبيثة.   والنتيجة؟ ضعف التحصيل</text>
+                    <aspectTerms>
+                        <aspectTerm  target="فرض الفرنسية كلغة تدريس للعلوم"  polarity="negative" from="8" to="38"/> <aspectTerm  target="همّشت العربية"  polarity="negative" from="112" to="125"/> <aspectTerm  target="ضعف التحصيل"  polarity="negative" from="267" to="278"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="40">
+                    <text>مرحبا! بخصوص تصنيف الشعب المغربي، المغرب ملكية دستورية مع الملك في قمة الهرم الاجتماعي والسياسي، مما يحد من الحراك الاجتماعي للكثيرين. يواجه المغرب تحديات مثل عدم المساواة في التعليم وارتفاع الهجرة، مما يعكس تسلسلا هرميا. لكن هناك إصلاحات، مثل دستور 2011 وبرامج الحماية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="عدم المساواة في التعليم"  polarity="negative" from="159" to="182"/> <aspectTerm  target="وارتفاع الهجرة"  polarity="negative" from="183" to="197"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="41">
+                    <text>أنصبة المعلمين(الأسبوعية)  في التعليم العام : ١- المعلم = ٢٤ حصة ٢- المعلم الممارس = ٢٤ حصة  ٣- المعلم المتقدم = ٢٢ حصة ٤- المعلم الخبير = ١٨ حصة  في التربية الخاصة : ١-المعلم الممارس = ١٨ حصة  ٢-المعلم المتقدم = ١٦حصة ٣-المعلم الخبير = ١٤حصة  #الرخصة_المهنية_عام</text>
+                    <aspectTerms>
+                        <aspectTerm  target="أنصبة المعلمين"  polarity="neutral" from="0" to="14"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="42">
+                    <text>غير صحيح  انا بصفتي ولي أمر أرى بأن المعلم ليس له علاقه وبريئ براءة الذئب من دم يوسف. المشكلة تكمن في سببين وهما: اولا : المناهج الدراسية الغير مرنه . ثانيا: طريقة ومحتوى الاختبارات التي تسمى بالتحصيلي والقدرات  التحصيلي: اختبار 4 مواد لمدة 3 سنوات في ساعتين. القدرات: اختبار في</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المناهج الدراسية الغير مرنه"  polarity="negative" from="121" to="148"/> <aspectTerm  target="طريقة ومحتوى الاختبارات التي تسمى بالتحصيلي"  polarity="negative" from="158" to="201"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="44">
+                    <text>الاجتماعية، وحق الطريق والنظافة الشخصية وكيفية قطع الشارع وفهم إشارات المرور  واساسيات قوانين السير، وما التصرف الصحيح في مواجهة المشاكل الاعتيادية، يضاف لها مستشار نفسي في كل مدرسة يمكن للطالب إطلاعه على مشاكله الخاصة في المنزل.   إن تعديل وتفعيل مادة التربية الاسلامية في</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الاجتماعية"  polarity="positive" from="0" to="10"/> <aspectTerm  target=" مستشار نفسي في كل مدرسة"  polarity="positive" from="157" to="181"/> <aspectTerm  target="تعديل وتفعيل مادة التربية الاسلامية"  polarity="positive" from="235" to="270"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="45">
+                    <text>نسبة الأمية في المغرب وفقا لإحصاء 2024 هي 24.8%، بانخفاض عن 32.2% في 2014. النسبة أعلى في المناطق الريفية (38%) وأقل في الحضرية (17.3%). النساء تسجلن 32.4% مقابل 17.2% للرجال. المغرب يعمل على تحسين التعليم عبر برامج مثل مبادرة اليونسكو لتدريب 10000 معلم بحلول 2025، مع هدف تحقيق</text>
+                    <aspectTerms>
+                        <aspectTerm  target="نسبة الأمية في المغرب وفقا لإحصاء 2024 هي 24.8%، بانخفاض"  polarity="positive" from="0" to="56"/> <aspectTerm  target="النسبة أعلى في المناطق الريفية (38%) وأقل في الحضرية (17.3%)."  polarity="negative" from="75" to="136"/> <aspectTerm  target="النساء تسجلن 32.4% مقابل 17.2% للرجال"  polarity="negative" from="137" to="174"/> <aspectTerm  target=" تحسين التعليم عبر برامج مثل مبادرة اليونسكو"  polarity="positive" from="191" to="235"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="47">
+                    <text>وجهة نظر تربوية:من أهم ما نوصي به – إعادة المواد الثلاثة: التعبير، والخط، والإملاء كمقررات مستقلة كما كانت عليه سابقًا، لما لها من أثر مباشر في تنمية المهارات اللغوية والارتقاء بالتحصيل الدراسي. ومع توظيف أدوات التقنية الحديثة، لما لها الأثر الايجابي بالرفع من المستوى التحصيلي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="إعادة المواد الثلاثة: التعبير، والخط، والإملاء كمقررات مستقلة"  polarity="positive" from="36" to="97"/> <aspectTerm  target=" أثر مباشر في تنمية المهارات اللغوية والارتقاء بالتحصيل الدراسي"  polarity="positive" from="130" to="193"/> <aspectTerm  target="توظيف أدوات التقنية الحديثة"  polarity="positive" from="199" to="226"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="48">
+                    <text>المفروض الموسيقى والرسم تعتبر مواد اختيارية أو نشاط يشترك فيه الطالب إذا كان مهتم وتصير ٣ حصص بالأسبوع تكون الحصة السابعة حصة نشاط أو تنمية مواهب مثل: ١- الكتابة وأنواعها: القصة، المقال، الشعر..&amp;quot; ٢- في المجال الإعلامي &amp;quot;تصوير - إذاعة…&amp;quot; ٣- مجال تنمية الذات وتطويرها.. ٤- الصناعة..</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المفروض الموسيقى والرسم تعتبر مواد اختيارية"  polarity="positive" from="0" to="43"/> <aspectTerm  target=" حصص بالأسبوع تكون الحصة السابعة حصة نشاط أو تنمية مواهب"  polarity="positive" from="89" to="145"/> <aspectTerm  target=" الكتابة وأنواعها: القصة، المقال، الشعر"  polarity="positive" from="153" to="192"/> <aspectTerm  target="المجال الإعلامي"  polarity="positive" from="202" to="217"/> <aspectTerm  target="تنمية الذات وتطويرها"  polarity="positive" from="243" to="263"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="52">
+                    <text> استراتيجيات التعلم الفعّالة (5) فكر .. زاوج .. شارك   تُعد استراتيجية فكر – زاوج – شارك (Think-Pair-Share) واحدة من استراتيجيات التعلم النشط الفعالة التي تعزز التفاعل بين الطلاب، وتنمي مهارات التفكير الناقد والتعاون بينهم. تستخدم هذه الاستراتيجية بشكل واسع في</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" استراتيجيات التعلم النشط الفعالة التي تعزز التفاعل بين الطلاب"  polarity="positive" from="116" to="178"/> <aspectTerm  target="مهارات التفكير الناقد والتعاون بينهم"  polarity="positive" from="186" to="222"/> <aspectTerm  target="استراتيجيات التعلم الفعّالة"  polarity="positive" from="1" to="28"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="53">
+                    <text> حقيبة المعلم الإلكترونية للمهارات المستهدفة في الإختبارات الوطنية ( نافس ) 1446هـ .  الأدوات المساندة : استراتيجيات التدريس - التقويم - الإدارة الصفية - أساليب التعزيز - اثراءات - أدلة الفهم القرائي  https://drive.google.com/file/d/1YO8DYot0zN6qYnq0NYwkEkMaiM3onNtB/view?usp=drivesdk…</text>
+                    <aspectTerms>
+                        <aspectTerm  target="حقيبة المعلم الإلكترونية للمهارات"  polarity="positive" from="1" to="34"/> <aspectTerm  target="استراتيجيات التدريس - التقويم"  polarity="positive" from="105" to="134"/> <aspectTerm  target="أدلة الفهم القرائي"  polarity="positive" from="181" to="199"/> <aspectTerm  target="الإدارة الصفية - أساليب التعزيز "  polarity="positive" from="137" to="169"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="54">
+                    <text>في أحد المواقف التعليمية بدأ المعلم الحديث عن ظاهرة طبيعية ، ثم كلف الطلاب بالعمل على تنظيم المعطيات ووضع التفسيرات، ثم تحديد أساليب ضبط هذه الظاهرة . إن طريقة التعليم التي يستخدمها المعلم هي:  أ)طريقة النقاش ب)الطريقة الاستقرائية ج)طريقة حل المشكلات  د)طريقة الأسئلة الصفية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="طريقة التعليم"  polarity="positive" from="154" to="167"/> <aspectTerm  target="طريقة النقاش"  polarity="positive" from="196" to="208"/> <aspectTerm  target="الطريقة الاستقرائية"  polarity="positive" from="211" to="230"/> <aspectTerm  target="طريقة حل المشكلات"  polarity="positive" from="233" to="250"/> <aspectTerm  target="طريقة الأسئلة الصفية"  polarity="positive" from="254" to="274"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="55">
+                    <text> عناصر تقييم الأداء الوظيفي: شرح وتطبيق.   عنصر التقييم:   &amp;quot;تحسين نتائج المتعلمين&amp;quot; الوزن النسبي: &amp;quot;10٪&amp;quot;  يُعد تحسين نتائج المتعلمين أحد الركائز الأساسية في العملية التعليمية، ويعني العمل المستمر والدؤوب على معالجة جوانب الضعف لدى المتعلمين، وفي الوقت ذاته تنمية نقاط القوة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تحسين نتائج المتعلمين"  polarity="positive" from="60" to="81"/> <aspectTerm  target="معالجة جوانب الضعف لدى المتعلمين"  polarity="positive" from="206" to="238"/> <aspectTerm  target="تنمية نقاط القوة"  polarity="positive" from="255" to="271"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="56">
+                    <text>من فضل الله سبحانه وبتوفيقه عز وجل ، متوفر لدي التالي :   (ملف توثيق أعمال المعلم وفق عناصر الأداء الوظيفي )  ويشمل الملف:    1- ملف إلكتروني شامل عناصر الأداء الوظيفي وصفحات التوثيق لكل عنصر ويمكن تحويله لورقي  ( مع شرح كيفية استخدام الملف ) 2- كليشات ومطويات ونماذج واستبانات</text>
+                    <aspectTerms>
+                        <aspectTerm  target="توثيق أعمال المعلم وفق عناصر الأداء الوظيفي"  polarity="positive" from="63" to="106"/> <aspectTerm  target="عناصر الأداء الوظيفي"  polarity="positive" from="86" to="106"/> <aspectTerm  target=" شرح كيفية استخدام الملف"  polarity="positive" from="216" to="240"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="57">
+                    <text>نظرة على الآلية الجديدة لتقييم أداء المعلم وفق نظام إدارة الأداء الوظيفي الجديد لشاغلي #الوظائف_التعليمية  .  يجتمع مدير المدرسة مع المعلمين و يناقش معهم الآلية الجديدة للتقييم مع توضيح المهام و الأدوار و المسؤليات. على المدير إطلاع المعلم على التقييم في منتصف العام الدراسي و</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لتقييم أداء المعلم"  polarity="positive" from="24" to="42"/> <aspectTerm  target="نظام إدارة الأداء الوظيفي"  polarity="positive" from="47" to="72"/> <aspectTerm  target="يجتمع مدير المدرسة مع المعلمين و يناقش معهم الآلية"  polarity="positive" from="110" to="160"/> <aspectTerm  target=" توضيح المهام و الأدوار و المسؤليات"  polarity="positive" from="179" to="214"/> <aspectTerm  target=" إطلاع المعلم على التقييم في منتصف العام الدراسي"  polarity="positive" from="226" to="274"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="58">
+                    <text> **حقيبة #المعلم**  تحتوي على:  • استراتيجيات مفرغة   • اختبارات مفرغة   • النمو المهني مفرغ   • تقارير أنشطة   • تقارير خطط علاجية   • توزيع منهج مفرغ   • سجل درجات مفرغ   • شهادات شكر مفرغ   • فواصل ملفات   • مطويات     استعرض الحقيبة هنا!</text>
+                    <aspectTerms>
+                        <aspectTerm  target="استراتيجيات مفرغة "  polarity="positive" from="34" to="52"/> <aspectTerm  target="اختبارات مفرغة"  polarity="positive" from="56" to="70"/> <aspectTerm  target="النمو المهني مفرغ"  polarity="positive" from="75" to="92"/> <aspectTerm  target="توزيع منهج "  polarity="positive" from="136" to="147"/> <aspectTerm  target="تقارير خطط علاجية"  polarity="positive" from="114" to="131"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="59">
+                    <text>من توفيق الله سبحانه تم الانتهاء من إعداد :  ملف توثيق أعمال المعلم وفق عناصر #الأداء_الوظيفي ، يشمل : 1- ملف إلكتروني شامل عناصر الأداء الوظيفي وصفحات التوثيق لكل عنصر ويمكن تحويله لورقي ( مع شرح كيفية استخدام الملف )   2- كليشات ومطويات ونماذج واستبانات وتقارير  داعمة لأعمال</text>
+                    <aspectTerms>
+                        <aspectTerm  target="توثيق أعمال المعلم"  polarity="positive" from="49" to="67"/> <aspectTerm  target="عناصر الأداء الوظيفي"  polarity="positive" from="124" to="144"/> <aspectTerm  target="نماذج واستبانات وتقارير"  polarity="positive" from="240" to="263"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="60">
+                    <text> عناصر تقييم الأداء الوظيفي: شرح وتطبيق.   عنصر التقييم: &amp;quot;أداء الواجبات الوظيفية&amp;quot; الوزن النسبي: &amp;quot;10٪&amp;quot;  يُعد عنصر “أداء الواجبات الوظيفية” من أهم معايير تقييم المعلم، حيث يعكس مدى التزامه بالأنظمة والقوانين، وأخلاقيات المهنة، ومسؤوليته تجاه البيئة التعليمية. يتطلب هذا العنصر</text>
+                    <aspectTerms>
+                        <aspectTerm  target="أداء الواجبات الوظيفية"  polarity="positive" from="58" to="80"/> <aspectTerm  target="التزامه بالأنظمة والقوانين"  polarity="positive" from="179" to="205"/> <aspectTerm  target="أخلاقيات المهنة"  polarity="positive" from="208" to="223"/> <aspectTerm  target="مسؤوليته تجاه البيئة التعليمية"  polarity="positive" from="226" to="256"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="61">
+                    <text> استراتيجيات التعلم الفعّالة (3) استراتيجية  تعليم الأقران  تعليم الأقران هو أسلوب تعليمي يعتمد على التعاون بين الطلاب، حيث يقوم طالب أو مجموعة من الطلاب بتعليم زملائهم، سواء كانوا من نفس العمر أو من مستويات تعليمية مختلفة. يعتمد هذا النهج على فكرة أن الطالب يمكن أن</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعاون بين الطلاب"  polarity="positive" from="100" to="118"/> <aspectTerm  target="يقوم طالب أو مجموعة من الطلاب بتعليم زملائهم"  polarity="positive" from="124" to="168"/> <aspectTerm  target="تعليم الأقران"  polarity="positive" from="45" to="58"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="62">
+                    <text>استمارة تنفيذ استراتيجية تعليمية( 3 )   تعليم الأقران  للتحميل بصيغةPDF:  https://drive.google.com/file/d/1SRG67V49ZdxUV3D6ocgPV3NGqhzBqdNj/view?usp=drivesdk…  للتحميل بصيغة word قابلة للتعديل:  https://docs.google.com/file/d/1DtbGpX8hruR3ATTBhIr6SGUeCyGEYulV/edit?usp=docslist_api&amp;amp;filetype=msword…  من تصميمي وإعدادي.   لاتحرموني دعواتكم الصادقة  #الأداء_الوظيفي_للمعلمين #استراتيجيات_التدريس</text>
+                    <aspectTerms>
+                        <aspectTerm  target="استمارة تنفيذ استراتيجية تعليمية"  polarity="positive" from="0" to="32"/> <aspectTerm  target="استراتيجيات_التدريس"  polarity="positive" from="374" to="393"/> <aspectTerm  target="الأداء_الوظيفي_للمعلمين"  polarity="positive" from="349" to="372"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="63">
+                    <text>وزارة التعليم تقرر رسمياً:  11 عنصر لتقييم المعلمين والمعلمات وفق الأداء الوظيفي الجديد؛ منها أبرزها:   - أداء الواجبات الوظيفية.  - التفاعل مع المجتمع المهني وأولياء الأمور.  - التنويع في إستراتيجيات التدريس.  - تحسين نتائج المتعلمين.  - إعداد وتنفيذ خطة التعلم.  - توظيف تقنيات</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لتقييم المعلمين والمعلمات وفق الأداء الوظيفي الجديد"  polarity="positive" from="36" to="87"/> <aspectTerm  target=" التفاعل مع المجتمع المهني وأولياء الأمور"  polarity="positive" from="132" to="173"/> <aspectTerm  target="التنويع في إستراتيجيات التدريس"  polarity="positive" from="178" to="208"/> <aspectTerm  target=" تحسين نتائج المتعلمين"  polarity="positive" from="212" to="234"/> <aspectTerm  target="إعداد وتنفيذ خطة التعلم"  polarity="positive" from="239" to="262"/> <aspectTerm  target=" توظيف تقنيات"  polarity="positive" from="266" to="279"/> <aspectTerm  target="إعداد وتنفيذ خطة التعلم"  polarity="positive" from="239" to="262"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="64">
+                    <text>المختص التعليمي &amp;quot;عبدالرحمن الشهري&amp;quot;:  لا يوجد تصنيف إجباري للمعلمين والمعلمات في نظام تقييم الأداء الوظيفي الجديد.  x.com/almaydanedu/st…</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لا يوجد تصنيف إجباري للمعلمين والمعلمات في نظام تقييم الأداء الوظيفي الجديد"  polarity="negative" from="37" to="112"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="65">
+                    <text>المعرفة إذا سكنت الأوراق جمدت .. وإذا تحركت نحو الواقع أزهرت …  نؤمن في مدرسة محمد بن سليمان الغافري للتعليم الأساسي أن المناهج الحية هي تلك التي تتحرك من دفتي الكتاب إلى نبض الحياة…   ومن هذا الإيمان العميق تحرك الأستاذان أحمد الغافري وخالد المقرشي - معلمي مادة الدراسات</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المناهج الحية"  polarity="positive" from="120" to="133"/> <aspectTerm  target=" تتحرك من دفتي الكتاب إلى نبض الحياة"  polarity="positive" from="145" to="181"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="66">
+                    <text>المجال الرابع: التنويع في إستراتيجيات التدريس.. يعتمد هذا المجال على الزيارات الفنية للمسؤول داخل مدرستك سواء مدير أو وكيل.. حيث أن التنويع في إستراتيجيات التدريس لا يتطلب تصويرا أو خلافه.. مع التنويه لأمور هامة: فقرة (3) المتعلقة بتنمية القدرة على التفكير والإبداع، كيف تنسحب على</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التنويع في إستراتيجيات التدريس"  polarity="neutral" from="15" to="45"/> <aspectTerm  target="الزيارات الفنية للمسؤول داخل مدرستك"  polarity="neutral" from="69" to="104"/> <aspectTerm  target="بتنمية القدرة على التفكير والإبداع"  polarity="neutral" from="231" to="265"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="67">
+                    <text>موقفين لا أنساها ...   زرت معلم في أحد الحصص الدراسية ..   سلم علي ثم عاد إلى الكرسي ..   كانوا الطلاب مبرمجين من أول خطوة إلى آخر خطوة  والأدوار موزعة … وكان المعلم يستعرض قدراته بثقة عالية   قام أحد الطلاب وفتح الكتاب واعطى تعليمات للطلاب  نفذ الجميع المطلوب … واستمر الدرس</text>
+                    <aspectTerms>
+                        <aspectTerm  target="كانوا الطلاب مبرمجين من أول خطوة إلى آخر خطوة"  polarity="negative" from="90" to="135"/> <aspectTerm  target="لأدوار موزعة"  polarity="negative" from="139" to="151"/> <aspectTerm  target="كان المعلم يستعرض قدراته بثقة عالية"  polarity="neutral" from="155" to="190"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="68">
+                    <text>  • حين كنت طالبًا في الثانوية العامة (١٤١٢-١٤١٤) كان (المشرف التربوي) يسمَّى (المُوجِّه)، وكانت هيبة دخوله المدرسة عظيمة جدًّا في نفوس الطلاب، لما يرونه من استعدادٍ استثنائي لها من قِبَل إدارة المدرسة والمعلمين.  • كان يدرسني في اللغة العربية معلم من فلسطين من أعظم المعلمين</text>
+                    <aspectTerms>
+                        <aspectTerm  target="كان (المشرف التربوي) يسمَّى (المُوجِّه)، وكانت هيبة دخوله المدرسة عظيمة جدًّا"  polarity="positive" from="50" to="127"/> <aspectTerm  target="كان يدرسني في اللغة العربية معلم من فلسطين من أعظم المعلمين"  polarity="positive" from="216" to="275"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="69">
+                    <text>بشكل رسمي.. &amp;quot;التعليم&amp;quot;:  إيقاف زيارات المشرفين التربويين للمدارس فترة الاختبارات.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="إيقاف زيارات المشرفين التربويين للمدارس فترة الاختبارات"  polarity="neutral" from="24" to="79"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="70">
+                    <text>حتى تصلح بيئة العمل في المدارس أتمنى حقا  أن تتم صياغة دليل كامل واحد وشامل تذكر به  :   - مهام المعلم - مهام وصلاحيات رئيس القسم  - مهام وصلاحيات المدير المساعد - مهام وصلاحيات مدير المدرسة  - مهام السكرتارية -  مهام شؤون الطلبة - مهام الأخصائيين &amp;quot; اجتماعي / نفسي &amp;quot;  حتى ننتهي من</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" تصلح بيئة العمل في المدارس"  polarity="positive" from="3" to="30"/> <aspectTerm  target="مهام المعلم"  polarity="positive" from="91" to="102"/> <aspectTerm  target="مهام وصلاحيات رئيس القسم"  polarity="positive" from="105" to="129"/> <aspectTerm  target="مهام وصلاحيات المدير المساعد"  polarity="positive" from="133" to="161"/> <aspectTerm  target="مهام وصلاحيات مدير المدرسة"  polarity="positive" from="164" to="190"/> <aspectTerm  target="مهام السكرتارية "  polarity="positive" from="194" to="210"/> <aspectTerm  target="هام شؤون الطلبة"  polarity="positive" from="214" to="229"/> <aspectTerm  target="مهام الأخصائيين &quot; اجتماعي / نفسي &quot; "  polarity="positive" from="232" to="267"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="72">
+                    <text>80)من أقدم طرق التدريس التي استخدمها المعلمون في الحقل التربوي : 1-الطريقة الحوارية. 2- الطريقة الأخبارية وتسمى بالالقاء. 3- المناقشة. 4-حل المشكلات.</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" أقدم طرق التدريس التي استخدمها المعلمون في الحقل التربوي"  polarity="neutral" from="5" to="62"/> <aspectTerm  target="الطريقة الحوارية"  polarity="neutral" from="67" to="83"/> <aspectTerm  target="الطريقة الأخبارية وتسمى بالالقاء"  polarity="neutral" from="88" to="120"/> <aspectTerm  target=" المناقشة"  polarity="neutral" from="124" to="133"/> <aspectTerm  target="حل المشكلات"  polarity="neutral" from="137" to="148"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="73">
+                    <text>الموقف المذكور يعكس سلوكًا غير مهني من بعض المعلمين الأجانب ، ويتطلب معالجة فورية لضمان بيئة تعليمية آمنة ومحترمة للطلاب. إليك تحليلًا للمشكلة مع اقتراحات للتعامل معها: تقييم الموقف: التنمر والاستهزاء: وصف المعلم للطالب بألفاظ مثل &amp;quot;زفت&amp;quot;، &amp;quot;أهبل&amp;quot;، و&amp;quot;راس الحبحب&amp;quot; بسبب مظهره (حلق</text>
+                    <aspectTerms>
+                        <aspectTerm  target="سلوكًا غير مهني من بعض المعلمين الأجانب"  polarity="negative" from="20" to="59"/> <aspectTerm  target="بيئة تعليمية آمنة ومحترمة للطلاب"  polarity="negative" from="88" to="120"/> <aspectTerm  target="التنمر والاستهزاء"  polarity="negative" from="183" to="200"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="74">
+                    <text>يختار  المعلم موضوع الدرس، ثم يحدد الأهداف الإجرائية، ثم يصمم نصاً مكوناً من عدة فقرات بسيطة وواضحة مناسبة للعمر العقلي للطلاب، ثم يوزع المعلم الفقرات على الطلاب بحيث يكون لكـل طالب فقرة يقوم بتنفيذها. ما الطريقة التدريسية التي يقوم بها هذا المعلم:   #الرخصة_المهنية_عام</text>
+                    <aspectTerms>
+                        <aspectTerm  target="يحدد الأهداف الإجرائية"  polarity="positive" from="30" to="52"/> <aspectTerm  target="يصمم نصاً مكوناً من عدة فقرات بسيطة"  polarity="positive" from="57" to="92"/> <aspectTerm  target="مناسبة للعمر العقلي للطلاب"  polarity="positive" from="100" to="126"/> <aspectTerm  target="مناسبة للعمر العقلي للطلاب"  polarity="positive" from="100" to="126"/> <aspectTerm  target="ما الطريقة التدريسية التي يقوم بها هذا المعلم:"  polarity="negative" from="202" to="248"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="75">
+                    <text>لكافة منسوبي ومنسوبات التعليم:   إليكم في رابط واحد العديد من الحقائب التدريبية المميزة والمهمة في عملكم: - إدارة الفصول. - تصميم ملف الإنجاز. - مهارات قائد المدرسة. - التدريس الفعال. - الخرائط الذهنية. - برنامج التحفيز. - تطبيقات قوقل. - مهارات الحوار. وغيرها</text>
+                    <aspectTerms>
+                        <aspectTerm  target="إدارة الفصول"  polarity="positive" from="108" to="120"/> <aspectTerm  target="تصميم ملف الإنجاز"  polarity="positive" from="124" to="141"/> <aspectTerm  target="مهارات قائد المدرسة."  polarity="positive" from="145" to="165"/> <aspectTerm  target="التدريس الفعال"  polarity="positive" from="168" to="182"/> <aspectTerm  target="الخرائط الذهنية"  polarity="positive" from="186" to="201"/> <aspectTerm  target="برنامج التحفيز"  polarity="positive" from="205" to="219"/> <aspectTerm  target="تطبيقات قوق"  polarity="positive" from="223" to="234"/> <aspectTerm  target="مهارات الحوار"  polarity="positive" from="239" to="252"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="76">
+                    <text>في واقع التعليم العربي المعاصر، يواجه المعلم تحدياً في جعل #المنهج_الدراسي أكثر ارتباطاً بحياة #الطالب واهتماماته. فكثير من #المناهج اليوم تُقدَّم بصورة جافة؛ حيث تفتقر إلى البُعد الإنساني والمعنوي؛ مما يقلل من فاعليتها في التأثير على سلوك المتعلم أو توسيع مداركه. لذلك، فإن تطوير</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المنهج_الدراسي"  polarity="negative" from="60" to="74"/> <aspectTerm  target=" ارتباطاً بحياة #الطالب واهتماماته"  polarity="negative" from="79" to="113"/> <aspectTerm  target="لمناهج اليوم تُقدَّم بصورة جافة"  polarity="negative" from="126" to="157"/> <aspectTerm  target="يقلل من فاعليتها في التأثير على سلوك المتعلم أو توسيع مداركه"  polarity="negative" from="203" to="263"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="77">
+                    <text>عندك تقديم في مدرسة أهلية وطلبوا منك درس نموذجي ..إليك النصائح التالية: ١- التحضير الذهني الجيد ( الإلمام بالدرس جيدا ) مع معلومات إثرائية خارج المقرر . ٢- قم بتحضير الدرس كتابيا واحضر معك الدرس بعد التحضير ، شاملا عناصر المنهج ( الأهداف - المحتوى - طرق التدريس - الأنشطة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التحضير الذهني الجيد"  polarity="positive" from="75" to="95"/> <aspectTerm  target="معلومات إثرائية خارج المقرر"  polarity="positive" from="123" to="150"/> <aspectTerm  target="بتحضير الدرس كتابيا"  polarity="positive" from="159" to="178"/> <aspectTerm  target="احضر معك الدرس بعد التحضير"  polarity="positive" from="180" to="206"/> <aspectTerm  target="عناصر المنهج"  polarity="positive" from="215" to="227"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="78">
+                    <text>حصرياً من ملتقى المعلمين والمعلمات : حقائب تدريبية مع مطويات  مفيدة جداً للمعلم، للمعلمة ،للأب للأم ... للجميع   1-فن حل المشكلات السلوكية والفكرية https://saudi-teachers.com/vb/t/135561/ 2- الحوار الناجح  https://saudi-teachers.com/vb/t/135577/  إعداد : أ. بدر البلوي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="حل المشكلات السلوكية والفكرية"  polarity="positive" from="118" to="147"/> <aspectTerm  target="حقائب تدريبية"  polarity="positive" from="37" to="50"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="79">
+                    <text>بعض المعلمين يقدح الأفكار في عقول الطلاب بطريقة عجيبة ومميزة    يحدثني ولي أمر طالب عن معلم ابنه  ويقول : طلب المعلم من الطلاب أن يقرأون كتاب محدد  ثم يلخصونه في عشر صفحات ، وبعدها يناقشهم في الكتاب .    يقول الأب : هذه المهمة غيرت ابني ١٨٠ درجة إلى الأفضل وأصبحت عادة لديه ،</text>
+                    <aspectTerms>
+                        <aspectTerm  target="بعض المعلمين يقدح الأفكار في عقول الطلاب"  polarity="positive" from="0" to="40"/> <aspectTerm  target="طلب المعلم من الطلاب أن يقرأون كتاب محدد"  polarity="positive" from="106" to="146"/> <aspectTerm  target="هذه المهمة غيرت ابني ١٨٠ درجة إلى الأفضل "  polarity="positive" from="216" to="257"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="80">
+                    <text>نفذت  كل من مساعدة المديرة أ.عائشة الغزالية و معلمة الرياضيات أ. عائشة السنيدية ورقة عمل بعنوان الأساليب التعليمية وذلك يوم الاربعاء ٣٠/ ٤، حيث تم عرض عدد من الأساليب والإستراتيجيات التدريسية والبرامج التفاعلية التي تجعل التعلم ممتعا.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الأساليب التعليمية"  polarity="positive" from="96" to="114"/> <aspectTerm  target="الإستراتيجيات التدريسية"  polarity="positive" from="168" to="191"/> <aspectTerm  target="البرامج التفاعلية"  polarity="positive" from="193" to="210"/> <aspectTerm  target="تجعل التعلم ممتعا"  polarity="positive" from="216" to="233"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="81">
+                    <text>مهمة بالاختبار العام: فرق بين استراتيجية و طريقة و أسلوب التدريس  - الاستراتيجية : خطة منظمة ومتكاملة من الاجراءات تضمن تحقيق الاهداف الموضوعة لفترة زمنية محددة  - الطريقة : الية يختارها المعلم لتوصيل المحتوى وتحقيق الاهداف  - الاسلوب : نمط يتبناه المعلم لتنفيذ فلسلفته التدريسية</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" استراتيجية و طريقة و أسلوب التدريس"  polarity="positive" from="29" to="64"/> <aspectTerm  target="تحقيق الاهداف"  polarity="positive" from="120" to="133"/> <aspectTerm  target="الاسلوب : نمط يتبناه المعلم لتنفيذ فلسلفته التدريسية"  polarity="positive" from="227" to="279"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="82">
+                    <text>رأي:  خلنا نقسم كلام المسؤول الى شطرين واستنتاج ؛  شطري الفكرة: ١- ارتفاع نتيجة الطالب في المدرسة. ٢- انخفاض نتيجة الطالب في القدرات والتحصيلي الاستنتاج: يعني ان الخلل في الفصل الدراسي والمعلم.  وهذا غير منطقي أبدًا  شطري الفكرة: تثبت نجاح المعلم في الفصل بدون نقاش ولا جدال</text>
+                    <aspectTerms>
+                        <aspectTerm  target="نتيجة الطالب في القدرات والتحصيلي"  polarity="negative" from="109" to="142"/> <aspectTerm  target="لخلل في الفصل الدراسي والمعلم"  polarity="negative" from="163" to="192"/> <aspectTerm  target="نتيجة الطالب في المدرسة"  polarity="positive" from="74" to="97"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="83">
+                    <text>اضم صوتي لصوتك بروف محمد  هكذا هو الحال عندما يكون مستوى التحصيل لدى الطلاب في اتجاه الطريق المنحدرة يتم الربط  مباشرة  بأداء المعلمين وجعله السبب الرئيسي لهذا التدني.  متجاهلين ان هناك عوامل اخرى لها تأثير مباشر في ارتفاع وانخفاض التحصيل بعيدا عن اداء المعلم  ومن ذلك تأثرالتحصيل</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مستوى التحصيل لدى الطلاب"  polarity="negative" from="51" to="75"/> <aspectTerm  target="أداء المعلمين"  polarity="negative" from="121" to="134"/> <aspectTerm  target="ارتفاع وانخفاض التحصيل "  polarity="conflict" from="216" to="239"/> <aspectTerm  target="اداء المعلم"  polarity="negative" from="248" to="259"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="84">
+                    <text>س/أداة التقويم الي تقيس الجانب الوجداني؟  أ)المحاكاة ب)الاستبانة ج) الاختبار د) ……….  س: وجدت معلمة أن طالباتها يواجهن ضعف بربط المعلومه السابقه بالجديدة  كيف تحل هذي المشكله &amp;quot;  أ- نسخ  ب- تكرار ج- تلخيص  د- خرائط ذهنية  (خذ خطوة و بادر باخذ اللقاح) رسائل توعوية ترسلها</text>
+                    <aspectTerms>
+                        <aspectTerm  target="أداة التقويم الي تقيس الجانب الوجداني"  polarity="neutral" from="2" to="39"/> <aspectTerm  target="بربط المعلومه السابقه بالجديدة"  polarity="neutral" from="123" to="153"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="85">
+                    <text>وزارة التعليم:  على المدارس استكمال إجراءات إنشاء الجداول المدرسية عبر نظام نور، حيث تبدأ باختيار المادة الدراسية ثم البحث عن معلمي المادة المتخصصين؛ ليتم بعد ذلك إسناد الفصول الدراسية لهم لضمان وصول كل معلم إلى النصاب الكامل من الحصص والذي يبلغ 24 حصة في الأسبوع.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="إنشاء الجداول المدرسية"  polarity="neutral" from="44" to="66"/> <aspectTerm  target="اختيار المادة الدراسية ثم البحث عن معلمي المادة المتخصصين"  polarity="neutral" from="91" to="148"/> <aspectTerm  target="إسناد الفصول الدراسية"  polarity="neutral" from="163" to="184"/> <aspectTerm  target="لضمان وصول كل معلم إلى النصاب الكامل من الحصص"  polarity="neutral" from="189" to="234"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="86">
+                    <text>بعد ذلك، ينتقل طفل الخمس سنوات إلى الصف الثاني في سن السادسة، ويكون من الواجب عليه أن يتعلّم المهارات التالية: التنوين، والتاء المربوطة، وهمزتي القطع والوصل، وكتابة نص تعبيري مكوّن من جملتين مترابطتين، غير المهارات اللغويّة. منهج مدمّر لصحّة المعلّم قبل الطالب. كان الله بالعون.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="ينتقل طفل الخمس سنوات إلى الصف الثاني في سن السادسة"  polarity="neutral" from="9" to="60"/> <aspectTerm  target="يكون من الواجب عليه أن يتعلّم المهارات التالية"  polarity="neutral" from="63" to="109"/> <aspectTerm  target="منهج مدمّر لصحّة المعلّم قبل الطالب"  polarity="negative" from="225" to="260"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="87">
+                    <text> مصطلحات الدراسة   الإطار النظري   الدراسات السابقة   النتائج   تحليل النتائج   التوصيات   لطلب خدمة تواصل واتس :   http://wa.me//966555679628</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مصطلحات الدراسة"  polarity="neutral" from="1" to="16"/> <aspectTerm  target="الإطار النظري"  polarity="neutral" from="19" to="32"/> <aspectTerm  target="لدراسات السابقة"  polarity="neutral" from="36" to="51"/> <aspectTerm  target=" تحليل النتائج"  polarity="neutral" from="63" to="77"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="88">
+                    <text>فعلاً.. نطمح لهذا النوع لكن لا يوجد بالواقع ولا يمكن تطبيقه،  المعلم بالميدان مُلزم ومقيد بمنهج معين وبفترة محددة،  بإمكانه تطبيق المنهج الخفي ( اختصار ما قلتيه) على طلبته من خلال: تعامله، استراتيجياته بالقاعة الدراسية،  استغلال طاقات الطلبة في تنظيم أنشطة وفعاليات ومحاضرات ممكن</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المعلم بالميدان مُلزم ومقيد بمنهج معين وبفترة محددة"  polarity="negative" from="62" to="113"/> <aspectTerm  target=" تطبيق المنهج الخفي"  polarity="positive" from="123" to="142"/> <aspectTerm  target="استراتيجياته بالقاعة الدراسية"  polarity="positive" from="189" to="218"/> <aspectTerm  target="استغلال طاقات الطلبة"  polarity="positive" from="221" to="241"/> <aspectTerm  target="استغلال طاقات الطلبة"  polarity="positive" from="221" to="241"/> <aspectTerm  target="تنظيم أنشطة وفعاليات"  polarity="positive" from="245" to="265"/> <aspectTerm  target="استغلال طاقات الطلبة"  polarity="positive" from="221" to="241"/> <aspectTerm  target="تنظيم أنشطة وفعاليات"  polarity="positive" from="245" to="265"/> <aspectTerm  target="محاضرات"  polarity="positive" from="267" to="274"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="90">
+                    <text>وزارة التعليم:  خلال هذا العام ؛ ستكون الكتب المدرسية نسختين لكل منهج دراسي؛ على أن يتم استعمال النسختين لكافة الفصول الدراسية الثلاثة .. حيث ستكون نسخة الفصل الأول لمنهج هذا الفصل وجزء من الفصل الثاني .. ونسخة الفصل الثاني لجزء منه بالإضافة إلى كامل الفصل الدراسي الثالث.(عكاظ) -</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الكتب المدرسية"  polarity="neutral" from="39" to="53"/> <aspectTerm  target="منهج دراسي"  polarity="neutral" from="65" to="75"/> <aspectTerm  target="الفصول الدراسية"  polarity="neutral" from="111" to="126"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="91">
+                    <text> مدينة ترنيت تشهد موكباً احتفالياً مهيباً بمناسبة تخرج دفعة جديدة من الأطفال حفظة كتاب الله، الذين أتموا حفظ القرآن الكريم كاملاً في الكتاتيب القرآنية.   مشهد يلامس القلوب، ويجسد عمق ارتباط المغاربة بكتاب الله، واعتزازهم بتقليد راسخ توارثته الأجيال جيلاً بعد جيل.   حفظ القرآن</text>
+                    <aspectTerms>
+                        <aspectTerm  target="دفعة جديدة من الأطفال حفظة كتاب الله"  polarity="positive" from="55" to="91"/> <aspectTerm  target=" الكتاتيب القرآنية"  polarity="positive" from="132" to="150"/> <aspectTerm  target="ارتباط المغاربة بكتاب الله"  polarity="positive" from="183" to="209"/> <aspectTerm  target="بتقليد راسخ توارثته الأجيال جيلاً بعد جيل"  polarity="positive" from="221" to="262"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="92">
+                    <text>انضمام الإصدارات الأخيرة إلى المكتبة..  ليس جديدا أن أقول: الكتب عند مؤلفها بمثابة الأولاد، ولا تذهب لذة الولد مهما أنجب الرجل، فكل مولود يجدد اللذة في نفس والده.. ولا يغني بعضهم عن بعض ولو كثروا!!  وكذا الكتب.. فعند صدور كتاب جديد؛ فإن ملمسه يثير النشوة من جديد، كأن لم يكن ثمة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الإصدارات الأخيرة إلى المكتبة"  polarity="positive" from="7" to="36"/> <aspectTerm  target="الكتب عند مؤلفها"  polarity="positive" from="59" to="75"/> <aspectTerm  target="فعند صدور كتاب جديد؛ فإن ملمسه يثير النشوة من جدي"  polarity="positive" from="212" to="261"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="93">
+                    <text>أخواني المعلمين والمعلمات هل تبحثون عن ملف متكامل للأداء الوظيفي وفق النموذج الجديد مع الشواهد قابل للتعديل وبجودة عالية؟ هل تبحثون عن موقع تعليمي مميز متخصص في ملفات نافس وجميع الملفات قابلة للتعديل؟ هل تبحثون عن عروض بوربوينت وأوراق عمل واختبارات محاكية مع نماذج الإجابة؟ هل</text>
+                    <aspectTerms>
+                        <aspectTerm  target="ملف متكامل للأداء الوظيفي"  polarity="positive" from="39" to="64"/> <aspectTerm  target="موقع تعليمي مميز"  polarity="positive" from="135" to="151"/> <aspectTerm  target="عروض بوربوينت وأوراق عمل واختبارات محاكية"  polarity="positive" from="214" to="255"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="94">
+                    <text>تخرج 5000 حافظ و حافظة كتاب الله  هذا هو المغرب الأول في العالم من حيث حفظة القرآن الكريم ذكورا واناثا حسب اليونسكو</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تخرج 5000 حافظ و حافظة كتاب الله"  polarity="positive" from="0" to="32"/> <aspectTerm  target="المغرب الأول في العالم من حيث حفظة القرآن الكريم ذكورا واناثا"  polarity="positive" from="41" to="102"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="96">
+                    <text>اسم #الكتاب تحليل #المناهج وتقويمها ونقدها تأليف : دكتور / عزمي أحمد ضمره عدد الصفحات : 522 صفحة الناشر : مؤسسة الوراق للنشر والتوزيع سنة النشر : 2009 الطبعة الأولى رابط الشراء: https://kunashat-alwaraq.com/onaGwBB?from=search-bar… #كناشة_الورق نضع الفكر الإنساني بين يديك #kunashatalwaraq</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تحليل #المناهج وتقويمها"  polarity="neutral" from="12" to="35"/> <aspectTerm  target="نقدها"  polarity="neutral" from="37" to="42"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="97">
+                    <text>أفضل كتاب صدر بشأن المعايير المهنية ( الرخصة المهنية )   &amp;quot;رخصة المعلم والمعلمة في ضوء المعايير المهنية للمعلمين&amp;quot;  -مُقسّم لأبواب ،وكل باب لمعيار ، وكل معيار يشمل دروس مع أمثلة   الكتاب مفيد جدًا بإذن الله تعالى .  لطلب الكتاب /  أرسل على الرابط التالي :  https://api.whatsapp.com/send?phone=966549090293…</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" الرخصة المهنية"  polarity="positive" from="37" to="52"/> <aspectTerm  target="رخصة المعلم والمعلمة في ضوء المعايير المهنية للمعلمين"  polarity="positive" from="58" to="111"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="99">
+                    <text>دكتورتنا الأريبة ..  تحية وتقدير لاختيار موضوعات مهمة وعاجلة ..  الموضوع يضرب أطنابه حتى يصل لباطن الأرض   ثلاث مرات يدخل طلبتنا اختبارات #بيرلز ويحققون نتائج متدنية ثم يتكلمون  عن تحسن ضعيف ، المعلم ترمى عليه مهمة عظيمة، وهو لم يتهيأ لتدريس القراءة إلا من خلال مقرر طرق التدريس</text>
+                    <aspectTerms>
+                        <aspectTerm  target="ويحققون نتائج متدنية"  polarity="negative" from="145" to="165"/> <aspectTerm  target="المعلم ترمى عليه مهمة عظيمة"  polarity="negative" from="193" to="220"/> <aspectTerm  target="هو لم يتهيأ لتدريس القراءة إلا من خلال مقرر طرق التدريس"  polarity="neutral" from="223" to="278"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="100">
+                    <text>(عندما نتحدث عن التعليم وتطلعاتنا نحوه فدائماً ما تعلو وتيرة الحديث عن إتقان الطلاب مهارات القراءة والكتابة، فكلما ارتفعت منصات الحراك في أروقة التعليم كان نصيب الفهم القرائي)  د. هيا بنت عبدالرحمن السمهري تكتب:  (الفهم القرائي هو الأول والآخر)  https://al-jazirah.com/2025/20250511/ar4.htm…</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" إتقان الطلاب مهارات القراءة والكتابة"  polarity="positive" from="70" to="107"/> <aspectTerm  target="الفهم القرائي"  polarity="positive" from="161" to="174"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="103">
+                    <text> وزير الثقافة يفتتح معرض الكتاب…يتحدّث في هاتفه أمام عدسات الكاميرات، وخلفه شاشة تنحر اللغة بأخطاء لا تُغتفر !  كأن المشهد صُمّم بعناية ليلخّص لنا حال الثقافة في بلادنا : وزير غائب ذهنياً، ولافتة تنطق بالعار اللغوي، ووزارة لا تقرأ ما تكتبه!  أيّ “ثقافة” هذه  ؟   المشهد خلف</text>
+                    <aspectTerms>
+                        <aspectTerm  target="وزير الثقافة يفتتح معرض الكتاب"  polarity="negative" from="1" to="31"/> <aspectTerm  target="حال الثقافة في بلادنا"  polarity="negative" from="147" to="168"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="106">
+                    <text>لمن سألني عن ملزمة الكتابة هذه ملزمة رائعة للقراءة والكتابة أراها الأفضل في تعليم القراءة والكتابة للأطفال مع التحية والتقدير  للأستاذ عبدالرحمن الطريس  @Abojaber1437  والأستاذ لافي اللافي  على جهدهما القيم في إعدادها وإخراجها على هذا الوجه الرائع.  https://drive.google.com/file/d/1EuK9z-bGHssuUWzg1VhFb8fVLbZ9TY08/view…</text>
+                    <aspectTerms>
+                        <aspectTerm  target="ملزمة الكتابة هذه ملزمة رائعة للقراءة والكتابة"  polarity="positive" from="13" to="59"/> <aspectTerm  target="الأفضل في تعليم القراءة والكتابة للأطفال"  polarity="positive" from="66" to="106"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="107">
+                    <text>شيء مؤسف حقاً أن لا يتعلم الإنسان من أخطاءه..وإن يظل العمل المؤسسي متأخراً كل عام..وزارة التربية والتعليم تعمم على المديريات التعليمية بأن طباعة الكتب بتتأخر..من كم عام وهي تتأخر والعام الماضي بالتحديد البعض استلم كتبه نهاية العام الدراسي..كورونا ليس عذراً بل شماعة لسوء الإدارة.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لا يتعلم الإنسان من أخطاءه"  polarity="negative" from="17" to="43"/> <aspectTerm  target="وزارة التربية والتعليم تعمم على المديريات التعليمية بأن طباعة الكتب بتتأخر"  polarity="negative" from="83" to="157"/> <aspectTerm  target="البعض استلم كتبه نهاية العام الدراسي"  polarity="negative" from="202" to="238"/> <aspectTerm  target="كورونا ليس عذراً بل شماعة لسوء الإدارة"  polarity="negative" from="240" to="278"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="110">
+                    <text>&amp;quot;لا يمكن أن يقتصر التعليم الحقيقيّ والناجح على المساحيق التي تفرضها قيود السلطة التربويّة، والتي تعمل بدورها على تقييد إبداع الطلّاب، وبالتالي تكبيل قدرة المجتمعات على النهوض&amp;quot;.    مقالة أ. آلاء رياض حميدة مُتاحة الآن عبر الرابط أدناه </text>
+                    <aspectTerms>
+                        <aspectTerm  target="قيود السلطة التربويّة"  polarity="negative" from="68" to="89"/> <aspectTerm  target="إبداع الطلّاب"  polarity="negative" from="119" to="132"/> <aspectTerm  target="قدرة المجتمعات على النهوض"  polarity="negative" from="149" to="174"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="111">
+                    <text>١-بناءً على تقارير لجنة الاستعداد للعام الدراسي فإن الكتب الدراسية للمرحلتين الابتدائية والمتوسطة وكذلك للمرحلة الثانوية (النظام الفصلي) قد وصلت إلى جميع المدارس.. أما كتب المرحلة الثانوية (نظام المقررات) فسوف تصل بمشيئة الله مع نهاية الأسبوع الأول..</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" الكتب الدراسية للمرحلتين الابتدائية والمتوسطة وكذلك للمرحلة الثانوية (النظام الفصلي) قد وصلت إلى جميع المدارس"  polarity="positive" from="51" to="161"/> <aspectTerm  target="كتب المرحلة الثانوية (نظام المقررات) فسوف تصل بمشيئة الله مع نهاية الأسبوع الأول"  polarity="negative" from="168" to="248"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="115">
+                    <text>وكيل الوزارة الموقر علي الخبتي  نحترم رأيه لكن السبب الذي ذكره ليس هو السبب الرئيسي في ارتفاع وانخفاض التحصيلي  بل السبب ايضا في مناهج في الصفوف الابتدائية فالطالب اصبح لا يملك مهارات القراءة والكتابة كما كان الطالب قبل ثلاثين سنة.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="السبب ايضا في مناهج"  polarity="negative" from="115" to="134"/> <aspectTerm  target=" فالطالب اصبح لا يملك مهارات القراءة والكتابة"  polarity="negative" from="155" to="200"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="116">
+                    <text>أكثر ما تحتاجه المدارس العامة اليوم هو الدعم المالي واللوجستي، حسب خزامى الحجي مديرة مدرسة الرسالة للطالبات في مدينة أريحا: «عانينا هذا العام من نقص الكتب. ورغم توزيع مديريات التربية لكل الكتب الموجودة لديها، لكنها لم تغطي المدارس كافة، وكحلول بديلة وزّعنا كتباً تالفة، وأرسلت</text>
+                    <aspectTerms>
+                        <aspectTerm  target="عانينا هذا العام من نقص الكتب"  polarity="negative" from="125" to="154"/> <aspectTerm  target="لم تغطي المدارس كافة"  polarity="negative" from="215" to="235"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="118">
+                    <text>١- انظروا مطابع الكتاب المدرسي هي مطابع للدولة وللشعب وتحديدًا لطباعة الكتب المدرسية ، كانت تطبع المنهج مجانا ولا تبدأ السنة إلا والكتب في كل مدرسة فحولناها  إلى ملكية خاصة تبيع الكتب بأسعار باهظة ،لم نكتف بهذا وإنما منعنا المطابع الخاصة من طباعة الكتب للمدارس ليبقى حكرا علينا.</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" كانت تطبع المنهج مجانا"  polarity="positive" from="86" to="109"/> <aspectTerm  target="تبيع الكتب بأسعار باهظة"  polarity="negative" from="173" to="196"/> <aspectTerm  target="منعنا المطابع الخاصة من طباعة الكتب للمدارس"  polarity="negative" from="217" to="260"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="119">
+                    <text>| الجمارك المغربية ..    تصادر كتب فرنسية تحتوي خرائط مبتورة للمملكة المغربية.   ▪︎ تجدر الإشارة إلى أنه في العام الماضي، تم سحب كتاب مدرسي في الجغرافيا السياسية من برنامج المدرسة الثانوية الفرنسية، المستوى الأول، لعدم وجود الصحراء ضمن حدود المملكة على 19 خريطة.</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" تصادر كتب فرنسية تحتوي خرائط مبتورة للمملكة المغربية"  polarity="positive" from="24" to="77"/> <aspectTerm  target="سحب كتاب مدرسي في الجغرافيا السياسية من برنامج المدرسة الثانوية الفرنسية"  polarity="positive" from="125" to="197"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="120">
+                    <text>السلام عليكم ورحمة الله وبركاته  تقبل الله طاعتكم - البداية: بعد عيد الفطر المبارك بأيام بإذن الله تعالى. - زمن القراءة: من يوم الأحد إلى يوم الخميس من كل أسبوع. - مقدار القراءة: ما بين ٢٥ إلى ٣٥ صفحة. - أفضل طبعة: طبعة عطاءات العلم، والطبعات الميسرة منها أسهل للقراءة.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="زمن القراءة"  polarity="positive" from="108" to="119"/> <aspectTerm  target="مقدار القراءة"  polarity="positive" from="164" to="177"/> <aspectTerm  target=" أفضل طبعة"  polarity="positive" from="203" to="213"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="121">
+                    <text>محتوى الكتب المدرسية ( مواد الهوية بالذات ) تم تأليفها محلياً ، مثل كتب الاجتماعيات والشريعة واللغة العربية. ويتم التحقق من السير الذاتية للخبراء لضمان بعض الأمور التي قد تتدخل في توجهاتهم ، كما يتم اختيارهم بل وانتقائهم أيضاً.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="محتوى الكتب المدرسية ( مواد الهوية بالذات ) تم تأليفها محلياً"  polarity="positive" from="0" to="61"/> <aspectTerm  target="التحقق من السير الذاتية"  polarity="positive" from="114" to="137"/> <aspectTerm  target="التحقق من السير الذاتية"  polarity="positive" from="114" to="137"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="122">
+                    <text>1/بلغني أن بعض المدارس الأهلية لا تلتزم بتدريس الكتب الدراسية المطورة التي أقرتها اللجنة العليا للمناهج للعام الدراسي 2021/2020م بل تقوم ببيع كتب قديمة، وتكتفي بتغيير تاريخ الطبعة في الغلاف الخارجي؛ لتوهم ولي الأمر أن هذه طبعة جديدة! وهذه المخالفة تقتضي اتخاذ عقوبات قانونية. يتبع</text>
+                    <aspectTerms>
+                        <aspectTerm  target="بعض المدارس الأهلية لا تلتزم بتدريس الكتب الدراسية المطورة"  polarity="negative" from="11" to="69"/> <aspectTerm  target="اللجنة العليا للمناهج"  polarity="negative" from="82" to="103"/> <aspectTerm  target="المخالفة تقتضي اتخاذ عقوبات قانونية"  polarity="negative" from="239" to="274"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="124">
+                    <text> الحكومة المغربية تأذن لناشري الكتب المدرسية برفع الأسعار بنسبة 25 في المائة خلال الموسم الدراسي المقبل، تحت ذريعة ارتفاع أسعار الورق دوليا</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الحكومة المغربية تأذن لناشري الكتب المدرسية برفع الأسعار بنسبة 25 "  polarity="negative" from="1" to="67"/> <aspectTerm  target="تحت ذريعة ارتفاع أسعار الورق دوليا"  polarity="neutral" from="105" to="139"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="126">
+                    <text>#القراءة في الصغر كالرقص مع المطر!  لوالدي، رحمه الله رحمة واسعة، فضل في أن أعرف #القراءة و #الكتابة قبل أن أدخل المدرسة، وحيث لم يكن يوجد حين طفولتي روضة فقد أدخلني روضة أبوة حانية، علمني فيها بصبر وحرص الأحرف ثم كتابة وقراءة كلمات صغيرة ثم حفظ آيات قصيرة.  وحين دخلت أولى</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لقراءة في الصغر"  polarity="positive" from="2" to="17"/> <aspectTerm  target="ثم كتابة وقراءة كلمات صغيرة ثم حفظ آيات قصيرة"  polarity="positive" from="211" to="256"/> <aspectTerm  target="فضل في أن أعرف #القراءة و #الكتابة قبل أن أدخل المدرسة"  polarity="positive" from="66" to="120"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="127">
+                    <text>الاستقصا لأخبار دول المغرب الأقصى للناصري السلاوي رحمه الله. الكاتب مغربي وموضوعه تاريخ المغرب وأفضل طبعاته مغربية. لكن المشهورة والمتوفرة حتى في المغرب هي طبعة لبنانية مبنية على نسخة مقرصنة من الكتاب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الاستقصا لأخبار دول المغرب الأقصى"  polarity="positive" from="0" to="33"/> <aspectTerm  target="الكاتب مغربي وموضوعه تاريخ المغرب وأفضل طبعاته مغربية"  polarity="positive" from="61" to="114"/> <aspectTerm  target=" نسخة مقرصنة من الكتاب"  polarity="negative" from="178" to="200"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="128">
+                    <text>بالنسبة للطباعة والتصوير عشان الكتب اغلبها صارت الكترونية للأسف فعشان الطالب يكون عنده ماده علمية يذاكر منها وقت الإختبار وتكون محلولة ومصححة وبين يده مو معقول يذاكر من كتاب الكتروني أو يجيب  الايباد المدرسة عشان يفتح الكتاب الالكتروني في الفصل ويدرس</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الكتب اغلبها صارت الكترونية"  polarity="negative" from="30" to="57"/> <aspectTerm  target="الكتب اغلبها صارت الكترونية"  polarity="positive" from="30" to="57"/> <aspectTerm  target="لطالب يكون عنده ماده علمية يذاكر منها "  polarity="positive" from="71" to="109"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="129">
+                    <text>الاتفاقية للاسف لايمكن مراجعتها ثنائيا  مراجعتها يتطلب موافقة الاطراف الاربعة لانها اتفاقية جماعية وليست ثنائية  لكن يمكن استغلال الثغرات في الاتفاقية مثلا ثغرة الاغراق وقد اتبعها المغرب في عهد مولاي حفيظ العلمي في ما يخص الكتب والطبوعات المدرسية التونسية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الاتفاقية للاسف لايمكن مراجعتها ثنائيا"  polarity="negative" from="0" to="38"/> <aspectTerm  target="استغلال الثغرات في الاتفاقية"  polarity="positive" from="122" to="150"/> <aspectTerm  target="الكتب والطبوعات المدرسية التونسية"  polarity="neutral" from="222" to="255"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="130">
+                    <text>الكتب التافهة تباع أكثر، لأنها تُخاطب الحاجة الفورية، ولا تخاطب القلق الفكري. لأنها تُطمئن ولا تُحرر ، هذا هو قانون ومنطق الاستهلاك المعاصر، الذي لا يريد من الأشياء أن تُوقظ وعيك، بل أن تُهدئك.  في السوق الاستهلاكي، لا يُطلب من الكتاب أن يكون أداة فكر، بل منتجًا يُشبه القهوة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الكتب التافهة تباع أكثر"  polarity="negative" from="0" to="23"/> <aspectTerm  target="تُخاطب الحاجة الفورية"  polarity="neutral" from="31" to="52"/> <aspectTerm  target="لا يُطلب من الكتاب أن يكون أداة فكر، بل منتجًا يُشبه القهوة"  polarity="negative" from="216" to="275"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="131">
+                    <text>امكن توثيق لحالات الفرح الصغيرة وامكن دليل على التفاعل المطلوب التدليل عليه في إجادة وإمكن هو العرف الطبيعي الجديد new normal الذي فيه كل ما سبق من النيات وأكثر بس المهم لا ينسى المعلم أو المعلمة أن ينصحوا أو يُعَوّدوا الطالب والطالبة أن تكون لهم قراءات خارج اطار المناهج فهي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="يُعَوّدوا الطالب والطالبة أن تكون لهم قراءات خارج اطار المناهج"  polarity="positive" from="209" to="271"/> <aspectTerm  target="التفاعل المطلوب"  polarity="positive" from="47" to="62"/> <aspectTerm  target=" توثيق لحالات الفرح الصغيرة"  polarity="positive" from="4" to="31"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="132">
+                    <text>وأما المعلومة الحلوة عن الكتب والقراء فإليك ما أؤمن به:  - كل الكتب جيدة، حتى الردئ منها، لأنه يحسن ذائقتك ويصقل عين الناقد وحسّه في داخلك.. - لا تكمل كتاباً لم يعجبك. - الترجمة قد تظلم المحتوى، لذا ابحث عن الترجمات الموثوقة.. - اقرأ الكتاب الكترونياً قبل أن تشتريه..  - لا بأس</text>
+                    <aspectTerms>
+                        <aspectTerm  target="كل الكتب جيدة، حتى الردئ منها"  polarity="positive" from="59" to="88"/> <aspectTerm  target="يحسن ذائقتك ويصقل عين الناقد وحسّه في داخلك"  polarity="positive" from="95" to="138"/> <aspectTerm  target="لا تكمل كتاباً لم يعجبك"  polarity="neutral" from="143" to="166"/> <aspectTerm  target="الترجمة قد تظلم المحتوى"  polarity="neutral" from="170" to="193"/> <aspectTerm  target="الترجمات الموثوقة"  polarity="positive" from="207" to="224"/> <aspectTerm  target="قرأ الكتاب الكترونياً قبل أن تشتريه"  polarity="positive" from="230" to="265"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="133">
+                    <text>،،، من المبادئ المنهجية في الدراسات النقدية، وتأليف الكتب بوجه عام في موضوع معين، أن أشير إلى الكتابات السابقة لهذا الموضوع، سواء كانت دراسات أو مقالات أو حوارات أو حتى إشارات بسيطة، لكي تكتمل المصداقية المنهجية. لكن، ولأننا في العالم العربي، حيث لا تدقيق ولا تعميق، تعبر الكتب</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" المبادئ المنهجية في الدراسات النقدية، وتأليف الكتب"  polarity="positive" from="6" to="57"/> <aspectTerm  target="ولأننا في العالم العربي، حيث لا تدقيق ولا تعميق، تعبر الكتب"  polarity="negative" from="218" to="277"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="134">
+                    <text>وأجمل ما في تصميم الغلاف -على عادة تميّز دار المتوسط في أغلفتها-؛ ضبط اللفظ للقراءة الصحيحة، ومعالجة بعض الخطأ الشائع؛ رَغم اختلاف المعنيين بين: مُسوَّدة و مُسودّة. وفيه ردٌّ على من يقول إن الضبط للفظ يشوّه الغلاف، وهو ليس على إطلاقه، فالضبط التشكيلي ضرورة للضرورة فقط.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="ضبط اللفظ للقراءة الصحيحة"  polarity="positive" from="66" to="91"/> <aspectTerm  target="معالجة بعض الخطأ الشائع"  polarity="positive" from="94" to="117"/> <aspectTerm  target="ردٌّ على من يقول إن الضبط للفظ يشوّه الغلاف"  polarity="positive" from="170" to="213"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="135">
+                    <text>••                        الفرد ومنهج القراءة • القراءة أساس في شخصية الإنسان . • الكتب كثيرة ومتنوعة في تخصصاتها ، ومنها العلمي ، ومنها الثقافي العام ، ومنها السطحي إلىٰ درجة أنه مضحك !  • عند القراءة في الكتب العلمية فلابد من حضور روح المؤلف فيما يكتب من حيث طريقة فهمه</text>
+                    <aspectTerms>
+                        <aspectTerm  target="القراءة أساس في شخصية الإنسان"  polarity="positive" from="48" to="77"/> <aspectTerm  target=" الكتب كثيرة ومتنوعة في تخصصاتها"  polarity="neutral" from="81" to="113"/> <aspectTerm  target="منها السطحي إلىٰ درجة أنه مضحك"  polarity="negative" from="154" to="184"/> <aspectTerm  target="عند القراءة في الكتب العلمية فلابد من حضور روح المؤلف"  polarity="positive" from="190" to="243"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="136">
+                    <text>عبد الإله بنكيران: ازدواجية الخطاب وخيانة الثقة  عبد الإله بنكيران، الذي شغل منصب رئيس الحكومة المغربية في مرحلة حساسة، كثيرًا ما ظهر في خطابه كمدافع شرس عن القيم الإسلامية ومناهض للنفوذ الغربي، خاصة الفرنسي. لكنه، في تناقض صارخ مع هذا الخطاب، لم يتردد في إرسال أبنائه إلى أرقى</text>
+                    <aspectTerms>
+                        <aspectTerm  target="كمدافع شرس عن القيم الإسلامية ومناهض للنفوذ الغربي"  polarity="positive" from="143" to="193"/> <aspectTerm  target="تناقض صارخ مع هذا الخطاب، لم يتردد في إرسال أبنائه"  polarity="negative" from="218" to="268"/> <aspectTerm  target="ازدواجية الخطاب وخيانة الثقة"  polarity="negative" from="19" to="47"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="137">
+                    <text>ماورد في هذا  مخالف للمذكرة التفسيرية لتقويم الطالب ( حسم ١٠ درجات على اختبار المهام الأدائية) حيث أن المهام الأدائية لا يقييمها اختبار واحد بل هي مهام تنفذ على مدار الفصل الدراسي وتقيم بأدوات متنوعة  وهي قابلة للتحسين</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المهام الأدائية لا يقييمها اختبار واحد بل هي مهام تنفذ على مدار الفصل الدراسي"  polarity="positive" from="102" to="179"/> <aspectTerm  target="مخالف للمذكرة التفسيرية لتقويم الطالب"  polarity="negative" from="14" to="51"/> <aspectTerm  target=" وتقيم بأدوات متنوعة"  polarity="positive" from="179" to="199"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="139">
+                    <text>كأكاديمية، أرى يوميًا أثر فجوة مخرجات التعليم العام على طلاب التعليم العالي. نتائج التحصيلي لا تعكس ضعف المعلم، بل ضعف التوازن في المنظومة كاملة. المعلم هو الركيزة الأساسية، لكن التعليم لا يقوم عليه وحده؛ فليس المعلم &amp;quot;عصا العجوز&amp;quot; التي يتكئ عليها النظام بأكمله. التعليم منظومة تقوم</text>
+                    <aspectTerms>
+                        <aspectTerm  target="فجوة مخرجات التعليم العام"  polarity="negative" from="26" to="51"/> <aspectTerm  target="نتائج التحصيلي لا تعكس ضعف المعلم"  polarity="positive" from="77" to="110"/> <aspectTerm  target="المعلم هو الركيزة الأساسية"  polarity="positive" from="146" to="172"/> <aspectTerm  target=" لكن التعليم لا يقوم عليه وحده؛ فليس المعلم &quot;عصا العجوز"  polarity="positive" from="173" to="228"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="140">
+                    <text>بين الكمّ والكيف: تأمل في التقويم التربوي  يشهد التعليم المعاصر تحوّلات متسارعة في أدوات التقويم، ما بين النزعة الكمية والمقاربات النوعية؛ لفهم  تعقيدات العملية التعليمية وتقييمها، وفي ظل تصاعد النزعة الكمية في #مجال_التعليم و #التقويم_التربوي تبرز الحاجة إلى توازن بين ما يُقاس</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" يشهد التعليم المعاصر تحوّلات متسارعة في أدوات التقويم"  polarity="neutral" from="42" to="96"/> <aspectTerm  target=" تصاعد النزعة الكمية في #مجال_التعليم"  polarity="negative" from="187" to="224"/> <aspectTerm  target="التقويم_التربوي تبرز الحاجة إلى توازن"  polarity="positive" from="228" to="265"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="141">
+                    <text> التعليم المتمايز: تجل للمسؤولية التربوية ومظهر من مظاهر العدالة التعليمية  في بيئة تتسم بتنوع المتعلمين، وتتباين فيه الخلفيات، وتختلف فيه السياقات النفسية والمعرفية، لا يستقيم أن تقدم المعرفة بطريقة واحدة، وبإيقاع واحد، وكأن الطلاب متساوون في الفهم، أو متطابقون في الإدراك.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم المتمايز"  polarity="positive" from="1" to="17"/> <aspectTerm  target="لا يستقيم أن تقدم المعرفة بطريقة واحدة"  polarity="negative" from="167" to="205"/> <aspectTerm  target="كأن الطلاب متساوون في الفهم، أو متطابقون في الإدراك"  polarity="neutral" from="222" to="273"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="142">
+                    <text>لأن المنهج ليس محتوى الكتاب فقط، وإنما هو كل مهارة وقيمة ومعلومة يتعلمها الطالب داخل أسوار المدرسة، سواء أكانت هذه المهارة أو المعلومة أو القيمة مكتسبة من شخصية المعلم ذاته أو من محتوى الكتاب، ومن هذا المنطلق فالمعلم يعد قدوة لتلاميذه ويحمل مسؤولية كبيرة على عاتقه. أما النظر إلى</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المنهج ليس محتوى الكتاب فقط، وإنما هو كل مهارة وقيمة ومعلومة يتعلمها الطالب داخل أسوار المدرسة"  polarity="positive" from="4" to="98"/> <aspectTerm  target="فالمعلم يعد قدوة لتلاميذه "  polarity="positive" from="209" to="235"/> <aspectTerm  target="سواء أكانت هذه المهارة أو المعلومة أو القيمة مكتسبة من شخصية المعلم ذاته أو من محتوى الكتاب"  polarity="positive" from="100" to="191"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="143">
+                    <text>أروع الأشياء اللي تعلّمتها بحياتي من المعلّمين كانت أغلبها خارج المنهج :) x.com/thfeeri/status…</text>
+                    <aspectTerms>
+                        <aspectTerm  target="أروع الأشياء اللي تعلّمتها بحياتي من المعلّمين"  polarity="positive" from="0" to="46"/> <aspectTerm  target="أغلبها خارج المنهج"  polarity="positive" from="52" to="70"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="144">
+                    <text>يعجبني المنهج الأسترالي في التعليم. عدد المواد قليل، والتركيز منصب على مهارات القراءة والكتابة والرياضيات. الواجبات المنزلية محدودة جدًا، مجرد واجب واحد يُسلَّم يوم الإثنين ويُعاد يوم الجمعة، ويتضمن بعض التمارين في الرياضيات، وإملاء لبعض الكلمات، بالإضافة إلى قراءة قصة يومية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المنهج الأسترالي في التعليم. عدد المواد قليل"  polarity="positive" from="7" to="51"/> <aspectTerm  target="التركيز منصب على مهارات القراءة والكتابة والرياضيات"  polarity="positive" from="54" to="105"/> <aspectTerm  target="الواجبات المنزلية محدودة جدًا"  polarity="positive" from="107" to="136"/> <aspectTerm  target="واجب واحد يُسلَّم يوم الإثنين ويُعاد يوم الجمعة"  polarity="positive" from="143" to="190"/> <aspectTerm  target="قراءة قصة يومية"  polarity="positive" from="260" to="275"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="145">
+                    <text>من أكثر الأشياء التي تضحكني في الفترة الأخيرة، مواقف أختي مع ابنتها كلما التقينا. تحاول بكل ما أوتيت من جهد أن تُلزمها بحل الواجبات والمذاكرة، بينما الصغيرة – وهي بالمناسبة ذكية وفطنة وفصيحة ما شاء الله – تبذل كل ما تستطيع للتهرب!  #تعليم  #المرحلة_الإبتدائية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="حاول بكل ما أوتيت من جهد أن تُلزمها بحل الواجبات والمذاكرة"  polarity="neutral" from="83" to="141"/> <aspectTerm  target="ذكية وفطنة وفصيحة ما شاء الله"  polarity="positive" from="173" to="202"/> <aspectTerm  target=" تبذل كل ما تستطيع للتهرب"  polarity="negative" from="204" to="229"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="146">
+                    <text>وجهة نظر :   ارتفاع نتائج الطالب في المدرسة وانخفاضها في اختبارات القدرات والتحصيلي يدل على أن المشكلة أكبر من المعلم أو الفصل الدراسي فقط   لإن هناك طلاب احرزوا درجات عالية في القدرات والتحصيلي وقد مروا بنفس المعلم والفصل الدراسي   وهذا مؤشر على وجود عوامل متعددة أخرى تؤثر على</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" ارتفاع نتائج الطالب في المدرسة وانخفاضها في اختبارات القدرات والتحصيلي"  polarity="negative" from="12" to="83"/> <aspectTerm  target="المشكلة أكبر من المعلم أو الفصل الدراسي"  polarity="neutral" from="95" to="134"/> <aspectTerm  target="هناك طلاب احرزوا درجات عالية في القدرات والتحصيلي وقد مروا بنفس المعلم والفصل الدراسي"  polarity="neutral" from="145" to="230"/> <aspectTerm  target="المشكلة أكبر من المعلم أو الفصل الدراسي"  polarity="neutral" from="95" to="134"/> <aspectTerm  target="وجود عوامل متعددة أخرى تؤثر"  polarity="neutral" from="247" to="274"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="147">
+                    <text>التعليم يقوم على ثلاثة محاور رئيسية: منهج ومعلم وبيئة مدرسية مجهزة . والأسرة هي الضابطة لأهم المحاور ( الطالب )حين تصبح شريكا فاعلا تدعم باستمرار . والآن تتجه الوزارة لتمكين المدرسة من أداء دورها والارتقاء بالناتج التعليمي . والمعلم صاحب رسالة سامية وهو سر بناء العقول وتميزها</text>
+                    <aspectTerms>
+                        <aspectTerm  target="منهج"  polarity="positive" from="37" to="41"/> <aspectTerm  target="معلم"  polarity="positive" from="43" to="47"/> <aspectTerm  target="بيئة مدرسية مجهزة"  polarity="positive" from="49" to="66"/> <aspectTerm  target="والأسرة هي الضابطة لأهم المحاور"  polarity="positive" from="69" to="100"/> <aspectTerm  target="تتجه الوزارة لتمكين المدرسة من أداء دورها والارتقاء بالناتج التعليمي"  polarity="positive" from="154" to="222"/> <aspectTerm  target="المعلم صاحب رسالة سامية وهو سر بناء العقول وتميزها"  polarity="positive" from="226" to="276"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="148">
+                    <text>بداية الخلل كانت مع تطبيق نظام الفصول الدراسية الثلاثة حيث أصبح العام الدراسي طويلاً جداً بلا فائدة حقيقية مما جعله مملاً وأثر سلباً على الحالة النفسية للطلاب فتسبب في إحباطهم وزرع في نفوسهم كراهية الدراسة كما أن الفصول أصبحت مكتظة بشكل كبير حيث يبلغ عدد الطلاب في الفصل الواحد 50</text>
+                    <aspectTerms>
+                        <aspectTerm  target="نظام الفصول الدراسية الثلاثة"  polarity="negative" from="26" to="54"/> <aspectTerm  target=" أصبح العام الدراسي طويلاً جداً بلا فائدة حقيقية"  polarity="negative" from="58" to="106"/> <aspectTerm  target="لحالة النفسية للطلاب"  polarity="negative" from="138" to="158"/> <aspectTerm  target="الفصول أصبحت مكتظة بشكل كبير"  polarity="negative" from="213" to="241"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="149">
+                    <text>لا أتفق ...من عيوب منظومة التعليم بالمغرب ان تريد تلميذ خارق يتقن 4 لغات بشكل جيد تماما و يكون علمي الميول  و هذا تحميل التلميذ فوق طاقته ..كذلك تتعامل المنظومة ان كل التلاميذ خارقي الذكاء و الانتباه في حين يجب ان تضع معايير حسب الطالب المتوسط و ليس العكس</text>
+                    <aspectTerms>
+                        <aspectTerm  target="يوب منظومة التعليم بالمغرب ان تريد تلميذ خارق يتقن 4 لغات "  polarity="negative" from="15" to="73"/> <aspectTerm  target="تحميل التلميذ فوق طاقته"  polarity="negative" from="114" to="137"/> <aspectTerm  target="تتعامل المنظومة ان كل التلاميذ خارقي الذكاء"  polarity="negative" from="145" to="188"/> <aspectTerm  target="تضع معايير حسب الطالب المتوسط"  polarity="positive" from="214" to="243"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="150">
+                    <text>نحترم محاولات الارتقاء بالتعليم لكن إذا فشلت فالعودة للقديم ليست عارا قديما كنا نرجع البيت ١٢ في الابتدائية كان التركيز على القراءة والكتابة دون قواعد تعلمنا الإنجليزية ابتداء من خامس المناهج كانت تركز على الأساسيات المعلم قوي ومتمكن مواد مثل الشرعية واللغة العربية لها هيبة ووزن</text>
+                    <aspectTerms>
+                        <aspectTerm  target="محاولات الارتقاء بالتعليم"  polarity="positive" from="6" to="31"/> <aspectTerm  target="فالعودة للقديم ليست عارا"  polarity="positive" from="45" to="69"/> <aspectTerm  target="التركيز على القراءة والكتابة"  polarity="positive" from="112" to="140"/> <aspectTerm  target="قواعد تعلمنا الإنجليزية ابتداء من خامس المناهج"  polarity="positive" from="145" to="191"/> <aspectTerm  target="تركز على الأساسيات المعلم قوي ومتمكن"  polarity="positive" from="197" to="233"/> <aspectTerm  target="تركز على الأساسيات المعلم قوي ومتمكن"  polarity="positive" from="197" to="233"/> <aspectTerm  target="تركز على الأساسيات المعلم قوي ومتمكن"  polarity="positive" from="197" to="233"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="151">
+                    <text>في كثير من المدارس الأهلية في الوطن العربي، لا تُقاس القيم بما يُقال في الطابور الصباحي، ولكن بما يحدث بين الحصة الأولى والجرس الأخير. بعض المؤسسات تكتب &amp;quot;الصدق&amp;quot; على الجدران، وتكافئ التلميذ الذي يجيد الخداع في الاختبارات. وترفع شعار &amp;quot;التميز&amp;quot;، ثم تُقصي من يفكّر خارج الصندوق. تغنّي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="قاس القيم بما يُقال في الطابور الصباحي، ولكن بما يحدث بين الحصة الأولى والجرس الأخي"  polarity="negative" from="49" to="132"/> <aspectTerm  target="تكتب &quot;الصدق&quot; على الجدران، وتكافئ التلميذ الذي يجيد الخداع في الاختبارات"  polarity="negative" from="148" to="219"/> <aspectTerm  target="تُقصي من يفكّر خارج الصندوق"  polarity="negative" from="245" to="272"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="152">
+                    <text>تالله ما في أوهى من مناهجنا التعليمية ولا أضعف منها في بنائها ومضامينها أضافوا مادة التفكير الناقد فجاءت بشكل نظري باهت لا يزرع فكرًا ولا يفتح أفقًا لأن المنهج في جوهره ضعيف، ومجرد من أدوات التفكير الحقيقي  ثم أدخلوا علم النفس ومع هذا خرج الطلاب منها كما دخلوا، لا وعي، لا</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مناهجنا التعليمية"  polarity="negative" from="20" to="37"/> <aspectTerm  target="المنهج في جوهره ضعيف"  polarity="negative" from="153" to="173"/> <aspectTerm  target="مادة التفكير الناقد"  polarity="negative" from="79" to="98"/> <aspectTerm  target="علم النفس"  polarity="negative" from="217" to="226"/> <aspectTerm  target="خرج الطلاب منها كما دخلوا"  polarity="negative" from="235" to="260"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="153">
+                    <text>تفشل بعض #دول_العالم_الثالث في #التعليم من خلال عدسة &amp;quot;#المغالطة_التطبيقية Applied Fallacy&amp;quot; حيث يفتح باباً لفهم كيف تتحول #الحداثة_التعليمية من فرصة للإصلاح إلى وهم زخرفي يُعيد إنتاج الإخفاق بشكل أكثر أناقة.  &amp;quot;المغالطة التطبيقية&amp;quot; هي حالة تتبنّى فيها الأنظمة التعليمية ممارسات</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لمغالطة التطبيقية"  polarity="negative" from="210" to="227"/> <aspectTerm  target="الحداثة_التعليمية من فرصة للإصلاح إلى وهم زخرفي يُعيد إنتاج الإخفاق بشكل أكثر أناقة"  polarity="negative" from="122" to="205"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="154">
+                    <text>١. منهج موحّد وتلقين معرفي = ضعف في المدرسة واختبار القدرات والتحصيلي  ٢. منهج مرن يبني الشخصية = تميّز في المدرسة واختبار القدرات والتحصيلي  مع الشكر للدكتور  @profsufran</text>
+                    <aspectTerms>
+                        <aspectTerm  target="منهج موحّد وتلقين معرفي"  polarity="negative" from="3" to="26"/> <aspectTerm  target="منهج مرن يبني الشخصية"  polarity="positive" from="74" to="95"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="155">
+                    <text>وكيل وزارة التعليم السابق &amp;quot;علي الخبتي&amp;quot;:   إرتفاع نتيجة الطالب في المدرسة وانخفاضها في القدرات والتحصيلي يعني أن الخلل في الفصل الدراسي والمعلم.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="إرتفاع نتيجة الطالب في المدرسة وانخفاضها في القدرات والتحصيلي"  polarity="negative" from="42" to="103"/> <aspectTerm  target="الخلل في الفصل الدراسي والمعلم"  polarity="negative" from="112" to="142"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="156">
+                    <text>يجب مراعاة التالي  قبل المقارنة .. اولا /  الضغط النفسي شديد ولا انساني على طلاب عمرهم 17-18 سنة ، مطالبين بأداء مهام كثيرة بوقت قصير ..   ثانيا / إختبار القدرات لا يُراعي الفروق الفردية في أساليب التعلم، ولا يعكس قدرات كل طالب بدقة .. وهذا فيه خلل معياري كبير .   ثالثا /</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الضغط النفسي شديد ولا انساني على طلاب"  polarity="negative" from="43" to="80"/> <aspectTerm  target="إختبار القدرات لا يُراعي الفروق الفردية في أساليب التعلم"  polarity="negative" from="147" to="203"/> <aspectTerm  target=" يعكس قدرات كل طالب بدقة .. وهذا فيه خلل معياري كبير"  polarity="negative" from="208" to="260"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="157">
+                    <text>مسؤول سابق في وزارة التعليم:  إرتفاع نتيجة الطالب في المدرسة وانخفاضها في القدرات والتحصيلي يعني أن الخلل في الفصل الدراسي والمعلم.  هل لديه ما يثبت ذلك أم مجرد رأي ووجهة نظر؟!</text>
+                    <aspectTerms>
+                        <aspectTerm  target="رتفاع نتيجة الطالب في المدرسة وانخفاضها في القدرات والتحصيلي"  polarity="negative" from="31" to="91"/> <aspectTerm  target="الخلل في الفصل الدراسي والمعلم."  polarity="negative" from="100" to="131"/> <aspectTerm  target="هل لديه ما يثبت ذلك أم مجرد رأي"  polarity="negative" from="133" to="164"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="159">
+                    <text>فإذا أردنا تعليمًا عصريًا، فلنبدأ بتجهيز بيئة تعليمية متكاملة ، ، عندها سنجد من يُحسن العمل عليه دون حاجة إلى تدريب إضافي أو تحميلٍ للمسؤولية. ففرض منهج موحّد، يركّز على المعارف فقط، ويهمّش جوانب الشخصية والقيم لا يقدم تعليم مميز ومفيد للطالب بل يجب اعتماد مناهج مرنة ،</text>
+                    <aspectTerms>
+                        <aspectTerm  target="فإذا أردنا تعليمًا عصريًا، فلنبدأ بتجهيز بيئة تعليمية متكاملة"  polarity="positive" from="0" to="61"/> <aspectTerm  target=" ففرض منهج موحّد، يركّز على المعارف فقط"  polarity="negative" from="142" to="181"/> <aspectTerm  target=" يجب اعتماد مناهج مرنة"  polarity="positive" from="245" to="267"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="160">
+                    <text>تتكر كل سنة أفهموها  مره مهمة :  طالب مستواه الدراسي منخفض بجميع المواد بسبب اهماله = تأخر دراسي.   طالب مستواه الدراسي منخفض بجميع المواد بسبب قصور في_ذكائه = بطء التعلم .   طالب لديه مشكلة في إحدى المواد ( قراءة / كتابة / حساب ) = صعوبة تعلم .  طالب مستواه التحصيلي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="طالب مستواه الدراسي منخفض بجميع المواد بسبب اهماله"  polarity="neutral" from="33" to="83"/> <aspectTerm  target="طالب مستواه الدراسي منخفض بجميع المواد بسبب قصور في_ذكائه"  polarity="neutral" from="100" to="157"/> <aspectTerm  target="طالب لديه مشكلة في إحدى المواد ( قراءة / كتابة / حساب )"  polarity="neutral" from="175" to="230"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="161">
+                    <text>جميل جدا حضور الشفافية  والأجمل ان يتم دراسة الأسباب بجدية وعقلانية ليتم إيجاد الحل المناسب دون اصرار على تنفيذ قرار حتى لو لم يثبت نجاحه . المشكلة التي تواجه الامهات والطلاب والمعلمين هي دراسة لمدة عام كامل مع اللجوء إلى اجازات مطولة . السلبيات : - ارهاق للمعلم والطالب وذويه  -</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المشكلة التي تواجه الامهات والطلاب والمعلمين هي دراسة لمدة عام كامل"  polarity="negative" from="140" to="207"/> <aspectTerm  target="للجوء إلى اجازات مطولة"  polarity="negative" from="212" to="234"/> <aspectTerm  target="ارهاق للمعلم والطالب وذويه"  polarity="negative" from="250" to="276"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="162">
+                    <text>الأمهات وتنظيم غياب الطلاب عبر &amp;quot;واتساب&amp;quot; يهدد استقرار التعليم  #التاسعة #الإخبارية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الأمهات وتنظيم غياب الطلاب"  polarity="negative" from="0" to="26"/> <aspectTerm  target=" يهدد استقرار التعليم"  polarity="negative" from="39" to="60"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="163">
+                    <text>سؤال طالبان في نفس الفصل ونفس المعلم، درجاتهما المدرسية متقاربة لكن أحدهما يحقق 99 في التحصيلي والآخر 50! هل يُعقل بعد هذا أن نحمّل المعلم وحده سبب التفاوت؟ النتائج تعكس فروقًا فردية واستعدادات شخصية لا تقصيرًا في التعليم القياس العادل ينظر للصورة كاملة، لا طرفًا واحدًا فقط.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="نحمّل المعلم وحده سبب التفاوت"  polarity="negative" from="126" to="155"/> <aspectTerm  target="فروقًا فردية واستعدادات شخصية"  polarity="positive" from="170" to="199"/> <aspectTerm  target="القياس العادل ينظر للصورة كاملة"  polarity="negative" from="222" to="253"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="164">
+                    <text>صحيح إذا توفرت فيه العوامل التالية كثافة طلابية معتدله - بيئة تعليمية ملائمة - التقدير والاحترام الجيد للمعلم - مادة علمية تتناسب مع متطلبات الوضع الحالي - قرارات ادارية مدروسة - مناهج تعليمية متزنه - التجارب تحاكي الواقع</text>
+                    <aspectTerms>
+                        <aspectTerm  target="كثافة طلابية معتدله"  polarity="positive" from="35" to="54"/> <aspectTerm  target="بيئة تعليمية ملائمة"  polarity="positive" from="57" to="76"/> <aspectTerm  target="التقدير والاحترام الجيد للمعلم"  polarity="positive" from="79" to="109"/> <aspectTerm  target="مادة علمية تتناسب مع متطلبات الوضع الحالي"  polarity="positive" from="112" to="153"/> <aspectTerm  target="قرارات ادارية مدروسة"  polarity="positive" from="156" to="176"/> <aspectTerm  target="مناهج تعليمية متزنه"  polarity="positive" from="179" to="198"/> <aspectTerm  target="التجارب تحاكي الواقع"  polarity="positive" from="201" to="221"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="165">
+                    <text>كلامك سليم و منطقي المشكلة اسبابها كثيرة جداً   1 جودة التدريس  2 مدة الشرح 3 منهج التعليم  4 التعليم النظري البحت   5 بيئة المدارس و الجامعات  6 الاهتمام بالسرعة دون النظر الى الجودة  7 لغة المنهج  8 مساواة وقت المواد دون التفريق بين اهميتها  9 عدم التطبيق التعلم على ارض الواقع</text>
+                    <aspectTerms>
+                        <aspectTerm  target="جودة التدريس"  polarity="negative" from="50" to="62"/>
+ <aspectTerm  target="مدة الشرح"  polarity="negative" from="66" to="75"/> <aspectTerm  target="منهج التعليم"  polarity="negative" from="78" to="90"/> <aspectTerm  target="التعليم النظري البحت"  polarity="negative" from="94" to="114"/> <aspectTerm  target="بيئة المدارس و الجامعات"  polarity="negative" from="119" to="142"/> <aspectTerm  target="الاهتمام بالسرعة دون النظر الى الجودة"  polarity="negative" from="146" to="183"/> <aspectTerm  target="لغة المنهج"  polarity="negative" from="187" to="197"/> <aspectTerm  target="مساواة وقت المواد دون التفريق بين اهميتها"  polarity="negative" from="201" to="242"/> <aspectTerm  target="عدم التطبيق التعلم على ارض الواقع"  polarity="negative" from="246" to="279"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="166">
+                    <text>ينبغي ان يركز التعليم على مراحل ثلاثة مرتكزة على: المهارات الأساسية (القراءة والكتابة والحساب- الحلقة الأولى) المعارف والعلوم (الحلقة الثانية) التفكير العلمي، والقدرة على النقد وإبداء الرأي (ما بعد الأساسي) كل هذه المراحل لا تحتاج إلا إلى مناهج قليلة وكوادر تربوية ماهرة للغاية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="يركز التعليم على مراحل ثلاثة مرتكزة"  polarity="positive" from="9" to="44"/> <aspectTerm  target="المهارات الأساسية "  polarity="positive" from="50" to="68"/> <aspectTerm  target="المعارف والعلوم"  polarity="positive" from="110" to="125"/> <aspectTerm  target="التفكير العلمي، والقدرة على النقد وإبداء الرأي"  polarity="positive" from="143" to="189"/> <aspectTerm  target="مناهج قليلة"  polarity="positive" from="239" to="250"/> <aspectTerm  target="كوادر تربوية ماهرة للغاية"  polarity="positive" from="252" to="277"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="167">
+                    <text>وزارة التربية والتعليم  @EduGovOman   رجاءً كل الرجاء أعيدوا النظر في المناهج الدراسية؛ بذات للحلقة الأولى؛ يعود طفلك من المدرسة ويبدو على وجهه ملامح التعب والإرهاق، وعدم الرغبة في التعلم، وفقدان الحماس للذهاب إلى المدرسة في اليوم التالي!!  فإذا صدق الوصف فأننا نرتكب خطأ قد نصفه</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" المناهج الدراسية"  polarity="negative" from="69" to="86"/> <aspectTerm  target="يعود طفلك من المدرسة ويبدو على وجهه ملامح التعب والإرهاق"  polarity="negative" from="108" to="164"/> <aspectTerm  target="يعود طفلك من المدرسة ويبدو على وجهه ملامح التعب والإرهاق"  polarity="negative" from="108" to="164"/> <aspectTerm  target="فقدان الحماس للذهاب إلى المدرسة في اليوم التالي"  polarity="negative" from="190" to="237"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="168">
+                    <text>تحصين الأجيال القادمة من الفساد وأفكار الإلحاد خطوة لا يستطيع أحد الاعتراض عليها، ولكن العقبة التي أمامنا تكمن في أننا سنقدم لهذه الأجيال أفكارًا تدعو إلى الفضيلة والطهارة، بينما الواقع غارق في الرذيلة والقذارة.  فمثلًا، كيف سنقنع التلاميذ بأن السرقة حرام، في حين أن العصابات التي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تحصين الأجيال القادمة من الفساد وأفكار الإلحاد"  polarity="positive" from="0" to="46"/> <aspectTerm  target="العقبة التي أمامنا تكمن في أننا سنقدم لهذه الأجيال أفكارًا تدعو إلى الفضيلة والطهارة"  polarity="negative" from="87" to="171"/> <aspectTerm  target="الواقع غارق في الرذيلة والقذارة"  polarity="negative" from="179" to="210"/> <aspectTerm  target="كيف سنقنع التلاميذ بأن السرقة حرام"  polarity="negative" from="221" to="255"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="169">
+                    <text>خصوصًا منهج اللغة الانجليزية سيء جدًا و قديم ، ولا يمكّن الطلاب من إتقان اللغة بشكل جيد و أيضًا باقي المواد من فيزياء و كيمياء ورياضيات و غيرها المفروض يتم ربطها بديننا الإسلامي مثل ذكر العلماء المسلمين الي لهم بصمة في العلوم و ربط القرآن الكريم بهذه العلوم</text>
+                    <aspectTerms>
+                        <aspectTerm  target="خصوصًا منهج اللغة الانجليزية سيء جدًا و قديم"  polarity="negative" from="0" to="44"/> <aspectTerm  target="لا يمكّن الطلاب من إتقان اللغة بشكل جيد"  polarity="negative" from="48" to="87"/> <aspectTerm  target="أيضًا باقي المواد من فيزياء و كيمياء ورياضيات"  polarity="negative" from="90" to="135"/> <aspectTerm  target="لمفروض يتم ربطها بديننا الإسلامي مثل ذكر العلماء المسلمين"  polarity="positive" from="145" to="202"/> <aspectTerm  target=" لهم بصمة في العلوم و ربط القرآن الكريم بهذه العلوم"  polarity="positive" from="206" to="257"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="170">
+                    <text>الأمر يحتاج لدراسة للجزم بالسبب خلف تباين الدرجات لكن أحد أهم الأسباب من وجهة نظري المتواضعة المبنية على تجربة ميدانية كطالب ومعلم هو أن طريقة الاختبار وتكنيكات الحل مختلفة عن التي يتعلمها الطالب من المنهج في المدرسة .. أسلوب التقويم في المنهج مختلف عن القدرات كثيرًا .</text>
+                    <aspectTerms>
+                        <aspectTerm  target="طريقة الاختبار وتكنيكات الحل مختلفة عن التي يتعلمها الطالب من المنهج في المدرسة"  polarity="negative" from="137" to="216"/> <aspectTerm  target=" أسلوب التقويم في المنهج مختلف عن القدرات كثيرًا"  polarity="negative" from="219" to="267"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="171">
+                    <text>#نعم للتعليم المتوازن، يا دكتورة #أمل_فطاني    التعليم بين الورق والرقمي ليس معركة &amp;quot;إما أو&amp;quot;، بل مسألة توازن وتكامل.   ما حدث في السويد وبريطانيا ليس إدانة للتقنية، بل تصحيحًا لسوء استخدامها.   الدراسات تثبت أن #التعليم_الرقمي فعّال عندما:    يُطبّق بخطط مدروسة (UNESCO, 2023).</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم بين الورق والرقمي ليس معركة &quot;إما أو&quot;، بل مسألة توازن وتكامل"  polarity="positive" from="47" to="114"/> <aspectTerm  target="التعليم_الرقمي فعّال "  polarity="positive" from="211" to="232"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="172">
+                    <text>بكل أمانة لست مستوعب الموقف   أحد الزملاء معلم رياضيات، مميز في الأداء المهني، يدخل حصته يستخدم كل ما توفر في شرح مادته : سبورة، البروجكتر ومستويات طلابه جدًا منطقية ومعقولة ولا يوجد تدني تحصيلي مستمر أو تدني تحصيلي بسبب أداء المعلم  فالمعلم لديه ثقة عالية ومتمكن في المقرر وإدارة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="أحد الزملاء معلم رياضيات، مميز في الأداء المهني"  polarity="positive" from="30" to="77"/> <aspectTerm  target="لا يوجد تدني تحصيلي مستمر أو تدني تحصيلي بسبب أداء المعلم"  polarity="positive" from="175" to="232"/> <aspectTerm  target="فالمعلم لديه ثقة عالية ومتمكن في المقرر وإدارة"  polarity="positive" from="234" to="280"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="173">
+                    <text>كل الجهود التي تبذل للتعلم من أجل القدرة على التفكير الناقد الذي يركز في النقد والتثبت ومن أجل فرد لديه قدرة على الأصالة والابتكار ...  فإذا كان المنهج واحدا لجميع الطلاب فما الذي يختلف عنه كل طالب عن زميله ؟   الذي يختلف هو خبراته السابقة وقدرته على تكوين نماذج ذهنية ذات معنى ..</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الجهود التي تبذل للتعلم من أجل القدرة على التفكير الناقد"  polarity="positive" from="3" to="59"/> <aspectTerm  target="قدرة على الأصالة والابتكار"  polarity="positive" from="104" to="130"/> <aspectTerm  target="المنهج واحدا لجميع الطلاب"  polarity="negative" from="145" to="170"/> <aspectTerm  target="الذي يختلف هو خبراته السابقة وقدرته على تكوين نماذج ذهنية"  polarity="neutral" from="211" to="268"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="174">
+                    <text>أركان التعليم المدرسي ثلاثة المدرس والطالب والكتاب أو المنهج .فهذه الأركان يجب أن تكون منسقة ومتوافقة بإذن الله تنجح عملية التعليم والعلم .المعلم الكفؤ المناسب لسن الطالب يتخذ أساليب تعليمية مناسبة ووسائل تعليمية مناسبة لسن الطالب وقدراته .ثم الطالب والمناهج بنفس الهدف والتنسيق .</text>
+                    <aspectTerms>
+                        <aspectTerm  target="أركان التعليم المدرسي ثلاثة المدرس والطالب والكتاب أو المنهج"  polarity="positive" from="0" to="60"/> <aspectTerm  target="فهذه الأركان يجب أن تكون منسقة ومتوافقة بإذن الله تنجح عملية التعليم والعلم"  polarity="positive" from="62" to="137"/> <aspectTerm  target="المعلم الكفؤ المناسب لسن الطالب يتخذ أساليب تعليمية مناسبة ووسائل تعليمية مناسبة لسن الطالب وقدراته "  polarity="positive" from="139" to="239"/> <aspectTerm  target="الطالب والمناهج بنفس الهدف والتنسيق"  polarity="positive" from="243" to="278"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="175">
+                    <text>إذا تفاوتت نتائج الطالب بين ارتفاعها في المدرسة وانخفاضها في الوزارية ( المعيارية و التحصيلية)، فالخلل ليس في الطالب وحده، بل قد تكون الأسباب متعددة ومتشعبة.    من هذه الأسباب:   1- (علائقيا): فجوة في العلاقة بين المدرسة والأسرة، مما يؤثر على متابعة الطالب وتوجيهه.   2- (أسريا):</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" تفاوتت نتائج الطالب بين ارتفاعها في المدرسة وانخفاضها في الوزارية"  polarity="neutral" from="3" to="69"/> <aspectTerm  target="جوة في العلاقة بين المدرسة والأسرة"  polarity="negative" from="194" to="228"/> <aspectTerm  target=" يؤثر على متابعة الطالب وتوجيهه"  polarity="negative" from="233" to="264"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="176">
+                    <text>صحيح يا بروف محمد  إن أردت إصلاح التعليم ومخرجاته فعليك إصلاح البُنية الأساسية , لا أن يتم إلقاء اللوم على طرف واحد فقط وكأنه هو المُتحكم بكل شيء  قضية التعليم مُتشعبة جدًا ورقعتها تتسع مع مرور الوقت  ولكن نسأل أهل الخبرة , هل احد عمل دراسة سبب تذمر الطلبة من التعليم ؟ هل هناك</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" إصلاح التعليم ومخرجاته فعليك إصلاح البُنية الأساسية"  polarity="positive" from="26" to="78"/> <aspectTerm  target="لا أن يتم إلقاء اللوم على طرف واحد"  polarity="positive" from="81" to="115"/> <aspectTerm  target="قضية التعليم مُتشعبة جدًا ورقعتها تتسع مع مرور الوقت"  polarity="neutral" from="147" to="199"/> <aspectTerm  target="عمل دراسة سبب تذمر الطلبة من التعليم"  polarity="negative" from="231" to="267"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="177">
+                    <text>المناهج حين تُترجَم، لا تنتقل وحدها، وإنما تحمل معها حمولات أيديولوجية، ونماذج قيمية، وشيفرات ثقافية كامنة. الترجمة ليست براءة لغوية، حيث هي تمرير ناعم لخطاب الآخر، ومتى ما تم تمرير هذا الخطاب إلى المتعلم، صار الصراع الهوياتي محتوماً.   الطالب يقرأ عن &amp;quot;الآخر&amp;quot; بمنطق الآخر، ويُسقَط</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المناهج حين تُترجَم، لا تنتقل وحدها، وإنما تحمل معها حمولات أيديولوجية"  polarity="negative" from="0" to="70"/> <aspectTerm  target="الترجمة ليست براءة لغوية، حيث هي تمرير ناعم لخطاب الآخر"  polarity="negative" from="108" to="163"/> <aspectTerm  target="الطالب يقرأ عن &quot;الآخر&quot; بمنطق الآخر، ويُسقَط"  polarity="negative" from="237" to="280"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="178">
+                    <text>الفشل يُنسب للمعلم سبحان الله … هناك مناهج مُلتزم بها المعلم يُقاتل في شرح كل صغيرة وكبيرة فيها ويتخللها اختبارات قصيرة تحريري منها وشفوي ( بالمنهج المحدد من قبل الوزاره ) .. ولكن هل سألت نفسك ياخبتي هل الاسئله بالتحصيلي والقدرات موافقة ومُتطابقه للمنهج الوزاري المحدد من قبل</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الفشل يُنسب للمعلم سبحان الله"  polarity="negative" from="0" to="29"/> <aspectTerm  target="هناك مناهج مُلتزم بها المعلم يُقاتل في شرح كل صغيرة وكبيرة"  polarity="positive" from="32" to="90"/> <aspectTerm  target=" هل الاسئله بالتحصيلي والقدرات موافقة ومُتطابقه للمنهج الوزاري المحدد"  polarity="negative" from="199" to="268"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="179">
+                    <text>غير صحيح، فقد يؤدي المعلم واجبه في التدريس على أتم وجه، لكن لا يمكن قياس منهج محدد وأسئلة متوقعة باختبار مثل القدرات والتحصيلي الذي تتنوع أفكاره وتتجدد أسئلته بشكل دوري.  ولا تغفل الجانب النفسي للطالب فقد يكون متميزًا ولكن ظروف الاختبار تخضع للكثير من العوامل النفسية. ما أسهل</text>
+                    <aspectTerms>
+                        <aspectTerm  target="يؤدي المعلم واجبه في التدريس"  polarity="positive" from="14" to="42"/> <aspectTerm  target="لا يمكن قياس منهج محدد وأسئلة متوقعة باختبار مثل القدرات والتحصيلي"  polarity="neutral" from="60" to="126"/> <aspectTerm  target="ظروف الاختبار تخضع للكثير من العوامل النفسية"  polarity="neutral" from="223" to="267"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="180">
+                    <text>كلامه فيه جزء من الصحة، لكن تحميل المعلم كامل المسؤولية فيه ظلم.  الفرق بين تقييم المدرسة واختبارات القياس له أسباب متعددة: منها تفاوت صرامة التقييم، استعداد الطالب، البيئة المدرسية، وحتى مستوى الأسئلة.  المعلم ركيزة مهمة، لكن المنظومة كاملة تتحمل المسؤولية … المعلم يعلّم، لكن</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تحميل المعلم كامل المسؤولية فيه ظلم"  polarity="negative" from="28" to="63"/> <aspectTerm  target="الفرق بين تقييم المدرسة واختبارات القياس له أسباب متعددة"  polarity="neutral" from="66" to="122"/> <aspectTerm  target="تفاوت صرامة التقييم، استعداد الطالب، البيئة المدرسية، وحتى مستوى الأسئلة"  polarity="neutral" from="129" to="201"/> <aspectTerm  target="المعلم ركيزة مهمة، لكن المنظومة كاملة تتحمل المسؤولية"  polarity="positive" from="204" to="257"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="181">
+                    <text>لا أتفق معه فأسئلة المنهج الدراسي غالبًا ما تكون مباشرة وتقيس التحصيل من محتوى محدد تم تدريسه، بينما أسئلة القدرات (خاصة اللفظي والكمي) تعتمد على الذكاء والتحليل والاستنتاج،  أما التحصيلي، فهو وسط بين الاثنين، إذ يستند إلى المنهج لكنه أحيانًا يتطلب فهمًا أعمق وربطًا بين المواضيع</text>
+                    <aspectTerms>
+                        <aspectTerm  target="فأسئلة المنهج الدراسي"  polarity="positive" from="12" to="33"/> <aspectTerm  target="أسئلة القدرات"  polarity="neutral" from="101" to="114"/> <aspectTerm  target="التحصيلي"  polarity="neutral" from="179" to="187"/> <aspectTerm  target="يتطلب فهمًا أعمق وربطًا بين المواضيع"  polarity="negative" from="243" to="279"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="182">
+                    <text>باعتقادي أن المسألة ليست بالسهولة أن تتّبع هذه المنهجية لما لها من تعقيدات في التجهيزات و في التقنيات و تحديثاتها و إمكانية تنفيذها و لكن ربما في حالات معينة بعينات مركزة تكون داعم للعملية التعليمية .. المؤسسات التعليمية ليست فقط للتعلّم و إنما هي مؤسسات وطنية لتعليم القيم</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المنهجية"  polarity="neutral" from="47" to="55"/> <aspectTerm  target=" تعقيدات في التجهيزات و في التقنيات"  polarity="negative" from="66" to="101"/> <aspectTerm  target="حالات معينة بعينات مركزة تكون داعم للعملية التعليمية"  polarity="positive" from="146" to="198"/> <aspectTerm  target=" المؤسسات التعليمية ليست فقط للتعلّم و إنما هي مؤسسات وطنية لتعليم القيم"  polarity="positive" from="201" to="273"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="183">
+                    <text>تنمية حس النقد والتقييم الفردي لا يمكن أن تتم في ظل نظام تقليدي يعتمد على التلقين، مهما تم حشوه بمقررات لتنمية التفكير النقدي وآداب الخلاف والتعددية ومنهجيات التفكير المنطقي والعقلاني، النظام التلقيني لا يستطيع أن ينشئ غير نظام تفكير أحادي، خريجوه ضعيفو القدرة على النقد، هو نظام</text>
+                    <aspectTerms>
+                        <aspectTerm  target="نظام تقليدي يعتمد على التلقين"  polarity="negative" from="52" to="81"/> <aspectTerm  target="لتنمية التفكير النقدي"  polarity="negative" from="104" to="125"/> <aspectTerm  target=" نظام تفكير أحادي"  polarity="negative" from="222" to="239"/> <aspectTerm  target=" ضعيفو القدرة على النقد"  polarity="negative" from="247" to="270"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="184">
+                    <text>طريقة إضافة الدورات التدريبية للمعلم :  https://saudi-teachers.com/vb/t/160254/   تدريب مباشر قصير المدى = برنامج مدته لا تتجاوز 10 أيام  تدريب مباشر طويل المدى =برنامج مدته تتجاوز 10 أيام  تدريب إلكتروني عن بعد = دورة تدريبية أون لاين  تدريب مباشر = حضوري ورش عمل = ورش عمل حسب النشاط الاستثمار</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تدريب مباشر قصير المدى"  polarity="neutral" from="82" to="104"/> <aspectTerm  target="تدريب مباشر طويل المدى"  polarity="neutral" from="138" to="160"/> <aspectTerm  target="تدريب إلكتروني عن بعد"  polarity="neutral" from="190" to="211"/> <aspectTerm  target="حضوري ورش عمل"  polarity="neutral" from="251" to="264"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="186">
+                    <text>داعية توحيد تواترت الأخبار لدى  في بذل نفسه وعلمه  لتعليم الكتاب والسنة بفهم سلف الأمة في وادي سحيق وسط ألأدغال بعد أن رحل في طلب العلم لبعض علماء بلده وخاصة الشيخ المحدث  أحمد الوتر الهرري وغيرهم من علماء الفقه واللغة &amp;apos; حدثني أهل بلده أنه بدأ دعوته تحت شجرة&amp;apos; ثم بني له عريش من</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لتعليم الكتاب والسنة"  polarity="positive" from="51" to="71"/> <aspectTerm  target="بفهم سلف الأمة"  polarity="positive" from="72" to="86"/> <aspectTerm  target="طلب العلم"  polarity="positive" from="126" to="135"/> <aspectTerm  target="علماء الفقه واللغة"  polarity="positive" from="200" to="218"/> <aspectTerm  target="بدأ دعوته تحت شجرة"  polarity="positive" from="240" to="258"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="187">
+                    <text>منصةمدرستي أبدعت في الاثراءات والواجبات ما شاء الله تبارك الله   واتمنى كل المعلمين يستفيدون منها   الان الدرس جاهز في المنصه عن طريق الذهاب الي :  - المقررات والمصادر - ثم مقرراتي - تظهر الفصول التي تدرسها أمامك - اختر المقررات الاكترونية  - سوف تشاهد شرح الدرس + نشاط + مراجعة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="منصة"  polarity="positive" from="0" to="4"/> <aspectTerm  target="الاثراءات"  polarity="positive" from="20" to="29"/> <aspectTerm  target="الواجبات"  polarity="positive" from="31" to="39"/> <aspectTerm  target=" المقررات والمصادر"  polarity="positive" from="149" to="167"/> <aspectTerm  target=" المقررات والمصادر"  polarity="positive" from="149" to="167"/> <aspectTerm  target="المقررات الاكترونية"  polarity="positive" from="220" to="239"/> <aspectTerm  target="شرح الدرس"  polarity="positive" from="253" to="262"/> <aspectTerm  target=" نشاط"  polarity="positive" from="264" to="269"/> <aspectTerm  target="مراجعة"  polarity="positive" from="272" to="278"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="188">
+                    <text> “استراتيجيات التعلم الفعّالة (1) استراتيجية  التعلم التعاوني   أولًا: مفهوم التعلم التعاوني  التعلم التعاوني هو أسلوب تعليمي يقوم على تقسيم الطلاب إلى مجموعات صغيرة تعمل معًا لتحقيق هدف تعليمي مشترك، بحيث يعتمد كل فرد في المجموعة على الآخرين لتحقيق النجاح.   يهدف</text>
+                    <aspectTerms>
+                        <aspectTerm  target="استراتيجيات التعلم الفعّالة"  polarity="positive" from="2" to="29"/> <aspectTerm  target="مفهوم التعلم التعاوني"  polarity="positive" from="71" to="92"/> <aspectTerm  target="أسلوب تعليمي"  polarity="positive" from="113" to="125"/> <aspectTerm  target="مجموعات صغيرة"  polarity="positive" from="152" to="165"/> <aspectTerm  target="هدف تعليمي مشترك"  polarity="positive" from="183" to="199"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="189">
+                    <text>حصة تطبيقية للأستاذة فاطمة المشايخية معلمة المجال الأول ، أبدعت الأستاذة في تنوع استراتيجيات التعلم النشط &amp;quot; أنواع القراءات &amp;quot; واستخدام التقانة الحديثة من خلال تفعيل البرامج التفاعلية كالواقع المعزز ، تفعيل التعزيز الإلكتروني ، وإشراك الطلبة في العملية التعليمية فبوركت الجهود</text>
+                    <aspectTerms>
+                        <aspectTerm  target="حصة تطبيقية"  polarity="positive" from="0" to="11"/> <aspectTerm  target="استراتيجيات التعلم النشط"  polarity="positive" from="81" to="105"/> <aspectTerm  target="تفعيل التعزيز الإلكتروني"  polarity="positive" from="199" to="223"/> <aspectTerm  target="إشراك الطلبة في العملية التعليمية"  polarity="positive" from="227" to="260"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="190">
+                    <text>#تعلم_مستدام  نفَّذت الأستاذة مريم اليمانية، اليوم الاثنين الموافق 12 مايو 2025م، مشغلًا بعنوان (استراتيجية الصف المقلوب)، تناول عدة محاور، منها: التعريف باستراتيجية الصف المقلوب، والفرق بينها وبين أساليب التعليم التقليدية،</text>
+                    <aspectTerms>
+                        <aspectTerm  target="استراتيجية الصف المقلوب"  polarity="positive" from="97" to="120"/> <aspectTerm  target="الفرق بينها وبين أساليب التعليم التقليدية"  polarity="neutral" from="181" to="222"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="191">
+                    <text>سأضع لكم تحت هذه التغريدة مجمل لأهم استراتيجيات التدريس مع الفرق بينها، محاولا تبسيط المعلومة للجميع، سائلا الله تبارك وتعالى البركة مع الإخلاص في القول العمل. #الرخصة_المهنية_للمعلمين_والمعلمات #الرخصة_المهنية_اسلامي #الرخصه_المهنيه  @ienmtr   @BadrClass    المقطع رقم (٢)  === يتبع</text>
+                    <aspectTerms>
+                        <aspectTerm  target="ستراتيجيات التدريس"  polarity="positive" from="37" to="55"/> <aspectTerm  target="الرخصة_المهنية_للمعلمين_والمعلمات"  polarity="positive" from="161" to="194"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="192">
+                    <text>بهدف ترسيخ الثقة بالنفس وبناء شخصية الطالب  القادر على تقديم الرؤى والتحلي بسمات القيادة  وإدارة الحوار وبما يحقق التعلم من أجل المستقبل  وظف الأستاذ عبدالله المقبالي معلم التربية الإسلامية استراتيجية الندوة: وهي جلسة تعقد بغرض الحوار بين مجموعة من الطلبة حول موضوع محدد.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="ترسيخ الثقة بالنفس وبناء شخصية الطالب "  polarity="positive" from="5" to="43"/> <aspectTerm  target="التعلم من أجل المستقبل"  polarity="positive" from="114" to="136"/> <aspectTerm  target=" بغرض الحوار بين مجموعة من الطلبة حول موضوع"  polarity="positive" from="222" to="265"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="193">
+                    <text>الركود الذهني في بلاد المغرب في القرن 14 م سببه أن طرق التدريس أهملت المناقشة والمناظرة في التعليم. ابن خلدون</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الركود الذهني في بلاد المغرب"  polarity="negative" from="0" to="28"/> <aspectTerm  target="طرق التدريس أهملت المناقشة والمناظرة في التعليم"  polarity="negative" from="51" to="98"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="196">
+                    <text>#تعليم_بلاوزير لعل الوزير يقضي هذه الليالي في المغرب لنظر في اروع طرق التدريس عن كثب ،،،  اسأل الله ان يكتب اجره!</text>
+                    <aspectTerms>
+                        <aspectTerm  target="طرق التدريس "  polarity="positive" from="66" to="78"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="197">
+                    <text>المعلّم المُربّي عملة نادرة في الساحة التربوية – مع الأسف الشديد – إذ يغلب على واقع التعليم أن يقتصر دور المعلم على نقل المعلومة دون تأثير تربوي فاعل في سلوك الطلاب. وفي عصر تتوافر فيه الوسائل الرقمية والبرامج التعليمية الذكية، لم يعد نقل المعلومات هو الدور الرئيس للمعلم، بل أصبح</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المعلّم المُربّي"  polarity="positive" from="0" to="16"/> <aspectTerm  target="دور المعلم على نقل المعلومة دون تأثير تربوي"  polarity="negative" from="101" to="144"/> <aspectTerm  target="الوسائل الرقمية والبرامج التعليمية الذكية"  polarity="positive" from="185" to="226"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="198">
+                    <text>غيروا المناهج و طرق التدريس. انا أم و تعبت و اطفالي تعبوا معاي. يرجعوا من المدرسة ما فاهمين شي و لازم انا ادرسهم في البيت !!!! من الفجر قايمين الى المغرب و هم بس يدرسون </text>
+                    <aspectTerms>
+                        <aspectTerm  target="غيروا المناهج"  polarity="negative" from="0" to="13"/> <aspectTerm  target="طرق التدريس"  polarity="negative" from="16" to="27"/> <aspectTerm  target="يرجعوا من المدرسة ما فاهمين شي و لازم انا ادرسهم في البيت"  polarity="negative" from="64" to="121"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="199">
+                    <text>قدمت أ.دعاء البلوشية معلمة المجال آلأول حصة تميزت بتنوع الاستراتيجيات وأساليب وطرق التدريس لإثارة دافعيةالطلبة نحو التعلم وكان التخطيط الواضح في الوسيلةالتعليميةسببا في تواصل الطلبة وتفاعلهم والقدرة على حل الأنشطة مما أكسبهم المعارف والمهارات من خلال إشراكهم في العملية التعليمبة</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" بتنوع الاستراتيجيات"  polarity="positive" from="49" to="69"/> <aspectTerm  target="أساليب وطرق التدريس"  polarity="positive" from="71" to="90"/> <aspectTerm  target="دافعيةالطلبة نحو التعلم"  polarity="positive" from="98" to="121"/> <aspectTerm  target=" التخطيط الواضح في الوسيلةالتعليمية"  polarity="positive" from="126" to="161"/> <aspectTerm  target="تواصل الطلبة وتفاعلهم والقدرة على حل الأنشطة"  polarity="positive" from="169" to="213"/> <aspectTerm  target="أكسبهم المعارف والمهارات"  polarity="positive" from="218" to="242"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="200">
+                    <text>قدمت الأستاذة ليلى العويسية حصة نموذجية لدرس ( سفر وترحال) للمتنبي ، حيث تسلسلت في عرض الدرس من التمهيد باستخدام ( استراتيجية من أنا) ، إلى القراءة السياقية للنص ، ثم القراءة الاستنطاقية ، تخللتها بعض الاستراتيجيات الهادفة مثل استراتيجية خريطة الكلمة ، استراتيجية الدقيقة الواحدة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لدرس ( سفر وترحال) للمتنبي"  polarity="positive" from="40" to="66"/> <aspectTerm  target="استراتيجية من أنا"  polarity="positive" from="115" to="132"/> <aspectTerm  target="القراءة السياقية للنص"  polarity="positive" from="140" to="161"/> <aspectTerm  target="القراءة الاستنطاقية"  polarity="positive" from="167" to="186"/> <aspectTerm  target="استراتيجية خريطة الكلمة"  polarity="positive" from="227" to="250"/> <aspectTerm  target="استراتيجية الدقيقة الواحدة"  polarity="positive" from="253" to="279"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="201">
+                    <text>الابتعاد عن الكم والتركيز على الكيف هو جوهر بناء #مناهج تعليمية حديثة وفعالة. فالهدف ليس مجرد تقديم معلومات ضخمة، بل اختيار المحتوى بعناية ليكون، ممتعًا، ومحفزًا للتفكير والإبداع. يصبح التعلم أكثر فاعلية، ويُحفز الطلاب على البحث والاستكشاف بدلًا من الحفظ والتلقين. #وزارة_التربية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الابتعاد عن الكم والتركيز على الكيف هو جوهر بناء #مناهج تعليمية حديثة وفعالة"  polarity="positive" from="0" to="76"/> <aspectTerm  target=" ممتعًا، ومحفزًا للتفكير والإبداع"  polarity="positive" from="145" to="178"/> <aspectTerm  target="يصبح التعلم أكثر فاعلية"  polarity="positive" from="180" to="203"/> <aspectTerm  target="يُحفز الطلاب على البحث والاستكشاف"  polarity="positive" from="206" to="239"/> <aspectTerm  target="الحفظ والتلقين"  polarity="negative" from="249" to="263"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="202">
+                    <text>دورة أونلاين للمعلمين قائمة على التعلم الذاتي: استراتيجيات التدريس والتعلم المثبتة علميا وذات حجم التأثير العالي.  تحصل على: - شهادة حضور واستكمال الدورة. - نسخة إلكترونية: كتاب استراتيجيات التدريس المثبتة علميا. - تكرار الدورة خلال ١٠ أيام.  للتسجيل: https://mtmm.ac/courses/mtmm1/</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" التعلم الذاتي"  polarity="positive" from="31" to="45"/> <aspectTerm  target="استراتيجيات التدريس والتعلم المثبتة علميا"  polarity="positive" from="47" to="88"/> <aspectTerm  target="حجم التأثير العالي"  polarity="positive" from="94" to="112"/> <aspectTerm  target="شهادة حضور واستكمال الدورة"  polarity="positive" from="127" to="153"/> <aspectTerm  target="نسخة إلكترونية: كتاب استراتيجيات التدريس المثبتة علميا"  polarity="positive" from="157" to="211"/> <aspectTerm  target="تكرار الدورة خلال ١٠ أيام"  polarity="positive" from="215" to="240"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="203">
+                    <text>الركود الذهني في بلاد المغرب في القرن 14 م سببه أن طرق التدريس أهملت المناقشة والمناظرة في التعليم.  #ابن_خلدون</text>
+                    <aspectTerms>
+                        <aspectTerm  target="طرق التدريس"  polarity="negative" from="51" to="62"/> <aspectTerm  target="المناقشة والمناظرة في التعليم"  polarity="negative" from="69" to="98"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="205">
+                    <text>تابع طرق التدريس التي أشار إليها القران الكريم: الحوار والمناقشة: ألم تر إلى الذي حاج إبراهيم في ربه أن آتاه الله الملك إذ قال إبراهيم ربي الذي يحيي ويميت قال أنا أحيي وأميت قال إبراهيم فإن الله يأتي بالشمس من المشرق فأتِ بها من المغرب فبهت الذي كفر)</text>
+                    <aspectTerms>
+                        <aspectTerm  target="طرق التدريس"  polarity="positive" from="5" to="16"/> <aspectTerm  target="الحوار"  polarity="positive" from="48" to="54"/> <aspectTerm  target="المناقشة"  polarity="positive" from="56" to="64"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="206">
+                    <text>#الرخصة_المهنية  ما يخص اختبار العام التربوي  1- شرح لكل المعايير العشرة:  http://saudi-teachers.com/vb/t/159167/  2- شرح نظريات التعلم بشكل مختصر :  http://saudi-teachers.com/vb/t/159138/  3-  نحو 1300سؤال وحلها + ملزمة مهمة ومفيدة : http://saudi-teachers.com/vb/t/159698/  ضعها في مفضلتك ولن تحتاج إلى مصادر أخرى  بإذن الله</text>
+                    <aspectTerms>
+                        <aspectTerm  target="شرح نظريات التعلم بشكل مختصر"  polarity="positive" from="118" to="146"/> <aspectTerm  target="اختبار العام التربوي"  polarity="positive" from="24" to="44"/> <aspectTerm  target=" شرح لكل المعايير العشرة"  polarity="positive" from="48" to="72"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="207">
+                    <text>في الذكرى العشرين لتأسيسها، عقدت الجمعية المغربية لأساتذة التربية الإسلامية مجلسها الوطني بمدينة المحمدية، مجددة التأكيد على مركزية التربية الإسلامية في بناء قيم المواطنة والاعتدال، وداعية إلى إنصاف المادة تربويًا وزمنيًا ضمن رؤية إصلاحية تشاركية تعزز مكانة المدرسة المغربية.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مركزية التربية الإسلامية في بناء قيم المواطنة والاعتدال"  polarity="positive" from="125" to="180"/> <aspectTerm  target="إنصاف المادة تربويًا وزمنيًا"  polarity="positive" from="193" to="221"/> <aspectTerm  target="رؤية إصلاحية تشاركية"  polarity="positive" from="226" to="246"/> <aspectTerm  target="تعزز مكانة المدرسة المغربية"  polarity="positive" from="247" to="274"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="208">
+                    <text>جودة التعليم له علاقة بالميزانية المخصصة للقطاع بصفة عامة، المغرب يوفر له 6 مليار، دول الخليج رغم قلة عدد السكان توفر له ضعف المبلغ، أجود الأساتذة وأفضل المقررات وأكثر طرق التدريس فعالية بأكثر التقنيات تطوراً، شيء عادي أن يكونوا في الرتب الأعلى</text>
+                    <aspectTerms>
+                        <aspectTerm  target="أكثر التقنيات تطوراً"  polarity="positive" from="188" to="208"/> <aspectTerm  target="أكثر طرق التدريس"  polarity="positive" from="163" to="179"/> <aspectTerm  target="أفضل المقررات"  polarity="positive" from="148" to="161"/> <aspectTerm  target="أجود الأساتذة"  polarity="positive" from="133" to="146"/> <aspectTerm  target="الميزانية المخصصة للقطاع"  polarity="positive" from="23" to="47"/> <aspectTerm  target="جودة التعليم "  polarity="positive" from="0" to="13"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="209">
+                    <text>يعني ايه 4 ساعات مع دكتور واحد! على انهي اساس شايفين ان اللايحة والنظام دة أفضل من القديم.. جدول سنة رابعة من 8 الصبح ل 6 ونص المغرب!!! يعني انا اعرف ان التطوير في المواد او طرق التدريس او المعامل لكن التطوير انك تثبت كل دول و تضاعف الجدول دة قرف</text>
+                    <aspectTerms>
+                        <aspectTerm  target="اللايحة والنظام"  polarity="negative" from="56" to="71"/> <aspectTerm  target="التطوير في المواد"  polarity="positive" from="153" to="170"/> <aspectTerm  target="طرق التدريس"  polarity="positive" from="174" to="185"/> <aspectTerm  target="المعامل"  polarity="positive" from="189" to="196"/> <aspectTerm  target="تضاعف الجدول"  polarity="negative" from="227" to="239"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="210">
+                    <text>#الرخصة_المهنية_التربوي_العام نظريات التعلم (خلاصة الخلاصة) : ١- السلوكية : (واطسون) مثير،استجابة، محاولة وخطأ، عقل الطالب صندوق،متلقي سلبي. ٢- المعرفية: (جان بياجيه) انتباه، تركيز، معالجة معلومات ٣- البنائية (فونت) : الطالب يبني معرفته بنفسه ٤- الاجتماعية (باندورا) نمذجة، محاكاة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="السلوكية"  polarity="negative" from="65" to="73"/> <aspectTerm  target=" المعرفية"  polarity="negative" from="143" to="152"/> <aspectTerm  target="البنائية"  polarity="negative" from="200" to="208"/> <aspectTerm  target="الاجتماعية"  polarity="negative" from="246" to="256"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="211">
+                    <text> إذا فهمت هذه المعلومات بتضمن درجات بالرخصة  طرق التدريس البنائي: ١- دورة التعلم الخماسية 5E للعالم بايبي ٥ مراحل. ٢–التعلم المتركز حول المشكلة ( جريسون  ويتلي)- ٣ مراحل ٣- التغير المفاهيمي( بوسنر) - ٤مراحل ٤- نموذج الشكل V( جودين) ٥- نموذج التعلم البنائي الاجتماعي  طرق تدريس</text>
+                    <aspectTerms>
+                        <aspectTerm  target="دورة التعلم الخماسية"  polarity="neutral" from="69" to="89"/> <aspectTerm  target="التعلم المتركز حول المشكلة"  polarity="neutral" from="117" to="143"/> <aspectTerm  target=" التغير المفاهيمي"  polarity="neutral" from="172" to="189"/> <aspectTerm  target="طرق التدريس البنائي"  polarity="neutral" from="45" to="64"/> <aspectTerm  target="لتعلم البنائي الاجتماعي"  polarity="neutral" from="242" to="265"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="212">
+                    <text>لا زلت تلميذا رغم أن عمري 58 سنة، لم أنقطع عن التعلم أبدا. سأشرح طريقتي في تعلم أشياء جديدة. هذه هي المراحل التي أمر بها.  1. الاكتشاف 2. الفحص السريع 3. الشروحات المبدئية 4. التطبيق المباشر 5. التعمق 6. تعليم الآخرين لتعليم الذات التفصيل في الأسفل.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لم أنقطع عن التعلم أبدا"  polarity="positive" from="34" to="57"/> <aspectTerm  target=" الاكتشاف"  polarity="positive" from="125" to="134"/> <aspectTerm  target="الفحص السريع"  polarity="positive" from="138" to="150"/> <aspectTerm  target="الشروحات المبدئية"  polarity="positive" from="154" to="171"/> <aspectTerm  target="التطبيق المباشر"  polarity="positive" from="175" to="190"/> <aspectTerm  target="التعمق"  polarity="positive" from="194" to="200"/> <aspectTerm  target="تعليم الآخرين لتعليم الذات"  polarity="positive" from="204" to="230"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="213">
+                    <text>#الرخصة_المهنية_التربوي_العام  #الرخصة_المهنية_عام   يميز المعلم وليد الفروق الفردية بين طلابه الناجمة عن الخصائص العقلية والجسمية ويراعيها في تعلمهم،  أي من إستراتيجيات التدريس الآتية تراعي الفروق الفردية الناجمة عن الخصائص العقلية:</text>
+                    <aspectTerms>
+                        <aspectTerm  target="يميز المعلم وليد الفروق الفردية بين طلابه"  polarity="positive" from="53" to="94"/> <aspectTerm  target=" الخصائص العقلية والجسمية"  polarity="positive" from="105" to="130"/> <aspectTerm  target="إستراتيجيات التدريس الآتية تراعي الفروق الفردية"  polarity="positive" from="158" to="205"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="214">
+                    <text>⁧#الرخصة_المهنية_للمعلمين_والمعلمات⁩  عام (تربوي)   شرح رائع للأستاذ محمد متولي   1• التفكير الإبداعي.. https://youtu.be/eXGSvgk-y1o  2•خصائص الاختبار الجيد .. https://youtu.be/mHk9WdCc7q0  3•سؤال تربوي هام جدًا .. ⁦https://youtu.be/-zuTGcjGqLk⁩</text>
+                    <aspectTerms>
+                        <aspectTerm  target="خصائص الاختبار الجيد"  polarity="positive" from="136" to="156"/> <aspectTerm  target="الرخصة_المهنية_للمعلمين_والمعلمات"  polarity="positive" from="2" to="35"/> <aspectTerm  target="التفكير الإبداعي"  polarity="positive" from="85" to="101"/> <aspectTerm  target="سؤال تربوي هام جدًا"  polarity="positive" from="192" to="211"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="215">
+                    <text>#طرق_التدريس  https://drive.google.com/file/d/1k9Po-ONuYH5e0K4T3W9YAmxiMDvt8Hp5/view?usp=drivesdk… هذا الملف في تعريف كل طريقة و خطواتها و ميزات و عيوب كل طريقة  #كفايات_عام</text>
+                    <aspectTerms>
+                        <aspectTerm  target="طرق_التدريس"  polarity="positive" from="1" to="12"/> <aspectTerm  target="تعريف كل طريقة"  polarity="positive" from="112" to="126"/> <aspectTerm  target="طرق_التدريس"  polarity="positive" from="1" to="12"/> <aspectTerm  target="تعريف كل طريقة"  polarity="positive" from="112" to="126"/> <aspectTerm  target="خطواتها"  polarity="positive" from="129" to="136"/> <aspectTerm  target="ميزات و عيوب كل طريقة"  polarity="neutral" from="139" to="160"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="216">
+                    <text>اختصار لنظريات التعلم ( ذاكرها وتدعي لي )    المدرسة السلوكية: مثير - استجابة - تلقين - حفظ - تعزيز سلوك - إطفائه - تدريس مباشر   المدرسة المعرفية: البحث عن المعرفة- فهم وإدراك- الاشتغال الذهني- العمليات العقلية   المدرسة البنائية: بناء المعرفة - نشاط- بحث - استكشاف-</text>
+                    <aspectTerms>
+                        <aspectTerm  target="اختصار لنظريات التعلم "  polarity="neutral" from="0" to="22"/> <aspectTerm  target="المدرسة السلوكية"  polarity="neutral" from="45" to="61"/> <aspectTerm  target="استجابة"  polarity="positive" from="70" to="77"/> <aspectTerm  target="المدرسة المعرفية"  polarity="neutral" from="130" to="146"/> <aspectTerm  target="المدرسة البنائية"  polarity="positive" from="214" to="230"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="218">
+                    <text>يفعل ذلك في الصباح بقراءة مستقلة  وفي الظهر ايضا يحضر ماء ويقرأ فيه فيشرب ويغتسل  ويفعل ذلك ايضا في المغرب يحضر اناء يقرأ فيه فيشرب ويغتسل  ثلاثة مرات في اليوم لمدة ثلاثة أيام متواليه</text>
+                    <aspectTerms>
+                        <aspectTerm  target="بقراءة مستقلة"  polarity="positive" from="19" to="32"/> <aspectTerm  target="وفي الظهر ايضا يحضر ماء ويقرأ فيه"  polarity="positive" from="34" to="67"/> <aspectTerm  target="يحضر اناء يقرأ فيه"  polarity="neutral" from="107" to="125"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="219">
+                    <text>دورات تدريبية في إستراتيجيات طرق التدريس الحديثة تعقد بالاردن دبي تركيا ماليزيا المغرب تونس… http://goo.gl/fb/smMiIC</text>
+                    <aspectTerms>
+                        <aspectTerm  target="ورات تدريبية في إستراتيجيات طرق التدريس"  polarity="positive" from="1" to="40"/> <aspectTerm  target="تعقد بالاردن دبي تركيا ماليزيا المغرب تونس"  polarity="positive" from="49" to="91"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="221">
+                    <text>مناهج التدريس والشرح مختلفة،والقول بأن طريقةمعينةبأنها أحسن الطرق باطلاق غير صحيح،فالعلماء اساليبهم متنوعةشرحا وتدريسا،لكن قل احبها إلى نفسي الطريقة الفلانية،سواء طريقة التلقين المحض،او طريقةالبسط،أو المناقشةوالبحث،وليس كل عالم تناسبه كل الطرق،بل يدرس طريقة طول عمره ولا يغير ابدأ</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مناهج التدريس"  polarity="neutral" from="0" to="13"/> <aspectTerm  target="الشرح مختلفة"  polarity="neutral" from="15" to="27"/> <aspectTerm  target="القول بأن طريقةمعينةبأنها أحسن الطرق باطلاق غير صحيح"  polarity="neutral" from="29" to="81"/> <aspectTerm  target="سواء طريقة التلقين المحض،او طريقةالبسط،أو المناقش"  polarity="neutral" from="158" to="207"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        </sentences>

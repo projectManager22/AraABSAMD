@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><sentences>
+           <sentence id="0">
+                    <text>نشر #مكتب_التربية_العربي_لدول_الخليج مشكور #إضاءات_مكتب_التربية الممكنات الرقمية لسد الفجوة الرقمية في التعليم  قمت  باقتراح  بعض الممكنات من ادوات  مايكروسوفت  لدمجها  في التعليم وسد الفجوة الرقمية  https://app.napkin.ai/page/CgoiCHByb2Qtb25lEiwKBFBhZ2UaJDE5YzMzNTVmLTBhZWEtNDBkMS1iNjZjLWIzMTNjZjIxNDBmNg?s=1…  @Abegsorg  #كلنا_خبراء #يوميات_معلمة_سعودية  17/2/2025</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لسد الفجوة الرقمية"  polarity="positive" from="81" to="99"/> <aspectTerm  target="مايكروسوفت"  polarity="positive" from="149" to="159"/> <aspectTerm  target=" التعليم"  polarity="positive" from="102" to="110"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="Positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="1">
+                    <text>الفيسبوك والرقابة الافتراضية على حرية الفن في المغرب:الآليات والتجليات&amp;quot;  هو عنوان الورقة البحثية الثالثة التي قدمها ا. يوسف السباعي في #مؤتمر #الإبداعات_الثقافية_في_العصر_الرقمي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الرقابة الافتراضية "  polarity="negative" from="10" to="29"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="2">
+                    <text>د. محمد الصافي من المغرب يقدم الورقة الثانية في الجلسة الأولى في #مؤتمر #الإبداعات_الثقافية_في_العصر_الرقمي  بعنوان &amp;quot; دور وسائل الاتصال الرقمي الحديثة في عولمة الثقافة وإنتاج المضمون الثقافي&amp;quot;</text>
+                    <aspectTerms>
+                        <aspectTerm  target="وسائل الاتصال الرقمي"  polarity="neutral" from="122" to="142"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="3">
+                    <text> مُدَرِسة تُوبخ طلابها بعدما اكتشفت أن جميع أجوبتهم على واجباتهم الدراسية متشابهة و مصدرها &amp;quot;شات جي بي تي&amp;quot;  هل الذكاء الاصطناعي سيجعل الطلاب يتكاسلون و يعتمدون عليه، أم أن الطريقة التقليدية في التعليم تجاوزها العصر و لا بد من مواكبة التكنولوجيا ؟</text>
+                    <aspectTerms>
+                        <aspectTerm  target="شات جي بي تي"  polarity="negative" from="92" to="104"/> <aspectTerm  target=" الذكاء الاصطناعي"  polarity="neutral" from="109" to="126"/> <aspectTerm  target="مواكبة التكنولوجيا"  polarity="positive" from="225" to="243"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="4">
+                    <text>تابع اليوم بالعاصمة المغربية الرباط المؤتمر الثالث عشر لوزراء التربية والتعليم العرب أعماله، تحت عنوان (مستقبل التعليم في الوطن العربي في عصر التحول الرقمي)، الذي تستضيفه وزارة التربية والتعليم والرياضة في المغرب.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مستقبل التعليم "  polarity="neutral" from="104" to="119"/> <aspectTerm  target="التحول الرقمي"  polarity="positive" from="142" to="155"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="5">
+                    <text>سعادة السيدة بثينة بنت علي النعيمي وزير التربية والتعليم والتعليم العالي تترأس وفد دولة قطر المشارك في أعمال المؤتمر الـ13 لوزراء التربية والتعليم العرب تحت عنوان: &amp;quot;مستقبل التعليم في الوطن العربي في عصر التحول الرقمي&amp;quot; الذي عُقد في #المغرب    #مرسال_قطر | #قطر </text>
+                    <aspectTerms>
+                        <aspectTerm  target="مستقبل التعليم"  polarity="neutral" from="165" to="179"/> <aspectTerm  target="التحول الرقمي"  polarity="positive" from="203" to="216"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="6">
+                    <text>قدمت الأستاذة/ريا يوم الأحد الموافق٢/١٦/٢٠٢٥  لمعلمات المدرسة من شتى التخصصات ورقة عمل بعنوان/ سمات الأجيال(Z’X) وطريقة التعامل معها تعليما وسلوكا… وسط حضور تفاعلي ونقاش مثري مسهما في التركيز على واقع الجانب التربوي في المؤسسات التعليمية والطريقة السليمة للتعامل مع جيل الطفرة</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" الجانب التربوي"  polarity="positive" from="200" to="215"/> <aspectTerm  target="الطريقة السليمة"  polarity="neutral" from="239" to="254"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="7">
+                    <text>بمشاركة سورية يبدأ المؤتمر الثالث عشر لوزراء التربية والتعليم العرب تحت عنوان “مستقبل التعليم في الوطن العربي في عصر التحول الرقمي” الذي تستضيفه وزارة التربية والتعليم والرياضة في المغرب.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مستقبل التعليم "  polarity="neutral" from="79" to="94"/> <aspectTerm  target=" التحول الرقمي"  polarity="positive" from="116" to="130"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="9">
+                    <text>فيروس كورونا: دراسة رغم المسافة؟ في برنامج النقاش نستضيف من عمان مثنى غرايبة وزير الاقتصاد الرقمي و الريادة في الاردن ومن الرباط سعيد أمزازي وزير التربية الوطنية والتكوين المهني والتعليم العالي والبحث العلمي في المغرب ...كيف هي تجربة الرقمنة في المملكتين وأين وصل التعليم عن بعد؟</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تجربة"  polarity="neutral" from="228" to="233"/> <aspectTerm  target="الرقمنة"  polarity="positive" from="234" to="241"/> <aspectTerm  target=" التعليم عن بعد"  polarity="positive" from="263" to="278"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="10">
+                    <text>&amp;quot;سامسونغ المغرب&amp;quot; ووزارة التعليم تكافئان أفضل مبادرات TelmidTice 2020 للتعليم الرقمي التفاصيل :  https://aldar.ma/215509.html #الدار #موقع_الدار #aldar #المغرب_سيظل_في_صحرائه_والصحراء_في_مغربها</text>
+                    <aspectTerms>
+                        <aspectTerm  target="للتعليم الرقمي"  polarity="positive" from="69" to="83"/> <aspectTerm  target="تكافئان"  polarity="positive" from="32" to="39"/> <aspectTerm  target=" مبادرات"  polarity="positive" from="44" to="52"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="11">
+                    <text>#المغرب  كواليس التعديل الحكومي المرتقب. الجدد: نعيمة بنحيي وزيرة للتضامن، عبد الجبار الراشدي كاتبا للدولة. عبد الصمد قيوح؛النقل. عمر حجيرة كاتب دولة في التجارة الخارجية. بعض المغادرين:  الفلاحة؛ عبد السلام الصديقي. التعليم العالي: عبد اللطيف ميراوي. الانتقال الرقمي: غيثة مزور. .</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم العالي"  polarity="neutral" from="216" to="230"/> <aspectTerm  target=" الانتقال الرقمي"  polarity="negative" from="250" to="266"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="12">
+                    <text>التعليم والمسألة التعليمية عبر تاريخ المغرب: قراءة في مجلة أمل التاريخية خلال الأعداد (28، 29، 30) #دورية_كان_التاريخية مج15، ع57 - سبتمبر 2022 ص104-116 محمد الراشيدي، باحث دكتوراه مراكش، المغرب. #المستقبل_الرقمي_للدراسات_التاريخية https://doi.org/10.21608/kan.2022.299324… https://kan.journals.ekb.eg/article_299324.html…</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم "  polarity="neutral" from="0" to="8"/> <aspectTerm  target="المسألة التعليمية"  polarity="negative" from="9" to="26"/> <aspectTerm  target="المستقبل_الرقمي"  polarity="positive" from="197" to="212"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="13">
+                    <text>انطلقت الآن بشكل عملي البوابة الإلكترونية TelmidTice  http://telmidTICE.men.gov.ma  لتيسير &amp;quot;التعليم عن بعد&amp;quot;. وأود بالمناسبة توجيه تحية تقدير عالية وشكر للأطر التقنية والتربوية والإدارية التي سهرت على إعداد البوابة لضمان مواصلة أبنائنا دراستهم من بيوتهم إلى حين العودة للفصول الدراسية.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لتعليم عن بعد"  polarity="positive" from="93" to="106"/> <aspectTerm  target="للأطر التقنية والتربوية والإدارية"  polarity="positive" from="152" to="185"/> <aspectTerm  target="البوابة الإلكترونية"  polarity="positive" from="22" to="41"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="14">
+                    <text>#المغرب اعتماد &amp;quot;التعليم عن بعد&amp;quot; كصيغة تربوية في بداية الموسم الدراسي المقبل والذي سينطلق في 7 شتنبر بالنسبة لجميع الأسلاك والمستويات بكافة المؤسسات العمومية والخصوصية ومدارس البعثات الأجنبية، مع توفير &amp;quot;تعليم حضوري&amp;quot; بالنسبة للمتعلمين الذين سيعبر أولياء أمورهم عن اختيار هذه الصيغة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم عن بعد"  polarity="positive" from="16" to="30"/> <aspectTerm  target="تعليم حضوري"  polarity="neutral" from="202" to="213"/> <aspectTerm  target="الموسم الدراسي"  polarity="neutral" from="54" to="68"/> <aspectTerm  target="المؤسسات العمومية والخصوصية"  polarity="neutral" from="139" to="166"/> <aspectTerm  target="البعثات الأجنبية"  polarity="neutral" from="174" to="190"/> <aspectTerm  target="أولياء أمورهم"  polarity="positive" from="245" to="258"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="15">
+                    <text>نصف مليار من التلاميذ والطلبة يتحوّلون حسب اليونسكو للتعليم الرقمي أو التلفزيوني، من منازلهم. هناك إغلاق كامل للمدارس في 102 دولة وإغلاق جزئي في 11 دولة. و #المغرب من تلك الدول التي تحولت إلى التعليم عن بعد في هذه الفترة، لنتعاون جميعا على إنجاحه، وتحية عالية لأسرة التعليم</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" للتعليم الرقمي"  polarity="positive" from="51" to="66"/> <aspectTerm  target="إغلاق كامل للمدارس"  polarity="negative" from="99" to="117"/> <aspectTerm  target=" التعليم عن بعد"  polarity="positive" from="191" to="206"/> <aspectTerm  target="لأسرة التعليم"  polarity="positive" from="260" to="273"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="17">
+                    <text> متابعة: شركة &amp;quot;أطلس سيستمز&amp;quot; تكشف المزيد من التفاصيل عن مشروع حاسوب مغربي يعتمد نظام تشغيل مغربي هو الأول من نوعه بالمملكة.   يتضمن النظام بيئة متكاملة من البرامج:   مجموعة أطلس (بحث، تخزين، بريد إلكتروني، فيديو، خرائط، محادثة...)؛  أكثر من 50 برنامجاً آمناً (تعليم، برمجة،</text>
+                    <aspectTerms>
+                        <aspectTerm  target="حاسوب مغربي"  polarity="positive" from="61" to="72"/> <aspectTerm  target="نظام تشغيل مغربي"  polarity="positive" from="79" to="95"/> <aspectTerm  target=" بيئة متكاملة من البرامج"  polarity="positive" from="137" to="161"/> <aspectTerm  target="تعليم"  polarity="positive" from="259" to="264"/> <aspectTerm  target="برمجة"  polarity="positive" from="266" to="271"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="18">
+                    <text>تشجيع المواطنة الرقمية وتنمية الحس الوطني. كما أن الاستثمار في هذه الطاقات يعزز القوة الناعمة للمغرب ويقوي حضوره في العالم الرقمي. يمكن تحقيق ذلك عبر توفير برامج دعم وتكوينات متخصصة وتمكين الشباب من أدوات متطورة. الالتفاتة لهذه الفئة هي خطوة ضرورية لتعزيز الأمن الرقمي وحماية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المواطنة الرقمية"  polarity="positive" from="6" to="22"/> <aspectTerm  target="القوة الناعمة للمغرب"  polarity="positive" from="80" to="100"/> <aspectTerm  target="رامج دعم وتكوينات"  polarity="positive" from="157" to="174"/> <aspectTerm  target="تمكين الشباب من أدوات متطور"  polarity="positive" from="183" to="210"/> <aspectTerm  target=" الأمن الرقمي"  polarity="positive" from="255" to="268"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="19">
+                    <text>وكان أحد المعلمين الذين تخرجوا في أمس الحاجة إلى المال , وهو أرسلوه من شمال المغرب إلى جنوبه وفي الصحاري كي يدرس هناك ! وبما أنه في أمس الحاجة للمال , ووزارة التعليم لا تهتم بأمثاله قرر المعلم الانتقام من الأطفال الصغار بطريقة لا تخطر على بال ! وعلى حتى على الشياطين</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المعلمين"  polarity="negative" from="9" to="17"/> <aspectTerm  target="ووزارة التعليم"  polarity="negative" from="151" to="165"/> <aspectTerm  target="في الصحاري كي يدرس هناك"  polarity="negative" from="94" to="117"/> <aspectTerm  target="الانتقام من الأطفال"  polarity="negative" from="193" to="212"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="20">
+                    <text>يشمل عرض تقارير طبية وفواتير مزيفة للخدمات وطلب المساعدة في التعليم وتمويل العمليات الجراحية  أعاد ملف الشقيقتين المستغلتين ابنتيهما القاصرين في التسول عبر منصات التواصل الاجتماعي، النقاش حول ظاهرة التسول الرقمي في المغرب ... التفاصيل: https://assabah.ma/784166.html</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المساعدة في التعليم"  polarity="negative" from="48" to="67"/> <aspectTerm  target="التسول الرقمي"  polarity="negative" from="198" to="211"/> <aspectTerm  target=" منصات التواصل الاجتماعي"  polarity="negative" from="155" to="179"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="21">
+                    <text>#المغرب | خلال افتتاح المؤتمر الـ13 لوزراء التربية العرب في الرباط ..   .. وزير التربية الكويتي : اتخذنا خطوات جادة نحو التحول الرقمي في الخدمات الإدارية والتعليمية   .. نركز على تطوير بنية التعليم الرقمية وتحديثها وتدريب الكوادر التعليمية على استخدامها</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التحول الرقمي "  polarity="positive" from="120" to="134"/> <aspectTerm  target="الإدارية والتعليمية "  polarity="positive" from="145" to="165"/> <aspectTerm  target=" بنية التعليم الرقمية"  polarity="positive" from="184" to="205"/> <aspectTerm  target="تدريب الكوادر التعليمية"  polarity="positive" from="216" to="239"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="22">
+                    <text>عاجل .. التعليم ..   - قرَّرت وزارة التعليم، استحداث بطاقات رقميَّة ذكيَّة للطُّلاب والمعلِّمين والإداريِّين في المدارس؛ لضمان تسجيل الحضور والانصراف.   - بحيث يتمكن الطلاب عند الوصول إلى مدارسهم من مسح البطاقات عند البوابات، ويسجل النظام وقت الوصول تلقائيًّا مع تسجيل الخروج عند</text>
+                    <aspectTerms>
+                        <aspectTerm  target="بطاقات رقميَّة ذكيَّة"  polarity="positive" from="53" to="74"/> <aspectTerm  target="لطُّلاب"  polarity="positive" from="76" to="83"/> <aspectTerm  target="المعلِّمين والإداريِّين"  polarity="positive" from="85" to="108"/> <aspectTerm  target="تسجيل الحضور"  polarity="positive" from="127" to="139"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="24">
+                    <text> ما الذي يجعلنا الخيار الأفضل؟  • تعليم أونلاين متكامل: من كيجي حتى الصف الثالث الاعدادي، مع شرح مبسط وفعال لكل المواد.  • مواعيد مرنة: حصص مسائية تناسب وقت الأسرة والطلاب.  • معلمين خبراء: فريق من نخبة المدرسين المتخصصين في المناهج المصرية.  •</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تعليم أونلاين متكامل"  polarity="positive" from="34" to="54"/> <aspectTerm  target="وقت الأسرة والطلاب"  polarity="positive" from="153" to="171"/> <aspectTerm  target="معلمين خبراء"  polarity="positive" from="176" to="188"/> <aspectTerm  target="المدرسين المتخصصين"  polarity="positive" from="203" to="221"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="25">
+                    <text>التعليم الرقمي في الحواضر و غير متاح للجميع،فبالاحرى بالبوادي و القفار...واش الاخ عايش معنا في كوكب المغرب ام في شي كوكب آخر...الحل كان تاجيل الدخول باستشارة اللجنة العلمية لتحديد مدة التاجيل..</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم الرقمي في الحواضر و غير متاح للجميع"  polarity="negative" from="0" to="43"/> <aspectTerm  target="فبالاحرى بالبوادي و القفار"  polarity="negative" from="44" to="70"/> <aspectTerm  target="تاجيل الدخول"  polarity="neutral" from="136" to="148"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="26">
+                    <text>دور الأساتذة مهم جدا لكسب هذا التحدي و تكريس التعليم الرقمي في المغرب العربي بحلول سنة 2020 #MaghrebDigital #Elearning</text>
+                    <aspectTerms>
+                        <aspectTerm  target="دور الأساتذة مهم"  polarity="positive" from="0" to="16"/> <aspectTerm  target="التعليم الرقمي في المغرب العربي"  polarity="positive" from="45" to="76"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="27">
+                    <text>أكاديمية التحرير كانت موجودة في  مؤتمر التعليم الرقمي في دولة المغرب  و أستاذة هبة غنام -مدير العلاقات العامة و... http://fb.me/3zOw9qbJB</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مؤتمر التعليم الرقمي"  polarity="positive" from="33" to="53"/> <aspectTerm  target="أستاذة هبة غنام"  polarity="neutral" from="72" to="87"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="28">
+                    <text>أعلنت شركة (#سامسونج) للإلكترونيات عن تجديد إلتزامها الراسخ بتعزيز التعليم الرقمي في #المغرب.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="بتعزيز التعليم الرقمي"  polarity="positive" from="60" to="81"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="29">
+                    <text>الذي نظمته وزارة الانتقال الرقمي وإصلاح الإدارة، حضر هذا الحفل معالي الأستاذة/ غيثة مزور الوزيرة المنتدبة لدى رئيس الحكومة المكلفة بالانتقال الرقمي وإصلاح الإدارة، ومعالي الدكتور/ عبداللطيف ميراوي وزير التعليم العالي والبحث والابتكار،</text>
+                    <aspectTerms>
+                        <aspectTerm  target="وزارة الانتقال الرقمي"  polarity="neutral" from="11" to="32"/> <aspectTerm  target="الانتقال الرقمي"  polarity="neutral" from="17" to="32"/> <aspectTerm  target="وزير التعليم العالي"  polarity="positive" from="197" to="216"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="31">
+                    <text>تقنيات الذكاء الاصطناعي تعزز المشهد السياسي في المغرب المغرب يطمح إلى تشكيل إستراتيجية تحديث للأحزاب السياسية وتجويد طرق الاتصال بالمواطنين #في_العمق #الأحزاب_المغربية #الذكاء_الاصطناعي #الشباب_المغربي #العرب_اللندنية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تقنيات الذكاء الاصطناعي"  polarity="positive" from="0" to="23"/> <aspectTerm  target="الذكاء_الاصطناعي #الشباب_المغربي"  polarity="neutral" from="169" to="201"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="32">
+                    <text>رئيس الحكومة : تعميم &amp;quot;تكنولوجيا المعلومات&amp;quot; في التعليم من أهم برامج المغرب الرقمي http://fb.me/1zmWuMbFO</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تكنولوجيا المعلومات"  polarity="positive" from="22" to="41"/> <aspectTerm  target="التعليم"  polarity="positive" from="46" to="53"/> <aspectTerm  target="برامج المغرب الرقمي"  polarity="positive" from="61" to="80"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="33">
+                    <text>إطلاق المرحلة الثانية من مشروع “Samsung Innovation Campus” لدعم التعليم الرقمي في المغرب http://dlvr.it/S3WXqp</text>
+                    <aspectTerms>
+                        <aspectTerm  target="دعم التعليم"  polarity="positive" from="60" to="71"/> <aspectTerm  target=" التعليم الرقمي في المغرب"  polarity="positive" from="63" to="88"/> <aspectTerm  target="مشروع “Samsung Innovation Campus"  polarity="positive" from="25" to="57"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="34">
+                    <text>ستيفانيا جيانيني: استراتيجية &amp;quot;المغرب الرقمي 2030&amp;quot; ستساهم في توظيف الحلول الرقمية الحديثة في مجال التعليم</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم"  polarity="positive" from="97" to="104"/> <aspectTerm  target="الحلول الرقمية الحديثة"  polarity="positive" from="66" to="88"/> <aspectTerm  target="الحلول الرقمية الحديثة"  polarity="positive" from="66" to="88"/> <aspectTerm  target="استراتيجية &quot;المغرب الرقمي 2030"  polarity="positive" from="18" to="48"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="35">
+                    <text>في تغريدة سابقة حث السيد #العثماني #المغاربة على الثقة في الحكومة على قدرتها احتواء #فايروس_كورونا_المغرب  لكن  واضح أن  بيان وزارة #امزازي  في حقيقته  بيان أن حليمة ما تزال على عادتها،السؤال هل  #المغرب يتوفر على   التعليم الرقمي ؟ ام صيغة ستعوض ... تفيد بعد توفير الإمكانيات ؟</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" الحكومة "  polarity="conflict" from="57" to="66"/> <aspectTerm  target="بيان وزارة #امزازي"  polarity="negative" from="121" to="139"/> <aspectTerm  target=" التعليم الرقمي"  polarity="conflict" from="215" to="230"/> <aspectTerm  target="الإمكانيات"  polarity="negative" from="266" to="276"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="36">
+                    <text>تقيم #جامعة إبن طفيل #المغرب مركز #دراسات #الدكتوراه ندوة إقليمية حول&amp;quot; واقع وآفاق الإدماج #الرقمي في #التعليم_العالي و #البحث_العلمي بالعالم العربي&amp;quot;، من تأطير الأساتذة: - الاستاذ الدكتور #غادة_عامر، وكيل كلية… https://instagram.com/p/CAmheTJnvJT/?igshid=nn6cnnhfqbc8…</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" الإدماج #الرقمي"  polarity="positive" from="81" to="97"/> <aspectTerm  target="التعليم_العالي"  polarity="positive" from="102" to="116"/> <aspectTerm  target="البحث_العلمي"  polarity="positive" from="120" to="132"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="37">
+                    <text>&amp;quot;القرية التي أعمل فيها تعاني من تغطية ضعيفة للإنترنت، وبعض المناطق المغربية لا توجد فيها تغطية  وتجد صعوبة حتى في إجراء المكالمات الهاتفية، فكيف الحال بالإنترنت؛ كلّ هذا يؤثر على أداء الطلاب والمدرّسين&amp;quot; - يقول مدرّس من #المغرب. #عيد_المعلم #التعليم_عن_بعد</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تغطية ضعيفة للإنترنت"  polarity="negative" from="32" to="52"/> <aspectTerm  target=" أداء الطلاب والمدرّسين"  polarity="negative" from="178" to="201"/> <aspectTerm  target="التعليم_عن_بع"  polarity="negative" from="241" to="254"/> <aspectTerm  target="التعليم_عن_بعد"  polarity="negative" from="241" to="255"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="38">
+                    <text>فيديو ندوة الثقافة الرقمية والأدب الرقمي ..  المحاضرة: البروفيسورة زهور كرام ، الروائية والناقدة والأكاديمية وأستاذة التعليم العالي في المغرب ..</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الثقافة الرقمية"  polarity="positive" from="11" to="26"/> <aspectTerm  target="الأدب الرقمي"  polarity="positive" from="28" to="40"/> <aspectTerm  target="أستاذة التعليم العالي"  polarity="positive" from="110" to="131"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="39">
+                    <text>انا الذي يهمني في الأمر هو ان احيزون فشل في إيصال خط انتيرنيت عالي السرعة لكل بيت في المغرب في المدن و تمديد الألياف البصرية الى البوادي، جعل الأثمنة في متناول الجميع. المساهمة في الانتقال الرقمي للإدارة و التعليم ....لكن ما نرى هو تحويل الأرباح للمساهمين دون أي استثمار يذكر.</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" إيصال خط انتيرنيت عالي السرعة"  polarity="negative" from="43" to="73"/> <aspectTerm  target="تمديد الألياف البصرية الى البوادي"  polarity="negative" from="103" to="136"/> <aspectTerm  target="جعل الأثمنة في متناول الجميع"  polarity="negative" from="138" to="166"/> <aspectTerm  target="المساهمة في الانتقال الرقمي للإدارة و التعليم"  polarity="negative" from="168" to="213"/> <aspectTerm  target=" تحويل الأرباح للمساهمين دون أي استثمار"  polarity="negative" from="231" to="270"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="40">
+                    <text>#المغرب وزارة التربية الوطنية كانت قد أطلقت منصة http://bactv.ma كمسطحة رقمية يعتمدها تلاميذ الثانوي التأهيلي للتعلم عن بعد، وهي تضم أزيد من 700 فيديو في 10 مواد دراسية. مليون تلميذ في الثانوي التأهيلي يحتاج أن يراجع دروسه http://bactv.ma/subjects</text>
+                    <aspectTerms>
+                        <aspectTerm  target="كمسطحة رقمية"  polarity="positive" from="65" to="77"/> <aspectTerm  target="للتعلم عن بعد"  polarity="positive" from="110" to="123"/> <aspectTerm  target="تلميذ في الثانوي التأهيلي"  polarity="positive" from="176" to="201"/> <aspectTerm  target=" 700 فيديو في 10 مواد دراسية."  polarity="positive" from="140" to="169"/> <aspectTerm  target=" يراجع دروسه"  polarity="positive" from="210" to="222"/> <aspectTerm  target="وزارة التربية الوطنية"  polarity="positive" from="8" to="29"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="41">
+                    <text>المغرب يوقع مع البنك الأفريقي للتنمية أربع اتفاقيات تمويل بمبلغ إجمالي بقيمة   649.5 مليون دولار لدعم تحول الجامعات المغربية نحو الرقمنة .   النتيجة خراب في خراب و قروض لا تنتهي ... للتذكير الأموال ستذهب يمينا و شمالا و الجامعة تبقى على حالها دون رقمنة !</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" تحول الجامعات المغربية نحو الرقمنة"  polarity="negative" from="101" to="136"/> <aspectTerm  target="الجامعة تبقى على حالها دون رقمنة"  polarity="negative" from="220" to="252"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="42">
+                    <text>@Latifh_dleehan السلام عليكم .. انا معلمة صف أول ولدي مجموعة واتس للأمهات من بداية العام .. الآن اتابع طالباتي متابعة فقط لما تقوم به الأم في المنزل من قراءة وإملاء وأضيف درجات في برنامج كلاس دوجوا لأن الصغيرات يفضلنه كثيرًا كحافز لهن لعدم الانقطاع .. هل ذلك تعدٍ على النظام؟!!</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مجموعة واتس للأمهات"  polarity="neutral" from="54" to="73"/> <aspectTerm  target=" قراءة وإملاء"  polarity="neutral" from="151" to="164"/> <aspectTerm  target="أضيف درجات في برنامج كلاس دوجوا"  polarity="positive" from="166" to="197"/> <aspectTerm  target="كحافز لهن لعدم الانقطاع"  polarity="positive" from="225" to="248"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="43">
+                    <text>&amp;quot;الملزمة الإلكترونية &amp;quot;  شرح المعايير المهنية العشرة وموضوعاتها الداخلة في متطلبات الاختبار العام  للرخصة المهنية للمعلمين والمعلمات https://saudi-teachers.com/vb/t/159167/   120 ألف مشاهدة لـ  #الملزمة_الإلكترونية_لاختبار_عام_تربوي  إعداد : أ.بدر البلوي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الملزمة الإلكترونية "  polarity="positive" from="1" to="21"/> <aspectTerm  target="المعايير المهنية العشرة"  polarity="positive" from="28" to="51"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="44">
+                    <text>تقرير  @CSMDMaroc  اعتبر الرقمنة ميدان يخص جميع المجالات.. والمغرب يمكن أن يصبح رائدا على الصعيد القاري في هذا الميدان خلال 5 أو 6 سنوات   https://youtu.be/eFqVXE9EAKA</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الرقمنة"  polarity="positive" from="25" to="32"/> <aspectTerm  target="المغرب يمكن أن يصبح رائدا"  polarity="positive" from="60" to="85"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="45">
+                    <text>الأمين العام لمدرسة محمد بن راشد الرقمية لـ&amp;quot;النهار&amp;quot;: وقّعنا اتّفاقيات تستهدف 5 مليون مستفيد في أفريقيا    @WorldGovSummit</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لمدرسة محمد بن راشد الرقمية"  polarity="positive" from="13" to="40"/> <aspectTerm  target="تّفاقيات تستهدف 5 مليون مستفيد"  polarity="positive" from="61" to="91"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="46">
+                    <text>تحدّث الدكتور محمد الهلالي في قمة ”الذكاء الاصطناعي للجميع“ في #مراكش، حيث ناقش #التجارة_الإلكترونية، والشيخوخة في #المغرب، ودور #الذكاء_الاصطناعي في #التعليم و #الصحة، و #التنمية_المستدامة. والتقى بالدكتورة #مها_فؤاد، وناقش دور #أكاديمية_بناة_المستقبل_الدولية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الذكاء الاصطناعي للجميع"  polarity="positive" from="35" to="58"/> <aspectTerm  target="الذكاء_الاصطناعي في #التعليم"  polarity="positive" from="130" to="158"/> <aspectTerm  target="أكاديمية_بناة_المستقبل_الدولية"  polarity="positive" from="230" to="260"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="49">
+                    <text> المغرب يعزز قدراته التكنولوجية والعسكرية باقتناء قمر صناعي متطور من شركة #تاليس الفرنسية! خطوة استراتيجية لدعم الاتصال الآمن و تعزيز اتصال 26 دولة افريقية بالانترنت عالي السرعة و أيضا الاستعمالات العسكرية، مما يضعه في مصاف الدول المتقدمة في مجالات الاتصالات الفضائية.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المغرب يعزز قدراته التكنولوجية"  polarity="positive" from="1" to="31"/> <aspectTerm  target="اقتناء قمر صناعي متطور"  polarity="positive" from="43" to="65"/> <aspectTerm  target="الاتصال الآمن"  polarity="positive" from="112" to="125"/> <aspectTerm  target="اتصال 26 دولة افريقية بالانترنت عالي السرعة"  polarity="positive" from="134" to="177"/> <aspectTerm  target=" الاتصالات الفضائية"  polarity="positive" from="248" to="267"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="50">
+                    <text>خلقنا أساتذة لنعلمهم كل شيء في أي شيء... حتى الأدب!!!!!! قد يعلق البعض على هذا المقال بوصفي بالمغرور ...أو العنصري او حتى الكذاب لايهم ... ، لكن الحقيقة التي لا  يمكن أن ينكرها أي كان  ، هي أن المغاربة خلقوا أساتذة في كل شيء ...ومؤهلون جدا لإعطاء الدروس لعسكر الغابة المجاورة ومن</text>
+                    <aspectTerms>
+                        <aspectTerm  target="أساتذة في كل شيء"  polarity="positive" from="208" to="224"/> <aspectTerm  target="مؤهلون جدا لإعطاء الدروس"  polarity="positive" from="229" to="253"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="51">
+                    <text>يسر #وزارة_التعليم بالتعاون مع مركز التطوير المهني التعليمي دعوتكم لحضور اللقاءات التدريبية الافتراضية (Webinars)، ضمن سلسلة البرامج التدريبية لـ #منصة_مدرستي: يوم الإثنين: http://shorturl.at/owQWZ يوم الثلاثاء: http://shorturl.at/chjz4 يوم الأربعاء: http://shorturl.at/sBNQX</text>
+                    <aspectTerms>
+                        <aspectTerm  target="للقاءات التدريبية الافتراضية"  polarity="positive" from="74" to="102"/> <aspectTerm  target="منصة_مدرستي"  polarity="positive" from="147" to="158"/> <aspectTerm  target="مركز التطوير المهني التعليمي"  polarity="positive" from="31" to="59"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="52">
+                    <text>يسر #وزارة_التعليم دعوتكم لحضور اللقاءات التدريبية الافتراضية لـ #منصة_مدرستي من يوم الثلاثاء إلى يوم الخميس بتاريخ 24-26/ ربيع أول/1442هـ من الساعة 7-9 مساءً.  يوم الثلاثاء: http://shorturl.at/pAGM4 يوم الأربعاء: http://shorturl.at/pvGL9 يوم الخميس: http://shorturl.at/kltM8</text>
+                    <aspectTerms>
+                        <aspectTerm  target="اللقاءات التدريبية الافتراضية"  polarity="positive" from="32" to="61"/> <aspectTerm  target="منصة_مدرستي"  polarity="positive" from="66" to="77"/> <aspectTerm  target="وزارة_التعليم"  polarity="positive" from="5" to="18"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="53">
+                    <text>المقررات الإلكترونية المعيارية للتعليم العام؛ بُنِيت وفق معايير تضمن تكافؤ الفرص التعليمية للطلاب بإتاحة المقرر الإلكتروني للجميع، والحصول على تجربة تعليمية موحدة.  للاطلاع على دليل استخدام المقررات الإلكترونية:  https://backtoschool.sa/n/page/ebooks.html…</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المقررات الإلكترونية المعيارية"  polarity="positive" from="0" to="30"/> <aspectTerm  target=" تكافؤ الفرص التعليمية"  polarity="positive" from="68" to="90"/> <aspectTerm  target="تجربة تعليمية موحدة"  polarity="positive" from="143" to="162"/> <aspectTerm  target=" استخدام المقررات الإلكترونية"  polarity="positive" from="181" to="210"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="54">
+                    <text>#وزير_التعليم: وجود منصة وطنية محلية مصممة بكوادر وطنية، ومملوكة من قبل وزارة التعليم؛ هو خيار استراتيجي كان لابد للوزارة من تبنيه لضمان استمرارية التعليم عن بُعد، ونخطط للمستقبل برؤية مختلفة ومستدامة.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="منصة وطنية محلية "  polarity="positive" from="20" to="37"/> <aspectTerm  target="كوادر وطنية"  polarity="positive" from="44" to="55"/> <aspectTerm  target="استمرارية التعليم عن بُعد"  polarity="positive" from="137" to="162"/> <aspectTerm  target="رؤية مختلفة ومستدامة"  polarity="positive" from="180" to="200"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="55">
+                    <text>#يحدث_الآن... ينظم #المركز_الوطني_للتعليم_الإلكتروني لقاءً عن بُعد (webinar) بعنوان: &amp;quot;المدرسة الافتراضية نموذجاً للتعليم عن بُعد في التعليم العام&amp;quot;، ولمتابعة اللقاء عبر الرابط التالي: https://m.youtube.com/watch?v=svSFs_3Ba3k…</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المدرسة الافتراضية"  polarity="positive" from="86" to="104"/> <aspectTerm  target="للتعليم عن بُعد"  polarity="positive" from="113" to="128"/> <aspectTerm  target="المركز_الوطني_للتعليم_الإلكتروني"  polarity="positive" from="20" to="52"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="56">
+                    <text>يُنفّذ المعهد الوطني للتطوير المهني التعليمي  @niepd_edu  برنامج &amp;quot;تنمية القدرات الرقمية لمعلمي ومعلمات الحاسب الآلي&amp;quot;، والذي يستهدف تنمية المهارات التقنية لأكثر من 6.700 معلم ومعلمة.. في المجالات التقنية الواعدة، مثل: الذكاء الاصطناعي، الأمن السيبراني، علم البيانات، الحوسبة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تنمية القدرات الرقمية"  polarity="positive" from="66" to="87"/> <aspectTerm  target="معلمي ومعلمات"  polarity="positive" from="89" to="102"/> <aspectTerm  target="الذكاء الاصطناعي"  polarity="positive" from="217" to="233"/> <aspectTerm  target="الأمن السيبراني"  polarity="positive" from="235" to="250"/> <aspectTerm  target="علم البيانات"  polarity="positive" from="252" to="264"/> <aspectTerm  target="المعهد الوطني للتطوير المهني التعليمي"  polarity="positive" from="7" to="44"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="57">
+                    <text>الآن ...  تعلم أساسيات #التعلم_الإلكتروني بـ 8 دورات تدريبية للتعلم الذاتي يقدمها #المركز_الوطني_للتعليم_الإلكتروني بشكل متاح ومفتوح لجميع المهتمين من خلال الرابط التالي : https://goo.gl/TQY7Jx  تنبيه : يلزم استخدام متصفح يدعم خاصية &amp;quot;الفلاش&amp;quot;</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعلم_الإلكتروني"  polarity="positive" from="24" to="41"/> <aspectTerm  target="دورات تدريبية للتعلم الذاتي"  polarity="positive" from="47" to="74"/> <aspectTerm  target="المركز_الوطني_للتعليم_الإلكتروني"  polarity="positive" from="83" to="115"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="58">
+                    <text>تعلن وزارة التربية عن البدء في استحداث الدروس والمواد العلمية والمراجعات الموجودة على المنصات التعليمية والقناة التربوية التابعة للوزارة. وتؤكد وزارة التربية أن المتعلم والمعلم يمتلكان كل الإمكانيات للدراسة عن بعد من خلال القناة التربوية التي تم البدء في بثها منذ عام 2013 وسجلت</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الدروس والمواد العلمية"  polarity="positive" from="39" to="61"/> <aspectTerm  target="المنصات التعليمية "  polarity="positive" from="86" to="104"/> <aspectTerm  target="القناة التربوية"  polarity="positive" from="105" to="120"/> <aspectTerm  target="لدراسة عن بعد"  polarity="positive" from="200" to="213"/> <aspectTerm  target="المتعلم والمعلم يمتلكان كل الإمكانيات"  polarity="positive" from="161" to="198"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="59">
+                    <text>#وزارة_التعليم | المعهد الوطني للتطوير المهني ||  يُعلن عن دورات تدريبية محتسبة في نقاط #التطوير_المهني ..  • البرامج التربوية و PISA بدأت. • البرامج التخصصية تبدأ بتاريخ: 1446/01/22ﮪ - 2024/07/28م.  • طريقة التسجيل: https://app.arcade.software/share/bxNJy771avVUQfmjpSS0?ref=share-link…  • رابط الدورات:</text>
+                    <aspectTerms>
+                        <aspectTerm  target="PISA"  polarity="neutral" from="129" to="133"/> <aspectTerm  target=" للتطوير المهني"  polarity="positive" from="30" to="45"/> <aspectTerm  target="دورات تدريبية"  polarity="positive" from="59" to="72"/> <aspectTerm  target="التطوير_المهني "  polarity="positive" from="89" to="104"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="60">
+                    <text>شكراً على تواصلكم معنا،  نود التأكيد على أن وزارة التربية والتعليم حددت موجهات واضحة لتنفيذ المشاريع خلال الحصة الدراسية وباستخدام الموارد المتاحة داخل المدرسة فقط دون الحاجة للاستعانة بمصادر أو مواد قد تشكل عبئاً مالياً إضافياً على الطالب.   سيتم التواصل معكم على الخاص لأخذ</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تنفيذ المشاريع"  polarity="positive" from="86" to="100"/> <aspectTerm  target="الحصة الدراسية"  polarity="neutral" from="106" to="120"/> <aspectTerm  target="الموارد المتاحة داخل المدرسة"  polarity="positive" from="131" to="159"/> <aspectTerm  target="عبئاً مالياً إضافياً على الطالب"  polarity="negative" from="208" to="239"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="61">
+                    <text>#وزراة_التعليم : يسرنا حضوركم غداً الأربعاء للتدريب الإلكتروني المباشر  (Webinars) الثاني؛ للتعريف بـ #منصة_مدرستي. والدخول من خلال الباركود، أو الروابط المباشرة:  الفترة الأولى http://shorturl.at/EFPS5 الفترة الثاني http://shorturl.at/acDP8 الفترة الثالثة http://shorturl.at/drBCK</text>
+                    <aspectTerms>
+                        <aspectTerm  target="منصة_مدرستي"  polarity="positive" from="103" to="114"/> <aspectTerm  target="Webinars"  polarity="positive" from="73" to="81"/> <aspectTerm  target=" للتدريب الإلكتروني"  polarity="positive" from="43" to="62"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="62">
+                    <text>تدرس وزارة التربية وضع خطط لإعداد منصه تعليمية يتوفر من خلالها مصادر تعلم متنوعه تعزز التعلم الذاتي، إضافة إلى فصول افتراضية، يمكن للمعلم فيها التسجيل لفتح فصل مادة دراسية في ساعة معينة وإبلاغ الطلبة للدخول في الفصل وتلقي الدرس،</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" منصه تعليمية"  polarity="positive" from="33" to="46"/> <aspectTerm  target="مصادر تعلم متنوعه"  polarity="positive" from="63" to="80"/> <aspectTerm  target="التعلم الذاتي"  polarity="positive" from="86" to="99"/> <aspectTerm  target="فصول افتراضية"  polarity="positive" from="111" to="124"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="63">
+                    <text>الشروع في الإستغلال التجريبي لـ #النظام_المعلوماتي لقطاع التربية الوطنية، ابتداء من يوم غد 25 فيفري 2018، حيث سيتم تقديم #الخدمات_الالكترونية التالية:  - استخراج مجمل الخدمات لكل موظف يعمل بالقطاع. - استمارة المعلومات للتلاميذ. - الشهادة المدرسية. - طبع دليل المؤسسات التعليمية.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لنظام_المعلوماتي"  polarity="positive" from="34" to="50"/> <aspectTerm  target="الخدمات_الالكترونية"  polarity="positive" from="122" to="141"/> <aspectTerm  target="استمارة المعلومات للتلاميذ"  polarity="positive" from="200" to="226"/> <aspectTerm  target="الشهادة المدرسية"  polarity="positive" from="230" to="246"/> <aspectTerm  target="دليل المؤسسات التعليمية"  polarity="positive" from="254" to="277"/> <aspectTerm  target="ستخراج مجمل الخدمات لكل موظف"  polarity="positive" from="155" to="183"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="64">
+                    <text>للمعلمين والمعلمات:-  إليكم ملفات مهمة ومفيدة للرخصة المهنية:  حقائب تدريبية وزارية:  https://drive.google.com/drive/mobile/folders/1rMdogxTh0bYGUQEIAOP1o1Cd5QxYQdRs?usp=drive_open…  ٢- رابط للاختبارات التجريبية  https://arab-exams.com  ٣- معلومات هامة للكوادر الادارية والتعليمية   https://arab-exams.com  منقول للفائدة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="للرخصة المهنية"  polarity="positive" from="46" to="60"/> <aspectTerm  target="حقائب تدريبية وزارية"  polarity="positive" from="63" to="83"/> <aspectTerm  target="للاختبارات التجريبية"  polarity="positive" from="191" to="211"/> <aspectTerm  target="معلومات هامة للكوادر الادارية والتعليمية"  polarity="positive" from="240" to="280"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="65">
+                    <text>سلبيات وإيجابيات الانترنت على الأطفال : الانترنت أصبح له دور فعال ورئيس في حياة الشعوب اليوم، واستغل في معظم دول العالم وشعوبه في معظم مناحي الحياة المختلفة ويتزايد استخدامه والاستفادة منه واستغلاله  بشكل كبير،حتى صار وسيلة من أهم وسائل تسهيل وتيسير وتسريع إنجاز المعاملات اليومية</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" الانترنت"  polarity="positive" from="16" to="25"/> <aspectTerm  target="تسهيل وتيسير وتسريع إنجاز المعاملات اليومية"  polarity="positive" from="237" to="280"/> <aspectTerm  target="الانترنت أصبح له دور فعال ورئيس في حياة الشعوب اليوم،"  polarity="positive" from="40" to="93"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="66">
+                    <text> للمعلمين والمهتمين بالعروض التقديمية: رابط يتم تحديثه باستمرار يوفر حقائب تدريبية في مجال التربية والتعليم(القيادة التربوية، التعلم التعاوني، الذكاء، تنمية مهارات الاتصال، تقدير الأولويات، الإنجاز الالكتروني وغيرها...)   الرابط: https://goo.gl/sJLVVw</text>
+                    <aspectTerms>
+                        <aspectTerm  target="حقائب تدريبية"  polarity="positive" from="69" to="82"/> <aspectTerm  target="القيادة التربوية"  polarity="positive" from="108" to="124"/> <aspectTerm  target="التعلم التعاوني"  polarity="positive" from="126" to="141"/> <aspectTerm  target="تنمية مهارات الاتصال"  polarity="positive" from="151" to="171"/> <aspectTerm  target="الإنجاز الالكتروني"  polarity="positive" from="190" to="208"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="67">
+                    <text>#هنا أوضح بعض النقاط في تطوير وتحسين جودة #التعليم في البلد راجين من الله التوفيق والسداد ومن القائمين على هذه المنظومه التعليمية الأخذ بهذه النقاط الرئيسية بعين الاعتبار   أولا التعليم هو منارة الأجيال ولا بد من تطويره ليتوائم مع متطلبات العصر الحديث ومستجداته، ومن سبل تطويره :-</text>
+                    <aspectTerms>
+                        <aspectTerm  target="جودة #التعليم"  polarity="positive" from="37" to="50"/> <aspectTerm  target="القائمين على هذه المنظومه التعليمية"  polarity="neutral" from="94" to="129"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="68">
+                    <text>التكنولوجيا والابتكار ركيزتان أساسيتان في بناء مستقبل أكثر ازدهاراً واستدامة، حيث يسهمان في تحسين جودة الحياة إضافةً إلى تطوير قطاعات حيوية مثل الصحة والتعليم والاقتصاد.  لكن، إلى أي مدى يمكن لهما تشكيل عالم أكثر استدامة؟ وهل سيكون لهما دور حاسم في مواجهة تحديات المستقبل؟  ملتقى</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التكنولوجيا"  polarity="positive" from="0" to="11"/> <aspectTerm  target="الابتكار"  polarity="positive" from="13" to="21"/> <aspectTerm  target="تطوير قطاعات حيوية مثل الصحة والتعليم "  polarity="positive" from="121" to="159"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="70">
+                    <text>إن التركيز على الجانب العلمي فقط في التدريس لا يكفي لتحقيق النجاح.فالمعلم الناجح يحتاج أيضا إلى امتلاك مهارات تواصل فعالة، مثل الاستماع الجيد وإدارة الصف، وتوفير بيئة تعليمية محفزة، ودعم الطلاب وتعزيز ثقتهم بأنفسهم وغيرها، فالتكامل بين المعرفة العلمية والمهارات هو أساس التعليم</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الجانب العلمي"  polarity="neutral" from="15" to="28"/> <aspectTerm  target="لمعلم الناجح"  polarity="positive" from="68" to="80"/> <aspectTerm  target="مهارات تواصل فعالة"  polarity="positive" from="103" to="121"/> <aspectTerm  target="الاستماع الجيد"  polarity="positive" from="127" to="141"/> <aspectTerm  target="إدارة الصف"  polarity="positive" from="143" to="153"/> <aspectTerm  target="بيئة تعليمية محفزة"  polarity="positive" from="162" to="180"/> <aspectTerm  target="دعم الطلاب"  polarity="positive" from="183" to="193"/> <aspectTerm  target="تعزيز ثقتهم بأنفسهم"  polarity="positive" from="195" to="214"/> <aspectTerm  target="التكامل بين المعرفة العلمية والمهارات"  polarity="positive" from="224" to="261"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="71">
+                    <text>طلابنا يتعلمون منَّا لكنهم لا يحققون نتائج ..  يحدثني معلم   &amp;quot; أنا متأكد أن ثلاثة أرباع الطلاب بنهاية الحصة حققوا معي أهداف الدرس ، لكن نتائجهم ضعيفة &amp;quot;  هذا واقع في مدارسنا ..  ولو كانت المراجعةوحدة أساسية بعد نهاية كل درس وليس فقرات مراجعة هنا وهناك لكان من الممكن أن نحقق نتائج</text>
+                    <aspectTerms>
+                        <aspectTerm  target="طلابنا يتعلمون منَّا"  polarity="negative" from="0" to="20"/> <aspectTerm  target="أهداف الدرس "  polarity="positive" from="118" to="130"/> <aspectTerm  target="نتائجهم ضعيفة"  polarity="negative" from="136" to="149"/> <aspectTerm  target="المراجعةوحدة أساسية بعد نهاية كل درس"  polarity="positive" from="186" to="222"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="72">
+                    <text>أمثلة تطبيقية حسب المواد الدراسية   1. في مادة اللغة العربية • الهدف: تحسين مهارات تحليل النصوص. • التطبيق: اطلب من الطلاب قراءة فقرة قصيرة، ثم التفكير في المعنى، ثم مناقشته مع زميل، وأخيرًا مشاركة التفسيرات مع الفصل.   2. في مادة الرياضيات • الهدف: تعزيز الفهم</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تحسين مهارات تحليل النصوص"  polarity="positive" from="70" to="95"/> <aspectTerm  target="التفكير في المعنى"  polarity="positive" from="144" to="161"/> <aspectTerm  target="مناقشته مع زميل"  polarity="positive" from="166" to="181"/> <aspectTerm  target="مشاركة التفسيرات مع الفصل"  polarity="positive" from="191" to="216"/> <aspectTerm  target="تعزيز الفهم"  polarity="positive" from="250" to="261"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="73">
+                    <text>فكرة الأسئلة المركزية غير صحيحة من حيث المبدأ لأن الذي يضع الأسئلة لايعرف التلاميذ ولا يعرف مستوياتهم ولا يعرف قياس المستوى التحصيلي لدى التلاميذ وإن كان مشرفا فقد ابتعد عن المقرر ردحا من الزمن وعمله إداري ( مجرد موزع بريد يوه ) ونشير هنا إلى فكرة أساسية ومهمة ينبغي أن يعرفها كل</text>
+                    <aspectTerms>
+                        <aspectTerm  target="يضع الأسئلة"  polarity="negative" from="55" to="66"/> <aspectTerm  target="ايعرف التلاميذ ولا يعرف مستوياتهم"  polarity="negative" from="68" to="101"/> <aspectTerm  target="لا يعرف قياس المستوى التحصيلي لدى التلاميذ"  polarity="negative" from="103" to="145"/> <aspectTerm  target="مشرفا"  polarity="negative" from="154" to="159"/> <aspectTerm  target="ابتعد عن المقرر"  polarity="negative" from="164" to="179"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="74">
+                    <text>تطوير قدرات المعلمين وتعزيز الأنشطة التربوية  إدراكًا لأهمية دور المعلم في بناء وعي الطلاب، تم تنفيذ برامج تدريبية مكثفة للمعلمين حول كيفية نشر ثقافة الحوار وتعزيز التفكير النقدي داخل الفصول الدراسية.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تطوير قدرات المعلمين"  polarity="positive" from="0" to="20"/> <aspectTerm  target="وتعزيز الأنشطة التربوية"  polarity="positive" from="21" to="44"/> <aspectTerm  target="برامج تدريبية مكثفة للمعلمين"  polarity="positive" from="101" to="129"/> <aspectTerm  target=" ثقافة الحوار"  polarity="positive" from="143" to="156"/> <aspectTerm  target="تعزيز التفكير النقدي"  polarity="positive" from="158" to="178"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="75">
+                    <text>2. **التكامل بين المواد الدراسية**: تعزيز الفهم العميق لكيفية دمج التكنولوجيا في تعلم اللغة وتطبيقها في مواقف الحياة الواقعية. 3. **تبادل الخبرات**: اكتساب المعلم والطلبة  أفكار وأساليب تدريسية جديدة لتحسين جودة التعليم.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التكامل بين المواد الدراسية"  polarity="positive" from="5" to="32"/> <aspectTerm  target="دمج التكنولوجيا في تعلم اللغة"  polarity="positive" from="62" to="91"/> <aspectTerm  target="طبيقها في مواقف الحياة"  polarity="positive" from="94" to="116"/> <aspectTerm  target="تحسين جودة التعليم"  polarity="positive" from="201" to="219"/> <aspectTerm  target=" اكتساب المعلم والطلبة"  polarity="positive" from="148" to="170"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="76">
+                    <text>المنهج الدراسي التقني ومآزق العقل المهني  إن التكوين المهني، بوصفه استجابة معاصرة لاحتياجات #سوق_العمل، لا يعدو أن يكون ضرباً من المواءمة الوجودية بين الفرد والمحيط الصناعي، بين المتعلم وأدوات إنتاجه، بين الذهن وبرمجته التقنية. غير أن هذا التشكيل المهني، الذي تتبناه النظم</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المنهج الدراسي التقني"  polarity="neutral" from="0" to="21"/> <aspectTerm  target="التكوين المهني"  polarity="neutral" from="45" to="59"/> <aspectTerm  target="المتعلم وأدوات إنتاجه"  polarity="positive" from="178" to="199"/> <aspectTerm  target=" التشكيل المهني، الذي تتبناه النظم"  polarity="conflict" from="238" to="272"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="Neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="77">
+                    <text>اهتمامي حالياً متوجه لتمكين معلمة رياض الاطفال من التقنية  وتوصلت إلى اهم البرامج التي تحتاجها المعلمة &amp;quot;أو تطورها&amp;quot; في العملية التدريسية: - ChatGPT ( دعمك بالمعلومات المهمة عن الوحدات وتصميم أوراق عمل )  -برنامج Quiver ( رسومات الواقع المعزز ) - تطبيقات قوقل ( جميع مستنداتك</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لتمكين معلمة رياض الاطفال من التقنية"  polarity="positive" from="21" to="57"/> <aspectTerm  target="ChatGPT"  polarity="positive" from="139" to="146"/> <aspectTerm  target="Quiver ( رسومات الواقع المعزز"  polarity="positive" from="211" to="240"/> <aspectTerm  target="تطبيقات قوقل"  polarity="positive" from="245" to="257"/> <aspectTerm  target="العملية التدريسية"  polarity="positive" from="118" to="135"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="78">
+                    <text>4. **تعزيز التعاون**: بناء علاقات تعاون بين المعلمين والطلبة في مجالات متنوعة، مما يزيد من التفاهم والتكامل بين المواد الدراسية. 5. **تحفيز الطلبة : إلهام الطلبة لاستكشاف استخدام التكنولوجيا في مجالات أخرى من دراستهم وحياتهم اليومية.</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" تعاون بين المعلمين والطلبة"  polarity="positive" from="33" to="60"/> <aspectTerm  target="التفاهم والتكامل بين المواد الدراسية"  polarity="positive" from="91" to="127"/> <aspectTerm  target="تحفيز الطلبة"  polarity="positive" from="134" to="146"/> <aspectTerm  target="لاستكشاف استخدام التكنولوجيا"  polarity="positive" from="162" to="190"/> <aspectTerm  target="دراستهم وحياتهم اليومية"  polarity="positive" from="209" to="232"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="79">
+                    <text>وتبرز أهمية هذه النتائج في أنها:  • تساعد في تقييم الفروقات بين الجامعات وتحليل جودة البرامج الإلكترونية مما يساهم في تطوير سياسات تعليمية تعزز التكافؤ في فرص التعلم. • تمكن من تصميم محتوى تعليمي متكيف يناسب أصحاب المؤهلات الأكاديمية العليا ويعكس احتياجاتهم العلمية بشكل أكثر</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تقييم الفروقات بين الجامعات"  polarity="neutral" from="45" to="72"/> <aspectTerm  target="تحليل جودة البرامج الإلكترونية"  polarity="positive" from="74" to="104"/> <aspectTerm  target="التكافؤ في فرص التعلم"  polarity="positive" from="144" to="165"/> <aspectTerm  target=" تصميم محتوى تعليمي"  polarity="positive" from="176" to="195"/> <aspectTerm  target=" المؤهلات الأكاديمية العليا"  polarity="positive" from="213" to="240"/> <aspectTerm  target=" المؤهلات الأكاديمية العليا"  polarity="positive" from="213" to="240"/> <aspectTerm  target="احتياجاتهم العلمية"  polarity="positive" from="247" to="265"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="80">
+                    <text>#التعليم المعلم كائن لطيف يصرف من جيبه للقيام بالكثير من أعماله مثل : جهاز مدرسي ( لابتوب) يقوم على أداء مهام عمله. انترنت للقيام بمهام المنصة والأعمال عن بعد. بعض الجوائز والتحفيزات للطلاب. البعض كمان تصوير أوراق عمل وشراء أدوات لخدمة سير الدرس.  واجتماعياََ : التواصل مع ولي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="جهاز مدرسي ( لابتوب)"  polarity="neutral" from="70" to="90"/> <aspectTerm  target="المعلم كائن لطيف"  polarity="neutral" from="9" to="25"/> <aspectTerm  target="انترنت للقيام بمهام المنصة"  polarity="neutral" from="116" to="142"/> <aspectTerm  target="لجوائز والتحفيزات للطلاب"  polarity="positive" from="165" to="189"/> <aspectTerm  target="شراء أدوات"  polarity="neutral" from="219" to="229"/> <aspectTerm  target="التواصل مع ولي"  polarity="positive" from="262" to="276"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="81">
+                    <text>أن تطالب الطالب بمهارة ليست في المنهج أو لم تلقن له و يدرب عليها بشكل صحيح و كافي فهذا ظلم واضح و عيب فاضح. المصلح الواعي يبدأ ضبط البيئة المدرسية (منهج،معمل،معلم)من الروضة ثم الابتدائي و هكذا بشكل تراكمي ومتدرج ومتصل يراعي السن و احتياج المرحلة العرية بلا إفراط ولا تفريط</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تطالب الطالب بمهارة ليست في المنهج"  polarity="negative" from="3" to="37"/> <aspectTerm  target="ضبط البيئة المدرسية"  polarity="positive" from="127" to="146"/> <aspectTerm  target="الروضة ثم الابتدائي"  polarity="positive" from="166" to="185"/> <aspectTerm  target=" احتياج المرحلة العرية"  polarity="positive" from="230" to="252"/> <aspectTerm  target="منهج"  polarity="neutral" from="33" to="37"/> <aspectTerm  target="معلم"  polarity="neutral" from="158" to="162"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="82">
+                    <text>#وزير_التعليم :   %40 من مهارات العمل ستتغير جذريا والذكاء الاصطناعي سيكون مسؤولا عن ما يقارب 70% من ممارسات الأعمال عالميا .  فعلاً الذكاء الاصطناعي قادم بقوه في مجال التعليم على سبيل المثال هذه الأداه في التغريدة المقتبسه التي تساعد المعلمين في اعداد دورسهم وغيرها الكثير ففي</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" مهارات العمل"  polarity="neutral" from="24" to="37"/> <aspectTerm  target="الذكاء الاصطناعي"  polarity="positive" from="52" to="68"/> <aspectTerm  target="مجال التعليم "  polarity="positive" from="163" to="176"/> <aspectTerm  target=" تساعد المعلمين"  polarity="positive" from="228" to="243"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="83">
+                    <text>للمعلمين والمعلمات :  أداة للذكاء الإصطناعي تقوم بمساعدتك عند إعداد دروسك .  مهام الأداة : ينشيء محتوى لأي درس حسب المرحلة الدراسية . ينشئ مداخل للدرس  شرح وتوضيح للمفاهيم. انشاء أسئلة اختيار من متعدد انشاء أسئلة الاجابات القصيرة   https://beta.diffit.me/#topic</text>
+                    <aspectTerms>
+                        <aspectTerm  target="أداة للذكاء الإصطناعي"  polarity="positive" from="22" to="43"/> <aspectTerm  target=" إعداد دروسك"  polarity="positive" from="61" to="73"/> <aspectTerm  target="ينشيء محتوى "  polarity="positive" from="91" to="103"/> <aspectTerm  target="مداخل للدرس"  polarity="positive" from="139" to="150"/> <aspectTerm  target="شرح وتوضيح للمفاهيم"  polarity="positive" from="152" to="171"/> <aspectTerm  target="أسئلة اختيار"  polarity="positive" from="179" to="191"/> <aspectTerm  target="الاجابات القصيرة"  polarity="positive" from="213" to="229"/> <aspectTerm  target=" التعليم العالي في العالم العربي"  polarity="positive" from="31" to="63"/> <aspectTerm  target="الأردن_يتقدم"  polarity="positive" from="66" to="78"/> <aspectTerm  target="التعليم العالي في العالم العربي"  polarity="positive" from="32" to="63"/> <aspectTerm  target="الأردن حصل على المركز الثاني"  polarity="positive" from="0" to="28"/> <aspectTerm  target="لتعليم العالي في العالم العربي"  polarity="positive" from="33" to="63"/> <aspectTerm  target="المركز الثاني في التعليم العالي"  polarity="positive" from="15" to="46"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="84">
+                    <text>في أولى خطواته للحضور بالمدارس كمنهج تدريسي، انطلق الذكاء الاصطناعي بدورات تدريبية تُنظمها وزارة التربية للمعلمات في لغة البايثون، بإشراف التوجيه الفني للحاسوب في المناطق التعليمية، حيث تهدف الدورات إلى إلى تطوير أساليب تدريس علوم الحاسوب والبرمجة.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الذكاء الاصطناعي"  polarity="positive" from="51" to="67"/> <aspectTerm  target="دورات تدريبية"  polarity="positive" from="69" to="82"/> <aspectTerm  target="لغة البايثون"  polarity="positive" from="117" to="129"/> <aspectTerm  target="تطوير أساليب"  polarity="positive" from="207" to="219"/> <aspectTerm  target="تدريس علوم الحاسوب والبرمجة"  polarity="positive" from="220" to="247"/> <aspectTerm  target="التعليم الرقمي"  polarity="neutral" from="39" to="53"/> <aspectTerm  target="التعليم_الالكتروني في العالم العربي"  polarity="positive" from="72" to="107"/> <aspectTerm  target="معرض التعليم الرقمي"  polarity="positive" from="34" to="53"/> <aspectTerm  target=" معرض التعليم الرقمي"  polarity="positive" from="33" to="53"/> <aspectTerm  target="التعليم_الالكتروني"  polarity="positive" from="72" to="90"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="85">
+                    <text>الخلل قد يكون في أي من الأطراف الثلاثة أو في تفاعلها معًا. دعنا نحلل الأمر: 1.المعلم: قد يكون متمكّنًا أكاديميًا لكنه يفتقر إلى مهارات التدريس الفعالة، مثل القدرة على تبسيط المعلومات، والتواصل مع الطلاب، وتحفيزهم. فالإلمام بالمادة لا يعني القدرة على إيصالها بفاعلية. يتبع &amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المعلم"  polarity="neutral" from="78" to="84"/> <aspectTerm  target="متمكّنًا أكاديميًا"  polarity="positive" from="94" to="112"/> <aspectTerm  target="مهارات التدريس الفعالة"  polarity="negative" from="128" to="150"/> <aspectTerm  target="القدرة على تبسيط المعلومات"  polarity="negative" from="156" to="182"/> <aspectTerm  target="التواصل مع الطلاب"  polarity="negative" from="185" to="202"/> <aspectTerm  target="الإلمام بالمادة"  polarity="positive" from="215" to="230"/> <aspectTerm  target="القدرة على إيصالها بفاعلية"  polarity="negative" from="239" to="265"/> <aspectTerm  target="التعلم عن بعد"  polarity="positive" from="68" to="81"/> <aspectTerm  target=" الدول المتقدمة"  polarity="positive" from="116" to="131"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="86">
+                    <text>رغم أن الممكنات الرقمية تُعد وسيلة فاعلة لسد الفجوة في التعليم، إلا أن الإفراط في الاعتماد عليها قد يؤدي إلى تقليل التفاعل بين المعلم والطالب، مما يؤثر على تنمية مهارات التفكير النقدي والتواصل... كما أن التفاوت في الوصول إلى الأجهزة والإنترنت قد يزيد من الفجوة التعليمية بدلاً من</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" الممكنات الرقمية"  polarity="positive" from="6" to="23"/> <aspectTerm  target="الإفراط في الاعتماد عليها"  polarity="negative" from="71" to="96"/> <aspectTerm  target="التفاعل بين المعلم والطالب"  polarity="negative" from="115" to="141"/> <aspectTerm  target=" تنمية مهارات التفكير النقدي والتواصل"  polarity="negative" from="155" to="192"/> <aspectTerm  target=" التفاوت في الوصول إلى الأجهزة والإنترنت"  polarity="negative" from="202" to="242"/> <aspectTerm  target=" التفاوت في الوصول إلى الأجهزة والإنترنت"  polarity="negative" from="202" to="242"/> <aspectTerm  target=" الفجوة التعليمية"  polarity="negative" from="253" to="270"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="87">
+                    <text>أوجه بناتي في الجامعة إلى دخول المنصة من جهاز الكمبيوتر وليس من الأجهزة الذكية إلا للضرورة، وماكان عندي مستند علمي. اليوم وجدت دراسة علمية لفريق بحث من فرنسا وأستراليا والصين أسفرت نتائجها عن: زيادة التحصيل الدراسي للطلاب الذين يستخدمون جهاز الكمبيوتر مقارنة بطلاب الأجهزة الذكية.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="جهاز الكمبيوتر"  polarity="positive" from="41" to="55"/> <aspectTerm  target="الأجهزة الذكية"  polarity="negative" from="64" to="78"/> <aspectTerm  target=" التحصيل الدراسي"  polarity="positive" from="198" to="214"/> <aspectTerm  target="دراسة علمية"  polarity="positive" from="127" to="138"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="88">
+                    <text>أثر التعليم والتفكير النقدي تحت قوانين منظمة:  تُعتبر المؤسسات التعليمية منصات حيوية لتعزيز التفكير النقدي والإبداع. من خلال توفير بيئة تعليمية تشجع على الحوار والنقاش تحت قوانين منظمة وعدم خلق فوضى، يمكن للطلاب تطوير مهارات تحليلية تُساعدهم في فهم تعقيدات الحياة الاجتماعية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التفكير النقدي"  polarity="positive" from="13" to="27"/> <aspectTerm  target=" المؤسسات التعليمية"  polarity="positive" from="53" to="72"/> <aspectTerm  target="بيئة تعليمية"  polarity="positive" from="131" to="143"/> <aspectTerm  target="قوانين منظمة"  polarity="positive" from="32" to="44"/> <aspectTerm  target=" يمكن للطلاب تطوير مهارات تحليلية"  polarity="positive" from="199" to="232"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="89">
+                    <text>أهم التقنيات والتطبيقات  التي تستخدم في عملية التعليم أكثر من 30 أداة تقنية مهمة جداً للمعلمين و الأكاديميين هنا في هذا الرابط شرح لها: https://drive.google.com/drive/u/0/mobile/folders/0B98-MWCBgeIjLU9ESjMwR1pvejg…</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" التقنيات"  polarity="positive" from="3" to="12"/> <aspectTerm  target="التطبيقات"  polarity="positive" from="14" to="23"/> <aspectTerm  target="عملية التعليم"  polarity="positive" from="40" to="53"/> <aspectTerm  target="أداة تقنية مهمة جداً للمعلمين"  polarity="positive" from="65" to="94"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="91">
+                    <text>وزارة التعليم  تقرر تدريس مادة المهارات الرقمية (الحاسب الآلي) لطلاب وطالبات الصفين الخامس والسادس الابتدائي بداية من العام الدراسي المقبل 1442 هـ. .  . السعودية .</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تدريس مادة المهارات الرقمية"  polarity="positive" from="20" to="47"/> <aspectTerm  target=" لطلاب وطالبات الصفين الخامس والسادس الابتدائي"  polarity="positive" from="62" to="108"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="92">
+                    <text>مقالي في #صحيفة_النهار_السعودية بعنوان “التعليم في مواجهة التحول الرقمي”، يتناول التحول من التعليم التقليدي إلى الرقمي، وكيف يمكن دمج النموذجين في تكامل استراتيجي لبناء منظومة تعليمية مرنة تواكب المستقبل. #التعليم_الرقمي #التحول_الرقمي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التحول من التعليم التقليدي إلى الرقمي"  polarity="positive" from="81" to="118"/> <aspectTerm  target="دمج النموذجين في تكامل استراتيجي"  polarity="positive" from="130" to="162"/> <aspectTerm  target="لبناء منظومة تعليمية مرنة"  polarity="positive" from="163" to="188"/> <aspectTerm  target="تواكب المستقبل"  polarity="positive" from="189" to="203"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="93">
+                    <text>#التعليم في مواجهة التحول الرقمي  #بقلم: محمد السويعي @MAlsuwaie  لـ #صحيفة_النهار_السعودية   #مقالات_النهار_السعودية  https://annahar-news.com/news/single/20170…</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم في مواجهة التحول الرقمي"  polarity="positive" from="1" to="32"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="94">
+                    <text>مواقع عربية تعليمية سبق وتكلمت عنها راح تفيدكم في اعداد الدروس للتعليم عن بعد أو التعليم المنزلي  • مدينة الأطفال  http://medinakids.com - • أتعلم وألعب  https://learnwplay.com - • موقع أ ب ت  https://alefbata.com - • موقع بالعربي  https://belarabyapps.com https://pic.x.com/zFVFbOKwQN</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مواقع عربية تعليمية"  polarity="positive" from="0" to="19"/> <aspectTerm  target="تفيدكم في اعداد الدروس"  polarity="positive" from="40" to="62"/> <aspectTerm  target="تفيدكم في اعداد الدروس"  polarity="positive" from="40" to="62"/> <aspectTerm  target="التعليم المنزلي"  polarity="positive" from="81" to="96"/> <aspectTerm  target="مدينة الأطفال"  polarity="positive" from="100" to="113"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="95">
+                    <text>من خلال دمج التقنيات الرقمية، يتمتع المعلمون بأدوات تعليمية مخصصة لتحسين تجربة التعلم ما يساعد في إعداد الطلاب للمستقبل مع تمكين المعلمين.  التحق بدورة: تصميم الدروس في بيئات التعلم الافتراضية  سجل الآن! https://hubs.ly/Q03h8NN_0</text>
+                    <aspectTerms>
+                        <aspectTerm  target="دمج التقنيات الرقمية"  polarity="positive" from="8" to="28"/> <aspectTerm  target="لتحسين تجربة التعلم"  polarity="positive" from="66" to="85"/> <aspectTerm  target=" إعداد الطلاب للمستقبل"  polarity="positive" from="97" to="119"/> <aspectTerm  target=" تمكين المعلمين"  polarity="positive" from="122" to="137"/> <aspectTerm  target="تصميم الدروس في بيئات التعلم"  polarity="positive" from="153" to="181"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="96">
+                    <text>#التعليم يتطور، لكن #التعلّم يضعف، والسبب؟  لأننا نُحدّث الوسائل دون أن نراجع الغايات. ونُدخل التكنولوجيا، ونُغيّر المقررات، ونُضيف مفاهيم، ونظن أن التعلّم سيتحسن! لكنه يزداد ضعفاً لأننا:  -فقدنا الرؤية الفلسفية للتعليم؛ حيث غابت الأسئلة الكبرى مثل &amp;quot;لماذا نعلّم؟&amp;quot;، و&amp;quot;لأي مجتمع</text>
+                    <aspectTerms>
+                        <aspectTerm  target="نُحدّث الوسائل دون أن نراجع الغايات"  polarity="negative" from="50" to="85"/> <aspectTerm  target="نُدخل التكنولوجيا، ونُغيّر المقررات، ونُضيف مفاهيم، ونظن أن التعلّم سيتحسن"  polarity="negative" from="88" to="162"/> <aspectTerm  target="فقدنا الرؤية الفلسفية للتعليم"  polarity="negative" from="190" to="219"/> <aspectTerm  target="غابت الأسئلة الكبرى"  polarity="negative" from="225" to="244"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="97">
+                    <text>#وزارة_التعليم تتيح للطلاب والطالبات التعلم عن بُعد عبر منصة المدرسة الافتراضية (http://vschool.sa)، بشكل متزامن كبديل لإتمام العمليات التعليمية.  ومن خلال (قناة عين) بشكل غير متزامن؛ التي تبث على تردد عربسات 12437 عمودي من خلال 14 قناة تعليمية.  http://youtube.com/dorosien</text>
+                    <aspectTerms>
+                        <aspectTerm  target="وزارة_التعليم تتيح للطلاب والطالبات التعلم عن بُعد عبر منصة المدرسة الافتراضية"  polarity="positive" from="1" to="79"/> <aspectTerm  target="بشكل متزامن كبديل لإتمام العمليات التعليمية"  polarity="positive" from="101" to="144"/> <aspectTerm  target="عمودي من خلال 14 قناة تعليمية"  polarity="positive" from="215" to="244"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="98">
+                    <text>برنامج #العهد_الجديد | مدير إدارة نظم المعلومات بالتكليف بـ #وزارة_التربية منی سالم عوض:   تفاعل الطلاب #مع_حمد_شات.. غير طبيعي  • المنصة وفرت جميع الكتب ولخصت المناهج وتجيب على أي سؤال  • التطور ساعد على تخفيف #الحقيبة_الدراسية عن الطالب  • جيل #التعليم السابق كان مع</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المنصة وفرت جميع الكتب ولخصت المناهج"  polarity="positive" from="131" to="167"/> <aspectTerm  target="التطور ساعد على تخفيف #الحقيبة_الدراسية عن الطالب"  polarity="positive" from="189" to="238"/> <aspectTerm  target="تفاعل الطلاب"  polarity="positive" from="91" to="103"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="99">
+                    <text>استبدال التعليم التقليدي بالتعليم عن بعد خيار صعب، لكننا نستأس بآراء ومقترحات الخبراء والممارسين التربويين الدوليين عن  التعليم في زمن جائحة كورونا، فقد نصحوا بمواصلة التعلم عن بعد بالإنترنت، أوبتقديم المقررات عبر  الإذاعة والتلفزيون التعليمي. #مكتب_التربية_العربي_لدول_الخليج</text>
+                    <aspectTerms>
+                        <aspectTerm  target="ستبدال التعليم التقليدي بالتعليم عن بعد خيار صعب"  polarity="neutral" from="1" to="49"/> <aspectTerm  target="بمواصلة التعلم عن بعد بالإنترنت"  polarity="positive" from="159" to="190"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="102">
+                    <text>شاركت بندوة تفاعلية هامة منذ قليل مع عمداء وأساتذة من جامعات مرموقة في الوطن العربي، حول &amp;quot;التعليم الرقمي عن بُعد كرافعة للتنمية في العالم العربي&amp;quot;. أقول إنها فرصة مهمة لنا، قد تعيدنا بين الدول المتقدمة إذا أحسنّا استغلال الفرصة.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم الرقمي عن بُعد كرافعة للتنمية في العالم العربي"  polarity="positive" from="90" to="144"/> <aspectTerm  target="شاركت بندوة تفاعلية هامة منذ قليل مع عمداء وأساتذة"  polarity="positive" from="0" to="50"/> <aspectTerm  target="جامعات مرموقة في الوطن العربي، حول &quot;التعليم الرقمي"  polarity="positive" from="54" to="104"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="103">
+                    <text>فرص استثمارية لا تعوض: التعليم الرقمي في العالم العربي! | مقابلة مع أستاذ تقنية المعلومات بجامعة الملك سعود  في هذه المقابلة، يتحدث الدكتور عبد الرحمن المطرف، أستاذ تقنية المعلومات بــ  @_KSU  ، خلال مشاركته في حدث MENA ICT Forum عن التحديات التي تواجه التحول الرقمي في التعليم</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التحول الرقمي في التعليم"  polarity="positive" from="253" to="277"/> <aspectTerm  target="التعليم الرقمي في العالم العربي"  polarity="neutral" from="23" to="54"/> <aspectTerm  target=" أستاذ تقنية المعلومات"  polarity="positive" from="67" to="89"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="104">
+                    <text>يحتفي العالم في 19 مارس بـ #اليوم_الدولي_للتعلم_الرقمي، الذي يُبرز دور التكنولوجيا في تعزيز فرص التعلم الشامل والمستدام.  يهدف هذا اليوم إلى تسليط الضوء على أهمية الابتكار الرقمي في تطوير نظم التعليم، وتمكين الأفراد من الوصول إلى المعرفة بطرق أكثر تفاعلية ومرونة. #DigitalLearning</text>
+                    <aspectTerms>
+                        <aspectTerm  target="للتعلم_الرقمي"  polarity="positive" from="41" to="54"/> <aspectTerm  target="دور التكنولوجيا في تعزيز فرص التعلم الشامل والمستدام"  polarity="positive" from="67" to="119"/> <aspectTerm  target="الابتكار الرقمي في تطوير نظم التعليم"  polarity="positive" from="163" to="199"/> <aspectTerm  target="تمكين الأفراد من الوصول إلى المعرفة بطرق أكثر تفاعلية ومرونة"  polarity="positive" from="202" to="262"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="105">
+                    <text>مؤكّدًا أنّ&amp;quot;مشروع &amp;quot;تربية 21&amp;quot; صُمّم لدعم التربويّين عموماً، والمعلّمين خصوصاً، من أجل تحسين نوعيّة عمليّة التعليم والتعلّم في المنطقة العربيّة، وضمان جودته.&amp;quot;  #تحويل_التعليم #التعليم #الدول_العربية #العالم_العربي #اليونسكو #تربية21 #جودة_التعليم #التحوّل_الرقميّ</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مشروع &quot;تربية 21&quot; صُمّم لدعم التربويّين عموماً"  polarity="positive" from="12" to="57"/> <aspectTerm  target="تحسين نوعيّة عمليّة التعليم والتعلّم "  polarity="positive" from="85" to="122"/> <aspectTerm  target="تحويل_التعليم "  polarity="positive" from="159" to="173"/> <aspectTerm  target="جودة_التعليم"  polarity="positive" from="232" to="244"/> <aspectTerm  target="التحوّل_الرقميّ"  polarity="positive" from="246" to="261"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="106">
+                    <text>مازال التسجيل مستمراً في #المؤتمر_الدولي_لمستقبل_التعليم_الرقمي_في_العالم_العربي بفندق هيلتون مكة للمؤتمرات ٢٣-٢٥ شعبان ١٤٤١ الموافق ١٧-١٩ ابريل ٢٠٢٩ للتسجيhttp://kefeac.com/de.                                  @Learn_to_train   @sh_1398   @drablehsh   @Production_2010  @tamayaz11</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المؤتمر_الدولي_لمستقبل_التعليم_الرقمي"  polarity="positive" from="26" to="63"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="107">
+                    <text>وقع وزير التربية والتعلمي الدكتور طارق شوقي 7 عقود تعاون مع شركاء حول العالم في مجال التعليم، في مجالات متنوعةمنها شراء التصحيح الرقمي وشراء المحتوى العربي الرقمي لخدمة مخرجات التعلم من الصف الأول الابتدائي وحتي الثانوية العامة و 30 قاموس عربي و7450 فيديو لشرح مواد العلوم .</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" التصحيح الرقمي"  polarity="positive" from="119" to="134"/> <aspectTerm  target=" المحتوى العربي الرقمي"  polarity="positive" from="140" to="162"/> <aspectTerm  target="مخرجات التعلم"  polarity="positive" from="169" to="182"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="108">
+                    <text>الجلسة العلمية العاشرة: التوجهات العالمية نحو العالم الرقمي ضمن فعاليات #المؤتمر_الدولي_الافتراضي_لمستقبل_التعليم_الرقمي_في_الوطن_العربي في #إثراء_المعرفة_للمؤتمرات_والأبحاث د. نادية هاشم اللحياني  عنوان البحث:مهارة الاستقصاء الفقهي الرقمي الموجه</text>
+                    <aspectTerms>
+                        <aspectTerm  target="العالم الرقمي"  polarity="positive" from="46" to="59"/> <aspectTerm  target="التعليم_الرقمي"  polarity="positive" from="106" to="120"/> <aspectTerm  target="مهارة الاستقصاء الفقهي الرقمي"  polarity="positive" from="210" to="239"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="109">
+                    <text>مبادرات التعليم الرقمي احد محاور #المؤتمر_الدولي_لمستقبل_التعليم_الرقمي_في_العالم_العربي ٢٣-٢٥ شعبان ١٤٤١ الموفق ١٧-١٩ ابريل ٢٠٢٠ في اطهر بقاع الارض للتسجيل http://kefeac.com/de</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مبادرات التعليم الرقمي"  polarity="positive" from="0" to="22"/> <aspectTerm  target="لمستقبل_التعليم_الرقمي_في_العالم_العربي"  polarity="positive" from="49" to="88"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="110">
+                    <text>نفخر في اليوم العالمي للتعلم الرقمي بكوننا أول مؤسسة أكاديمية معتمدة للتعليم الذكي من قبل وزارة التربية والتعليم في دولة الإمارات العربية المتحدة بالإضافة إلى كوننا من أوائل جامعات التعليم الذكي في العالم العربي بأكمله.  #جامعة_حمدان #دبي #تعليم #يوم_التعليم_الرقمي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="للتعلم الرقمي"  polarity="positive" from="22" to="35"/> <aspectTerm  target=" للتعليم الذكي"  polarity="positive" from="68" to="82"/> <aspectTerm  target="جامعات التعليم الذكي"  polarity="positive" from="174" to="194"/> <aspectTerm  target="يوم_التعليم_الرقمي"  polarity="positive" from="247" to="265"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="111">
+                    <text>يتضمن #المؤتمر_والمعرض_الدولي_للتعليم الاستفادة من التجارب والخبرات الدولية في التعليم الرقمي وتطبيقها على أرض الواقع في العالم العربي .  MOE_BIA@</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم الرقمي"  polarity="positive" from="79" to="93"/> <aspectTerm  target="التجارب والخبرات الدولية"  polarity="positive" from="51" to="75"/> <aspectTerm  target="وتطبيقها على أرض الواقع في العالم العربي"  polarity="positive" from="94" to="134"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="112">
+                    <text>يسر #إثراء_المعرفة_للمؤتمرات_والأبحاث ان تعلن عن فتح باب التسجيل في #المؤتمر_الدولي_لمستقبل_التعليم_الرقمي_في_العالم_العربي بفندق هيلتون مكة للمؤتمرات خلال الفترة٢٣-٢٥ شعبان ١٤٤١ الموافق ١٧-١٩ ابريل ٢٠٢٠ للتسجيل  http://kefeac.com/de  @coach_nawal   @YousefAlohali   @masudi111</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المؤتمر_الدولي_لمستقبل_التعليم_الرقمي_في_العالم_العربي"  polarity="positive" from="69" to="123"/> <aspectTerm  target="للتسجيل"  polarity="neutral" from="204" to="211"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="113">
+                    <text> #فجر_التعليم_الإلكتروني   مع انطلاق فجر التعليم الإلكتروني الذي أصبحت التكنولوجيا فيه تتوسط ما بين المعلم والمتعلم مما يسهم في زيادة فرص التعلم مدى الحياة بعيدًا عن الحدود الزمنية أو الجغرافية؛ تبقى هناك عدة أسئلة تحتاج إلى إجابات ومنها:  من يحدد الخيارات المناسبة أمام</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم الإلكتروني"  polarity="positive" from="41" to="59"/> <aspectTerm  target="التكنولوجيا"  polarity="positive" from="71" to="82"/> <aspectTerm  target="المعلم والمتعلم"  polarity="positive" from="100" to="115"/> <aspectTerm  target="زيادة فرص التعلم مدى الحياة"  polarity="positive" from="128" to="155"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="114">
+                    <text>&amp;quot;الحربي تكشف مهمة الإدارة الرقمية في حوكمة مدارس التعليم في إصدارها الجديد&amp;quot;  الثقافية - كتب  https://al-jazirah.com/2025/20250418/cm10.htm…</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لإدارة الرقمية"  polarity="positive" from="19" to="33"/> <aspectTerm  target="حوكمة مدارس التعليم"  polarity="positive" from="37" to="56"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="115">
+                    <text>مرحباً انا ا. عبد الكريم الاطرش أنا متحمس انني سأنضم واتدرب في برنامج التحول الرقمي المنظم من طرف شركة انكنو كلاسبوينت السنغفورية.اتطلع إلى حضور جميع الندوات للإستفادة وتطوير مهاراتي في التعليم والتدريس سجل معنا وانضم الى مئات المعلمين في العالم العربي.  http://twb.nz/menaa</text>
+                    <aspectTerms>
+                        <aspectTerm  target="برنامج التحول الرقمي"  polarity="positive" from="63" to="83"/> <aspectTerm  target="تطوير مهاراتي في التعليم والتدريس"  polarity="positive" from="169" to="202"/> <aspectTerm  target="حضور جميع الندوات للإستفادة"  polarity="positive" from="140" to="167"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="116">
+                    <text>مازال التسجيل مستمراً في #المؤتمر_الدولي_لمستقبل_التعليم_الرقمي_في_العالم_العربي بفندق هيلتون مكة للمؤتمرات ٢٣-٢٥ شعبان ١٤٤١ الموافق ١٧-١٩ ابريل ٢٠٢٩ للتسجيhttp://kefeac.com/de.                                  @Learn_to_train</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المؤتمر_الدولي_لمستقبل_التعليم_الرقمي"  polarity="positive" from="26" to="63"/> <aspectTerm  target="التسجيل مستمراً "  polarity="positive" from="6" to="22"/> <aspectTerm  target="التعليم_الرقمي_في_العالم_العربي"  polarity="positive" from="49" to="80"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="117">
+                    <text>الجلسة العلمية العاشرة: التوجهات العالمية نحو العالم الرقمي ضمن فعاليات #المؤتمر_الدولي_الافتراضي_لمستقبل_التعليم_الرقمي_في_الوطن_العربي في #إثراء_المعرفة_للمؤتمرات_والأبحاث أ. رشا طلال باراسين عنوان البحث: تطبيق الصور التشاركية في ظل التحديات المعاصرة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التوجهات العالمية نحو العالم الرقمي"  polarity="positive" from="24" to="59"/> <aspectTerm  target="المؤتمر_الدولي_الافتراضي_لمستقبل_التعليم_الرقمي_في_الوطن_العربي"  polarity="positive" from="73" to="136"/> <aspectTerm  target="تطبيق الصور التشاركية"  polarity="positive" from="207" to="228"/> <aspectTerm  target="التحديات المعاصرة"  polarity="neutral" from="235" to="252"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="118">
+                    <text>منع الإشارة لها في الشهادات بأنها إلكترونية أو عن بُعد ..  أنماط التعليم الإلكترونية المعتمدة التي تعادل التعليم الاعتيادي الحضوري:  التعليم المعزز بالتقنية.  التعليم المدمج.  التعليم عن بعد المتزامن.  التعليم عن بعد غير المتزامن.  التدريب الإلكتروني ضمن هذه الأنماط.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="منع الإشارة لها في الشهادات بأنها إلكترونية"  polarity="positive" from="0" to="43"/> <aspectTerm  target="أنماط التعليم الإلكترونية "  polarity="positive" from="59" to="85"/> <aspectTerm  target="التعليم الاعتيادي الحضوري"  polarity="neutral" from="105" to="130"/> <aspectTerm  target="التعليم المعزز بالتقنية"  polarity="positive" from="133" to="156"/> <aspectTerm  target="التعليم المدمج"  polarity="positive" from="159" to="173"/> <aspectTerm  target="التعليم عن بعد المتزامن"  polarity="positive" from="176" to="199"/> <aspectTerm  target="التعليم عن بعد غير المتزامن"  polarity="positive" from="202" to="229"/> <aspectTerm  target="التدريب الإلكتروني"  polarity="positive" from="232" to="250"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="119">
+                    <text>بحمدالله أول مدربة للامن السيبراني في  وزارة الاتصالات و وزارة التعليم و الكلية التقنية اقمت مع فريقي الرائع  @ar_arduino   ملتقى بوابةالمصدر المفتوح في التقنيات بمقر نادي العطاء الرقمي و وزارة الاتصالات  استقطبنا ثلاث شركات في #الذكاء_الاصطناعي و #الروبوت على مستوى العالم العربي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="ملتقى بوابةالمصدر المفتوح في التقنيات"  polarity="positive" from="124" to="161"/> <aspectTerm  target="الذكاء_الاصطناعي"  polarity="positive" from="229" to="245"/> <aspectTerm  target="الروبوت"  polarity="positive" from="249" to="256"/> <aspectTerm  target="للامن السيبراني"  polarity="positive" from="19" to="34"/> <aspectTerm  target="وزارة الاتصالات و وزارة التعليم و الكلية التقنية"  polarity="positive" from="39" to="87"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="121">
+                    <text>عبير صلاح الدين تكتب في مجلة صباح الخير: لم يعلم الأطفال في ورشة عمل &amp;quot;العالم الرقمي وثقافة الطفل العربي&amp;quot; التي نظمها #المجلس_العربي_للطفولة_والتنمية أن مقترحاتهم بحل مشكلة التعليم من خلال الموبايل والمدرسة الافتراضية سوف تتحقق في غضون شهرين بسبب #فيروس_كورونا     @AAzizTalal</text>
+                    <aspectTerms>
+                        <aspectTerm  target="العالم الرقمي"  polarity="positive" from="70" to="83"/> <aspectTerm  target="ثقافة الطفل العربي"  polarity="positive" from="85" to="103"/> <aspectTerm  target="ثقافة الطفل العربي"  polarity="positive" from="85" to="103"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="122">
+                    <text>مرحباً انا Mervat Mohamed Kamel, أنا متحمس انني سأنضم واتدرب في برنامج التحول الرقمي المنظم من طرف شركة انكنو كلاسبوينت السنغفورية.اتطلع إلى حضور جميع الندوات للإستفادة وتطوير مهاراتي في التعليم والتدريس..سجل معنا وانضم الى مئات المعلمين في العالم العربي.</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" التحول الرقمي"  polarity="positive" from="70" to="84"/> <aspectTerm  target="تطوير مهاراتي في التعليم والتدريس"  polarity="positive" from="170" to="203"/> <aspectTerm  target="انضم الى مئات المعلمين في العالم العربي"  polarity="positive" from="215" to="254"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="123">
+                    <text>مهارات تُعيد رسم ملامح التعلّم الرقمي في العالم العربي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="ملامح التعلّم الرقمي"  polarity="positive" from="17" to="37"/> <aspectTerm  target="مهارات "  polarity="positive" from="0" to="7"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="124">
+                    <text>المركز العربي للتدريب التربوي لدول الخليج بالتعاون مع مكتب اليونيسكو بالدوحة ينظم ندوة بعنوان: أبناؤنا والعالم الرقمي: أثر العالم الرقمي على مستقبل التعليم ودور المعلم في استدامته. احتفالاً بـ ⁧#اليوم_العالمي_للمعلمين  Oct 7, 2024   12:00 PM https://us02web.zoom.us/meeting/register/tZItcOivqjssEt0GlsgVAo76-Mn_TPMiDJa-…</text>
+                    <aspectTerms>
+                        <aspectTerm  target="اليوم_العالمي_للمعلمين"  polarity="positive" from="195" to="217"/> <aspectTerm  target="للتدريب التربوي"  polarity="positive" from="14" to="29"/> <aspectTerm  target="أبناؤنا والعالم الرقمي"  polarity="positive" from="95" to="117"/> <aspectTerm  target="أثر العالم الرقمي على مستقبل التعليم"  polarity="positive" from="119" to="155"/> <aspectTerm  target="دور المعلم"  polarity="positive" from="157" to="167"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="125">
+                    <text>التحول الرقمي والتعليم في العالم العربي   ملخص لأبرز النقاط التي تطرق لها د. عبد الرحمن المطرف أستاذ تقنية المعلومات  1.ضعف التحول الرقمي في التعليم: •التعليم هو القطاع الأقل حظًا في الاستفادة من التحول الرقمي مقارنة بالقطاعات الأخرى مثل الخدمات الرقمية والحكومية. •توجد فرص</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التحول الرقمي والتعليم "  polarity="negative" from="0" to="23"/> <aspectTerm  target=" أستاذ تقنية المعلومات"  polarity="positive" from="94" to="116"/> <aspectTerm  target="ضعف التحول الرقمي في التعليم"  polarity="negative" from="120" to="148"/> <aspectTerm  target="التعليم هو القطاع الأقل حظًا في الاستفادة من التحول الرقمي"  polarity="negative" from="151" to="209"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="127">
+                    <text>في كلمته خلال فعاليات منتدى الشرق الأوسط لقادة الرأي في التعليم، قال عمرو عزت سلامة، الأمين العام لاتحاد الجامعات العربية إن العالم العربي يعاني من نقص الاستثمارات في مجال الاقتصاد الرقمي.  التفاصيل في تقرير #الفنار_للإعلام: https://bit.ly/3wYjQBr</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الاستثمارات في مجال الاقتصاد الرقمي"  polarity="negative" from="152" to="187"/> <aspectTerm  target="لقادة الرأي في التعليم"  polarity="negative" from="41" to="63"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="128">
+                    <text>تهدف المذكرة إلى دعم المناهج الدراسية، وتنظيم ورش العمل، وبناء برامج تدريبية حديثة تخدم الطلبة وأعضاء الهيئة التدريسية في الجامعات العربيةفي خطوة جديدة نحو مستقبل التعليم القانوني الرقمي في العالم العربي و توجه استراتيجي نحو ربط التعليم القانوني بسوق العمل الحديث.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="دعم المناهج الدراسية"  polarity="positive" from="17" to="37"/> <aspectTerm  target="تنظيم ورش العمل"  polarity="positive" from="40" to="55"/> <aspectTerm  target="بناء برامج تدريبية حديثة"  polarity="positive" from="58" to="82"/> <aspectTerm  target="تخدم الطلبة وأعضاء الهيئة التدريسية"  polarity="positive" from="83" to="118"/> <aspectTerm  target="خطوة جديدة نحو مستقبل التعليم القانوني الرقمي "  polarity="positive" from="141" to="187"/> <aspectTerm  target=" ربط التعليم القانوني بسوق العمل"  polarity="positive" from="224" to="256"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="129">
+                    <text>مرحباً انا حسن جاد علي, أنا متحمس انني سأنضم واتدرب في برنامج التحول الرقمي المنظم من طرف شركة انكنو كلاسبوينت السنغفورية.اتطلع إلى حضور جميع الندوات للإستفادة وتطوير مهاراتي في التعليم والتدريس..سجل معنا وانضم الى مئات المعلمين في العالم العربي           #twibbonize</text>
+                    <aspectTerms>
+                        <aspectTerm  target="برنامج التحول الرقمي"  polarity="positive" from="55" to="75"/> <aspectTerm  target="حضور جميع الندوات"  polarity="positive" from="132" to="149"/> <aspectTerm  target="تطوير مهاراتي في التعليم والتدريس"  polarity="positive" from="161" to="194"/> <aspectTerm  target="انضم الى مئات المعلمين في العالم العربي"  polarity="positive" from="206" to="245"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="130">
+                    <text>أعلنت الفنانة العراقية، #رحمة_رياض، مشاركتها في مبادرة «تعلم بناء مسيرة في العصر الرقمي»، التي تقيمها « #مهارات »، المنصة الرائدة في مجالات التعليم الإلكتروني بالعالم العربي، وتهدف إلى تقديم تعليمٍ عالي الجودة، ضمن مختلف المجالات في العالم العربي.   http://maharat.com/ar/rahma-riad-teaches-building-a-career-in-the-digital-age…</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تعلم بناء مسيرة في العصر الرقمي"  polarity="positive" from="56" to="87"/> <aspectTerm  target=" المنصة الرائدة في مجالات التعليم الإلكتروني"  polarity="positive" from="114" to="158"/> <aspectTerm  target="تقديم تعليمٍ عالي الجودة"  polarity="positive" from="185" to="209"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="131">
+                    <text>صدقت. للتذكير، لقد تم إيقاف جميع أنماط التعليم الجامعي في جميع الجامعات الحكومية سوى نمط التعليم الإعتيادي (الإنتظام) في عام ١٤٣٩هـ. بإستثناء الجامعة السعودية الإلكترونية فقط  @Saudi_EUni   فهي تتبنى نمط التعليم المدمج (محاضرات إعتيادية حضورية ومحاضرات عن بعد) منذ تأسيسها في عام</text>
+                    <aspectTerms>
+                        <aspectTerm  target="محاضرات إعتيادية حضورية ومحاضرات عن بعد"  polarity="positive" from="220" to="259"/> <aspectTerm  target=" إيقاف جميع أنماط التعليم الجامعي"  polarity="negative" from="21" to="54"/> <aspectTerm  target="نمط التعليم الإعتيادي"  polarity="neutral" from="85" to="106"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="133">
+                    <text>٥-في زمن التعلم الإلكتروني والعصر الرقمي واقتصاد المعرفة يُخٓطٓط لإغلاق أقدم  قسم لتقنيات التعليم في المملكة ومن أوائلها في العالم العربي!</text>
+                    <aspectTerms>
+                        <aspectTerm  target="في زمن التعلم الإلكتروني والعصر الرقمي"  polarity="positive" from="2" to="40"/> <aspectTerm  target=" لتقنيات التعليم"  polarity="neutral" from="81" to="97"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="134">
+                    <text>لا تزال اذات الذكاء الاصطناعي ناءمة لم تطلق لتملىء قاعدة بيانات تقنية مثلا اليا : مثلا اثراء الانترنت العربي بتعريب كم ضخم من الاطروحات الجامعية منذ عام 1880 ليومنا هذا و تحصيل بنك الابتكارات لجعله متاح بمحركات البحت بالعربي (و هو غير متاح تماما بأوروبا</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الذكاء الاصطناعي"  polarity="negative" from="13" to="29"/> <aspectTerm  target="اثراء الانترنت العربي"  polarity="positive" from="87" to="108"/> <aspectTerm  target="بتعريب كم ضخم من الاطروحات الجامعية "  polarity="positive" from="109" to="145"/> <aspectTerm  target=" بنك الابتكارات"  polarity="positive" from="176" to="191"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="135">
+                    <text>مع التطور التكنولوجي المتسارع، تتبنى سلطنة عُمان ودول مجلس التعاون الخليجي أدوات التعليم الرقمي لتعزيز المنظومة التعليمية وتلبية متطلبات سوق العمل الحديث. تعرف على الجهود المبذولة في هذا المجال. #التعليم_الرقمي #سلطنة_عُمان #دول_الخليج  https://osama278.blogspot.com/2025/04/blog-post.html…</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" التطور التكنولوجي المتسارع"  polarity="positive" from="2" to="29"/> <aspectTerm  target=" أدوات التعليم الرقمي"  polarity="positive" from="74" to="95"/> <aspectTerm  target=" لتعزيز المنظومة التعليمية"  polarity="positive" from="95" to="121"/> <aspectTerm  target="تلبية متطلبات سوق العمل الحديث"  polarity="positive" from="123" to="153"/> <aspectTerm  target="التعليم_الرقمي"  polarity="positive" from="196" to="210"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="136">
+                    <text>مرحباً انا عبدالحميد عبدالفتاح شعله , أنا متحمس انني سأنضم واتدرب في برنامج التحول الرقمي المنظم من طرف شركة انكنو كلاسبوينت السنغفورية.اتطلع إلى حضور جميع الندوات للإستفادة وتطوير مهاراتي في التعليم والتدريس..سجل معنا وانضم الى مئات المعلمين في العالم العربي.</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" برنامج التحول الرقمي"  polarity="positive" from="68" to="89"/> <aspectTerm  target=" الندوات"  polarity="positive" from="155" to="163"/> <aspectTerm  target="تطوير مهاراتي في التعليم والتدريس"  polarity="positive" from="175" to="208"/> <aspectTerm  target="مئات المعلمين في العالم العربي"  polarity="positive" from="229" to="259"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="137">
+                    <text>ضمن فعاليات المؤتمر الدولي لمستقبل التعليم الرقمي في العالم العربي  فندق هيلتون مكة للمؤتمرات خلال الفترة 23-25 شعبان 1441هـ الموافق 17-19 ابريل 2020  http://KEFEAC.COM للتسجيل في المؤتمر يرجى زيارة الموقع kefeacde@gmail.com @DEConfl http://kefeac.com/de 00966539226522</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المؤتمر الدولي لمستقبل التعليم الرقمي"  polarity="positive" from="12" to="49"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="138">
+                    <text>من أهداف المؤتمر المساهمة في رفع مستوى جودة البحوث العلمية ومواكبة متطلبات العصر في المجال الأكاديمي او الانتاج العلمي . استشراف مستقبل التعليم الرقمي في العالم العربي وتحديد معالم التحديات التي تواجه تطويره. .#المؤتمر_والمعرض_الدولي_للتعليم @moe_bia_19</text>
+                    <aspectTerms>
+                        <aspectTerm  target="رفع مستوى جودة البحوث العلمية"  polarity="positive" from="29" to="58"/> <aspectTerm  target="متطلبات العصر في المجال الأكاديمي او الانتاج العلمي"  polarity="positive" from="67" to="118"/> <aspectTerm  target="مستقبل التعليم الرقمي في العالم العربي"  polarity="positive" from="129" to="167"/> <aspectTerm  target="المؤتمر_والمعرض_الدولي_للتعليم"  polarity="positive" from="211" to="241"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="139">
+                    <text>انضم إلى  برنامج #قادة_أعمال_المستقبل، مبادرة طموحة تهدف إلى إعداد وتأهيل جيل جديد من قادة الأعمال القادرين على قيادة التحول الرقمي وتعزيز التنمية الاقتصادية والاجتماعية في العالم العربي.  رابط التسجيل : http://edu4arab.org   #التعليم_الرقمي #edu4arab</text>
+                    <aspectTerms>
+                        <aspectTerm  target="برنامج #قادة_أعمال_المستقبل"  polarity="positive" from="10" to="37"/> <aspectTerm  target="إعداد وتأهيل جيل جديد من قادة الأعمال القادرين على قيادة التحول الرقمي"  polarity="positive" from="61" to="131"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="140">
+                    <text>«التنمية الاجتماعية» تناقش المخاطر الإلكترونية والعلاقات الزوجية  خالد العمادي: دور محوري للوالدين في تعزيز الاستقرار النفسي للأبناء شريفة العمادي: توجيه الأطفال نحو المحتوى المفيد وتعزيز المهارات الرقمية د. خالد العبدالجبار: الأسرة تلعب دورا جوهريا في تهيئة بيئة رقمية</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" المخاطر الإلكترونية"  polarity="negative" from="26" to="46"/> <aspectTerm  target="تعزيز المهارات الرقمية"  polarity="positive" from="182" to="204"/> <aspectTerm  target=" تهيئة بيئة رقمية"  polarity="positive" from="252" to="269"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="141">
+                    <text>الآن في #متجر_تطويري الوكيل الرسمي Mozawebلبطاقة الطالب للتعليم الرقمي الاولي ولاول مرة في العالم العربي  احصل على اشتراك سنوي في منصة #التعليم_الرقمي الذاتي عبر موقع Mozaweb بسعر لا ينافس ب 199 ر.س فقط وباللغة العربية والانجليزية لشراء البطاقة : https://goo.gl/VDwnME</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لبطاقة الطالب للتعليم الرقمي"  polarity="positive" from="42" to="70"/> <aspectTerm  target=" منصة #التعليم_الرقمي الذاتي"  polarity="positive" from="129" to="157"/> <aspectTerm  target="باللغة العربية والانجليزية"  polarity="positive" from="204" to="230"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="142">
+                    <text>مرحباً انا فيوليت فوزى ,أنا متحمس اني سأنضم في برنامج التحول الرقمي المنظم من طرف شركة انكنو كلاسبوينت السنغفورية.اتطلع إلى حضور جميع الندوات للإستفادة وتطوير مهاراتي في التعليم والتدريس.سجل معنا وانضم الى مئات المعلمين في العالم العربي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="برنامج التحول الرقمي"  polarity="positive" from="47" to="67"/> <aspectTerm  target="حضور جميع الندوات"  polarity="positive" from="124" to="141"/> <aspectTerm  target=" مهاراتي في التعليم والتدريس"  polarity="positive" from="158" to="186"/> <aspectTerm  target="انضم الى مئات المعلمين في العالم العربي"  polarity="positive" from="197" to="236"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="144">
+                    <text>مع تطور التكنلوجيا .. تعلم مهارة جديدة اصبح سهلا.. شخصيا اعتمد كثير على التعلم الذاتي و الاستعانه بالمنصات و المواقع التعليمية ذات صلة بمجالي او الموضوع الذي ارغب في معرفته.   هنا تجد ٢٤ منصة وموقع عربي تعليمي. شاركنا منصات او مواقع تعليمية  استفدت منها</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تطور التكنلوجيا "  polarity="positive" from="3" to="19"/> <aspectTerm  target="تعلم مهارة جديدة"  polarity="positive" from="22" to="38"/> <aspectTerm  target=" التعلم الذاتي"  polarity="positive" from="71" to="85"/> <aspectTerm  target=" الاستعانه بالمنصات"  polarity="positive" from="87" to="106"/> <aspectTerm  target="المواقع التعليمية"  polarity="positive" from="109" to="126"/> <aspectTerm  target="منصة وموقع عربي تعليمي"  polarity="positive" from="187" to="209"/> <aspectTerm  target="منصات او مواقع تعليمية"  polarity="positive" from="218" to="240"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="145">
+                    <text>تم اعتماد &amp;quot;خطة تطوير #التعليم في الوطن العربي&amp;quot; بقرار من #القمة_العربية (دمشق 2008) وتهدف إلى النهوض بالتعليم في الوطن العربي باعتباره أحد الركائز الأساسية للتنمية وتعزيز الأمنين الوطني والقومي العربي. https://facebook.com/100064902121500/posts/1075023421337719/…</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم في الوطن العربي"  polarity="positive" from="22" to="45"/> <aspectTerm  target=" النهوض بالتعليم في الوطن العربي"  polarity="positive" from="92" to="124"/> <aspectTerm  target=" الركائز الأساسية للتنمية وتعزيز الأمنين الوطني والقومي العربي"  polarity="positive" from="137" to="199"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="146">
+                    <text>الان في عصرنا الحالي وصلنا لمرحلة من العولمة يقدر فيها اي شخص يفتح جهازه ويدرس مناهج جامعات عالمية وهو قاعد في بيته، التدريس الجامعي كان مهم سابقًا لان الوصول للمعرفة كان صعب والجامعة كانت تسهله عن طريق جمع الاشخاص ذوي المعرفة مع الطلاب في القاعات نظرًا لانه ماكان فيه يوتيوب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="العولمة"  polarity="positive" from="37" to="44"/> <aspectTerm  target="فتح جهازه ويدرس مناهج جامعات عالمية"  polarity="positive" from="63" to="98"/> <aspectTerm  target="التدريس الجامعي"  polarity="neutral" from="117" to="132"/> <aspectTerm  target="الوصول للمعرفة"  polarity="positive" from="152" to="166"/> <aspectTerm  target="الجامعة كانت تسهله"  polarity="positive" from="176" to="194"/> <aspectTerm  target="جمع الاشخاص ذوي المعرفة مع الطلاب في القاعات"  polarity="positive" from="203" to="247"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="147">
+                    <text>#googleArabia تطلق منصة مهارات للعالم العربي بتركيز على تمكين #المرأة وزيادة القدرات الرقمية التي يحتاجها العالم العربي للتحول الرقمي المنتظر ...السؤال هو كيف تستطيع منصات التعليم في دولنا للاستفادة من ذلك ؟</text>
+                    <aspectTerms>
+                        <aspectTerm  target="منصة مهارات"  polarity="positive" from="19" to="30"/> <aspectTerm  target="تمكين #المرأة"  polarity="positive" from="56" to="69"/> <aspectTerm  target="وزيادة القدرات الرقمية"  polarity="positive" from="70" to="92"/> <aspectTerm  target="للتحول الرقمي"  polarity="positive" from="120" to="133"/> <aspectTerm  target="منصات التعليم"  polarity="neutral" from="166" to="179"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="149">
+                    <text>بوابة المستقبل هي الأولى من نوعها في العالم العربي مما يثبت أن التعليم في المملكة في تقدم مستمر  #بوابةالتحول_الرقمي #بوابةالتحول_الرقمي @FutureGate_sa</text>
+                    <aspectTerms>
+                        <aspectTerm  target="بوابة المستقبل"  polarity="positive" from="0" to="14"/> <aspectTerm  target="يثبت أن التعليم في المملكة في تقدم مستمر"  polarity="positive" from="55" to="95"/> <aspectTerm  target="وابةالتحول_الرقمي"  polarity="positive" from="99" to="116"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="150">
+                    <text>في العالم العربي، تدعو أعداد غفيرة لقفزات كبيرة في مجال #التعليم_الرقمي. http://owl.li/Rn93300KuO0</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تدعو أعداد غفيرة"  polarity="positive" from="18" to="34"/> <aspectTerm  target="لقفزات كبيرة في مجال #التعليم_الرقمي"  polarity="positive" from="35" to="71"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="151">
+                    <text>#التعليم المُعتمد عبر #الإنترنت نادر في العالم العربي، إذا لم يكن منعدماً. http://owl.li/skTR300Kwli</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم المُعتمد عبر #الإنترنت "  polarity="negative" from="1" to="32"/> <aspectTerm  target="نادر في العالم العربي، إذا لم يكن منعدم"  polarity="negative" from="32" to="71"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="152">
+                    <text>الجماهير المكبوتة: قنابل موقوتة على مواقع التواصل  عانت الطبقات الشعبية في العالم العربي من عقودٍ من التهميش، سواء بسبب الأنظمة السلطوية أو الفقر أو نقص التعليم، مما جعلها تتراكم داخلها مشاعر الغضب والإحباط. وعندما أتيحت لها الفرصة للتعبير في الفضاء الرقمي، لم تخرج منها أفكارٌ أو</text>
+                    <aspectTerms>
+                        <aspectTerm  target="نقص التعليم"  polarity="negative" from="149" to="160"/> <aspectTerm  target=" للتعبير في الفضاء الرقمي"  polarity="neutral" from="231" to="256"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="153">
+                    <text>العالم العربي والاسلامي ينتظر نقلة نوعية في مجال التعليم والتحول الرقمي.. لان معالي الشيخ العيسى سيُكرّس&amp;apos;جهوده ليساهم في زيادة الوعي لدى الطلاب.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="نقلة نوعية في مجال التعليم والتحول الرقمي"  polarity="positive" from="30" to="71"/> <aspectTerm  target=" زيادة الوعي لدى الطلاب"  polarity="positive" from="120" to="143"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="155">
+                    <text>هل تنجح منصّة علّمني الآن في سدّ ثغرات نموذج الـ MOOC في العالم العربي؟  @WamdaME   @teachmenow_com  http://bit.ly/17fQ7X9</text>
+                    <aspectTerms>
+                        <aspectTerm  target="MOOC"  polarity="positive" from="49" to="53"/> <aspectTerm  target="نصّة علّمني"  polarity="neutral" from="9" to="20"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="159">
+                    <text>رأيي : مع التعليم عن بُعد -حتى توفّر لقاح لوباء كورونا -فالتجربة الأولى للتعليم عن بعد رغم ضيق الوقت تجربة طموحة  ومع رصد الملاحظات وتلافيها في التجربة القادمة ،ستكون النتائج أفضل بإذن الله ،مع ضرورة إلزامية الدخول للمنصات الرقمية ، حتى يستفيد الجميع .  صحة الإنسان أولاً .</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مع التعليم عن بُعد"  polarity="positive" from="7" to="25"/> <aspectTerm  target="فالتجربة الأولى للتعليم عن بعد"  polarity="positive" from="56" to="86"/> <aspectTerm  target="تجربة طموحة"  polarity="positive" from="101" to="112"/> <aspectTerm  target="إلزامية الدخول للمنصات الرقمية"  polarity="positive" from="200" to="230"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="160">
+                    <text>ترتيب جودة التعليم في العالم العربي حسب مؤشر التعليم لعام 2022:   1. الإمارات (0.904)   2. البحرين (0.819)   3. السعودية (0.799)   4. عُمان (0.758)   5. قطر (0.706)   6. الأردن (0.697)   7. فلسطين (0.697)   8. الكويت (0.683)   9. تونس (0.672)   10. الجزائر (0.664)   تتصدر</text>
+                    <aspectTerms>
+                        <aspectTerm  target="جودة التعليم"  polarity="neutral" from="6" to="18"/> <aspectTerm  target=" مؤشر التعليم لعام 2022"  polarity="neutral" from="39" to="62"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="161">
+                    <text>الاتجاه نحو إحلال التعليم الإلكتروني محل التعليم الأصلي = يفسد التعليم رأسا. التعليم الإلكتروني مساعد وتبَعي لا أصلي، واعتماده يُنتج طلابا في أخلاقهم زعارة، والتربية أس التعليم.  وإحلال الصف المقلوب التمركز حول الطالب محل التلقين يُنتج مثقفين أو طلابا ذوي مهارات لكن بلا علم متين.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="إحلال التعليم الإلكتروني محل التعليم الأصلي"  polarity="negative" from="12" to="55"/> <aspectTerm  target="التعليم الإلكتروني مساعد وتبَعي لا أصلي"  polarity="neutral" from="77" to="116"/> <aspectTerm  target="طلابا في أخلاقهم زعارة"  polarity="negative" from="133" to="155"/> <aspectTerm  target="التربية أس التعليم"  polarity="positive" from="158" to="176"/> <aspectTerm  target=" الصف المقلوب التمركز حول الطالب"  polarity="negative" from="185" to="217"/> <aspectTerm  target=" التلقين"  polarity="negative" from="221" to="229"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="162">
+                    <text>الوحدة الصناعية لإنتاج مواد البطاريات الكهربائية لشركة &amp;quot;كوبكو&amp;quot;.. خطوة كبرى للصناعة المغربية     تعد الوحدة الصناعية الأولى المتعلقة بإنتاج مواد البطاريات الكهربائية، التي دشنتها اليوم الأربعاء بالجرف الأصفر شركة “كوبكو” (COBCO)، خطوة كبرى للصناعة المغربية. وتؤكد هذه الوحدة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الوحدة الصناعية لإنتاج مواد البطاريات الكهربائية"  polarity="positive" from="0" to="48"/> <aspectTerm  target=" خطوة كبرى للصناعة المغربية"  polarity="positive" from="64" to="91"/> <aspectTerm  target="كوبكو"  polarity="neutral" from="56" to="61"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="165">
+                    <text>  في الدورة الثالثة من معرض جيتكس إفريقيا للتكنولوجيا، المنظم في مراكش بتعاون مغربي-إماراتي، لم يكن الحضور الدولي الوازن وحده ما لفت الأنظار…  بل كان الطفل المغربي أمين أخباش، ابن قرية تافزة بمنطقة أوريكة، نجمًا غير متوقّع للحدث، وهو يعرض أمام عمالقة التكنولوجيا اختراعاته</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الطفل المغربي أمين أخباش"  polarity="positive" from="150" to="174"/> <aspectTerm  target="مام عمالقة التكنولوجيا اختراعاته"  polarity="positive" from="240" to="272"/> <aspectTerm  target="معرض جيتكس إفريقيا للتكنولوجيا"  polarity="neutral" from="23" to="53"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="170">
+                    <text>في تصنيف جديد لموقع “إنسايدر مانكي” الأمريكي، جاءت المملكة المغربية في الرتبة الأولى ضمن الدول الإفريقية الأكثر تقدما على المستوى التكنولوجي بناء على بيانات المنظمة العالمية للملكية الفكرية (الويبو). اعتمد الموقع في تصنيفه على مجموعة من المعايير؛ على غرار معيار قطاع تكنولوجيا</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المملكة المغربية"  polarity="positive" from="51" to="67"/> <aspectTerm  target="الرتبة الأولى"  polarity="positive" from="71" to="84"/> <aspectTerm  target="على المستوى التكنولوجي"  polarity="positive" from="118" to="140"/> <aspectTerm  target="المنظمة العالمية للملكية الفكرية "  polarity="neutral" from="157" to="190"/> <aspectTerm  target="اعتمد الموقع في تصنيفه على مجموعة من المعايير"  polarity="neutral" from="200" to="245"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="171">
+                    <text>في الوقت الذي تنهار فيه المنظومة الصحية، ويُهجر التعليم العمومي، ويتحوّل القضاء إلى أداة لخدمة الأقوياء، يُصرّ النظام المغربي على تجاهل الإنسان، على سحق المواطن البسيط، على اغتيال الأمل باسم ‘الاستقرار’ الكاذب. بدل أن تُضخ الأموال في بناء مستقبل كريم، تُهدر في ملاعب تلميع الصورة،</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" المنظومة الصحية"  polarity="negative" from="23" to="39"/> <aspectTerm  target="التعليم العمومي"  polarity="negative" from="48" to="63"/> <aspectTerm  target="القضاء"  polarity="negative" from="73" to="79"/> <aspectTerm  target=" المواطن البسيط"  polarity="negative" from="152" to="167"/> <aspectTerm  target=" ملاعب تلميع الصورة"  polarity="negative" from="260" to="279"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="179">
+                    <text>السبب في ارتفاع مؤشر الابتكار بالمغرب (66 عالمياً) هو استثماراته في التعليم (20 عالمياً في الإنفاق)، التصاميم الصناعية (1 عالمياً)، الصناعات عالية التقنية، والطاقة المتجددة، مع بيئة أعمال أفضل وتنويع اقتصادي. أما الجزائر (115) فتعاني من الاعتماد على النفط، البيروقراطية، نقص</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" ارتفاع مؤشر الابتكار"  polarity="positive" from="8" to="29"/> <aspectTerm  target=" استثماراته في التعليم"  polarity="positive" from="53" to="75"/> <aspectTerm  target="التصاميم الصناعية"  polarity="positive" from="101" to="118"/> <aspectTerm  target="الصناعات عالية التقنية"  polarity="positive" from="132" to="154"/> <aspectTerm  target="والطاقة المتجددة"  polarity="positive" from="156" to="172"/> <aspectTerm  target="تنويع اقتصادي"  polarity="positive" from="194" to="207"/> <aspectTerm  target="البيروقراطية"  polarity="negative" from="257" to="269"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="183">
+                    <text>اكتشف كيف تشكل عودة #الكفاءات المغربية من أوروبا ثورة وطنية للإبتكار والتحول الرقمي! في هذا الفيديو نستعرض ظاهرة &amp;quot;النيو-وطنيين&amp;quot; ودور المغرب في استقطاب المواهب بفضل استراتيجيات طموحة كـٓ #المغرب_الرقمي_2030 و #جامعة_محمد_السادس_متعددة_التخصصات #المغرب  https://youtu.be/Wo3SkKHuYps?si=rMNN8dP5HSCsUg2Y…</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الكفاءات المغربية من أوروبا ثورة وطنية للإبتكار والتحول الرقمي"  polarity="positive" from="21" to="83"/> <aspectTerm  target="المغرب_الرقمي_2030"  polarity="positive" from="187" to="205"/> <aspectTerm  target="جامعة_محمد_السادس_متعددة_التخصصات"  polarity="positive" from="209" to="242"/> <aspectTerm  target="استقطاب المواهب"  polarity="positive" from="143" to="158"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="184">
+                    <text>إليكم أهم المشاريع الكبرى بالمغرب  2022 :  1- إنتاج الغاز الطبيعي بمنطقة الغرب وشرق المغرب (شركات بريطانية). 2- الصناعة العسكرية الثقيلة. 3- صناعة وتصدير لقاح كورونا ولقاحات أخرى. 4- بدأ أشغال بناء المدينة. الصناعية محمد السادس (طنجة تيك) بشراكة مع جمهورية الصين الشعبية. ..</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" بناء المدينة. الصناعية محمد السادس (طنجة تيك)"  polarity="positive" from="192" to="238"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        </sentences>

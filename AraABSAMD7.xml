@@ -1,0 +1,1608 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><sentences>
+           <sentence id="0">
+                    <text>جيل Z يقتحم الشارع… والسلطة تجيب بالعصا  اليوم لم يكن يوماً عادياً في المغرب. الشوارع اهتزّت على وقع أصوات الشباب، فيما السلطة أعادت إلى الواجهة أدواتها القديمة: الاعتقالات والمطاردات. منذ 2011 لم نشهد مثل هذا التوتر ولا مثل هذه الحدة بين جيل وُلد في زمن الإنترنت ودولة لا تزال</text>
+                    <aspectTerms>
+                        <aspectTerm  target="جيل Z"  polarity="conflict" from="0" to="5"/> <aspectTerm  target="السلطة"  polarity="negative" from="21" to="27"/> <aspectTerm  target="زمن الإنترنت"  polarity="positive" from="251" to="263"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="1">
+                    <text>توقعت هذه الثورة فى المغرب الأحداث في المغرب هي احتجاجات شبابية (جيل زد) بدأت 27 سبتمبر 2025، تطالب بتحسين الصحة والتعليم، مواجهة البطالة، وانتقاد إنفاق الحكومة على الملاعب الرياضية بدلاً من الخدمات العامة. (مصادر: الجزيرة، رويترز)</text>
+                    <aspectTerms>
+                        <aspectTerm  target="جيل زد"  polarity="conflict" from="65" to="71"/>
+ <aspectTerm  target=" الصحة"  polarity="negative" from="106" to="112"/> <aspectTerm  target="التعليم"  polarity="negative" from="114" to="121"/> 
+<aspectTerm  target=" إنفاق الحكومة على الملاعب الرياضية"  polarity="negative" from="146" to="181"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="2">
+                    <text>شباب المغرب والشارع المغربي ينتفض لتحسين التعليم والصحه. ليصبح في مصاف الشعوب الاولى بينما هناك جيران يتضاهرون ويخرجون للشوارع من اجل رحيل ال//عاا//هرات لافتاه يحملها الشعب لأنهم سئموا من مشاهدات المناظر المقززه امام أطفالهم  هنا يكمن الفرق بين شعب يريد الوصول الى القمه ِ.وشعب</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" التعليم "  polarity="positive" from="40" to="49"/> <aspectTerm  target="الصحه"  polarity="positive" from="50" to="55"/> <aspectTerm  target="شباب المغرب"  polarity="positive" from="0" to="11"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="4">
+                    <text>جرياً على عادتهم، يخرج طلبة مراكز تحفيظ القرآن في المغرب بألواحهم التي يحفظون القرآن عليها إلى الشارع ويتضروعون لله بنزول الغيث إذا تأخر عنهم.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="طلبة مراكز تحفيظ القرآن"  polarity="positive" from="23" to="46"/> <aspectTerm  target=" يحفظون القرآن"  polarity="positive" from="70" to="84"/> <aspectTerm  target="يتضروعون لله بنزول الغيث"  polarity="positive" from="103" to="127"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="5">
+                    <text>وزير التعليم المغربي لا يعرف القراءة  وهو احد اسباب المظاهرات في المغرب  بسبب الفساد  (( عز الدين المداوي فاسد ))  #المغرب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="وزير التعليم المغربي "  polarity="negative" from="0" to="21"/> <aspectTerm  target="اسباب المظاهرات في المغرب"  polarity="negative" from="46" to="71"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="6">
+                    <text>قال وزير التربية الوطنية سعد برادة، اليوم الاثنين بمجلس النواب، إن الدخول المدرسي الحالي كأي دخول مدرسي، لم يخل من مشاكل، والتي يأتي على رأسها الاكتظاظ، خاصة في التعليم الإعدادي...  للمزيد من التفاصيل:   https://lakome2.com/politique/395702/…</text>
+                    <aspectTerms>
+                        <aspectTerm  target="اسباب المظاهرات في المغرب"  polarity="negative" from="46" to="71"/> <aspectTerm  target="الاكتظاظ، خاصة في التعليم الإعدادي"  polarity="negative" from="143" to="177"/> <aspectTerm  target="وزير التربية الوطنية سعد برادة"  polarity="neutral" from="4" to="34"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="7">
+                    <text>خلال اليومين الماضيين خرج شباب #المغرب كالموج الهادر في مدن بلادهم مطالبين بالحرية والعدالة الاجتماعية وحقهم في تعليم يليق بهم ونظام صحي يحفظ كرامتهم. فردّ نظام المخزن بالقمع والاعتقالات.   متى تفهم الأنظمة العربية الغبية أن قوة الأوطان في قوة شبابها لا في ترهيبهم وإعتقالهم؟</text>
+                    <aspectTerms>
+                        <aspectTerm  target="حقهم في تعليم يليق بهم"  polarity="positive" from="104" to="126"/> <aspectTerm  target="القمع والاعتقالات"  polarity="negative" from="169" to="186"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="8">
+                    <text>لا والو ،  هادو غير حافلات شركة ستيام للنقل بين المدن في المغرب ينقلون التلاميد المنكوبين من الزلزال إلى مراكش لمتابعة دراستهم هناك على نفقة الدولة المغربية ..أما حافلات النقل السياحي ونقل الفرق المغربية فلا يراها الكراغلة الا في التلفزيون واليوتيوب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="ينقلون التلاميد المنكوبين من الزلزال إلى مراكش لمتابعة دراستهم"  polarity="positive" from="64" to="126"/> <aspectTerm  target="على نفقة الدولة المغربية"  polarity="positive" from="132" to="156"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="11">
+                    <text>وزارة التربية الوطنية المغربية خصصت عشرات الحافلات الفخمة   لنقل التلاميد الدين دمرت مدارسهم في المناطق المنكوبة  إلى مدينة مراكش لمتابعة دراستهم على نفقة الدولة ..مايقدر يدير هاد الشيء غير المغرب .</text>
+                    <aspectTerms>
+                        <aspectTerm  target="دمرت مدارسهم في المناطق المنكوبة"  polarity="negative" from="80" to="112"/> <aspectTerm  target="لمتابعة دراستهم على نفقة الدولة"  polarity="positive" from="130" to="161"/> <aspectTerm  target="وزارة التربية الوطنية المغربية خصصت عشرات الحافلات"  polarity="positive" from="0" to="50"/> <aspectTerm  target=" لنقل التلاميد"  polarity="positive" from="59" to="73"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+
+
+
+
+ <sentence id="12">
+                    <text>رحلة تعليمية تتجاوز الأرقام والشاشات، تمزج بين الإبداع، التعاون، والتقنيات الحديثة كالذكاء الاصطناعي لتصنع جيلاً يفكر ويبتكر لا يحفظ فقط. نحو مدارس رائدة تُعيد تعريف التعليم في المغرب.   #التعليم #المغرب #مدارس_رائدة #تعليم_حديث #التعلم_الرقمي #الذكاء_الاصطناعي #الإبداع</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التقنيات الحديثة كالذكاء الاصطناعي"  polarity="positive" from="66" to="100"/> <aspectTerm  target=" مدارس رائدة"  polarity="positive" from="141" to="153"/> <aspectTerm  target="تُعيد تعريف التعليم في المغرب"  polarity="positive" from="154" to="183"/> <aspectTerm  target=" الإبداع، التعاون"  polarity="positive" from="46" to="63"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="13">
+                    <text>إنطلاق مبادرة &amp;quot; رؤيتي رقمية &amp;quot; للأستاذه عائشة المعمرية والتي تهدف إلى تعزيز التحول الرقمي  وتنمية المهارات في مجالات التقنية الحديثة مثل الذكاء الاصطناعي، والبرمجة، والدعم الفني، والتطبيقات الإلكترونية التعليمية . #فعاليات_تعليمية_شمال_الباطنة  #تعلم_مستدام</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" التحول الرقمي"  polarity="positive" from="74" to="88"/> <aspectTerm  target=" المهارات في مجالات التقنية الحديثة"  polarity="positive" from="96" to="131"/> <aspectTerm  target="التطبيقات الإلكترونية التعليمية"  polarity="positive" from="179" to="210"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="14">
+                    <text>في #المغرب المنسي مسيرة حضارية دون أي لون سياسي لقبيلة #أيت_بوكماز في الأطلس للمطالبة بنصيبهم من التعليم والصحة والتنمية والطرق وشبكة الإتصالات وغيرها.. هذا حقهم كمواطنين ودماء أجدادهم سالت في الجبال من أجل هذا البلد.. وهذا المستوى من الوعي الشعبي بالحقوق والواجبات يبشر بالخير..</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" التعليم "  polarity="negative" from="96" to="105"/> <aspectTerm  target="شبكة الإتصالات"  polarity="negative" from="129" to="143"/> <aspectTerm  target=" الوعي الشعبي بالحقوق والواجبات"  polarity="positive" from="234" to="265"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="15">
+                    <text> الشباب المغربي قال كلمتو: الصحة حق، التعليم حق، والكرامة ماشي رفاهية.   27 و28 شتنبر موعدنا. #انتفاضة_الشباب مظاهرات في كل مدن المغرب  ساعدونا بالنشر شكرا   تابعونا:  Instagram:  http:// instagram.com/moroccan_youth voice …  TikTok:  http:// tiktok.com/@moroccan_yout hvoice …  Telegram:  http:// t.me/moroccan_youth voice …</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" التعليم"  polarity="negative" from="36" to="44"/> <aspectTerm  target="الكرامة"  polarity="negative" from="50" to="57"/> <aspectTerm  target="الصحة"  polarity="negative" from="27" to="32"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="16">
+                    <text>بدئت السلطات في قمع الشباب من اجل مطالبتهم بحقوقهم الصحة و التعليم وهناك انباء عن اعتقالات نطالب بالجمعيات الحقوق الانسان بتدخل قبل الكارثة… يتبع   #GENZ212 #Morocco #المغرب #الشباب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="قمع الشباب من اجل مطالبتهم بحقوقهم"  polarity="negative" from="16" to="50"/> <aspectTerm  target="الصحة و التعليم"  polarity="negative" from="51" to="66"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+  		
+,
+           <sentence id="17">
+                    <text>تحدي #المغرب ليس في وفرة المصحات أو المدارس ، بل في تعزيز الجودة :  • جودة التطبيب : خدمات طبية متميزة ترتقي بالرعاية الصحية !  • مجانية التطبيب : ضمان الرعاية الصحية لكل المواطنين !  • جودة التعليم : مناهج متطورة وتكوين أكاديمي راقٍ !  العمل بضمير : الإلتزام المهني الأخلاقي !</text>
+                    <aspectTerms>
+                        <aspectTerm  target="وفرة المصحات أو المدارس"  polarity="positive" from="20" to="43"/> <aspectTerm  target="جودة التعليم"  polarity="positive" from="186" to="198"/> <aspectTerm  target=" مناهج متطورة"  polarity="positive" from="200" to="213"/> <aspectTerm  target="تكوين أكاديمي راقٍ"  polarity="positive" from="215" to="233"/> <aspectTerm  target="العمل بضمير"  polarity="positive" from="237" to="248"/> <aspectTerm  target="الإلتزام المهني الأخلاقي"  polarity="positive" from="251" to="275"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="19">
+                    <text>#فائده|  من فاته ملتقى توظيف #الذكاء_الاصطناعي في التعليم  #تعليمنا_أذكى   يمكنك مشاهدة التسجيلات واوراق العمل والتجارب والممارسات التعليمية كلاً على حدة في المجلد الخاص به.  فيديوهات الجلسات:   https:// drive.google.com/drive/u/0/mobi le/folders/1MYVshsjIR1u8cy9U8medTjowIPAnJNPK?usp=sharing …  النماذج وأوراق العمل:   https:// drive.google.com/drive/mobile/f olders/1k6X12X-T0YtwLAiezfa8RkZuO8oRN6s1?usp=sharing …  الممارسات</text>
+                    <aspectTerms>
+                        <aspectTerm  target="ملتقى توظيف #الذكاء_الاصطناعي في التعليم"  polarity="positive" from="17" to="57"/> <aspectTerm  target="تعليمنا_أذكى"  polarity="positive" from="60" to="72"/> <aspectTerm  target="يمكنك مشاهدة التسجيلات واوراق العمل والتجارب والممارسات التعليمية"  polarity="positive" from="75" to="140"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="21">
+                    <text> المغرب يستثمر في مستقبله الصحي والتعليمي برفع الإنفاق إلى 15 مليار دولار في موازنة 2026</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المغرب يستثمر في مستقبله الصحي والتعليمي "  polarity="positive" from="1" to="42"/> <aspectTerm  target="برفع الإنفاق إلى 15 مليار دولار في موازنة 202"  polarity="positive" from="42" to="87"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="22">
+                    <text>في إطار تنفيذ خطة الإنماء المهني، قدم أ.سيف المعمري مشغلا حول تطبيقات الذكاء الاصطناعي في التعليم باستخدام برنامج (educaplay) بهدف توظيفها في العملية التعليمية.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="خطة الإنماء المهني"  polarity="positive" from="14" to="32"/> <aspectTerm  target=" تطبيقات الذكاء الاصطناعي في التعليم"  polarity="positive" from="61" to="97"/> <aspectTerm  target="بهدف توظيفها في العملية التعليمية"  polarity="positive" from="126" to="159"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="25">
+                    <text>وزارة التربية |  إطلاق مشروع التعاون بين وزارة التربية ومنظمة التعاون الاقتصادي والتنمية OECD خطوة رائدة نحو تطوير التعليم وتعزيز كفاءته وفق المعايير الدولية.  #وزارة_التربية #طلبتنا_ثروة_وطن #المغرب_الارجنتين  #العربي_السالميه  #قرار١١٦_وزاره_التربيه  #اربح_مع_بوبيان</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" تطوير التعليم"  polarity="positive" from="108" to="122"/> <aspectTerm  target="تعزيز كفاءته"  polarity="positive" from="124" to="136"/> <aspectTerm  target="مشروع التعاون بين وزارة التربية ومنظمة التعاون الاقتصادي والتنمية"  polarity="positive" from="23" to="88"/> <aspectTerm  target="المعايير الدولية"  polarity="positive" from="141" to="157"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="31">
+                    <text> | مبادرات  في إطار رفع المستوى التحصيلي للطلبة في مهارات الحساب المختلفة تنفذ معلمات #المجال_الثاني تنفيذ مجموعة من #المبادرات التحصيلية الهادفة إلى تعزيز فهم الطلبة وتطوير قدراتهم الحسابية، من خلال أنشطة تفاعلية وتمارين إثرائية تُسهم في تنمية مهارات التفكير والتطبيق العملي.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="رفع المستوى التحصيلي للطلبة"  polarity="positive" from="20" to="47"/> <aspectTerm  target="مهارات الحساب"  polarity="positive" from="51" to="64"/> <aspectTerm  target="أنشطة تفاعلية"  polarity="positive" from="200" to="213"/> <aspectTerm  target="تمارين إثرائية"  polarity="positive" from="215" to="229"/> <aspectTerm  target=" تنمية مهارات التفكير والتطبيق العملي"  polarity="positive" from="238" to="275"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="32">
+                    <text>// الـرؤية الملكـية المتبصرة لصاحب الجلالة الملك محمد السادس نصره الله أثبتت أن العمل الأكاديمي والجدية يصنعان الفـرق #شباب_اكاديميه_محمد_السادس  يحـققون ما لم يـكن المغرب قادراً عـلى تحقيقه فـي سنـوات مـاضيـة.  #المغرب #DimaMaghrib #كأس_العالم_تحت_20_سنة #Morocco #Maroc</text>
+                    <aspectTerms>
+                        <aspectTerm  target="العمل الأكاديمي"  polarity="positive" from="80" to="95"/> <aspectTerm  target="الجدية"  polarity="positive" from="97" to="103"/> <aspectTerm  target="شباب_اكاديميه_محمد_السادس"  polarity="positive" from="119" to="144"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="42">
+                    <text>قرّر المغرب تخصيص 140 مليار درهم (15 مليار دولار) لقطاعي الصحة والتعليم في موازنة العام المقبل، بزيادة بلغت 16% مقارنة بالعام الماضي، وفق بيان صادر عن القصر الملكي الأحد.  ويأتي القرار استجابةً لمطالب المحتجين الشباب الذين دعوا في الأسابيع الأخيرة إلى تحسين الخدمات الصحية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="قرّر المغرب تخصيص 140 مليار درهم (15 مليار دولار) لقطاعي الصحة والتعليم "  polarity="positive" from="0" to="72"/> <aspectTerm  target="بزيادة بلغت 16% مقارنة بالعام الماضي"  polarity="positive" from="96" to="132"/> <aspectTerm  target=" تحسين الخدمات"  polarity="positive" from="251" to="265"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="43">
+                    <text>في تصريح معالي #وزير_التعليم يوم أمس 13 أبريل: يجب أن يكون لدينا #نموذج_تقييم أداء المعلمين لتحقيق الفوائد التعليمية.  لا تنتظر التغيير بل كن أنت التغيير..  بادر في إتقان وفهم عناصر تقييم الأداء الوظيفي للمعلمين ونظم أوراقك وملفاتك بشكل يومي باستخدام الكاميرا في جوالك أو حاسبك</text>
+                    <aspectTerms>
+                        <aspectTerm  target="نموذج_تقييم أداء المعلمين"  polarity="positive" from="66" to="91"/> <aspectTerm  target="إتقان وفهم عناصر تقييم الأداء الوظيفي للمعلمين"  polarity="positive" from="165" to="211"/> <aspectTerm  target="نظم أوراقك وملفاتك بشكل يومي"  polarity="positive" from="213" to="241"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="44">
+                    <text> منصات #الدعم_المدرسي الإلكترونية .. خيار مفضل لدى عدد كبير من التلاميذ  تعليم تفاعلي يواكب التحول الرقمي في #المغرب  #التعليم #المدرسة #تكنولوجيا #تعليم_رقمي #تعليم_عن_بعد #Education #DigitalLearning</text>
+                    <aspectTerms>
+                        <aspectTerm  target="منصات #الدعم_المدرسي الإلكترونية"  polarity="positive" from="1" to="33"/> <aspectTerm  target="تعليم تفاعلي"  polarity="positive" from="73" to="85"/> <aspectTerm  target="التحول الرقمي في #المغرب"  polarity="neutral" from="92" to="116"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="48">
+                    <text>الراجل اللي كسب كأس العالم للشباب مع منتخب المغرب مكنش لاعب كورة معتزل ولا حاجه دا كان مدرس  أيوة والله زي ما بقولك مدرس ، فكره أنك لازم تكون لاعب ولعبت منتخب مصر ونجم كبير علشان تشتغل وتمسك حاجة دى فكره عبثية اخترعها الإعلام والناس اللي ليها مصالح   المدربين اللي ليل نهار</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مدرس"  polarity="positive" from="87" to="91"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="51">
+                    <text>فكرةٌ صامتة بألفِ عِبارةٍ ناطِقة جسّد فيها أبناؤنا الطلبة نتائج الإفراط في استخدام الأجهزة الإلكترونية الحديثة وغياب رقابة الوالدين وما ينتج عن ذلك من تشتت الانتباه، وضعف التحصيل الدراسي، والأرق، وما يُصاحِبُ ذلك من تأثيرٍ على صحةِ العينيين والجسم بشكلٍ عام، فالاعتدال والتوازن</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" تشتت الانتباه"  polarity="negative" from="150" to="164"/> <aspectTerm  target="ضعف التحصيل الدراسي"  polarity="negative" from="167" to="186"/> <aspectTerm  target="الأرق"  polarity="negative" from="189" to="194"/> <aspectTerm  target=" تأثيرٍ على صحةِ العينيين والجسم"  polarity="negative" from="215" to="247"/> <aspectTerm  target="الإفراط في استخدام الأجهزة الإلكترونية "  polarity="negative" from="64" to="103"/> <aspectTerm  target="غياب رقابة الوالدين"  polarity="negative" from="112" to="131"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="52">
+                    <text>اللهم لك الحمد ..   صدرت القواعد التنفيذية للائحة التعليم الإلكتروني، ونصت على أن شهادة التعليم الإلكتروني (عن بعد) تعادل شهادة التعليم الحضوري وتحظى بنفس الاعتراف ولايجوز التمييز بينهما بل لايجوز حتى الإشارة إلى نمط التعليم في الشهادة.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم الإلكتروني"  polarity="positive" from="50" to="68"/> <aspectTerm  target="لتعليم الإلكتروني (عن بعد) تعادل شهادة التعليم الحضوري"  polarity="positive" from="89" to="143"/> <aspectTerm  target="ولايجوز التمييز بينهما"  polarity="positive" from="164" to="186"/> <aspectTerm  target="لايجوز حتى الإشارة إلى نمط التعليم في الشهادة"  polarity="positive" from="190" to="235"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="57">
+                    <text>في #المغرب القوات العسكرية والأمنية تقوم بتفتيش الطلبة في الثانويات ومحاصرة المدارس خوفا من مظاهرات واحتجاجات جيل Z.  المغرب آخر ديكتاتوريات القرن الواحد والعشرين. #GENZ212 </text>
+                    <aspectTerms>
+                        <aspectTerm  target=" بتفتيش الطلبة"  polarity="negative" from="40" to="54"/> <aspectTerm  target="محاصرة المدارس"  polarity="negative" from="69" to="83"/> <aspectTerm  target="احتجاجات جيل"  polarity="negative" from="101" to="113"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="60">
+                    <text>هذا هو عدد الجامعات وحجم #الإنفاق_الحكومي على قطاع #التعليم_العالي في الدول العربية لعام 2023.. (بخصوص السعودية والإمارات أُدرجت ميزانية التعليم مع التعليم العالي لعدم توفر المعطيات الخاصة بالتعليم العالي فقط)  #إنفوجرافيك  #الشروق_الرقمي #السعودية #الجزائر #قطر #مصر #المغرب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="حجم #الإنفاق_الحكومي على قطاع #التعليم_العالي"  polarity="neutral" from="21" to="66"/> <aspectTerm  target="عدد الجامعات"  polarity="neutral" from="7" to="19"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="63">
+                    <text>شهد الموسم الدراسي 2025/2026 توسعا ملحوظا في البنية التحتية التعليمية، خاصة في الوسط القروي، بافتتاح 169 مؤسسة جديدة، و2461 حجرة دراسية و15 داخلية، ليصل مجموع المؤسسات التعليمية إلى 12.441، مع توظيف 14 ألف أستاذ(ة) جديد(ة) وارتفاع العدد الإجمالي إلى أكثر من 299 ألفا.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="فتتاح 169 مؤسسة جديدة"  polarity="positive" from="95" to="116"/> <aspectTerm  target=" حجرة دراسية و15 داخلية"  polarity="positive" from="123" to="146"/> <aspectTerm  target="توظيف 14 ألف أستاذ(ة) جديد"  polarity="positive" from="193" to="219"/> <aspectTerm  target="ليصل مجموع المؤسسات التعليمية إلى 12.441،"  polarity="positive" from="148" to="189"/> <aspectTerm  target="ارتفاع العدد الإجمالي إلى أكثر من 299 ألفا"  polarity="positive" from="224" to="266"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="64">
+                    <text>المغرب يستثمر في الإنسان: 140 مليار درهم لصحة وتعليم أفضل.  ضمانا لحياة كريمة لكل المواطنين، تطلق المملكة المغربية استثمارات تاريخية جديدة في قطاعي الصحة والتعليم، تنفيذا للتوجيهات الملكية السامية. الأرقام تتحدث: غلاف مالي: 140 مليار درهم وظائف جديدة: 27,000 منصب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="140 مليار درهم لصحة وتعليم"  polarity="positive" from="26" to="52"/> <aspectTerm  target="استثمارات تاريخية جديدة في قطاعي الصحة والتعليم"  polarity="positive" from="115" to="162"/> <aspectTerm  target="27,000 منصب"  polarity="positive" from="252" to="263"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="66">
+                    <text>التعليم العالي في المغرب   تراجع للمرتبة  154 عالميا و الأخيرة عربيا !  المهم  مشينا بعيدا على إفريقيا و كنافسوا أوروبا</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" الأخيرة عربيا"  polarity="negative" from="54" to="68"/> <aspectTerm  target="التعليم العالي في المغرب"  polarity="negative" from="0" to="24"/> <aspectTerm  target="تراجع للمرتبة"  polarity="negative" from="27" to="40"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="68">
+                    <text>مبدئيا للدبلوم عن بعد وقريبا لكافة المراحل الدراسية الجامعية (دبلوم تجسير بكالوريوس دبلوم عالي ماجستير دكتوراه) بكافة الأنماط التعليمية (حضوري مدمج عن بعد)  أنهيت محرك البحث للتخصصات اللي يخليك تختار التخصص والدرجة العلمية ونمط الدراسة وتشوف الجامعات اللي تتيحه أو تتيح شيء مشابه</text>
+                    <aspectTerms>
+                        <aspectTerm  target="للدبلوم عن بعد"  polarity="positive" from="7" to="21"/> <aspectTerm  target=" محرك البحث للتخصصات"  polarity="positive" from="162" to="182"/> <aspectTerm  target="تختار التخصص والدرجة العلمية ونمط الدراسة"  polarity="positive" from="194" to="235"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="69">
+                    <text>فضائح جديدة في أكبر ملف فساد في تاريخ التعليم العالي في عهد الوزير الهابط: تأمل جديد التحويلات المالية لعام 2023 الحالي للموفدين غير القانونين في المغرب وفرنسا. تأمل الطالب رقم 9 في المغرب من مواليد 1959 يعني 64 عاما يدرس فقها إسلاميا خصما من بند الدراسات العليا ولديه 6 أطفال.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="ملف فساد في تاريخ التعليم العالي"  polarity="negative" from="20" to="52"/> <aspectTerm  target="التحويلات المالية لعام 2023 الحالي للموفدين غير القانونين"  polarity="negative" from="85" to="142"/> <aspectTerm  target="تأمل الطالب رقم 9 في المغرب من مواليد 1959 يعني 64 عاما"  polarity="negative" from="161" to="216"/> <aspectTerm  target="يدرس فقها إسلاميا "  polarity="negative" from="217" to="235"/> <aspectTerm  target="بند الدراسات العليا"  polarity="negative" from="243" to="262"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="76">
+                    <text>امام مكتب و زير التعليم العالي  بحال هاد الوقفات ميمكنش تلقاها ف قطر ولا السعودية ولا الاماراتية .. تلقاها غير في المغرب لماذا ؟</text>
+                    <aspectTerms>
+                        <aspectTerm  target="امام مكتب و زير التعليم العالي"  polarity="negative" from="0" to="30"/> <aspectTerm  target="امام مكتب و زير التعليم العالي"  polarity="negative" from="0" to="30"/> <aspectTerm  target="في المغرب لماذا"  polarity="negative" from="111" to="126"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="77">
+                    <text>الدرجة العالية في الرخصة المهنية هي مؤشر لـ التزامك بالتطوير المستمر.  ليش الرخصة المهنية مهمة؟ هي بوابتك لـ الترقي والتطور في المسار الوظيفي التعليمي. تؤكد كفاءتك المهنية ومعرفتك بأجدد الممارسات التربوية. تعطيك اعترافا رسميا بامتلاكك للمهارات اللازمة.   سارع بالتسجيل الحين</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الدرجة العالية في الرخصة المهنية هي مؤشر لـ التزامك بالتطوير المستمر"  polarity="positive" from="0" to="68"/> <aspectTerm  target="لرخصة المهنية مهمة"  polarity="positive" from="76" to="94"/> <aspectTerm  target="تؤكد كفاءتك المهنية ومعرفتك بأجدد الممارسات التربوية"  polarity="positive" from="152" to="204"/> <aspectTerm  target="تعطيك اعترافا رسميا بامتلاكك للمهارات اللازمة"  polarity="positive" from="206" to="251"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="78">
+                    <text>يريد وزير التعليم العالي في #المغرب الذهاب إلى #إسرائيل لمدة أسبوعين، لأن بلاده تتمتع بعلاقة طيبة، وهناك أساتذة مغاربة يهود على مستوى عالمي في إسرائيل.  هذه مملكة صهيونية أخرى، قليل من ينتبه إليها. لاحظ أن أخانا يرغب في البقاء أسبوعين، بينما مقاطعة جامعات إسرائيل اتخذتها جامعات</text>
+                    <aspectTerms>
+                        <aspectTerm  target="وزير التعليم العالي في #المغرب الذهاب إلى #إسرائيل لمدة أسبوعين"  polarity="negative" from="5" to="68"/> <aspectTerm  target="أساتذة مغاربة يهود على مستوى عالمي في إسرائيل"  polarity="negative" from="105" to="150"/> <aspectTerm  target=" مقاطعة جامعات إسرائيل اتخذتها جامعات"  polarity="negative" from="241" to="278"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="80">
+                    <text>الرباط   أعلنت مؤسسة محمد السادس للعلوم والصحة عن اقتراب موعد تدشين المركب الاستشفائي الجامعي الدولي محمد السادس، وهو مشروع ضخم شيد وفق أعلى المعايير التقنية والوظيفية باستثمار فاق 8 مليارات درهم.   المستشفى يمثل جيلا جديدا من المؤسسات الصحية التي تجمع بين العلاج، التكوين،</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" أعلنت مؤسسة محمد السادس للعلوم والصحة"  polarity="positive" from="8" to="46"/> <aspectTerm  target="اقتراب موعد تدشين المركب الاستشفائي الجامعي الدولي محمد السادس"  polarity="positive" from="50" to="112"/> <aspectTerm  target="مشروع ضخم شيد وفق أعلى المعايير التقنية والوظيفية باستثمار"  polarity="positive" from="118" to="176"/> <aspectTerm  target=" التكو"  polarity="positive" from="264" to="270"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="81">
+                    <text>علاقة طالبة بأستاذها تتحول إلى جريمة مروعة... كيف يصبح أستاذ جامعي سفاحًا .. في المغرب عام 2009، وقعت جريمة قتل هزت الوسط الجامعي، راح ضحيتها طالبة متفوقة كانت على أعتاب نيل درجة الدكتوراه، ولكنها لم تكن تعلم أن تفوقها سيقودها إلى مصير مأساوي.  تابع</text>
+                    <aspectTerms>
+                        <aspectTerm  target="علاقة طالبة بأستاذها تتحول إلى جريمة مروعة"  polarity="negative" from="0" to="42"/> <aspectTerm  target="كيف يصبح أستاذ جامعي سفاحًا"  polarity="negative" from="46" to="73"/> <aspectTerm  target="راح ضحيتها طالبة متفوقة كانت على أعتاب نيل درجة الدكتوراه"  polarity="negative" from="131" to="188"/> <aspectTerm  target="قعت جريمة قتل هزت الوسط الجامعي"  polarity="negative" from="98" to="129"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="82">
+                    <text>حاليا في المستشفيات فحال ابن سينا #الرباط نجد أطباء من الجزائر،تونس وافارقة الجنوب في حين يشهد #المغرب هروب الكفائات الطبية المغربية خريجي الجامعات الى الخارج. السبب تعنت وزراة التعليم العالي وإهمال وزراة الصحة مقابل العروض المغرية وتمويل ابحاثهم التي يحصلون عليها في الخارج</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" يشهد #المغرب هروب الكفائات الطبية المغربية خريجي الجامعات الى الخارج"  polarity="negative" from="89" to="158"/> <aspectTerm  target=" تعنت وزراة التعليم العالي"  polarity="negative" from="165" to="191"/> <aspectTerm  target="تمويل ابحاثهم التي يحصلون عليها في الخارج"  polarity="negative" from="233" to="274"/> <aspectTerm  target="حاليا في المستشفيات فحال ابن سينا #الرباط نجد أطباء من الجزائر،تونس وافارقة الجنوب"  polarity="neutral" from="0" to="82"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="83">
+                    <text>أثار الإعلان عن النتائج النهائية لمباراة توظيف أستاذ جامعي من الدرجة الأولى بالمعهد العالي للفن المسرحي والتنشيط الثقافي، التابع لوزارة الشباب والثقافة والتواصل، جدلاً واسعًا على مواقع التواصل الاجتماعي، بعد أن أظهرت الوثيقة الرسمية الصادرة بتاريخ 23 أكتوبر 2025 فوز الفنانة لطيفة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لمباراة توظيف أستاذ جامعي من الدرجة الأولى"  polarity="neutral" from="33" to="75"/> <aspectTerm  target=" الإعلان عن النتائج النهائية"  polarity="neutral" from="4" to="32"/> <aspectTerm  target="جدلاً واسعًا على مواقع التواصل الاجتماعي"  polarity="negative" from="162" to="202"/> <aspectTerm  target="فوز الفنانة لطيفة"  polarity="neutral" from="263" to="280"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="85">
+                    <text> أغاني الشعبي في الأعراس المغربية بلغت من الطموح ما لم يبلغه كثير من الطلبة..تعبت و درست و سهرت الليالي إلى أن صارت تحمل شهادات دولية..  درست في جامعة هارفارد الأمريكية…و حصلت على &amp;quot;ماستر&amp;quot; بامتياز في تخصص “الشعبي الأمريكي المغربي المشترك”  اليوم، الشعبي المغربي لم يعد فنًّا</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الطلبة"  polarity="neutral" from="69" to="75"/> <aspectTerm  target="تعبت و درست و سهرت الليالي"  polarity="neutral" from="77" to="103"/> <aspectTerm  target="تحمل شهادات دولية"  polarity="neutral" from="116" to="133"/> <aspectTerm  target=" درست في جامعة هارفارد الأمريكية"  polarity="neutral" from="136" to="168"/> <aspectTerm  target="حصلت على &quot;ماستر&quot; بامتياز"  polarity="neutral" from="171" to="195"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="88">
+                    <text>ضمن جهود المدرسة في تعزيز الصحة النفسية لدى الطلبة، نظّمت الأخصائية الاجتماعية ورشة تدريبية بالتعاون مع الأستاذ سليمان المجيني من دائرة التنمية الأسرية بالمصنعة، تناولت أهمية التوازن النفسي والتفكير الإيجابي لدى الطلبة.  #نعتني_بصحتنا_لننطلق_بثقة  #مدرستي_بيئتي_الثانية </text>
+                    <aspectTerms>
+                        <aspectTerm  target="تعزيز الصحة النفسية لدى الطلبة"  polarity="positive" from="20" to="50"/> <aspectTerm  target="ورشة تدريبية"  polarity="positive" from="79" to="91"/> <aspectTerm  target="أهمية التوازن النفسي"  polarity="positive" from="169" to="189"/> <aspectTerm  target="التفكير الإيجابي لدى الطلبة"  polarity="positive" from="191" to="218"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="92">
+                    <text>تعيين طارق المالكي نجل لحبيب المالكي (رئيس المجلس الأعلى للتعليم)، مديرا عاما لمجموعة المعهد العالي للتجارة وإدارة المقاولات #ISCAE في المجلس الحكومي الذي انعقد امس. #المغرب #التعليم</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تعيين طارق المالكي نجل لحبيب المالكي "  polarity="negative" from="0" to="37"/> <aspectTerm  target="رئيس المجلس الأعلى للتعليم"  polarity="neutral" from="38" to="64"/> <aspectTerm  target="مديرا عاما لمجموعة المعهد العالي للتجارة وإدارة المقاولات"  polarity="neutral" from="67" to="124"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="93">
+                    <text>تخصصات جامعية مالها مستقبل وظيفي؛  العلوم الإدارية&amp;quot; ادارة الاعمال&amp;quot; التخصصات المالية والمصرفية اللغة الانجليزية والعربية الترجمة، الكتابة، الأدب الفنية، الرسم، الفنون إدارة الفنادق  تاريخ وجغرافيا  تخصصات ينصح بها للمستقبل؛ الذكاء الاصطناعي الامن السيبراني هندسة البرمجيات علن</text>
+                    <aspectTerms>
+                        <aspectTerm  target="العلوم الإدارية"  polarity="negative" from="35" to="50"/> <aspectTerm  target="التخصصات المالية والمصرفية"  polarity="negative" from="67" to="93"/> <aspectTerm  target="اللغة الانجليزية والعربية الترجمة"  polarity="negative" from="94" to="127"/> <aspectTerm  target="الكتابة، الأدب الفنية، الرسم، الفنون"  polarity="negative" from="129" to="165"/> <aspectTerm  target=" الذكاء الاصطناعي"  polarity="positive" from="222" to="239"/> <aspectTerm  target="الامن السيبراني"  polarity="positive" from="240" to="255"/> <aspectTerm  target="هندسة البرمجيات"  polarity="positive" from="256" to="271"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="94">
+                    <text>حامل علم الصهينة في التعليم العالي في #المغرب.. #فلسطين ركز الكرامة َ الشرف</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" التعليم العالي"  polarity="negative" from="19" to="34"/> <aspectTerm  target="حامل علم الصهينة"  polarity="negative" from="0" to="16"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="96">
+                    <text>أول مصدر للفوسفات في العالم، و أول مصدر للسردين المعلب، و أول مصدر للطماطم إلى الاتحاد الأوروبي، و أقوى دولة مصنعة في شمال إفريقيا… و تقترضون لتمويل قطاع التعليم العالي؟   #أين_الثروة #المغرب_أضحوكة_العالم</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" تقترضون لتمويل قطاع التعليم العالي"  polarity="negative" from="133" to="168"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="97">
+                    <text>الدكتورمحمد جبرون أستاذ التعليم العالي متخصص في التاريخ والفكر السياسي الإسلامي : سقوط المغرب في الاستعمار لم يكن بسبب المولى عبد الحفيظ وحده  لمشاهدة الحوار كاملا   https:// youtu.be/e8MikqC-Xl8</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" أستاذ التعليم العالي"  polarity="neutral" from="17" to="38"/> <aspectTerm  target="متخصص في التاريخ والفكر السياسي الإسلامي"  polarity="neutral" from="39" to="79"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="98">
+                    <text> بالإضافة عن تأييدها لحل سياسي قائم على التوافق للنزاع حول الصحراء المغربية، وقعت أنغولا مع المغرب، الثلاثاء 11 يوليوز في الرباط، خمس اتفاقيات تعاون ثنائية.  - التعليم العالي - البحث العلمي - السياحة - المحروقات - الأكاديميات الدبلوماسية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم العالي "  polarity="positive" from="160" to="175"/> <aspectTerm  target="البحث العلمي"  polarity="positive" from="177" to="189"/> <aspectTerm  target="الأكاديميات الدبلوماسية"  polarity="positive" from="214" to="237"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="99">
+                    <text>بماذا تردون على وزير التعليم العالي والبحث العلمي في المغرب؟ ستعلم من هم الداعمون العرب للكيان الصهيوني في إبادته للفلسطينيين!</text>
+                    <aspectTerms>
+                        <aspectTerm  target="وزير التعليم العالي والبحث العلمي في المغرب"  polarity="negative" from="16" to="59"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="101">
+                    <text>آخر الاستعدادات من أجل افتتاح المستشفى الجامعي الدولي محمد السادس بمدينة الرباط. هذا الصرح الطبي الضخم، الذي أنجزته مؤسسة محمد السادس للعلوم والصحة بتكلفة 450 مليون يورو، يضم 553 سريرًا و20 غرفة عمليات، إلى جانب 15 مدرجًا و72 قاعة دراسية و217 فضاءً للتكوين العملي، ما يجعله أحد</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المستشفى الجامعي الدولي محمد السادس بمدينة الرباط"  polarity="positive" from="30" to="79"/> <aspectTerm  target=" مدرجًا و72 قاعة دراسية"  polarity="positive" from="214" to="237"/> <aspectTerm  target="و217 فضاءً للتكوين العملي"  polarity="positive" from="238" to="263"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="102">
+                    <text>فضيحة نجلة قيادي في جماعة العدل والإحسان  @JS1OFFICIEL  تهز جامعة فاس بسبب ولوجها إلى سلك الدكتوراه دون الحصول على &amp;quot;الماستر&amp;quot;   اهتزت جامعة فاس هذه الأيام، على وقع فضيحة قانونية وإدارية خطيرة، بطلتها نجلة قيادي في جماعة العدل والإحسان، بسبب ولوجها إلى سلك الدكتوراه دون</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" ولوجها إلى سلك الدكتوراه دون الحصول على &quot;الماستر"  polarity="negative" from="74" to="123"/> <aspectTerm  target="فضيحة قانونية وإدارية "  polarity="negative" from="163" to="185"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="106">
+                    <text> | وقع المغرب والبرتغال، الجمعة 12 ماي 2023، بلشبونة، 12 اتفاقا في عدد من المجالات الاستراتيجية بهدف تعزيز التعاون الثنائي.  تهم هذه الاتفاقيات بشكل خاص المجالات الاقتصادية والطاقية والثقافية، وكذا التعاون في مجال التعليم العالي والصناعة التقليدية والتضامن الاجتماعي، والعدل.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="اتفاقا في عدد من المجالات الاستراتيجية"  polarity="positive" from="57" to="95"/> <aspectTerm  target="تعزيز التعاون الثنائي"  polarity="positive" from="101" to="122"/> <aspectTerm  target="التعاون في مجال التعليم العالي"  polarity="positive" from="198" to="228"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="107">
+                    <text>تغييرات جديدة وعديدة من المنتظر أن تسم منظومة التعليم العالي في المغرب، بدءاً من الدخول الجامعي المقبل لموسم 2023–2024، بمختلف المؤسسات. ومنذ السنة الجامعية القادمة بات في حكم المؤكد “إلغاء العمل بمسالك الإجازات المهنية” في مختلف مؤسسات التعليم العالي ذات الاستقطاب المفتوح</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تغييرات جديدة وعديدة من المنتظر أن تسم منظومة التعليم العالي"  polarity="neutral" from="0" to="60"/> <aspectTerm  target="إلغاء العمل بمسالك الإجازات المهنية"  polarity="negative" from="184" to="219"/> <aspectTerm  target="بدءاً من الدخول الجامعي المقبل لموسم 2023–2024"  polarity="neutral" from="72" to="118"/> <aspectTerm  target="مؤسسات التعليم العالي ذات الاستقطاب المفتوح"  polarity="neutral" from="230" to="273"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="108">
+                    <text>حكم قضائي باسترداد الرسوم الدراسية لدراسة الماجستير | ناقش الحكم :  • اللائحة المنظمة للدراسات العليا في الجامعات بتاريخ ٣ محرم ١٤٤٤ هـ ، وتاريخ العمل بها .  • نظام الجامعات الصادر بتاريخ ٢ / ٣ / ١٤٤١ ، وتحديد صلاحية مجلس شؤون الجامعات للبرامج والدورات التي يجوز للجامعة وضع</text>
+                    <aspectTerms>
+                        <aspectTerm  target="حكم قضائي باسترداد الرسوم الدراسية لدراسة الماجستير "  polarity="positive" from="0" to="52"/> <aspectTerm  target=" اللائحة المنظمة للدراسات العليا في الجامعات"  polarity="neutral" from="69" to="113"/> <aspectTerm  target=" نظام الجامعات "  polarity="neutral" from="159" to="174"/> <aspectTerm  target="صلاحية مجلس شؤون الجامعات"  polarity="neutral" from="210" to="235"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="111">
+                    <text> ساهمت التساقطات المطرية الأخيرة التي شهدها المغرب في الأسابيع الأخيرة، رغم قلتها، في إنعاش أمال الفلاحين، خاصة بالنسبة للفلاحة البورية، وللفلاحات الكبيرة، مثل الحبوب والشمندر السكري، ذلك ما أكده كمال أبركاني، أستاذ التعليم العالي بكلية المتعددة التخصصات بالناظور.  وأوضح</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" أستاذ التعليم العالي"  polarity="neutral" from="209" to="230"/> <aspectTerm  target="كلية المتعددة التخصصات بالناظور"  polarity="neutral" from="232" to="263"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="112">
+                    <text>المغرب يرفع المنح الدراسية المقدمة لليمن إلى 150 في مجالات التعليم العالي والفني والمهني وتبادل التكنولوجيا وتطوير القدرات #المغرب #منح_التبادل_الثقافي #قناة_الجمهورية #yemen</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المغرب يرفع المنح الدراسية"  polarity="positive" from="0" to="26"/> <aspectTerm  target="التعليم العالي والفني والمهني"  polarity="positive" from="59" to="88"/> <aspectTerm  target="تبادل التكنولوجيا"  polarity="positive" from="90" to="107"/> <aspectTerm  target="تطوير القدرات"  polarity="positive" from="109" to="122"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="113">
+                    <text> خاص عربي بوست | قرار يربك الجامعات في #المغرب.. جدل واسع حول شروط الماستر الجديدة    يشهد الدخول الجامعي في المغرب هذا العام جدلاً محتدماً بعد قرار وزارة التعليم العالي إلغاء الامتحانات الكتابية والشفوية للماستر، واعتماد المعدلات الجامعية فقط كمعيار للقبول.    خطوة قدّمتها</text>
+                    <aspectTerms>
+                        <aspectTerm  target="قرار يربك الجامعات في #المغرب"  polarity="negative" from="17" to="46"/> <aspectTerm  target=" شروط الماستر الجديدة"  polarity="neutral" from="61" to="82"/> <aspectTerm  target="إلغاء الامتحانات الكتابية والشفوية للماستر"  polarity="negative" from="170" to="212"/> <aspectTerm  target="اعتماد المعدلات الجامعية فقط كمعيار للقبول"  polarity="negative" from="215" to="257"/> <aspectTerm  target="جدل واسع"  polarity="negative" from="49" to="57"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="114">
+                    <text>الجامعة البسطاميّة : دار بيني وبين أخٍ لي أثيرٍ من أساتذة التّعليم العالي في المغرب حديثٌ عن حال الجامعات في ما تأخّر بنسبته إلى التّصوّر الوظيفيّ للجامعات في ما تقدّم &amp;gt;</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" أساتذة التّعليم العالي في المغرب"  polarity="negative" from="50" to="83"/> <aspectTerm  target=" حال الجامعات"  polarity="neutral" from="92" to="105"/> <aspectTerm  target=" التّصوّر الوظيفيّ للجامعات"  polarity="neutral" from="128" to="155"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="115">
+                    <text>وزير التعليم العالي: يجب الإسراع في إعداد بحوث الدكتوراه لأن المواضيع تفقد جدتها  #المغرب #بحوث_الدكتوراه #عبد_اللطيف_ميراوي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الإسراع في إعداد بحوث الدكتوراه "  polarity="positive" from="25" to="57"/> <aspectTerm  target=" المواضيع تفقد جدتها "  polarity="negative" from="60" to="81"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="116">
+                    <text>بالتزامن مع الاحتفاء الأممي باليوم العالمي للمرأة، كشفت معطيات رسمية صادرة عن وزارة التعليم العالي والبحث العلمي والابتكار عن نسَب “معتبَرة” تعكس تطورا في مشاركة وحضور النساء في مجالات العلوم والبحث وبرامج الابتكار والتطوير.  #المغرب  #اليوم_العالمي_للمرأة #مهندسات</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" مشاركة وحضور النساء في مجالات العلوم والبحث"  polarity="positive" from="154" to="198"/> <aspectTerm  target="برامج الابتكار والتطوير"  polarity="positive" from="200" to="223"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="119">
+                    <text> في جامعة الحسن الأول بمدينة سطات، ندوة دولية عن حقوق الإنسان وتحديات العصر الرقمي، بمشاركة نخبة من الأكاديميين والخبراء المغاربة و العرب  كل شيء كان محسوبًا بدقة من قبل الجامعة المغربية الجهة المنظمة…إلا خريطة المغرب التي بُترت من صحرائها بكل احترافية !   إذا كان أهل الدار لا</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" ندوة دولية عن حقوق الإنسان وتحديات العصر الرقمي"  polarity="neutral" from="34" to="82"/> <aspectTerm  target="بمشاركة نخبة من الأكاديميين والخبراء المغاربة و العرب"  polarity="positive" from="84" to="137"/> <aspectTerm  target="الجامعة المغربية الجهة المنظمة"  polarity="negative" from="170" to="200"/> <aspectTerm  target="خريطة المغرب التي بُترت من صحرائها"  polarity="negative" from="205" to="239"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="120">
+                    <text>| وزارة #التعليم_العالي في #المغرب تنشر بلاغا اخباريا ردا على تداول اخبار عن تسريب امتحان #الطب و #الصيدلة في مجموعة من #مجموعات_الوتساب تساعد الغشاشين يوم الامتحان عبر التقنيات_الحديثة. ويلاحظ في السنوات الاخيرة انتقال ظاهرة الغش من الامتحانات #الاشهادية الى مباريات التوظيف.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="وزارة #التعليم_العالي في #المغرب تنشر بلاغا اخباريا"  polarity="neutral" from="2" to="53"/> <aspectTerm  target=" تسريب امتحان #الطب و #الصيدلة"  polarity="negative" from="76" to="106"/> <aspectTerm  target="مجموعات_الوتساب تساعد الغشاشين يوم الامتحان"  polarity="negative" from="121" to="164"/> <aspectTerm  target="عبر التقنيات_الحديثة"  polarity="negative" from="165" to="185"/> <aspectTerm  target="انتقال ظاهرة الغش من الامتحانات #الاشهادية الى مباريات التوظيف"  polarity="negative" from="213" to="275"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="130">
+                    <text>وجدت سلمى، الطالبة الجامعية نفسها تحت وطأة ظروف قاسية أجبرتها على العمل لتأمين قوتها اليومي ومتابعة دراستها الجامعية، حيث لم تجد خيارًا سوى العمل كمعينة منزلية. لكن حادث شغل مفاجئ قلب حياتها رأسًا على عقب، مهددًا مستقبلها وكل أحلامها. قصة سلمى تجدونهافي هذه السلسلة المصوّرة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="متابعة دراستها الجامعية"  polarity="positive" from="93" to="116"/> <aspectTerm  target=" العمل لتأمين قوتها اليومي"  polarity="negative" from="65" to="91"/> <aspectTerm  target=" حادث شغل مفاجئ قلب حياتها رأسًا على عقب"  polarity="negative" from="164" to="204"/> <aspectTerm  target="مهددًا مستقبلها وكل أحلامها"  polarity="negative" from="206" to="233"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="132">
+                    <text>سلّط أكاديميون مغاربة، الإثنين، خلال الجلسة العلمية الأولى للندوة الدولية حول: “الصحراء المغربية..التاريخ والتحديات الجيوسياسية”، التي تنظمها أكاديمية المملكة بشراكة مع جامعة الحسن الثاني بالدار البيضاء، بمناسبة الذكرى الخمسينية للمسيرة الخضراء، الضوء على الأبعاد التاريخية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="للندوة الدولية حول: “الصحراء المغربية"  polarity="neutral" from="59" to="96"/> <aspectTerm  target="أكاديمية المملكة"  polarity="neutral" from="142" to="158"/> <aspectTerm  target="جامعة الحسن الثاني بالدار البيضاء"  polarity="neutral" from="169" to="202"/> <aspectTerm  target=" الذكرى الخمسينية للمسيرة الخضراء"  polarity="positive" from="211" to="244"/> <aspectTerm  target=" الأبعاد التاريخية"  polarity="positive" from="255" to="273"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="137">
+                    <text>استحمار شعوب وغسيل دماغ  مكافحة الفساد تبدأ  م الهرم الأعلى م السلطة وليس م الأدنى ...&amp;quot;. مهاتير محمد  المعلمون في بلاد المسلمين  بؤساء أتعرف لماذا ؟  لأن حكامنا طغاة، والطغاة عبر التاريخ ضد التعليم مهما ادعوا، فالتعليم يعني الوعي، والوعي يدفع  الشعب للمطالبة بالحقوق ومحاسبة حاكم</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المعلمون"  polarity="negative" from="102" to="110"/> <aspectTerm  target=" حكامنا"  polarity="negative" from="153" to="160"/> <aspectTerm  target=" التعليم "  polarity="negative" from="189" to="198"/> <aspectTerm  target=" فالتعليم يعني الوعي"  polarity="positive" from="209" to="229"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="147">
+                    <text>&amp;quot;وزن الحقيبة لا يتناسب مع وزن الطفل&amp;quot;.. طالب يعترض على ثقل الكتب المدرسية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="وزن الحقيبة لا يتناسب مع وزن الطفل"  polarity="negative" from="1" to="35"/> <aspectTerm  target="ثقل الكتب المدرسية"  polarity="negative" from="54" to="72"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="149">
+                    <text>إطلاق مبادرة “المُجيد في الدراسات الاجتماعية” لتعزيز التميّز بين الطلبة  في إطار تعزيز روح التميز والتحفيز بين الطلبة، أطلقت جماعة الدراسات الاجتماعية مبادرة “المُجيد في الدراسات الاجتماعية”، التي تهدف إلى تشجيع الطلبة على الجد والاجتهاد وإبراز النماذج المتفوقة ممن حققوا نتائج</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مبادرة “المُجيد في الدراسات الاجتماعية"  polarity="positive" from="6" to="44"/> <aspectTerm  target=" تعزيز روح التميز"  polarity="positive" from="80" to="97"/> <aspectTerm  target=" تشجيع الطلبة"  polarity="positive" from="205" to="218"/> <aspectTerm  target="وإبراز النماذج المتفوقة"  polarity="positive" from="238" to="261"/> <aspectTerm  target="حققوا نتائج"  polarity="positive" from="266" to="277"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="150">
+                    <text>تلاميذ ااجزاءر يبهدلون بيادق الكابرانات في وسائل  الإعلام.....الدين  يتحدثون  بتوجيه من الكابرانات عن المغرب  ولايتحدثون عن حراك التلاميد وطلبة كليات الطب .</text>
+                    <aspectTerms>
+                        <aspectTerm  target="حراك التلاميد"  polarity="neutral" from="124" to="137"/> <aspectTerm  target="طلبة كليات الطب"  polarity="neutral" from="139" to="154"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="152">
+                    <text>تم الحُكم على شاب مغربي بالسجن أربعة أشهر نافذة بسبب ارتدائه قميصًا يحمل عبارة «الصحة والتعليم أولاً». كما حُكم على شاب مغربي آخر كان يرتدي قميصًا كُتب عليه «فلسطين حرة»، وعلى صاحب المطبعة الذي تولّى طباعة القميصين، بالسجن شهرا نافذا لكلٍّ منهما   الحرية في المغرب الاقصى؟</text>
+                    <aspectTerms>
+                        <aspectTerm  target="طلبة كليات الطب"  polarity="negative" from="139" to="154"/> <aspectTerm  target="الحرية في المغرب"  polarity="negative" from="248" to="264"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="153">
+                    <text>حتى مجنينهم مهوسين بإسم المملكة لكن بلغت أجدادهم maroco العدو الاول لان العداء تجه المغرب في مقررات التلاميد  التضري ومابالك بالكبار</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مقررات التلاميد"  polarity="negative" from="93" to="108"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="155">
+                    <text>ضمن خطة المعلم الأول في الإنماء المهني لمادة التربية الإسلامية،  قدّم الأستاذ عبدالحميد محمد حصةً نموذجيةً في تفعيل إستراتيجية التعلم النشط والمعلم الصغير، بهدف إكساب المعلمين الخبرات، ورفع المستوى التحصيلي، وتنمية مهارات الحوار والثقة بالنفس لدى الطلبة. </text>
+                    <aspectTerms>
+                        <aspectTerm  target="تفعيل إستراتيجية التعلم النشط والمعلم الصغير"  polarity="positive" from="110" to="154"/> <aspectTerm  target="إكساب المعلمين الخبرات"  polarity="positive" from="161" to="183"/> <aspectTerm  target="رفع المستوى التحصيلي"  polarity="positive" from="186" to="206"/> <aspectTerm  target="تنمية مهارات الحوار والثقة بالنفس لدى الطلبة"  polarity="positive" from="209" to="253"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="159">
+                    <text>حفل تخرج لعام 2024 اطفال حاملات لكتاب الله تعالى القرآن الكريم بمدينة تارودانت #المغرب (مدن أخرى يتبع...)... و يعتبر المغرب  الاول عالمياً في حفظ ذكر الله الحكيم حسب منظمة اليونسكو.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="حفل تخرج لعام 2024"  polarity="positive" from="0" to="18"/> <aspectTerm  target="اطفال حاملات لكتاب الله تعالى القرآن الكريم"  polarity="positive" from="19" to="62"/> <aspectTerm  target="الاول عالمياً في حفظ ذكر الله الحكيم"  polarity="positive" from="125" to="161"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="162">
+                    <text>المغرب ، عز الأوطان، بلد الأمن والسلام، حيث يعم الاستقرار، وتتجلى آيات القرآن.  هو ملتقى الأديان، حيث تتعايش الثقافات بانسجام. واليوم،تبرز بكل اعتزاز حافظات القرآن خريجات المدارس العتيقة خلال مشاركتهن في الأيام المفتوحة للأمن الوطني، مجسدات لروح المغرب الأبية وعراقته. </text>
+                    <aspectTerms>
+                        <aspectTerm  target="حافظات القرآن"  polarity="positive" from="150" to="163"/> <aspectTerm  target=" المدارس العتيقة"  polarity="positive" from="170" to="186"/> <aspectTerm  target="مشاركتهن في الأيام المفتوحة "  polarity="positive" from="192" to="220"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="174">
+                    <text>#عيد_المعلم  عيد سعيد  لجميع المعلمين  المغاربة . مهما إنتقظنا التعليم في المغرب ، يبقى مستوى المعلمين و الأساتدة في المغرب في تعليم الرياضيات الفيزياء عالي جدا.</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" إنتقظنا التعليم في المغرب"  polarity="neutral" from="54" to="80"/> <aspectTerm  target="مستوى المعلمين و الأساتدة"  polarity="positive" from="88" to="113"/> <aspectTerm  target="تعليم الرياضيات الفيزياء عالي جدا"  polarity="positive" from="127" to="160"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="177">
+                    <text>الأساتدة يريدون قلب الأوضاع السياسية في المغرب ! هذا ليس إضراب بل عصيان وتحريض للتلاميد على تخريب المدارس.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الأساتدة"  polarity="negative" from="0" to="8"/> <aspectTerm  target="تحريض للتلاميد على تخريب المدارس"  polarity="negative" from="73" to="105"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="180">
+                    <text>اسثمرار الاساتدة المتعاقديين عن طواعية في الاضراب ليس امرا نضاليا ولا بطوليا بل خبزيا فالريع الوظيفي في المغرب هو فرصة حقيقية وحلم عاش ويعيش مع المتعلم المغربي وظيفة دخل قار استقرار نفسي في وسط اجتماعي هش تسوده البطالة والاستبداد الذي يطال الاجير  دون حماية قانونية</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" الاساتدة المتعاقديين"  polarity="negative" from="7" to="28"/> <aspectTerm  target="الاضراب"  polarity="negative" from="42" to="49"/> <aspectTerm  target="استقرار نفسي"  polarity="neutral" from="174" to="186"/> <aspectTerm  target=" البطالة والاستبداد"  polarity="negative" from="210" to="229"/> <aspectTerm  target=" حماية قانونية"  polarity="negative" from="251" to="265"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="182">
+                    <text>الرباط   أشرف صاحب الجلالة، مرفوقا بصاحب السمو الملكي ولي العهد الأمير مولاي الحسن، على تدشين المركب الاستشفائي الجامعي الدولي محمد السادس للرباط، البنية المرجعية الدولية التي تعمل على تطوير عرض ذي جودة عالية على المستوى الوطني، في خدمة الجميع، مع توفير تكوين من مستوى عال في</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تطوير عرض ذي جودة عالية"  polarity="positive" from="185" to="208"/> <aspectTerm  target="خدمة الجميع"  polarity="positive" from="232" to="243"/> <aspectTerm  target="توفير تكوين من مستوى عال"  polarity="positive" from="248" to="272"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="185">
+                    <text> المغرب يدخل عهد جديد في الطب والبحث والإنسان!   اليوم بالرباط، أشرف جلالة الملك محمد السادس نصره الله، مرفوقا بولي العهد الأمير مولاي الحسن، على تدشين المركب الاستشفائي الجامعي الدولي محمد السادس.  صرح طبي وجامعي من الجيل الجديد، يجمع بين الذكاء، الابتكار، والإنسانية.  </text>
+                    <aspectTerms>
+                        <aspectTerm  target="عهد جديد في الطب والبحث "  polarity="positive" from="13" to="37"/> <aspectTerm  target="المركب الاستشفائي الجامعي الدولي"  polarity="positive" from="152" to="184"/> <aspectTerm  target="الجيل الجديد"  polarity="positive" from="217" to="229"/> <aspectTerm  target="الذكاء، الابتكار"  polarity="positive" from="240" to="256"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="188">
+                    <text>شهدت قبل قليل حجم القمع غير المبرر الاستادة من قوة الامن المغربية تذكرة يوم قامة قوة الامن الجزائرية بقمع الاساتدة في عهد بوتفليقة مؤسف أن ترى الاستاد يحصل له هكدا في بلدانا العربية ربي يقدر الخير و فقط من القلب والله    #احموا_الأساتذة_في_المغرب #ريم_غزالي #الجزائر</text>
+                    <aspectTerms>
+                        <aspectTerm  target="القمع غير المبرر الاستادة"  polarity="negative" from="18" to="43"/> <aspectTerm  target="مؤسف أن ترى الاستاد يحصل له هكدا في بلدانا العربية"  polarity="negative" from="131" to="181"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="189">
+                    <text>_خريطة المغرب المعترف بها دولياً من داخل المغرب ، في جامعة الحسن الأول بمدينة السطات المغربية، وهذا في الندوة الدولية عن حقوق الانسان وتحديات العصر الرقمي </text>
+                    <aspectTerms>
+                        <aspectTerm  target="جامعة الحسن الأول بمدينة السطات المغربية"  polarity="neutral" from="53" to="93"/> <aspectTerm  target="جامعة الحسن الأول بمدينة السطات المغربية"  polarity="neutral" from="53" to="93"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="190">
+                    <text>نقولها لمليون مرة   معالجة الازمات التي يمر منها الوطن لا يكون بالقمع او الاعتقال او البطش..  الازمة مهما كانت معقدة لا تحل الا بالحوار والمفاهمة والنقاش البناء...  الاساتدة المتعاقدين لهم الحق في التظاهر كما ان على الدولة إيجاد حل ناجع لمشكلتهم بل من واجبها ذلك...  #المغرب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الاساتدة المتعاقدين"  polarity="conflict" from="165" to="184"/> <aspectTerm  target="الحق في التظاهر"  polarity="positive" from="189" to="204"/> <aspectTerm  target=" إيجاد حل ناجع لمشكلتهم"  polarity="positive" from="222" to="245"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="200">
+                    <text>الاساتدة الجامعيين في المغرب طغاو ياربي السلامة  وهما من بين اسباب الهدر الجامعي لي منتاشر حاليا</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الاساتدة الجامعيين "  polarity="negative" from="0" to="19"/> <aspectTerm  target="الهدر الجامعي"  polarity="negative" from="67" to="80"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="212">
+                    <text>إضراب الاساتدة في المغرب يدخل شهره الثالت بسبب حكومة غبية فرضت قانون أساسي جديد بدون إستشارة المعنيين اي الاساتدة  فيه تراجعات خطيرة على المكتسبات ولما ووجهت بإضراب تاريخي اخد شكل حراك، ظهر عليها الإضطراب وطلبت نجدة نقابات فاقدة للشرعية وفشلت واليوم تتجه لنقابات همشتهم وهدا ردهم</text>
+                    <aspectTerms>
+                        <aspectTerm  target="إضراب الاساتدة في المغرب"  polarity="negative" from="0" to="24"/> <aspectTerm  target="قانون أساسي"  polarity="negative" from="63" to="74"/> <aspectTerm  target=" تراجعات خطيرة على المكتسبات"  polarity="negative" from="118" to="146"/> <aspectTerm  target="نجدة نقابات فاقدة للشرعية"  polarity="negative" from="211" to="236"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="214">
+                    <text>تصويري من جامعتي بكلية الحقوق  علما ان هناك اضراب من الطلبة و هو وطني عام في كليات المغرب لقول كلمة الحق بخصوص القضي و مع حضور الاساتدة إلا ان الحصص تأجلت لاصرار الطلبة   حيث شاركت ببضع كلمات اهمها:فلسطين في الساحة و جيوش العرب مرتاحة و يريدون الغاء التطبيع #المغرب  #غزة #فلسطين</text>
+                    <aspectTerms>
+                        <aspectTerm  target="اضراب من الطلبة"  polarity="negative" from="44" to="59"/> <aspectTerm  target="الحصص تأجلت"  polarity="negative" from="143" to="154"/> <aspectTerm  target="حضور الاساتدة"  polarity="neutral" from="122" to="135"/> <aspectTerm  target=" الغاء التطبيع"  polarity="neutral" from="243" to="257"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="215">
+                    <text>قارن بين مستوى الأساتدة كدلك، أغلبية الأساتدة في المغرب يحتاجون للتكوين</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مستوى الأساتدة "  polarity="negative" from="9" to="24"/> <aspectTerm  target="يحتاجون للتكوين"  polarity="negative" from="56" to="71"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="217">
+                    <text>الاساتدة في المغرب نصفهم خوانجية والنصف التاني يساريين حازقين ، النتيجة اجيال حاقدة على الوقت وتتمنى الحياة السعيدة بعد الموت</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الاساتدة في المغرب"  polarity="negative" from="0" to="18"/> <aspectTerm  target="اجيال حاقدة"  polarity="negative" from="72" to="83"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="218">
+                    <text>الجامعة والمدارس العليا المغربية مناجم لتفريخ المتطرفين لايديولوجيات دخيلة, و هادشي على يد المدرسين و الأساتدة. التعليم عمرو يشوف النهار البيض في المغرب ما حد هاد الجيل العقيم متحكم في المنهجية و شروط الاستحقاق المبنية على التوجه السياسي و اللحيس و الكبت ديال المشرفين عليها..</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المدرسين و الأساتدة"  polarity="negative" from="91" to="110"/> <aspectTerm  target=" المنهجية و شروط الاستحقاق المبنية على التوجه السياسي"  polarity="negative" from="184" to="237"/> <aspectTerm  target="التعليم عمرو يشوف النهار البيض في المغرب"  polarity="negative" from="112" to="152"/> <aspectTerm  target="التعليم عمرو يشوف النهار البيض في المغرب"  polarity="negative" from="112" to="152"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="219">
+                    <text>انت تريد ان تعرف سبب الاضراب اريدك ان ترى حالة المدرسة العمومية انداك تعرف حال الاساتدة .التعليم في المغرب يحتل المرتبة ما قبل الأخيرة في التصنيف العالمي . هل سوف تساءل عن سبب الاضراب ام انك سوف تساءل الوزارة التعلمية سبب ما وصل له التعليم في المغرب</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" حالة المدرسة العمومية"  polarity="negative" from="41" to="63"/> <aspectTerm  target=" حال الاساتدة"  polarity="negative" from="74" to="87"/> <aspectTerm  target="التعليم في المغرب يحتل المرتبة ما قبل الأخيرة في التصنيف العالمي"  polarity="negative" from="89" to="153"/> <aspectTerm  target="سبب الاضراب"  polarity="negative" from="17" to="28"/> <aspectTerm  target="تساءل الوزارة التعلمية سبب ما وصل له التعليم في"  polarity="negative" from="195" to="242"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="220">
+                    <text>أنطقتني يا سيد آغا الله يحفظك أنا واحد من تلا مذة الأساتدة السوريون في المغرب و يعلم الله أننا كنا نحبهم في التاريخ و بالأخص في  اللغة العربية </text>
+                    <aspectTerms>
+                        <aspectTerm  target="الأساتدة السوريون في المغرب "  polarity="positive" from="50" to="78"/> <aspectTerm  target="نحبهم في التاريخ"  polarity="positive" from="99" to="115"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="222">
+                    <text>الأساتدة في المغرب معروف عليهم حب المال إلى درجة العمل تقريبا 24 ساعة. وكون غير كانوا تاينفعونا تايقريو غي البروباݣاندا الاستعمارية ومنفصلين تماما عن واقعنا الاسلامي.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الأساتدة في المغرب معروف عليهم حب المال"  polarity="negative" from="0" to="39"/> <aspectTerm  target="تايقريو غي البروباݣاندا الاستعمارية ومنفصلين تماما عن واقعنا الاسلامي"  polarity="negative" from="96" to="165"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="226">
+                    <text>الاساتدة العنيدين والمخزن دو النفس الطويل ... صحيح عندكم الحق في التظاهر والاضطرابات ولكن ان كنتم تريدون نيل حقكم فلا تتواجهو مع الداخلية ...الحل هو شل التدريس  هده السنة والسنة الماضية مكاين لا قراية لا سيدي زكري .. علاش تمشيو حتى للرباط..  #المغرب #احموا_الأساتذة_في_المغرب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الاساتدة العنيدين والمخزن دو النفس الطويل"  polarity="negative" from="0" to="41"/> <aspectTerm  target="شل التدريس "  polarity="negative" from="149" to="160"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="44">
+                    <text>آفيف كوخافي في المغرب وليت الأمر وقف عند هذا الحد !!!!  أدخلوا تدريس اللغة العبرية في مناهج التعليم في المغرب !!!</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" أدخلوا تدريس اللغة العبرية في مناهج التعليم في المغرب"  polarity="negative" from="55" to="109"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="221">
+                    <text>مع العلماء الأفاضل د قاسم سعد من لبنان و د محمد الطبراني من المغرب و د محمد السريع من السعودية في مدينة بني ملال في المملكة المغربية على هامش مؤتمر الدولي مناهج تحقيق المخطوط الشرعي المغربي الأندلسي بجامعة المولى سليمان</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" مؤتمر الدولي"  polarity="positive" from="141" to="154"/> <aspectTerm  target="مناهج تحقيق المخطوط الشرعي المغربي الأندلسي"  polarity="positive" from="155" to="198"/> <aspectTerm  target="بجامعة المولى سليمان"  polarity="neutral" from="199" to="219"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="44">
+                    <text>من طالباتي المتميزات الأستاذة شريفة المشاري محاضرة في جامعة حائل لما اطلعت على محاور وبحوث مؤتمر مناهج تحقيق المخطوط الحديثي المغربي الذي سيعقد في بني ملال المغرب الاسبوع القادم  حملتها الغيرة على إبراز جهود شيوخها في الحديث فكتبت هذا البحث حتى وإن لم تتم المشاركة به في المؤتمر</text>
+                    <aspectTerms>
+                        <aspectTerm  target="طالباتي المتميزات"  polarity="positive" from="3" to="20"/> <aspectTerm  target="مناهج تحقيق المخطوط الحديثي المغربي"  polarity="positive" from="97" to="132"/> <aspectTerm  target="سيعقد في بني ملال المغرب"  polarity="neutral" from="138" to="162"/> <aspectTerm  target=" جهود شيوخها في الحديث فكتبت هذا البحث"  polarity="positive" from="202" to="240"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="235">
+                    <text>الامازيغ الحقيقيون يبلغ عدد حفظة القرآن الكريم في #المغرب مليون و600ألف حافظ وحافظة الأول عالميا حسب تصنيف اليونسكو يتمركز68%منهم في الأرياف والقرى و جلهم أمازيغ ويضم المغرب أكثر من30ألف مركز وكُتّاب لتحفيظ القرآن21%منها في منطقة سوس الأمازيغية و20% في مراكش آسفي التي جلها أمازيغ</text>
+                    <aspectTerms>
+                        <aspectTerm  target="عدد حفظة القرآن الكريم "  polarity="positive" from="24" to="47"/> <aspectTerm  target="المغرب مليون و600ألف حافظ وحافظة"  polarity="positive" from="51" to="83"/> <aspectTerm  target="الأول عالميا حسب تصنيف اليونسكو"  polarity="positive" from="84" to="115"/> <aspectTerm  target="يضم المغرب أكثر من30ألف مركز وكُتّاب لتحفيظ القرآن21"  polarity="positive" from="163" to="215"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="239">
+                    <text>جدول جلسات مؤتمر مناهج تحقيق المخطوط الحديثي المغربي الأندلسي يومي الإربعاء والخميس ٢٠ - ٢١ رجب ١٤٤٠ في بني ملال - المغرب  بحوث المؤتمرات إضافة إلى قيمتها الذاتية فإنها تفتح آفاق البحث العلمي للباحثين عن موضوعات للدراسات العليا</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تفتح آفاق البحث العلمي للباحثين"  polarity="positive" from="169" to="200"/> <aspectTerm  target=" مناهج تحقيق المخطوط الحديثي المغربي الأندلسي"  polarity="neutral" from="16" to="61"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="243">
+                    <text>الأشغال تبلغ مراحلها الأخيرة بالشطر الأول من جامعة محمد السادس متعددة التخصصات التقنية بفم الواد – العيون، أحد أبرز المشاريع الأكاديمية قيد الإنجاز في الأقاليم الجنوبية. تتميز الجامعة بهندسة معمارية تجمع بين الحداثة والاستدامة، حيث جرى اعتماد الهياكل الخشبية التي استُعملت</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الأشغال تبلغ مراحلها الأخيرة بالشطر الأول من جامعة محمد السادس متعددة التخصصات"  polarity="positive" from="0" to="78"/> <aspectTerm  target=" أحد أبرز المشاريع الأكاديمية قيد الإنجاز"  polarity="positive" from="106" to="147"/> <aspectTerm  target="تتميز الجامعة بهندسة معمارية تجمع بين الحداثة والاستدامة"  polarity="positive" from="170" to="226"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="248">
+                    <text>تشويه غير مباشر للإسلام في #المغرب عبر مناهج تصوغها #الإمارات مثلا مادة الاجتماعيات للصف الخامس في المغرب.  كما تضمن الكتاب أفكارا تروجها مؤسسة “مؤمنون بلا حدود” والتي شاركت في صياغة المناهج الجديدة. مؤسسة مؤمنون بلا حدود مقرها في الرباط وممولة اماراتيا.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مناهج "  polarity="negative" from="39" to="45"/> <aspectTerm  target="الاجتماعيات"  polarity="negative" from="72" to="83"/> <aspectTerm  target=" صياغة المناهج الجديدة"  polarity="negative" from="176" to="198"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="249">
+                    <text>الدّارجة في مناهج التدريس ب #المغرب. يعني وخا التأسيس والتنظير والتأصيل ديال ع.الله العروي في المناظرة الشهيرة مع ن.الدين عيوش. في النهاية الدولة تختار قاموس المستشهر عيوش منهاجا لاصلاح التعليم. أي أن مول &amp;quot;مجمل تاريخ المغرب&amp;quot; طلع ما فاهم والو في المغرب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الدّارجة في مناهج التدريس"  polarity="negative" from="0" to="25"/> <aspectTerm  target="الدولة تختار"  polarity="negative" from="139" to="151"/> <aspectTerm  target="قاموس المستشهر"  polarity="negative" from="152" to="166"/> <aspectTerm  target=" منهاجا لاصلاح التعليم"  polarity="negative" from="171" to="193"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="250">
+                    <text>|  تم وضع مقصية الاسطورة رونالدو امام يوفنتوس في مناهج المغرب الدراسية ك مثال في مادة الفيزياء   #CR7𓃵</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" مناهج المغرب الدراسية"  polarity="neutral" from="48" to="70"/> <aspectTerm  target="مثال في مادة الفيزياء"  polarity="neutral" from="73" to="94"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="251">
+                    <text>في سابقة عربية هي الأولى أعلن #المغرب إدراج التاريخ والثقافة اليهودية في مناهج التدريس عبر إجراء إصلاح تربوي شامل يأخذ بعين الاعتبار خصوصيات الجالية اليهودية في المغرب .</text>
+                    <aspectTerms>
+                        <aspectTerm  target="إدراج التاريخ والثقافة اليهودية في مناهج التدريس"  polarity="neutral" from="38" to="86"/> <aspectTerm  target=" إصلاح تربوي شامل"  polarity="positive" from="96" to="113"/> <aspectTerm  target="خصوصيات الجالية اليهودية في المغرب"  polarity="neutral" from="133" to="167"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="252">
+                    <text>#المغرب تعلن تقليص عدد ساعات دراسة اللغة #العربية في مناهج التعليم ببلادها، وزيادة عدد ساعات دراسة اللغة #الفرنسية.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تقليص عدد ساعات دراسة اللغة #العربية"  polarity="negative" from="13" to="49"/> <aspectTerm  target="مناهج التعليم ببلادها"  polarity="neutral" from="53" to="74"/> <aspectTerm  target="زيادة عدد ساعات دراسة اللغة #الفرنسية"  polarity="neutral" from="77" to="114"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="253">
+                    <text>المغرب.. مطالب بإدراج اللهجات العامية في مناهج التعليم وتخوف على اللغة العربية #شاهد_الحرة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="بإدراج اللهجات العامية في مناهج التعليم"  polarity="negative" from="15" to="54"/> <aspectTerm  target="تخوف على اللغة العربية "  polarity="negative" from="56" to="79"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="254">
+                    <text>اتحداك ان تجد منهج واحد يحرض على الكراهية في مناهج المغرب انتم الان محاطون من جميع الاتجاهات الكل عرف من انتم اخرهم مالي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تجد منهج "  polarity="positive" from="10" to="19"/> <aspectTerm  target=" يحرض على الكراهية"  polarity="positive" from="23" to="41"/> <aspectTerm  target="مناهج المغرب"  polarity="positive" from="45" to="57"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="255">
+                    <text>مبروك للمغرب  مدرسة جديدة في لعبة كرة القدم مناهج مختلفة بفلسفة متغيرة  تصنع المتعة في قالب مستدير مملوء بالهواء #المغرب  #الأرجنتين_المغرب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مناهج مختلفة"  polarity="positive" from="44" to="56"/> <aspectTerm  target="مدرسة جديدة"  polarity="positive" from="14" to="25"/> <aspectTerm  target="بفلسفة متغيرة "  polarity="positive" from="57" to="71"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="256">
+                    <text>▪︎ثم سيطر موسى بن ابي العافية على تلمسان في دول آل العافية التي تتكلم عنها مناهج التعليم أبدا، و التي سيطرت على المغرب الاقصى و الاوسط في ذلك الوقت ، حينما قضى الكبير موسى بن ابي العافية على الادارسة، و قضى على دولة الحسن بن ابي العيش في تلمسان من نسل اخو ادريس (مجرد مدعي ) .</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مناهج التعليم"  polarity="negative" from="75" to="88"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="257">
+                    <text>منيب: &amp;quot;مناهج محو الأمية المُدرسة في المساجد تدعو إلى الشذوذ&amp;quot;.  #جريدة_المجتمع #المغرب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مناهج محو الأمية"  polarity="neutral" from="7" to="23"/> <aspectTerm  target="المُدرسة في المساجد تدعو إلى الشذوذ"  polarity="negative" from="24" to="59"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="261">
+                    <text>المغرب يبدأ بتدريس وحدة باللغة العربية بكل المسالك بالتعليم العالي بما فيه الهندسة والطب هكذا يبدأ اعادة الاعتبار للعلم العربي، لا يوجد أمة تتطور وتتقدم إلا بلغتها الأم  العقبى لباقي الدول العربية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="بتدريس وحدة باللغة العربية بكل المسالك بالتعليم العالي"  polarity="positive" from="12" to="66"/> <aspectTerm  target="اعادة الاعتبار للعلم العربي"  polarity="positive" from="99" to="126"/> <aspectTerm  target="لا يوجد أمة تتطور وتتقدم إلا بلغتها الأم"  polarity="positive" from="128" to="168"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="263">
+                    <text>#المغرب.. برنامج للتعريف بالثقافة اليهودية في مناهج التعليم    #شاهد_سكاي</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" برنامج للتعريف بالثقافة اليهودية "  polarity="neutral" from="9" to="43"/> <aspectTerm  target="مناهج التعليم "  polarity="neutral" from="46" to="60"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="264">
+                    <text>الآن يجب أن ننتبه للداخل في كل الأقطار بخصوص التطبيع، فمثلاً في المغرب يتصل وزير التربية الوطنية بالوزير الصهيوني المماثل ويتفقان على التغيير في مناهج التعليم.  #المؤتمر_الدولي_لمقاومة_التطبيع  #فلسطين #لا_للتطبيع</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" يتصل وزير التربية الوطنية بالوزير الصهيوني المماثل"  polarity="negative" from="70" to="121"/> <aspectTerm  target="يتفقان على التغيير في مناهج التعليم"  polarity="negative" from="123" to="158"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="266">
+                    <text>وزير الأوقاف والشؤون الإسلامية، أحمد التوفيق، يدعو إلى تدريس “البيْعة” التي تؤطر علاقة الشعب بالملكية بالمغرب، في مناهج شعبة الدراسات الإسلامية بالجامعة المغربية، مشددا على أن المتخرج من هذه الشعبة “لا يمكن أن يتجاهل السياق السياسي – الديني”. #المغرب #وزارة_الأوقاف #كلية #تعليم</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تدريس “البيْعة” التي تؤطر علاقة الشعب بالملكية بالمغرب"  polarity="neutral" from="55" to="109"/> <aspectTerm  target=" مناهج شعبة الدراسات الإسلامية بالجامعة المغربية"  polarity="neutral" from="113" to="161"/> <aspectTerm  target="لمتخرج من هذه الشعبة “لا يمكن أن يتجاهل السياق السياسي"  polarity="neutral" from="177" to="231"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="271">
+                    <text>أي أجندة وراء إقحام العامية في مناهج التربية والتعليم في المغرب؟ -  http:// alquds.co.uk/?p=1011321</text>
+                    <aspectTerms>
+                        <aspectTerm  target="إقحام العامية"  polarity="negative" from="14" to="27"/> <aspectTerm  target="مناهج التربية والتعليم في المغرب"  polarity="negative" from="31" to="63"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="275">
+                    <text>نظام المخزن المغربي  يسعى منذ سنوات إلى تجهيل الشعب المغربي وإبقاءه في دائرة الطاعة العمياء، ليواصل ممارسة طقوس العبودية السياسية كما يظهر جليا في هذا الفيديو. لكن ما لم يدركه هذا النظام أن جيلا جديدًا قد وُلد جيلاً واعيا، متمرّدا على الخوف، لا يُمكن إخضاعه بالشعارات ولا بتقديس</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تجهيل الشعب المغربي"  polarity="negative" from="40" to="59"/> <aspectTerm  target="بقاءه في دائرة الطاعة العمياء"  polarity="negative" from="62" to="91"/> <aspectTerm  target=" جيلا جديدًا قد وُلد جيلاً واعيا"  polarity="positive" from="189" to="221"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="280">
+                    <text>نفّذت الأخصائية الإجتماعية مبادرة “أنا طفل ومن حقي” لتعريف الطلبة بحقوقهم وواجباتهم، من خلال فيديو توعوي ومجلة إلكترونية لأولياء الأمور، فيما قدّم فريق سفراء القيم توعيات داخل الفصول كما تم تعليق لوحات إرشادية عن حقوق الطفل وواجباته</text>
+                    <aspectTerms>
+                        <aspectTerm  target="أنا طفل ومن حقي"  polarity="positive" from="35" to="50"/> <aspectTerm  target="لتعريف الطلبة بحقوقهم وواجباتهم"  polarity="positive" from="52" to="83"/> <aspectTerm  target=" فيديو توعوي"  polarity="positive" from="92" to="104"/> <aspectTerm  target="مجلة إلكترونية لأولياء الأمور"  polarity="positive" from="106" to="135"/> <aspectTerm  target=" سفراء القيم"  polarity="positive" from="151" to="163"/> <aspectTerm  target="توعيات داخل الفصول"  polarity="positive" from="164" to="182"/> <aspectTerm  target=" لوحات إرشادية عن حقوق الطفل وواجباته"  polarity="positive" from="195" to="232"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="281">
+                    <text>في إطار حملة التوعية بالالتزام بالمظهر العام، نظّمت كلية اللغات والترجمة ممثلة في وحدة الأنشطة الطلابية عددًا من الفعاليات التوعوية تحت شعار: «الزي… هوية وانضباط» تناولت أهمية الزي كرمز للهوية والانتماء والانضباط.  وشملت الحملة عددًا من الأنشطة المصاحبة:  محاضرة ألقتها سعادة</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" حملة التوعية بالالتزام بالمظهر العام"  polarity="positive" from="7" to="44"/> <aspectTerm  target="نظّمت كلية اللغات والترجمة"  polarity="neutral" from="46" to="72"/> <aspectTerm  target="وحدة الأنشطة الطلابية "  polarity="neutral" from="82" to="104"/> <aspectTerm  target="الفعاليات التوعوية"  polarity="positive" from="113" to="131"/> <aspectTerm  target="أهمية الزي كرمز للهوية والانتماء والانضباط"  polarity="positive" from="170" to="212"/> <aspectTerm  target="عددًا من الأنشطة المصاحبة"  polarity="positive" from="228" to="253"/> <aspectTerm  target="محاضرة"  polarity="neutral" from="256" to="262"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="282">
+                    <text> المغرب الجديد يحتاج شجاعة وفعل، لا تكرار الأخطاء.  الإنسان أولاً: تعليم، صحة، دعم المؤطرين.  الجيش للتقدم، لا للصراعات.  حضارتنا = توازن بين العربية والأمازيغية.  اقتصاد قوي = إصلاحات وبنية تحتية وقوانين واضحة.  سياسة ذكية = مصلحة الوطن فوق كل شيء.  #مغرب_جديد</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تعليم"  polarity="positive" from="67" to="72"/> <aspectTerm  target="دعم المؤطرين"  polarity="positive" from="79" to="91"/> <aspectTerm  target="توازن بين العربية والأمازيغية"  polarity="positive" from="132" to="161"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="283">
+                    <text>هادو غير حافلات نقل الركاب في المغرب تاع شركة ستيام  تنقل التلاميد المنكوبين  من الزلزال إلى مراكش لمتابعة دراستهم هناك على نفقة الدولة  .أما حافلات نقل السياح وحافلات الفرق المغربية والمنتخب المغربي ،فلك ان تتخيل كيف دايرة ..شفنا حافلات الجزاءر كلها قديمة .</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" حافلات نقل الركاب في المغرب"  polarity="positive" from="8" to="36"/> <aspectTerm  target=" لمتابعة دراستهم"  polarity="positive" from="98" to="114"/> <aspectTerm  target="على نفقة الدولة"  polarity="positive" from="120" to="135"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="287">
+                    <text>جدل واسع في المغرب إثر قرار يضع حدا أقصى لعمر المتقدمين إلى وظائف التدريس عند 35 عاما</text>
+                    <aspectTerms>
+                        <aspectTerm  target="جدل واسع في المغرب"  polarity="negative" from="0" to="18"/> <aspectTerm  target=" قرار يضع حدا أقصى لعمر المتقدمين إلى وظائف التدريس"  polarity="negative" from="22" to="73"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="292">
+                    <text>«الديوان» و«التربية» ينجحان في توفير وظائف لخريجي التخصصات التربوية الزائدة عن حاجة المعلمين  - سيتم ترشيحهم ضمن دفعة التوظيف المرتقبة  تأكيدا لما نشرته «الأنباء» في 1 أكتوبر تحت عنوان «اتفاق بين «الديوان» و«التربية» على توظيف التربويين تحديدا للوزارة»، قالت مصادر لـ«الأنباء»، إن</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" وظائف لخريجي التخصصات التربوية"  polarity="positive" from="36" to="67"/> <aspectTerm  target="دفعة التوظيف المرتقبة"  polarity="positive" from="113" to="134"/> <aspectTerm  target="«اتفاق بين «الديوان» و«التربية»"  polarity="positive" from="185" to="216"/> <aspectTerm  target="توظيف التربويين تحديدا للوزارة"  polarity="positive" from="221" to="251"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="293">
+                    <text>#الرخصه_المهنيه_عام_تربوي   معلم يريد أن يحصي الفاقد التعليمي لطلابه بدقة، فأفضل أداة لتحقيق ذلك هي:</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الرخصه_المهنيه_عام_تربوي "  polarity="positive" from="1" to="26"/> <aspectTerm  target="معلم يريد أن يحص"  polarity="positive" from="28" to="44"/> <aspectTerm  target="الفاقد التعليمي لطلابه بدقة"  polarity="positive" from="46" to="73"/> <aspectTerm  target=" أداة لتحقيق ذلك"  polarity="positive" from="80" to="96"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="295">
+                    <text>“لا للغش… نعم للأمانة والاجتهاد”.. رسالة توعوية من المدارس لأولياء الأمور #التوعية #الأمانة #الاجتهاد #التعليم #المسؤولية | للمزيد :</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لا للغش"  polarity="negative" from="1" to="8"/> <aspectTerm  target=" نعم للأمانة والاجتها"  polarity="positive" from="9" to="30"/> <aspectTerm  target=" رسالة توعوية من المدارس لأولياء الأمور"  polarity="positive" from="34" to="73"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="298">
+                    <text>عملية استيلاب خطيرة يقوم بها البعض من أجل زرع كراهية الوطن لدى الأطفال.. مصطلح &amp;quot;الزلايجية&amp;quot; دخل إلى المدارس والمؤسسات التعليمية وبدأت تتشكل قاعدة من التلاميذ لا ترى بعين الرضا لكل ما هو وطني..  الامر يتجاوز هرطقات &amp;quot;برهوش&amp;quot; ليصل إلى تنزيل أجندات خبيثة تستهدف التلاميذ المغاربة..   من</text>
+                    <aspectTerms>
+                        <aspectTerm  target="زرع كراهية الوطن لدى الأطفال"  polarity="negative" from="42" to="70"/> <aspectTerm  target="الزلايجية"  polarity="negative" from="80" to="89"/> <aspectTerm  target="المدارس والمؤسسات التعليمية"  polarity="negative" from="99" to="126"/> <aspectTerm  target=" قاعدة من التلاميذ"  polarity="negative" from="138" to="156"/> <aspectTerm  target="لا ترى بعين الرضا لكل ما هو وطني"  polarity="negative" from="157" to="189"/> <aspectTerm  target=" أجندات خبيثة تستهدف التلاميذ المغاربة."  polarity="negative" from="235" to="274"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="304">
+                    <text>سجلت رابطة الكتبيين بالمغرب، الخصاص المسجل في المقررات الدراسية الخاصة بمدارس الريادة، بعد قرابة شهرين من إنطلاق الموسم الدراسي 2025/2026, مؤكدة أن “هذا الوضع أصبح ينعكس سلبًا على السير العادي...  للمزيد من التفاصيل:   https:// lakome2.com/societe/397838/</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" المقررات الدراسية"  polarity="negative" from="45" to="63"/> <aspectTerm  target=" بمدارس الريادة"  polarity="negative" from="70" to="85"/> <aspectTerm  target=" الموسم الدراسي 2025/2026"  polarity="negative" from="112" to="137"/> <aspectTerm  target=" السير العادي"  polarity="negative" from="179" to="192"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="307">
+                    <text>#وزارة_التعليم | المعهد الوطني للتطوير المهني التعليمي ||  يصدر تعميم بشأن حضور البرنامج التدريبي (تعزيز الأساليب والاستراتيجيات التدريسية) في الاختبارات الدولية: • القراءة • الرياضيات • العلوم.  لتخصصات: • الرياضيات • العلوم • اللغة العربية.  1. رابط دورة: (تعزيز الأساليب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="البرنامج التدريبي"  polarity="positive" from="80" to="97"/> <aspectTerm  target=" الأساليب والاستراتيجيات التدريسية"  polarity="positive" from="104" to="138"/> <aspectTerm  target="الاختبارات الدولية"  polarity="positive" from="143" to="161"/> <aspectTerm  target=" القراءة "  polarity="positive" from="164" to="173"/> <aspectTerm  target=" الرياضيات"  polarity="positive" from="174" to="184"/> <aspectTerm  target="العلوم"  polarity="positive" from="187" to="193"/> <aspectTerm  target=" اللغة العربية"  polarity="positive" from="227" to="241"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="311">
+                    <text> إجازة أداء الامتحان : ⇽ تعتبر حق للموظف براتب كامل ، ولا يجوز للجهة رفضها . ⇽ لا يشترط موافقة الجهة على الدراسة لاستحقاق الإجازة . ⇽ يستحق الموظف اليوم الفعلي للامتحان ، و &amp;quot; يوماً قبله إن كان داخل المملكة ، وثلاثة أيام إن كان خارجها &amp;quot; . ⇽الإجازة للامتحان سواء كان شهري أو</text>
+                    <aspectTerms>
+                        <aspectTerm  target="إجازة أداء الامتحان"  polarity="positive" from="1" to="20"/> <aspectTerm  target="حق للموظف براتب كامل"  polarity="positive" from="31" to="51"/> <aspectTerm  target="لا يجوز للجهة رفضها"  polarity="positive" from="55" to="74"/> <aspectTerm  target="لا يشترط موافقة الجهة على الدراسة"  polarity="positive" from="79" to="112"/> <aspectTerm  target="اليوم الفعلي للامتحان"  polarity="neutral" from="147" to="168"/> <aspectTerm  target="لإجازة للامتحان سواء كان شهري"  polarity="neutral" from="240" to="269"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="320">
+                    <text>أرقام حول التعليم العتيق في المغرب حسب وزارة الأوقاف</text>
+                    <aspectTerms>
+                        <aspectTerm  target="التعليم العتيق في المغرب "  polarity="neutral" from="10" to="35"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="321">
+                    <text>أعلنت وزارة الشباب والرياضة في المغرب بأنه سيتم العمل على تقوية حضور المغرب على الساحة الرياضية الدولية ،و الحث على تنسيق بين وزارة الشباب والرياضة ووزارة التربية الوطنية و التعليم الأولي وكان ذلك فى عام 2020/2021 م  ثم ماذا : منتخب المغرب لكرة القدم يحقق المركز الرابع في بطولة</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" تقوية حضور المغرب على الساحة الرياضية الدولية"  polarity="positive" from="57" to="103"/> <aspectTerm  target="تنسيق بين وزارة الشباب والرياضة ووزارة التربية الوطنية و التعليم الأولي"  polarity="positive" from="116" to="187"/> <aspectTerm  target="منتخب المغرب لكرة القدم يحقق المركز الرابع"  polarity="positive" from="227" to="269"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="322">
+                    <text>خلال 44 سنة من الإستعمار الفرنسي، تمكن فقط 700 مغربي و 4 مغربيات من الحصول على الباكالوريا.   &amp;quot;حين رحل الاستعمار ترك 30 مهندسا، 19 طبيبا، طبيبين للأسنان، 27 محاميا و6 صيادلة&amp;quot; من المسلمين.  عمل الإستعمار على نشر الجهل في المغرب، عكس ما يتصوره خريجو ليسي ليوطي والبعثة الفرنسية!</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" الحصول على الباكالوريا"  polarity="negative" from="67" to="90"/> <aspectTerm  target="حين رحل الاستعمار ترك 30 مهندسا"  polarity="negative" from="95" to="126"/> <aspectTerm  target="19 طبيبا،"  polarity="negative" from="128" to="137"/> <aspectTerm  target="طبيبين للأسنان"  polarity="negative" from="138" to="152"/> <aspectTerm  target=" محاميا و6 صيادلة"  polarity="negative" from="156" to="173"/> <aspectTerm  target=" نشر الجهل"  polarity="negative" from="206" to="216"/> <aspectTerm  target="عكس ما يتصوره خريجو ليسي ليوطي والبعثة الفرنسية"  polarity="negative" from="228" to="275"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="323">
+                    <text>حفل بهيج بألوان المغرب خلال افتتاح الأسبوع الإفريقي لليونسكو  شارك السيد الوزير بمقر منظمة اليونسكو بباريس، في الحفل البهيج الذي تم تنظيمه بألوان وإيقاعات المغرب، بمناسبة افتتاح فعاليات الأسبوع الإفريقي للمنظمة تحت شعار “التعليم في خدمة الابتكار والتنمية والثقافة في إفريقيا”.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="حفل بهيج"  polarity="positive" from="0" to="8"/> <aspectTerm  target="شارك السيد الوزير"  polarity="positive" from="62" to="79"/> <aspectTerm  target="افتتاح فعاليات الأسبوع الإفريقي"  polarity="positive" from="171" to="202"/> <aspectTerm  target="التعليم في خدمة الابتكار والتنمية والثقافة"  polarity="positive" from="221" to="263"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="328">
+                    <text>أكد رئيس الحكومة، السيد عزيز أخنوش، خلال جلسة المساءلة الشهرية حول “السياسة العامة المتعلقة بالتنمية والاستثمار بالأقاليم الجنوبية&amp;quot;، أن البنيات التحتية التعليمية بالأقاليم الجنوبية للمملكة تعززت بمشاريع مهيكلة من شأنها الإسهام في تعزيز العرض التربوي وتحسين ظروف التعلم. مضيفاً أن</text>
+                    <aspectTerms>
+                        <aspectTerm  target="البنيات التحتية التعليمية"  polarity="positive" from="136" to="161"/> <aspectTerm  target="بمشاريع مهيكلة"  polarity="positive" from="195" to="209"/> <aspectTerm  target=" تعزيز العرض التربوي"  polarity="positive" from="229" to="249"/> <aspectTerm  target="تحسين ظروف التعلم"  polarity="positive" from="251" to="268"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="330">
+                    <text> - للأسف المغاربة مكيبارطاجيوش بحال هاد الأخبار  قام المغرب بافتتاح مدرسة مؤقتة في غزة عبر الجمعية المغربية لدعم الإعمار في فلسطين قد يبدوا لكم الأمر بسيط لكن منذ بداية العد*وان تدمرت 125 مدرسة كليا و 337 مدرسة جزئيا و حرم 780 ألف طالب و طالبة من حق التعلم . اين بوتقبة   </text>
+                    <aspectTerms>
+                        <aspectTerm  target="بافتتاح مدرسة مؤقتة"  polarity="positive" from="60" to="79"/> <aspectTerm  target=" تدمرت 125 مدرسة كليا"  polarity="negative" from="177" to="198"/> <aspectTerm  target=" 337 مدرسة جزئيا"  polarity="negative" from="200" to="216"/> <aspectTerm  target=" حرم 780 ألف طالب و طالبة من حق التعلم "  polarity="negative" from="218" to="257"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="336">
+                    <text>بعضهم بس يسمع القيل والقال بدون ما يتأكد   على بالهم الدرجات الوظيفية في وظيفة المعلم غير عن باقي الوزارات  و سمعت كم شخص يقول رواتب المعلمين عالية جداً   يفكروا وزارة التربية والتعليم وحدها حكومة و رواتب موظفيها غير عن باقي الوظائف</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" الدرجات الوظيفية في وظيفة المعلم"  polarity="neutral" from="52" to="85"/> <aspectTerm  target="رواتب المعلمين"  polarity="negative" from="127" to="141"/> <aspectTerm  target="رواتب المعلمين"  polarity="negative" from="127" to="141"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="337">
+                    <text>مديريات التعليم تشرع في توقيف الأساتذة المضربين عن العمل #التعليم #الأساتذة #التلاميذ #المغرب #وزارة_التربية_الوطنية</text>
+                    <aspectTerms>
+                        <aspectTerm  target="توقيف الأساتذة"  polarity="negative" from="24" to="38"/> <aspectTerm  target="المضربين عن العمل"  polarity="negative" from="39" to="56"/> <aspectTerm  target="مديريات التعليم "  polarity="neutral" from="0" to="16"/> <aspectTerm  target="وزارة_التربية_الوطنية"  polarity="neutral" from="95" to="116"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="342">
+                    <text>العيون   تم التوقيع على عقود تطوير الجامعات العمومية برسم الفترة 2025 ـ 2027، برئاسة وزير التعليم العالي والبحث العلمي والابتكار، عز الدين ميداوي، من أجل تحسين جودة التكوين بالجامعات وتطوير البحث العلمي والابتكار، ورفع قابلية تشغيل الخريجات والخريجين، فضلا عن تعزيز انفتاح</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تطوير الجامعات العمومية"  polarity="positive" from="29" to="52"/> <aspectTerm  target="وزير التعليم العالي والبحث العلمي والابتكار"  polarity="positive" from="85" to="128"/> <aspectTerm  target=" جودة التكوين"  polarity="positive" from="159" to="172"/> <aspectTerm  target="الجامعات وتطوير البحث العلمي والابتكار"  polarity="positive" from="174" to="212"/> <aspectTerm  target="قابلية تشغيل الخريجات والخريجين"  polarity="positive" from="219" to="250"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="343">
+                    <text>أتمنى إضافة كل من وزارة التربية و#التعليم ووزارة #الصحة إلى وزارة #سيادية في #المغرب #الحكومة</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" وزارة التربية و#التعليم "  polarity="positive" from="17" to="42"/> <aspectTerm  target="وزارة #سيادية في #المغرب"  polarity="positive" from="60" to="84"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="344">
+                    <text>| إضراب وطني عام في قطاع التعليم بلغ نسبة المشاركة فيه أكثر من 90%، وذلك بسبب نظام المآسي الذي اصدرته وزارة الفرنكفوني بنموسى والمهين لرجال ونساء التعليم في #المغرب #التعليم #إضراب #لا_للفرنسة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="إضراب وطني عام"  polarity="negative" from="2" to="16"/> <aspectTerm  target=" قطاع التعليم"  polarity="negative" from="19" to="32"/> <aspectTerm  target=" نسبة المشاركة فيه أكثر من 90%"  polarity="negative" from="36" to="66"/> <aspectTerm  target="بسبب نظام المآسي"  polarity="negative" from="73" to="89"/> <aspectTerm  target="المهين لرجال ونساء التعليم "  polarity="negative" from="127" to="154"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="345">
+                    <text>عاجل..   #وزارة_التعليم تعلن الضوابط الجديدة لمديري المدارس في توزيع المعلمين وسد العجز:  - خطط شاملة ولجان ميدانية لحصر التخصصات وتحديد الفائض والعجز.  - توزيع المعلمين وفق المؤهلات والرتب وإعداد الجدول إلكترونيًا.  - حلول مؤقتة: دمج الفصول، زيادة الكثافة، التعليم الإلكتروني.  -</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" توزيع المعلمين وسد العجز"  polarity="positive" from="62" to="87"/> <aspectTerm  target="وزارة_التعليم تعلن الضوابط الجديدة لمديري المدارس"  polarity="positive" from="10" to="59"/> <aspectTerm  target="توزيع المعلمين وفق المؤهلات والرتب"  polarity="positive" from="155" to="189"/> <aspectTerm  target="إعداد الجدول إلكترونيًا"  polarity="positive" from="191" to="214"/> <aspectTerm  target=" دمج الفصول"  polarity="positive" from="230" to="241"/> <aspectTerm  target="زيادة الكثافة"  polarity="neutral" from="243" to="256"/> <aspectTerm  target=" التعليم الإلكتروني"  polarity="positive" from="257" to="276"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="346">
+                    <text>صور من مسيرات الأقطاب التي نظمتها شغيلة التعليم، في إطار معركة إسقاط النظام الأساسي لموظفي/ات وزارة التربية الوطنية المكمل لمسلسل تدمير الوظيفة والمدرسة العموميتين. النصر لنضالات شغيلة التعليم #أطاك_المغرب #التثقيف_الشعبي #الفهم_من_أجل_المواجهة</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" شغيلة التعليم"  polarity="negative" from="33" to="47"/> <aspectTerm  target="إسقاط النظام الأساسي"  polarity="negative" from="63" to="83"/> <aspectTerm  target=" تدمير الوظيفة والمدرسة العموميتين"  polarity="negative" from="129" to="163"/> <aspectTerm  target="النصر لنضالات شغيلة التعليم"  polarity="negative" from="165" to="192"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="347">
+                    <text>#قضيه_المعلمين5 استبعاد المعلمين والمعلمات دون إبداء أسباب منطقية أسلوب إداري غير مقبول من الجميع! إذ لا أحد يعلم عن الأسباب وراء ذلك إن كانت تقنية، أو إدارية، أو تدخل الواسطات والمحسوبيات في التعيين! ألغت تعيين هذا واستبدلته بذاك!!  إنّ إنعدام الشفافية وغياب المعايير الواضحة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="استبعاد المعلمين والمعلمات"  polarity="negative" from="16" to="42"/> <aspectTerm  target="دون إبداء أسباب منطقية"  polarity="negative" from="43" to="65"/> <aspectTerm  target="إنعدام الشفافية"  polarity="negative" from="238" to="253"/> <aspectTerm  target="غياب المعايير الواضحة"  polarity="negative" from="255" to="276"/> <aspectTerm  target="تدخل الواسطات والمحسوبيات في التعيين"  polarity="negative" from="163" to="199"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="348">
+                    <text>مصطفى لكهمة – عضو تنسيقية الأساتذة - المغرب &amp;quot;نتاجا لفشل وزارة التربية في فك الاحتقان الموجود في قطاع التعليم والاستجابة لمطالب المربين لجأت إلى مقاربة انتقامية وتوقيفات تعسفية فاقدة للشرعية في حق الأساتذة وهذا يؤكد على سوء النية وعدم رغبة الوزارة في حل الملف&amp;quot;. #المشهد  #المغرب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لفشل وزارة التربية في فك الاحتقان الموجود في قطاع التعليم"  polarity="negative" from="51" to="108"/> <aspectTerm  target="الاستجابة لمطالب المربين"  polarity="negative" from="110" to="134"/> <aspectTerm  target="مقاربة انتقامية"  polarity="negative" from="144" to="159"/> <aspectTerm  target="توقيفات تعسفية"  polarity="negative" from="161" to="175"/> <aspectTerm  target=" سوء النية وعدم رغبة الوزارة في حل الملف"  polarity="negative" from="218" to="258"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="351">
+                    <text>بقرار رسمي من #وزارة_التعليم:   منح مدراء ومديرات المدارس صلاحية تعليق الدراسة وتحويلها إلى &amp;quot;عن بُعد&amp;quot; في حال انتشار الأمراض المعدية أو الأوبئة.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="بقرار رسمي من #وزارة_التعليم"  polarity="positive" from="0" to="28"/> <aspectTerm  target=" منح مدراء ومديرات المدارس صلاحية تعليق الدراسة"  polarity="positive" from="31" to="78"/> <aspectTerm  target="تحويلها إلى &quot;عن بُعد"  polarity="positive" from="80" to="100"/> <aspectTerm  target=" انتشار الأمراض المعدية أو الأوبئة"  polarity="neutral" from="108" to="142"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="352">
+                    <text>حل واجبات في القياس والتقويم مشاريع تخرج في الإشراف التربوي إعداد دراسات مقارنة الأنظمة التعليمية بحوث ماجستير في التعليم عن بعد رسائل دكتوراه في التربية الخاصة تطوير استراتيجيات التعليم التعاوني تقارير بحثية في التحفيز الطلابي تصميم مناهج للذكاء العاطفي مشروع بحثي ماستر طبي</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" القياس والتقويم"  polarity="neutral" from="12" to="28"/> <aspectTerm  target=" الإشراف التربوي"  polarity="neutral" from="43" to="59"/> <aspectTerm  target="دراسات مقارنة الأنظمة التعليمية"  polarity="neutral" from="66" to="97"/> <aspectTerm  target=" التعليم عن بعد"  polarity="neutral" from="113" to="128"/> <aspectTerm  target="التربية الخاصة"  polarity="neutral" from="146" to="160"/> <aspectTerm  target=" استراتيجيات التعليم التعاوني"  polarity="neutral" from="166" to="195"/> <aspectTerm  target="التحفيز الطلابي"  polarity="neutral" from="212" to="227"/> <aspectTerm  target="صميم مناهج للذكاء العاطفي"  polarity="neutral" from="229" to="254"/> <aspectTerm  target="مشروع بحثي ماستر طبي"  polarity="neutral" from="255" to="275"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="362">
+                    <text>   #الزريبة  في إقليم سطات بالمغرب، يدرس تلاميذ في فصول مفتوحة بلا جدران ولا تجهيزات، ما يسلّط الضوء على هشاشة البنية المدرسية وصعوبة الظروف التعليمية التي يعيشها الأطفال يوميًا.. عاااااش الملييك</text>
+                    <aspectTerms>
+                        <aspectTerm  target="يدرس تلاميذ"  polarity="negative" from="36" to="47"/> <aspectTerm  target=" فصول مفتوحة بلا جدران"  polarity="negative" from="50" to="72"/> <aspectTerm  target="لا تجهيزات"  polarity="negative" from="74" to="84"/> <aspectTerm  target="هشاشة البنية المدرسية"  polarity="negative" from="105" to="126"/> <aspectTerm  target="صعوبة الظروف التعليمية"  polarity="negative" from="128" to="150"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="364">
+                    <text>المناهج التعليمية في المغرب  تدمير الاجيال القادمه عملية ممنهجه ينفذها حكام العرب</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المناهج التعليمية"  polarity="negative" from="0" to="17"/> <aspectTerm  target="تدمير الاجيال القادمه"  polarity="negative" from="29" to="50"/> <aspectTerm  target="عملية ممنهجه"  polarity="negative" from="51" to="63"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="369">
+                    <text>في المناهج القديمة .. كان هناك ترابط واضح بين كل مرحلة والتي تسبقها مما يضمن بناء معرفي متدرّج..لكن مع تطبيق المناهج الجديدة على مرحلتي الابتدائي والمتوسط دفعة واحدة غاب هذا الترابط وظهرت فجوة علمية  و أصبحت هناك حلقة مفقودة في كل مادة.. كان الاجدر التطبيق التدريجي للمنهج الجديدة</text>
+                    <aspectTerms>
+                        <aspectTerm  target="في المناهج القديمة"  polarity="neutral" from="0" to="18"/> <aspectTerm  target="ترابط واضح بين كل مرحلة "  polarity="negative" from="31" to="55"/> <aspectTerm  target="بناء معرفي متدرّج"  polarity="negative" from="77" to="94"/> <aspectTerm  target="تطبيق المناهج الجديدة "  polarity="negative" from="103" to="125"/> <aspectTerm  target=" فجوة علمية"  polarity="negative" from="187" to="198"/> <aspectTerm  target=" حلقة مفقودة في كل مادة"  polarity="negative" from="212" to="235"/> <aspectTerm  target=" التطبيق التدريجي للمنهج الجديدة"  polarity="negative" from="248" to="280"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="370">
+                    <text>(موضوع مهم شاهد بالصور) السيد عبدالملك بدرالدين الحوثي: تغيير المناهج في السعودية و الإمارات و مصر و المغرب يتم عبر لجان وجهات يهودية إسرائيلية.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تغيير المناهج "  polarity="negative" from="56" to="70"/> <aspectTerm  target=" يتم عبر لجان وجهات يهودية إسرائيلية"  polarity="negative" from="107" to="143"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="374">
+                    <text>المغرب يدرج الثقافة اليهودية في المناهج المدرسية   https:// elbilad.net/Flash/detail?i d=73185 …</text>
+                    <aspectTerms>
+                        <aspectTerm  target="المغرب يدرج الثقافة اليهودية"  polarity="neutral" from="0" to="28"/> <aspectTerm  target=" المناهج المدرسية"  polarity="neutral" from="31" to="48"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="375">
+                    <text>الملحقية الثقافية في المغرب ترحب بالدفعة الثانية من طلاب الدراسات الجامعية الجدد .  ​غمرت مشاعر الفرح والسعادة أروقة الملحقية الثقافية في المغرب يوم الجمعة الماضي، الموافق 14 نوفمبر 2025، حيث استقبلت الملحقية الدفعة الثانية من طلاب الدراسات الجامعية الجدد للعام الدراسي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="الدفعة الثانية من طلاب الدراسات الجامعية الجدد"  polarity="positive" from="34" to="80"/> <aspectTerm  target=" مشاعر الفرح والسعادة أروقة الملحقية الثقافية في المغرب"  polarity="positive" from="89" to="144"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="382">
+                    <text>الوضع في #المغرب في حالة انفلات تام إلى غير رجعة على ما يبدو.. في البداية اتهمونا بأننا وراء الهروب الكبير للمغاربة .. و ها هم  يُقرُّون بأن أسبابه داخلية ومغربية، بدليل دعوتهم بأفواههم لتغيير المناهج التعليمية </text>
+                    <aspectTerms>
+                        <aspectTerm  target="اتهمونا بأننا وراء الهروب الكبير للمغاربة"  polarity="negative" from="74" to="115"/> <aspectTerm  target="لتغيير المناهج التعليمية"  polarity="negative" from="186" to="210"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="388">
+                    <text>علاش المناهج التعليمية في المغرب تتجاهل التاريخ المغربي #الموري،؟</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" المناهج التعليمية"  polarity="negative" from="4" to="22"/> <aspectTerm  target=" تتجاهل التاريخ المغربي"  polarity="negative" from="32" to="55"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="389">
+                    <text> معلومات تهم كل معلم ومعلمة مع الشرح والأمثلة    تغيير وتعديل السلوك وهو نظام ثابت:   [ التعلم ]   الشرح: التعلّم هو عملية تغيير في السلوك نتيجة للخبرة أو الممارسة، ويتميز بأنه نسبي الثبات (أي يستمر مع الزمن).   مثال: الطالب الذي كان يخاف من المشاركة ثم تعلم أن يشارك</text>
+                    <aspectTerms>
+                        <aspectTerm  target="تغيير وتعديل السلوك"  polarity="neutral" from="49" to="68"/> <aspectTerm  target="التعلّم هو عملية تغيير في السلوك"  polarity="neutral" from="106" to="138"/> <aspectTerm  target="للخبرة أو الممارسة"  polarity="positive" from="145" to="163"/> <aspectTerm  target=" المشاركة"  polarity="positive" from="241" to="250"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="391">
+                    <text>المناهج في المغرب و التغلغل الي،/ هو، / دي  الأستاذ ياسين فراج المصدر :  https:// facebook.com/share/v/qJppa4 7k13nPeyKK/?mibextid=UalRPS … التكملة أول تعليق </text>
+                    <aspectTerms>
+                        <aspectTerm  target="المناهج في المغرب"  polarity="negative" from="0" to="17"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="398">
+                    <text>كشفت الفيدرالية الوطنية لجمعيات أمهات وآباء وأولياء التلاميذ أن محمد سعد برادة، وزير التربية الوطنية والتعليم الأولي والرياضة، باشر تعليماته لإعادة تلميذة إلى مقاعد الدراسة بعد منعها من ذلك بسبب النقاب بإقليم الصويرة. وأضاف بيان الفيدرالية، عقب اللقاء التواصلي بين برادة وممثلي</text>
+                    <aspectTerms>
+                        <aspectTerm  target="لإعادة تلميذة إلى مقاعد الدراسة"  polarity="positive" from="141" to="172"/> <aspectTerm  target="منعها من ذلك بسبب النقاب"  polarity="negative" from="177" to="201"/> <aspectTerm  target=" الفيدرالية الوطنية لجمعيات أمهات وآباء وأولياء التلاميذ"  polarity="neutral" from="4" to="60"/> <aspectTerm  target="وزير التربية الوطنية والتعليم الأولي والرياضة"  polarity="positive" from="80" to="125"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="400">
+                    <text> في متوسطة وثانوية #آفاق_المنصورة، تألق ركن المغرب بإشراف الأستاذة سارة المسعود، حيث أبدعت الطالبات في عرض ثقافة المغرب وتقاليده المميزة. نُقل هذا الإبداع بروح احترافية من قبل المنسقة الإعلامية شيخة الدوسري، مع شكر خاص لمديرة المدرسة مزنة المالكي على دعمها المستمر.</text>
+                    <aspectTerms>
+                        <aspectTerm  target="إشراف الأستاذة"  polarity="positive" from="52" to="66"/> <aspectTerm  target="أبدعت الطالبات"  polarity="positive" from="85" to="99"/> <aspectTerm  target=" لمديرة المدرسة "  polarity="positive" from="218" to="234"/> <aspectTerm  target="عرض ثقافة المغرب وتقاليده"  polarity="positive" from="103" to="128"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="403">
+                    <text>#المغرب_والمغاربة قدم الخبير في التربية والتكوين فؤاد شفيقي في هذا المقطع من &amp;quot;المغرب والمغاربة&amp;quot; نبذة عن المراحل التي مر منها إعداد المناهج التعليمة بالمغرب، حيث أوضح أنه إلى حدود أواسط سنوات السبعينيات، كانت الوزارة تعتمد على كتب لبعض المؤلفين على غرار &amp;quot;اقرأ&amp;quot; لأحمد بوكماخ</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" الخبير في التربية والتكوين"  polarity="neutral" from="21" to="48"/> <aspectTerm  target="إعداد المناهج التعليمة بالمغرب"  polarity="neutral" from="125" to="155"/> <aspectTerm  target="كانت الوزارة تعتمد على كتب لبعض المؤلفين"  polarity="neutral" from="203" to="243"/> <aspectTerm  target=" &quot;اقرأ&quot; لأحمد بوكماخ"  polarity="neutral" from="252" to="272"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="408">
+                    <text>#فيديو متداول من #المغرب   رفض عميد كلية العلوم بالدار البيضاء تسليم شهادة التخرج الجامعية لطالبة متفوقة بالمدرسة العليا للتنكنولوجيا  بسبب رفضها نزع الكوفية الفلسطينية   قام مدير المدرسة بتسليمها نيابة عنه تحت تصفيق الجميع لها   هل اصبح المغرب مخترقاً حتى في طبقاته المتعلمة !!!</text>
+                    <aspectTerms>
+                        <aspectTerm  target="عميد كلية العلوم"  polarity="negative" from="31" to="47"/> <aspectTerm  target=" تسليم شهادة التخرج"  polarity="positive" from="62" to="81"/> <aspectTerm  target="لطالبة متفوقة بالمدرسة العليا للتنكنولوجيا "  polarity="positive" from="91" to="134"/> <aspectTerm  target="مدير المدرسة"  polarity="positive" from="175" to="187"/> <aspectTerm  target=" مخترقاً حتى في طبقاته المتعلمة"  polarity="negative" from="244" to="275"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="410">
+                    <text>في إجازتنا القصيرة هذا الأسبوع التقيت بعدد من الأحباب المنتمين لأشرف المهن وكان معظم الحديث عن برنامج #حضوري الذي شغل الوسط التعليمي  وسألني أحدهم  عن رأيي في #المعلم هل يستحق كل هذا من الوزارة خصوصاً وأنه أشار إلى أنني في أحد اللقاءات القريبة كان لي حديث خاص عن المعلم فقلت :</text>
+                    <aspectTerms>
+                        <aspectTerm  target=" الوسط التعليمي"  polarity="neutral" from="117" to="132"/> <aspectTerm  target="المعلم"  polarity="neutral" from="160" to="166"/> <aspectTerm  target="الوزارة"  polarity="neutral" from="186" to="193"/> <aspectTerm  target="لأشرف المهن"  polarity="positive" from="63" to="74"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="413">
+                    <text>حكومة الكفاءات, وزير التعليم محمد سعيد برادة يرد على استفسارات النواب!! #شاهد_وشارك الفصاحة والوضوح والشفافية والأجوبة المدعومة بالأرقام والإنجازات على الأرض!! إذا كان هذا هو مستوى وزير التعليم في #المغرب فكيف سيكون التعليم يتساءل التلاميذ في #المغرب!!؟</text>
+                    <aspectTerms>
+                        <aspectTerm  target="وزير التعليم محمد سعيد برادة"  polarity="negative" from="16" to="44"/> <aspectTerm  target=" مستوى وزير التعليم"  polarity="negative" from="174" to="193"/> <aspectTerm  target="التعليم"  polarity="neutral" from="21" to="28"/> <aspectTerm  target="التلاميذ "  polarity="neutral" from="231" to="240"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff" />
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="425">
+                    <text>عاجل  مشاهد مؤلمة من جبال المغرب  عزلة تامة… لا طرق ولا نقل سوى الحمير  أطفال يقطعون الكيلومترات نحو مدارس مهدّمة أو بلا معلمين  وفي المقابل تُصرف الملايير على الكرة والملاعب، بينما التعليم والصحة في الهامش</text>
+                    <aspectTerms>
+                        <aspectTerm  target="مدارس مهدّمة"  polarity="negative" from="101" to="113"/> <aspectTerm  target=" بلا معلمين"  polarity="negative" from="116" to="127"/> <aspectTerm  target="أطفال يقطعون الكيلومترات نحو مدارس"  polarity="negative" from="72" to="106"/> <aspectTerm  target="التعليم"  polarity="negative" from="182" to="189"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience" />
+              </aspectCategories>
+              </sentence>
+        </sentences>
