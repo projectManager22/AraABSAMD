@@ -1,4 +1,4 @@
- *Purpose
+ **Purpose**
  The dataset aims to support research, analysis, and development projects related to:
 
   Educational policy analysis
@@ -10,7 +10,8 @@
   Regional education disparities
 
   Predictive modeling for educational outcomes
-*Contact
+  
+**Contact**
 
 For questions, suggestions, or collaboration:
 
