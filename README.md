@@ -28,3 +28,5 @@ Total Records: 1360
 Size: 1.45 Mo
 
 Tags: morocco education dataset africa-education open-data academic-research
+This dataset is licensed under the Creative Commons Attribution 4.0 International License.
+https://creativecommons.org/licenses/by/4.0/legalcode
