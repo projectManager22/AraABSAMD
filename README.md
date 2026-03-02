@@ -18,25 +18,25 @@ This dataset was created to address the lack of Arabic ABSA resources in the edu
 | **Sentiment polarities** | Positive, Negative, Neutral, Conflict |
 | **Aspect categories** | 5 categories: Curriculum & Instruction, Student Experience, Faculty & Staff, Outcomes & Performance, Technology Integration |
 | **Annotations** | Aspect term extraction (ATE),Aspect sentiment classification (ASC), Aspect category detection (ACD), and Aspect category polarity (ACP |
-| **Format** | XML (see `/data` folder) |
+| **Format** | XML (see XMl files) |
 
 ## 📁 Repository Structure
 AraABSAMD/
 │
-├── data/ # Annotated dataset files
-│ ├── araabsamd.xml # Full dataset in XML format
-│ └── README.md # Detailed data description
+├── data/ # Annotated dataset files <br> 
+│ ├── araabsamd.xml # Full dataset in XML format <br> 
+│ └── README.md # Detailed data description <br> 
 │
-├── guidelines/ # Annotation guidelines
-│ └── annotation_guidelines.pdf
+├── guidelines/ # Annotation guidelines <br> 
+│ └── annotation_guidelines.pdf <br> 
 │
-├── code/ # Preprocessing and evaluation scripts
-│ ├── preprocessing/
-│ ├── iob_encoding/
-│ └── evaluation/
+├── code/ # Preprocessing and evaluation scripts <br> 
+│ ├── preprocessing/   <br> 
+│ ├── iob_encoding/    <br> 
+│ └── evaluation/      <br> 
 │
-├── LICENSE # CC BY 4.0 license
-└── README.md # This file
+├── LICENSE # CC BY 4.0 license  <br> 
+└── README.md # This file <br> 
 
 ## 📜 License
 
