@@ -70,13 +70,13 @@ If you use this dataset in your research, please cite the following paper:
   journal={[ARRAY]},
   year={2026}
 }
-
+```
 **Acknowledgements**
 We thank the annotators for their valuable contributions.
 ```
 
-🚀 Getting Started
-git clone https://github.com/projectManager22/AraABSAMD.git
+🚀 Getting Started  
+git clone https://github.com/projectManager22/AraABSAMD.git  
 cd AraABSAMD
 
 
