@@ -21,7 +21,7 @@ This dataset was created to address the lack of Arabic ABSA resources in the edu
 | **Annotations** | Aspect term extraction (ATE), Aspect sentiment classification (ASC), Aspect category detection (ACD), and Aspect category polarity (ACP) |
 | **Format** | XML (see XML files) |
 
-## 📁 Repository Structure
+## 1. Repository Structure
 AraABSAMD/  
 │
 ├── data/ # Annotated dataset files  
@@ -82,37 +82,7 @@ Elhoussaine Ziyati: ziyati@gmail.com
 🙏 Acknowledgements  
 We thank the annotators for their valuable contributions.  
 
-# AraABSAMD: Arabic Aspect-Based Sentiment Analysis Dataset for the Moroccan Education Domain
 
-This repository contains the dataset, preprocessing pipeline, and baseline experiments used in the paper:
-
-**AraABSAMD: An Arabic Aspect-Based Sentiment Analysis Dataset for Social Media Discussions on Education in Morocco**
-
-The repository provides the resources required to reproduce the preprocessing and baseline experiments reported in the paper.
-
----
-
-# 1. Repository Structure
-
-```
-AraABSAMD/
-│
-├── dataset/
-│   ├── raw_data.csv
-│   ├── processed_dataset.csv
-│
-├── preprocessing/
-│   ├── preprocessing_script.py
-│
-├── experiments/
-│   ├── baseline_models.ipynb
-│
-├── requirements.txt
-├── reproducibility.md
-└── README.md
-```
-
----
 
 # 2. Experimental Environment
 
