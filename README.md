@@ -59,18 +59,7 @@ For more details, see the full license deed at [https://creativecommons.org/lice
 All code in the `code/` directory is licensed under the **MIT License**.  
 See the [LICENSE-CODE](LICENSE-CODE) file for details.
 
-## 📖 How to Cite
 
-If you use this dataset in your research, please cite the following paper:
-
-```bibtex
-@article{Lachhab2026araabsamd,
-  title={AraABSAMD: The First Arabic Aspect-Based Sentiment Analysis Dataset for Moroccan Education},
-  author={Lachhab, Youssef and Ziyati, Elhoussaine},
-  journal={[ARRAY]},
-  year={2026}
-}
-```
 
 
 🚀 Getting Started
@@ -308,20 +297,19 @@ All steps required to reproduce the baseline results reported in the paper are d
 
 ---
 
-# 11. Citation
+# 11.  📖 How to Cite
 
-If you use this dataset or code, please cite:
+If you use this dataset in your research, please cite the following paper:
 
-```
-@article{AraABSAMD2026,
-  title={AraABSAMD: Arabic Aspect-Based Sentiment Analysis Dataset for Moroccan Education Discussions},
-  author={...},
-  journal={...},
+```bibtex
+@article{Lachhab2026araabsamd,
+  title={AraABSAMD: The First Arabic Aspect-Based Sentiment Analysis Dataset for Moroccan Education},
+  author={Lachhab, Youssef and Ziyati, Elhoussaine},
+  journal={[ARRAY]},
   year={2026}
 }
 ```
 
----
 
 # 12. License
 
