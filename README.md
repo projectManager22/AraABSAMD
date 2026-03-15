@@ -71,9 +71,6 @@ If you use this dataset in your research, please cite the following paper:
   year={2026}
 }
 ```
-**Acknowledgements**
-
-We thank the annotators for their valuable contributions.
 
 
 🚀 Getting Started
@@ -82,5 +79,15 @@ Clone this repository:
 ```
 git clone https://github.com/projectManager22/AraABSAMD.git  
 cd AraABSAMD
+```
+🤝 Contributing  
+Contributions to improve the dataset or code are welcome! Please open an issue or submit a pull request.
 
+📬 Contact  
+For questions or collaboration, please contact:  
 
+Youssef Lachhab: youssef.lachhab.2020@gmail.com  
+
+Elhoussaine Ziyati: ziyati@gmail.com      
+🙏 Acknowledgements  
+We thank the annotators for their valuable contributions.  
