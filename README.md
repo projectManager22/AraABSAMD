@@ -9,7 +9,7 @@
 
 This dataset was created to address the lack of Arabic ABSA resources in the education sector and to enable fine-grained opinion mining for educational stakeholders, policymakers, and researchers.
 
-## 📊 Dataset Features
+## 1. Dataset Features
 
 | Feature | Description |
 |---------|-------------|
@@ -21,7 +21,7 @@ This dataset was created to address the lack of Arabic ABSA resources in the edu
 | **Annotations** | Aspect term extraction (ATE), Aspect sentiment classification (ASC), Aspect category detection (ACD), and Aspect category polarity (ACP) |
 | **Format** | XML (see XML files) |
 
-## 1. Repository Structure
+## 2. Repository Structure
 AraABSAMD/  
 │
 ├── data/ # Annotated dataset files  
@@ -40,24 +40,7 @@ AraABSAMD/
 ├── LICENSE-CODE # MIT license for the code  
 └── README.md # This file  
 
-## 📜 Licenses
 
-### Dataset (Annotation Data)
-The annotation data in this repository is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
-
-You are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material
-
-Under the following terms:
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- **NonCommercial** — You may not use the material for **commercial purposes**.
-
-For more details, see the full license deed at [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/) or read the [LICENSE](LICENSE) file included in this repository.
-
-### Code
-All code in the `code/` directory is licensed under the **MIT License**.  
-See the [LICENSE-CODE](LICENSE-CODE) file for details.
 
 
 
@@ -280,8 +263,22 @@ If you use this dataset in your research, please cite the following paper:
 }
 ```
 
+## 12. Licenses
 
-# 12. License
+### Dataset (Annotation Data)
+The annotation data in this repository is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
-This project is released for academic research purposes.
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **NonCommercial** — You may not use the material for **commercial purposes**.
+
+For more details, see the full license deed at [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/) or read the [LICENSE](LICENSE) file included in this repository.
+
+### Code
+All code in the `code/` directory is licensed under the **MIT License**.  
+See the [LICENSE-CODE](LICENSE-CODE) file for details.
 
