@@ -110,7 +110,8 @@ def clean(text):
 
 ---
 
-# 5. MSA Filtering
+# 5. MSA Filtering  
+To ensure linguistic consistency, a two-stage filtering process was implemented. First, the administrator curated the collected tweets by discarding those written in Moroccan dialect (Darija) or exhibiting code-switching, retaining only content composed in Modern Standard Arabic (MSA). Second, during the annotation phase, annotators were instructed to identify and flag any sentences containing dialectal features; these flagged instances were then reviewed by the administrator for potential exclusion from the final dataset.  
 
 To ensure the dataset primarily contains **Modern Standard Arabic (MSA)**:
 
