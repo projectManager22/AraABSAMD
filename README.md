@@ -178,9 +178,10 @@ torch.manual_seed(42)
 
 Evaluation was conducted using:
 
-* Precision
-* Recall
-* F1-score
+* Accuracy
+* Macro Precision
+* Macro Recall
+* Macro F1-score
 
 Sequence labeling metrics were computed using the `seqeval` library.
 
