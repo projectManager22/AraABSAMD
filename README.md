@@ -31,14 +31,14 @@ AraABSAMD/
 ├── guidelines/ # Annotation guidelines
 │ └── annotation_guidelines.pdf
 │
-├── code/ # Preprocessing and evaluation scripts
-│ ├── preprocessing/
-│ ├── iob_encoding/
-│ └── evaluation/
+├── code/ # Preprocessing and evaluation scripts  
+│ ├── preprocessing/  
+│ ├── iob_encoding/  
+│ └── evaluation/  
 │
-├── LICENSE # CC BY-NC 4.0 license for the dataset
-├── LICENSE-CODE # MIT license for the code
-└── README.md # This file
+├── LICENSE # CC BY-NC 4.0 license for the dataset  
+├── LICENSE-CODE # MIT license for the code  
+└── README.md # This file  
 
 ## 📜 Licenses
 
