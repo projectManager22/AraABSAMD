@@ -1,0 +1,9 @@
+transformers==5.0.0
+datasets==4.0.0
+evaluate==0.4.6
+seqeval==1.2.2
+sentencepiece==0.2.1
+scikit-learn==1.6.1
+pandas==2.2.2
+numpy==2.0.0
+torch==2.5.1
