@@ -21,6 +21,25 @@ This dataset was created to address the lack of Arabic ABSA resources in the edu
 | **Annotations** | Aspect term extraction (ATE), Aspect sentiment classification (ASC), Aspect category detection (ACD), and Aspect category polarity (ACP) |
 | **Format** | XML (see XML files) |
 
+## 📁 Repository Structure
+AraABSAMD/
+│
+├── data/ # Annotated dataset files
+│ ├── araabsamd.xml # Full dataset in XML format
+│ └── README.md # Detailed data description
+│
+├── guidelines/ # Annotation guidelines
+│ └── annotation_guidelines.pdf
+│
+├── code/ # Preprocessing and evaluation scripts
+│ ├── preprocessing/
+│ ├── iob_encoding/
+│ └── evaluation/
+│
+├── LICENSE # CC BY-NC 4.0 license for the dataset
+├── LICENSE-CODE # MIT license for the code
+└── README.md # This file
+
 ## 📜 Licenses
 
 ### Dataset (Annotation Data)
@@ -45,7 +64,7 @@ See the [LICENSE-CODE](LICENSE-CODE) file for details.
 If you use this dataset in your research, please cite the following paper:
 
 ```bibtex
-@article{Lachhab2025araabsamd,
+@article{Lachhab2026araabsamd,
   title={AraABSAMD: The First Arabic Aspect-Based Sentiment Analysis Dataset for Moroccan Education},
   author={Lachhab, Youssef and Ziyati, Elhoussaine},
   journal={[ARRAY]},
