@@ -72,10 +72,12 @@ If you use this dataset in your research, please cite the following paper:
 }
 ```
 **Acknowledgements**
-We thank the annotators for their valuable contributions.
 ```
+We thank the annotators for their valuable contributions.
 
-🚀 Getting Started  
+
+🚀 Getting Started
+```
 git clone https://github.com/projectManager22/AraABSAMD.git  
 cd AraABSAMD
 
