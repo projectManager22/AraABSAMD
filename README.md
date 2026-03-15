@@ -136,6 +136,7 @@ HuggingFace Transformers library.
 
 The following models were evaluated:
 
+* **ARBERT**  
 * **ARBERTv2**
 * **CAMeLBERT-MSA**
 
