@@ -24,7 +24,7 @@ This dataset was created to address the lack of Arabic ABSA resources in the edu
 ## 2. Repository Structure
 AraABSAMD/  
 │
-├── data/ # Annotated dataset files  
+├ # Annotated dataset files  
 │ ├── araabsamd.xml # Full dataset in XML format  
 │ └── README.md # Detailed data description  
 │
