@@ -29,7 +29,7 @@ AraABSAMD/
 │ └── README.md # Detailed data description  
 │
 ├── guidelines/ # Annotation guidelines
-│ └── annotation_guidelines.pdf
+│ └── annotation_guidelines.pdf  
 │
 ├── code/ # Preprocessing and evaluation scripts  
 │ ├── preprocessing/  
