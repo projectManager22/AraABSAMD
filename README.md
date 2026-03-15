@@ -43,30 +43,6 @@ AraABSAMD/
 
 
 
-
-
-🚀 Getting Started
-
-Clone this repository:
-```
-git clone https://github.com/projectManager22/AraABSAMD.git  
-cd AraABSAMD
-```
-🤝 Contributing  
-Contributions to improve the dataset or code are welcome! Please open an issue or submit a pull request.
-
-📬 Contact  
-For questions or collaboration, please contact:  
-
-Youssef Lachhab: youssef.lachhab.2020@gmail.com  
-
-Elhoussaine Ziyati: ziyati@gmail.com      
-
-🙏 Acknowledgements  
-We thank the annotators for their valuable contributions.  
-
-
-
 # 2. Experimental Environment
 
 Experiments were conducted using the following environment:
@@ -281,4 +257,17 @@ For more details, see the full license deed at [https://creativecommons.org/lice
 ### Code
 All code in the `code/` directory is licensed under the **MIT License**.  
 See the [LICENSE-CODE](LICENSE-CODE) file for details.
+
+🤝 Contributing  
+Contributions to improve the dataset or code are welcome! Please open an issue or submit a pull request.
+
+📬 Contact  
+For questions or collaboration, please contact:  
+
+Youssef Lachhab: youssef.lachhab.2020@gmail.com  
+
+Elhoussaine Ziyati: ziyati@gmail.com      
+
+🙏 Acknowledgements  
+We thank the annotators for their valuable contributions. 
 
