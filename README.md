@@ -28,8 +28,8 @@ AraABSAMD/
 │ ├── araabsamd.xml # Full dataset in XML format  
 │ └── README.md # Detailed data description  
 │
-├── guidelines/ # Annotation guidelines
-│ └── annotation_guidelines.pdf  
+├── guidelines/ # Annotation guidelines  
+│ └── annotation_guidelines.pdf    
 │
 ├── code/ # Preprocessing and evaluation scripts  
 │ ├── preprocessing/  
