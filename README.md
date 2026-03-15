@@ -92,3 +92,238 @@ Elhoussaine Ziyati: ziyati@gmail.com
 
 🙏 Acknowledgements  
 We thank the annotators for their valuable contributions.  
+
+# AraABSAMD: Arabic Aspect-Based Sentiment Analysis Dataset for the Moroccan Education Domain
+
+This repository contains the dataset, preprocessing pipeline, and baseline experiments used in the paper:
+
+**AraABSAMD: An Arabic Aspect-Based Sentiment Analysis Dataset for Social Media Discussions on Education in Morocco**
+
+The repository provides the resources required to reproduce the preprocessing and baseline experiments reported in the paper.
+
+---
+
+# 1. Repository Structure
+
+```
+AraABSAMD/
+│
+├── dataset/
+│   ├── raw_data.csv
+│   ├── processed_dataset.csv
+│
+├── preprocessing/
+│   ├── preprocessing_script.py
+│
+├── experiments/
+│   ├── baseline_models.ipynb
+│
+├── requirements.txt
+├── reproducibility.md
+└── README.md
+```
+
+---
+
+# 2. Experimental Environment
+
+Experiments were conducted using the following environment:
+
+| Component | Specification   |
+| --------- | --------------- |
+| OS        | Ubuntu 22.04    |
+| Python    | Python 3.10     |
+| GPU       | NVIDIA Tesla T4 |
+| Platform  | Google Colab    |
+
+All library versions are pinned in `requirements.txt`.
+
+---
+
+# 3. Installation
+
+Clone the repository:
+
+```
+git clone https://github.com/projectManager22/AraABSAMD
+cd AraABSAMD
+```
+
+Install dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+---
+
+# 4. Dataset Preprocessing
+
+The preprocessing pipeline follows several steps to clean and normalize Arabic text.
+
+### 4.1 Cleaning Operations
+
+The following operations are applied to each text instance:
+
+1. Removal of HTML tags such as `<br/>`
+2. Removal of non-Arabic characters
+3. Normalization of whitespace
+4. Retention of Arabic Unicode blocks only
+
+The preprocessing function is implemented as:
+
+```python
+import re
+
+def clean(text):
+
+    text = text.replace("<br/>", " ")
+
+    arabic_pattern = re.compile(
+        r'[^\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF ]'
+    )
+
+    text = re.sub(arabic_pattern, " ", text)
+
+    text = re.sub(r'\s+', ' ', text).strip()
+
+    return text
+```
+
+---
+
+# 5. MSA Filtering
+
+To ensure the dataset primarily contains **Modern Standard Arabic (MSA)**:
+
+* Non-Arabic characters and symbols are removed using Unicode filtering.
+* Tokenization is performed using regex-based token extraction.
+* Only normalized Arabic tokens are retained during preprocessing.
+
+Tokenization pattern:
+
+```
+pattern = r'\w+|[^\w\s]'
+```
+
+This step removes foreign words, emojis, and non-Arabic scripts that commonly appear in social media posts.
+
+---
+
+# 6. Baseline Models
+
+Baseline experiments were conducted using pretrained Arabic language models implemented in the
+HuggingFace Transformers library.
+
+The following models were evaluated:
+
+* **ARBERTv2**
+* **CAMeLBERT-MSA**
+
+These models were fine-tuned for aspect-based sentiment classification.
+
+Example loading procedure:
+
+```python
+from transformers import AutoTokenizer, AutoModelForTokenClassification
+
+tokenizer = AutoTokenizer.from_pretrained("UBC-NLP/ARBERTv2")
+model = AutoModelForTokenClassification.from_pretrained("UBC-NLP/ARBERTv2")
+```
+
+---
+
+# 7. Training Configuration
+
+| Parameter  | Value                    |
+| ---------- | ------------------------ |
+| Batch size | 16                       |
+| Optimizer  | AdamW                    |
+| Framework  | HuggingFace Transformers |
+| Hardware   | NVIDIA Tesla T4          |
+
+Random seeds used for reproducibility:
+
+```python
+import random
+import numpy as np
+import torch
+
+random.seed(42)
+np.random.seed(42)
+torch.manual_seed(42)
+```
+
+---
+
+# 8. Evaluation
+
+Evaluation was conducted using:
+
+* Precision
+* Recall
+* F1-score
+
+Sequence labeling metrics were computed using the `seqeval` library.
+
+---
+
+# 9. Running the Experiments
+
+To reproduce the experiments:
+
+1. Install dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+2. Run the experiment notebook:
+
+```
+experiments/baseline_models.ipynb
+```
+
+The notebook includes:
+
+* dataset loading
+* preprocessing
+* tokenization
+* model training
+* evaluation
+
+---
+
+# 10. Reproducibility
+
+To ensure full reproducibility, this repository includes:
+
+* dataset preprocessing scripts
+* baseline experiment notebooks
+* pinned dependency versions
+* environment configuration
+* explicit preprocessing rules
+
+All steps required to reproduce the baseline results reported in the paper are documented in this repository.
+
+---
+
+# 11. Citation
+
+If you use this dataset or code, please cite:
+
+```
+@article{AraABSAMD2026,
+  title={AraABSAMD: Arabic Aspect-Based Sentiment Analysis Dataset for Moroccan Education Discussions},
+  author={...},
+  journal={...},
+  year={2026}
+}
+```
+
+---
+
+# 12. License
+
+This project is released for academic research purposes.
+
