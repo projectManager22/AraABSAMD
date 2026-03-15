@@ -22,11 +22,11 @@ This dataset was created to address the lack of Arabic ABSA resources in the edu
 | **Format** | XML (see XML files) |
 
 ## 📁 Repository Structure
-AraABSAMD/
+AraABSAMD/  
 │
-├── data/ # Annotated dataset files
-│ ├── araabsamd.xml # Full dataset in XML format
-│ └── README.md # Detailed data description
+├── data/ # Annotated dataset files  
+│ ├── araabsamd.xml # Full dataset in XML format  
+│ └── README.md # Detailed data description  
 │
 ├── guidelines/ # Annotation guidelines
 │ └── annotation_guidelines.pdf
