@@ -1,0 +1,1592 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sentences>
+           <sentence id="0">
+                    <text ref="528"/>
+                    <aspectTerms>
+                        <aspectTerm target="بعض الدروس في اكثر من مادة دراسية" polarity="negative" from="3" to="36"/> <aspectTerm target="اللغة العربية" polarity="neutral" from="234" to="247"/> <aspectTerm target="التربية الاسلامية" polarity="neutral" from="248" to="265"/> <aspectTerm target="التربية الاسلامية" polarity="neutral" from="248" to="265"/> <aspectTerm target="اعادة النظر بالتربية المنزلية" polarity="conflict" from="148" to="177"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="2">
+                    <text ref="529"/>
+                    <aspectTerms>
+                        <aspectTerm target="جيل المشي إلى المدرسة" polarity="neutral" from="21" to="42"/> <aspectTerm target="ذهابا وإيابا طوال أيام السنة الدراسية" polarity="neutral" from="43" to="80"/> <aspectTerm target="جيل امتحان بالمنهج كاملاً" polarity="negative" from="95" to="120"/> <aspectTerm target="لا مذكرات ولا مدرس خصوصي ولا امتحان خيارات" polarity="negative" from="142" to="184"/> <aspectTerm target="حل المسائل بالطبشور على السبورة" polarity="positive" from="222" to="253"/> <aspectTerm target="كتب القطعة 10 مرات" polarity="negative" from="199" to="217"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="3">
+                    <text ref="530"/>
+                    <aspectTerms>
+                        <aspectTerm target="اختبرت التربوي ثلاث مرات" polarity="neutral" from="0" to="24"/> <aspectTerm target="استعداد" polarity="negative" from="49" to="56"/> <aspectTerm target=" منصة" polarity="neutral" from="96" to="101"/> <aspectTerm target="دورتهم المكثفة" polarity="positive" from="234" to="248"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="4">
+                    <text ref="531"/>
+                    <aspectTerms>
+                        <aspectTerm target="يُنهي الطالب حفظ القرآن" polarity="positive" from="6" to="29"/> <aspectTerm target="حفلاً مهيباً في انتظاره" polarity="positive" from="34" to="57"/> <aspectTerm target="موكب #سلطان_الطلبة" polarity="positive" from="68" to="86"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="5">
+                    <text ref="532"/>
+                    <aspectTerms>
+                        <aspectTerm target="حراك طلابي" polarity="positive" from="7" to="17"/> <aspectTerm target="لتلاميذ المدارس في المغرب" polarity="positive" from="18" to="43"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="6">
+                    <text ref="533"/>
+                    <aspectTerms>
+                        <aspectTerm target=" حملة استقبال الطالب الجديد" polarity="positive" from="10" to="37"/> <aspectTerm target=" توجيه الطلبة وإرشادهم" polarity="positive" from="131" to="153"/> <aspectTerm target="تفانيا منقطع النظير من أجل مساعدة الطلبة" polarity="positive" from="167" to="207"/> <aspectTerm target="الطلبة_المغاربة_يرفضون_قانون_24_5" polarity="negative" from="240" to="273"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="7">
+                    <text ref="534"/>
+                    <aspectTerms>
+                        <aspectTerm target="دعاة التوحيد" polarity="positive" from="170" to="182"/> <aspectTerm target="وجود مراكز لفرقة تنتسب للإسلام" polarity="negative" from="217" to="247"/> <aspectTerm target="أشتكى فيها أخواننا أهل السنة" polarity="negative" from="138" to="166"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="8">
+                    <text ref="535"/>
+                    <aspectTerms>
+                        <aspectTerm target="أشتكى فيها أخواننا أهل السنة" polarity="negative" from="138" to="166"/> <aspectTerm target="فلسفه وقلة احترام لأهم جزء بالمجتمع" polarity="negative" from="0" to="35"/> <aspectTerm target="المعلم لديه نصاب حصصي يومي" polarity="neutral" from="198" to="224"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="9">
+                    <text ref="536"/>
+                    <aspectTerms>
+                        <aspectTerm target=" نكمل ٧ ساعات دوام" polarity="neutral" from="20" to="38"/> <aspectTerm target="سجلت حضورك" polarity="neutral" from="103" to="113"/> <aspectTerm target="لتطبيق يتطلب ما لايقل عن ٧ ساعات يومياً" polarity="neutral" from="44" to="83"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="10">
+                    <text ref="537"/>
+                    <aspectTerms>
+                        <aspectTerm target="كل دخول مدرسي حالة من الضغط النفسي" polarity="negative" from="23" to="57"/> <aspectTerm target=" الطموحات إلى ضغوط تثقل كاهل الأبناء" polarity="conflict" from="68" to="104"/> <aspectTerm target=" راحة الأطفال" polarity="positive" from="215" to="228"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="11">
+                    <text ref="538"/>
+                    <aspectTerms>
+                        <aspectTerm target=" الطويل أو القصير أو السمين أو النحيف أو الأسود أو الأبيض ليس مزحة" polarity="negative" from="94" to="160"/> <aspectTerm target=" ارتداء نفس الأحذية كل يوم" polarity="neutral" from="183" to="209"/> <aspectTerm target="حقيبة الظهر المستعملة" polarity="positive" from="223" to="244"/> <aspectTerm target="المدارس بدأت " polarity="neutral" from="0" to="13"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="12">
+                    <text ref="539"/>
+                    <aspectTerms>
+                        <aspectTerm target="الخوف والقلق الشديد والتوتر" polarity="negative" from="153" to="180"/> <aspectTerm target="انعكست على صحته النفسية والجسدية" polarity="negative" from="220" to="252"/> <aspectTerm target="معلومات تحتاج توضيح" polarity="neutral" from="98" to="117"/> <aspectTerm target="شرح جزئية غير واضحة" polarity="neutral" from="121" to="140"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="13">
+                    <text ref="540"/>
+                    <aspectTerms>
+                        <aspectTerm target="درجات المشاركة كاملة" polarity="negative" from="59" to="79"/> <aspectTerm target="المهام التي يتأخر فيها عنده فرصة يجيبها بعد اسبوعين أو ثلاثة" polarity="neutral" from="81" to="141"/> <aspectTerm target=" وفي النهاية يصور نتيجته ويشاركها مع طلابه" polarity="neutral" from="144" to="186"/> <aspectTerm target="يتساوى اللي يعمل ويجتهد مع الذي لا يعمل" polarity="negative" from="188" to="227"/> <aspectTerm target=" الطالب يفهم المعلم وينقل خبره لزميله عنك" polarity="negative" from="233" to="274"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="14">
+                    <text ref="541"/>
+                    <aspectTerms>
+                        <aspectTerm target="كثافة مناهج" polarity="negative" from="88" to="99"/> <aspectTerm target="كم كبير من معلومات الحفظ" polarity="negative" from="101" to="125"/> <aspectTerm target="عدم مراعاة الفروقات الفردية" polarity="negative" from="145" to="172"/> <aspectTerm target="الأنشطة والتقارير" polarity="negative" from="176" to="193"/> <aspectTerm target="لا وقت لتعلم مهارات جديدة" polarity="negative" from="228" to="253"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="16">
+                    <text ref="542"/>
+                    <aspectTerms>
+                        <aspectTerm target="إقرأ اليوم ماسيشرحه أستاذك غدا لتشارك بفعالية" polarity="positive" from="64" to="109"/> <aspectTerm target="احضر قبل أستاذك لتنل احترامه" polarity="positive" from="114" to="142"/> <aspectTerm target="٣-ضع جوالك على الصامت أثناء المحاضرة" polarity="positive" from="143" to="179"/> <aspectTerm target="٤-إسأل أستاذك عن ما لم تفهمه" polarity="positive" from="181" to="209"/> <aspectTerm target="راجع الفصل الذي شرحه أستاذك ودوّن أبرز النقاط " polarity="positive" from="222" to="268"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="17">
+                    <text ref="543"/>
+                    <aspectTerms>
+                        <aspectTerm target=" مدارس متهالكة" polarity="negative" from="69" to="83"/> <aspectTerm target="مستويات ضعيفة" polarity="negative" from="85" to="98"/> <aspectTerm target="أجيال عاجزة عن مواجهة سوق العمل" polarity="negative" from="101" to="132"/> <aspectTerm target="إصلاح التعليم أم إفساده" polarity="conflict" from="134" to="157"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="19">
+                    <text ref="544"/>
+                    <aspectTerms>
+                        <aspectTerm target="لاحظ أن أحد طلابه من أسرة فقيرة" polarity="positive" from="28" to="59"/> <aspectTerm target="لايمكنهم شراء لوازم مدرسية فقرر شرائها وتقديمها له" polarity="positive" from="60" to="110"/> <aspectTerm target="لايمكنهم شراء لوازم مدرسية فقرر شرائها وتقديمها له" polarity="positive" from="60" to="110"/> <aspectTerm target=" ذلك الصغير وأصبح لديه شهادة ووظيفة" polarity="positive" from="156" to="191"/> <aspectTerm target="وقدم لمعلمه هدية عبارة عن زيارة الى #مكة_المكرمة" polarity="positive" from="203" to="251"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="21">
+                    <text ref="545"/>
+                    <aspectTerms>
+                        <aspectTerm target="الوظيفة العمومية و التي هي ريع مقنن" polarity="negative" from="46" to="81"/> <aspectTerm target="أساتذة التعليم العالي يضربون ضدا في القانون الجديد" polarity="negative" from="82" to="132"/> <aspectTerm target="سينهي فوضى دبلومات قليلشات" polarity="positive" from="138" to="164"/> <aspectTerm target="لدفاع عن المعطيات الشخصية للطلبة و الواقع يقول العكس" polarity="conflict" from="188" to="240"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="22">
+                    <text ref="546"/>
+                    <aspectTerms>
+                        <aspectTerm target="جاب ملخص لجميع ما سبق لنا دراسته باجتهاد شخصي" polarity="positive" from="46" to="91"/> <aspectTerm target=" لم أطلب منه هذا ولا من زملائه عشان ما أشغلهم عن موادهم الأساسية" polarity="neutral" from="96" to="160"/> <aspectTerm target="ما همني اهتمامه ومتابعته وحرصه" polarity="positive" from="211" to="241"/> <aspectTerm target=" بمكافأته بهدية ملموسة" polarity="positive" from="249" to="271"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="23">
+                    <text ref="547"/>
+                    <aspectTerms>
+                        <aspectTerm target="مافي واجبات" polarity="positive" from="0" to="11"/> <aspectTerm target="الكتب تظل فالمدرسة" polarity="positive" from="13" to="31"/> <aspectTerm target=" التعليم ما يكون تلقين" polarity="positive" from="32" to="54"/> <aspectTerm target="اختبار لقدرات الطلاب العقلية" polarity="positive" from="56" to="84"/> <aspectTerm target=" لكل طالب قدرات تختلف عن غيره" polarity="neutral" from="184" to="213"/> <aspectTerm target="وضروري ولي الأمر يفهم هذا الكلام" polarity="positive" from="215" to="247"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="24">
+                    <text ref="548"/>
+                    <aspectTerms>
+                        <aspectTerm target="أصبحت مدير مدرسة " polarity="neutral" from="3" to="20"/> <aspectTerm target="القرارات الجديدة التي ستفرضها" polarity="neutral" from="29" to="58"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="25">
+                    <text ref="549"/>
+                    <aspectTerms>
+                        <aspectTerm target=" احتياج الطالب في فترة اختباراته النهائية" polarity="positive" from="73" to="114"/> <aspectTerm target="كلمة محفزة، تأخذ بيد معنوياته وهمّته" polarity="positive" from="126" to="162"/> <aspectTerm target="تحتوي قلقه وتوتره" polarity="negative" from="165" to="182"/> <aspectTerm target="دخلت أحد المجمعات وكان المنظر مدهشًا " polarity="positive" from="185" to="222"/> <aspectTerm target="الطالبات متجمعات في ساحات المجمع" polarity="positive" from="223" to="255"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="26">
+                    <text ref="550"/>
+                    <aspectTerms>
+                        <aspectTerm target="طالبٌ خَلوق جدًّا" polarity="positive" from="222" to="239"/> <aspectTerm target="رُقيّه يُقرأ من ملامح شخصيته الحاضرة" polarity="positive" from="241" to="277"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="27">
+                    <text ref="551"/>
+                    <aspectTerms>
+                        <aspectTerm target="المناهج" polarity="neutral" from="21" to="28"/> <aspectTerm target=" الزمن متسارع و متطور" polarity="neutral" from="92" to="113"/> <aspectTerm target=" للتعليم التقليدي" polarity="negative" from="138" to="155"/> <aspectTerm target="دمج التقنية" polarity="positive" from="159" to="170"/> <aspectTerm target="المعلم يضع القاعدة" polarity="positive" from="198" to="216"/> <aspectTerm target=" باقي البناء على الأب و الأسرة" polarity="positive" from="219" to="249"/> <aspectTerm target=" باقي البناء على الأب و الأسرة" polarity="positive" from="219" to="249"/> <aspectTerm target="الأطفال يتعاملون مع السوشيال ميديا" polarity="positive" from="38" to="72"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="28">
+                    <text ref="552"/>
+                    <aspectTerms>
+                        <aspectTerm target="هدم ممنهج للمدرسة العمومية" polarity="negative" from="83" to="109"/> <aspectTerm target="لوبيات المدارس الخصوصية" polarity="negative" from="46" to="69"/> <aspectTerm target="المغربي البسيط اليوم، ذو الأجر الزهيد" polarity="negative" from="139" to="176"/> <aspectTerm target=" يكلف نفسه فوق طاقتها ليدرس أبناؤه " polarity="negative" from="177" to="212"/> <aspectTerm target="رداءة التعليم العمومي" polarity="negative" from="241" to="262"/> <aspectTerm target="ظروفه المزرية" polarity="negative" from="265" to="278"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="29">
+                    <text ref="553"/>
+                    <aspectTerms>
+                        <aspectTerm target="تعيينهم ثم طردوا" polarity="negative" from="9" to="25"/> <aspectTerm target="اخذ حقهم بالقانون من الوزارة " polarity="positive" from="31" to="60"/> <aspectTerm target="دورات المعلمين" polarity="positive" from="77" to="91"/> <aspectTerm target="لتكديس عدد الطلاب في الفصول" polarity="negative" from="197" to="224"/> <aspectTerm target="تطالب المدارس بالتميز" polarity="neutral" from="226" to="247"/> <aspectTerm target="تفرض اختبارات تمتحن فيه الطلاب" polarity="negative" from="249" to="279"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="30">
+                    <text ref="554"/>
+                    <aspectTerms>
+                        <aspectTerm target="كاد المعلم أن يكون رسولا " polarity="positive" from="16" to="41"/> <aspectTerm target="أنظمة قديمة لم تهيئهم بالبرامج أو الحوافز" polarity="negative" from="110" to="151"/> <aspectTerm target="يطلب منهم اليوم مجاراة معايير جديدة" polarity="conflict" from="156" to="191"/> <aspectTerm target="العدالة تقتضي اعتبارهم ضحايا لأنظمة سابقة لا مقصرين" polarity="positive" from="193" to="244"/> <aspectTerm target="وزارة_التعليم إعادة تأهيلهم" polarity="positive" from="252" to="279"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="31">
+                    <text ref="555"/>
+                    <aspectTerms>
+                        <aspectTerm target="جدل في الجامعات المغربية" polarity="conflict" from="0" to="24"/> <aspectTerm target=" قانون الميداوي للتعليم العالي" polarity="neutral" from="29" to="59"/> <aspectTerm target="تطوير_التعليم" polarity="positive" from="144" to="157"/> <aspectTerm target="التعليم_في_المغرب" polarity="neutral" from="186" to="203"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="32">
+                    <text ref="556"/>
+                    <aspectTerms>
+                        <aspectTerm target="عاش الطالب وائل تجربة قيادة #طائرة" polarity="positive" from="0" to="34"/> <aspectTerm target="جهاز محاكاة #الطيران" polarity="positive" from="43" to="63"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="33">
+                    <text ref="557"/>
+                    <aspectTerms>
+                        <aspectTerm target=" الطالب المبتعث" polarity="neutral" from="93" to="108"/> <aspectTerm target="اعتدى ثلة مجرمين من المغرب" polarity="negative" from="114" to="140"/> <aspectTerm target="نصيحتي للطلاب المبتعثين ابعدوا عن أي حوار اومناقشة" polarity="neutral" from="141" to="191"/> <aspectTerm target=" تجربة طويلة في ارض الغربة" polarity="negative" from="231" to="257"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="34">
+                    <text ref="558"/>
+                    <aspectTerms>
+                        <aspectTerm target="الطالب الجامعي النجيب" polarity="positive" from="134" to="155"/> <aspectTerm target="تلميذ في القسم الثاني ابتدائي" polarity="negative" from="165" to="194"/> <aspectTerm target="الغبي الكسول" polarity="negative" from="195" to="207"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="35">
+                    <text ref="559"/>
+                    <aspectTerms>
+                        <aspectTerm target="الغبي الكسول" polarity="positive" from="195" to="207"/> <aspectTerm target=" الدروس الخصوصية" polarity="negative" from="82" to="98"/> <aspectTerm target=" اكتساب مقدرة اجتياز الامتحانات" polarity="negative" from="153" to="184"/> <aspectTerm target=" التعليم فقد روحه الأصلية" polarity="negative" from="194" to="219"/> <aspectTerm target="فلم يعد رحلة للمعرفة أو تنمية للعقل" polarity="negative" from="221" to="256"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="37">
+                    <text ref="560"/>
+                    <aspectTerms>
+                        <aspectTerm target="شفق على تلاميذ التعليم العام ومستقبلهم من انحرافات تعليمية" polarity="negative" from="1" to="59"/> <aspectTerm target="قناعات غير تربوية" polarity="negative" from="62" to="79"/> <aspectTerm target="مناهج موجهة لأغراض دينية" polarity="negative" from="89" to="113"/> <aspectTerm target=" تهميش المرأة" polarity="negative" from="130" to="143"/> <aspectTerm target="تنشئة التلاميذ على مفاهيم ونصوص، وبيئة دراسية غير صحية" polarity="negative" from="161" to="215"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="38">
+                    <text ref="561"/>
+                    <aspectTerms>
+                        <aspectTerm target="لمعرض الأكبر من نوعه" polarity="positive" from="251" to="271"/> <aspectTerm target=" أكبر معرض طلابي في المغرب" polarity="positive" from="84" to="110"/> <aspectTerm target=" Collab International وبالشراكة مع ICES Morocco" polarity="positive" from="128" to="175"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="39">
+                    <text ref="562"/>
+                    <aspectTerms>
+                        <aspectTerm target="رساله الى المعلمين والمدرسين" polarity="negative" from="0" to="28"/> <aspectTerm target="إنني أحبكم جميعا وهي تستثني تلميذ يدعى تيدي" polarity="negative" from="130" to="173"/> <aspectTerm target="مستواه الدراسي متدن جدا " polarity="negative" from="209" to="233"/> <aspectTerm target="منطوي على نفسه " polarity="negative" from="234" to="249"/> <aspectTerm target=" فملابسه دائماً شديدة الاتساخ" polarity="neutral" from="178" to="207"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="41">
+                    <text ref="563"/>
+                    <aspectTerms>
+                        <aspectTerm target="المؤسف أن يعطي الطالب من وقته وجهده في طلب العلم" polarity="negative" from="3" to="51"/> <aspectTerm target="يتبوأون مواقع أكاديمية دون أن يمتلكوا رصيدًا معرفيًا حقيقيًا" polarity="negative" from="84" to="144"/> <aspectTerm target=" تمجيد النموذج الغربي" polarity="negative" from="222" to="243"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="42">
+                    <text ref="564"/>
+                    <aspectTerms>
+                        <aspectTerm target="كثافة المناهج والمهام" polarity="negative" from="90" to="111"/> <aspectTerm target=" يجب أن توضع مناهج تراعي الفروقات الفردية بين الطلبة" polarity="positive" from="121" to="173"/> <aspectTerm target="اليوم الدراسي طويل" polarity="negative" from="49" to="67"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="43">
+                    <text ref="565"/>
+                    <aspectTerms>
+                        <aspectTerm target="الصلاة في المدارس" polarity="positive" from="0" to="17"/> <aspectTerm target="توصيات مؤسسة راند" polarity="positive" from="19" to="36"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="44">
+                    <text ref="566"/>
+                    <aspectTerms>
+                        <aspectTerm target="حفظه لكتاب الله" polarity="positive" from="51" to="66"/> <aspectTerm target="طالب مغربي يذرف دموع الفرح" polarity="positive" from="0" to="26"/> <aspectTerm target=" فوزه برحلة عمرة" polarity="positive" from="30" to="46"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="45">
+                    <text ref="567"/>
+                    <aspectTerms>
+                        <aspectTerm target="الجامعة تجربة حياة" polarity="positive" from="0" to="18"/> <aspectTerm target="التعليم ليس استعدادًا للحياة، بل هو الحياة ذاتها" polarity="positive" from="48" to="96"/> <aspectTerm target="يظن البعض أن الجامعة محطة عابرة " polarity="positive" from="145" to="177"/> <aspectTerm target="إنها مختبر للحياة وصقل للشخصية" polarity="positive" from="248" to="278"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="46">
+                    <text ref="568"/>
+                    <aspectTerms>
+                        <aspectTerm target="نسبة الأمية في المغرب حوالي 24.8% في 2024" polarity="positive" from="119" to="160"/> <aspectTerm target="بعض القادة الجزائريين مثل بوتفليقة درسوا في المغرب" polarity="neutral" from="190" to="240"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="47">
+                    <text ref="569"/>
+                    <aspectTerms>
+                        <aspectTerm target="نفسية المعلمين والمعلمات" polarity="negative" from="55" to="79"/> <aspectTerm target="مهامه محصورة على تعليم الطالب وتطويره " polarity="positive" from="114" to="152"/> <aspectTerm target="يركز على الطالب" polarity="positive" from="88" to="103"/> <aspectTerm target="مايشتت المعلمين بالمتطلبات" polarity="negative" from="153" to="179"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="48">
+                    <text ref="570"/>
+                    <aspectTerms>
+                        <aspectTerm target="أول يوم في الجامعة" polarity="conflict" from="0" to="18"/> <aspectTerm target="مختلف بكل تفاصيله" polarity="negative" from="23" to="40"/> <aspectTerm target="الحماس والخوف، بين الفضول والرهبة" polarity="positive" from="70" to="103"/> <aspectTerm target="داخل عالم جديد ما يشبه أيام المدرسة" polarity="positive" from="236" to="271"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="49">
+                    <text ref="571"/>
+                    <aspectTerms>
+                        <aspectTerm target=" الأنظمة والسياسات التعليمية" polarity="positive" from="7" to="35"/> <aspectTerm target="الوصول للأهداف وتحقيق الطموحات" polarity="positive" from="64" to="94"/> <aspectTerm target="أدوات الطالب" polarity="negative" from="223" to="235"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="50">
+                    <text ref="572"/>
+                    <aspectTerms>
+                        <aspectTerm target="الحكومات لا تريد تربية جيل قادر على التفكير النقدي" polarity="negative" from="64" to="114"/> <aspectTerm target="تريد عمالاً مطيعين" polarity="negative" from="119" to="137"/> <aspectTerm target=" أذكياء بما يكفي لتشغيل الآلات" polarity="negative" from="138" to="168"/> <aspectTerm target="أغبياء بما يكفي لقبول واقعهم وعدم المطالبة بتغييره" polarity="negative" from="171" to="221"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="51">
+                    <text ref="573"/>
+                    <aspectTerms>
+                        <aspectTerm target="ؤية واضحة للتعليم" polarity="negative" from="18" to="35"/> <aspectTerm target="وواجبات" polarity="negative" from="108" to="115"/> <aspectTerm target="مشاريع" polarity="negative" from="118" to="124"/> <aspectTerm target="اختبارات أسبوعية" polarity="negative" from="127" to="143"/> <aspectTerm target="غير تهديد الغياب للطالب" polarity="negative" from="227" to="250"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="53">
+                    <text ref="574"/>
+                    <aspectTerms>
+                        <aspectTerm target="لطالب هناك من الصف الخامس يستطيع الذهاب والعودة" polarity="positive" from="42" to="89"/> <aspectTerm target="الطالب هناك يقضي وقت طويل في المدرسة" polarity="neutral" from="149" to="185"/> <aspectTerm target="مسؤولية على الأهل تجاهه كل الجهد على المدرسة" polarity="negative" from="213" to="257"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="56">
+                    <text ref="575"/>
+                    <aspectTerms>
+                        <aspectTerm target="نتائج صادمة لتقرير دولي عن التعليم بالمغرب" polarity="negative" from="0" to="42"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="57">
+                    <text ref="576"/>
+                    <aspectTerms>
+                        <aspectTerm target="راتب المعلم في اللائحة الجديدة " polarity="negative" from="78" to="109"/> <aspectTerm target="راتب المعلم الممارس مستمر" polarity="positive" from="215" to="240"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="58">
+                    <text ref="577"/>
+                    <aspectTerms>
+                        <aspectTerm target="المغرب لا تنقصه لا مؤسسات تعليمية" polarity="negative" from="10" to="43"/> <aspectTerm target=" الضمير المهني" polarity="negative" from="88" to="102"/> <aspectTerm target="النزاهة للعاملين" polarity="negative" from="104" to="120"/> <aspectTerm target=" السلوك المدني المتحضر" polarity="negative" from="144" to="166"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="59">
+                    <text ref="578"/>
+                    <aspectTerms>
+                        <aspectTerm target="العلماء هم ورثة الأنبياء" polarity="positive" from="0" to="24"/> <aspectTerm target="مهمة المعلم من أصعب المهام" polarity="positive" from="37" to="63"/> <aspectTerm target="علم نافع" polarity="positive" from="116" to="124"/> <aspectTerm target="خلق كريم" polarity="positive" from="127" to="135"/> <aspectTerm target="عمل صالح متواصل" polarity="positive" from="138" to="153"/> <aspectTerm target="صبر ومصابرة" polarity="positive" from="156" to="167"/> <aspectTerm target="تحمُّل للمشاق" polarity="positive" from="170" to="183"/> <aspectTerm target="تربيته تربيةً نقية" polarity="positive" from="207" to="225"/> <aspectTerm target=" صفات الكمال في المدرس" polarity="positive" from="241" to="263"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="60">
+                    <text ref="579"/>
+                    <aspectTerms>
+                        <aspectTerm target="وزارة التعليم(١٩٩٩٦" polarity="neutral" from="76" to="95"/> <aspectTerm target="وزارة الموارد البشريه" polarity="neutral" from="99" to="120"/> <aspectTerm target="هيئة تقويم التعليم" polarity="neutral" from="131" to="149"/> <aspectTerm target="مؤسسة التقاعد" polarity="neutral" from="168" to="181"/> <aspectTerm target="التأمينات الاجتماعية" polarity="neutral" from="198" to="218"/> <aspectTerm target="جدارات وطاقات" polarity="neutral" from="237" to="250"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="61">
+                    <text ref="580"/>
+                    <aspectTerms>
+                        <aspectTerm target=" المغرب سيشرع في منح 5000 درهم سنويا" polarity="positive" from="6" to="42"/> <aspectTerm target=" أستاذ يشتغل في مناطق قروية لا تصلها الطرق المعبدة" polarity="positive" from="46" to="96"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="62">
+                    <text ref="581"/>
+                    <aspectTerms>
+                        <aspectTerm target="الأداء_الوظيفي_الجديد_للمعلمين" polarity="neutral" from="31" to="61"/> <aspectTerm target=" ييسر على المعلمين" polarity="positive" from="81" to="99"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="63">
+                    <text ref="582"/>
+                    <aspectTerms>
+                        <aspectTerm target="ملف الإنجاز" polarity="neutral" from="8" to="19"/> <aspectTerm target="الأداء الوظيفي" polarity="neutral" from="29" to="43"/> <aspectTerm target="مدير المدرسة" polarity="neutral" from="118" to="130"/> <aspectTerm target="وكيل المدرسة" polarity="neutral" from="141" to="153"/> <aspectTerm target="الموجه الطلابي" polarity="neutral" from="164" to="178"/> <aspectTerm target="رائد النشاط" polarity="neutral" from="189" to="200"/> <aspectTerm target="محضر المختبر" polarity="neutral" from="211" to="223"/> <aspectTerm target="المعلم" polarity="neutral" from="234" to="240"/> <aspectTerm target="معلمة رياض" polarity="neutral" from="251" to="261"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="64">
+                    <text ref="583"/>
+                    <aspectTerms>
+                        <aspectTerm target="الرخصة_المهنية لم تعد شرطاً لاستمرار صرف العلاوة" polarity="positive" from="48" to="96"/> <aspectTerm target=" الرخصة المهنية شرط للممارسة المهنية" polarity="neutral" from="130" to="166"/> <aspectTerm target="اعفاء من بلغ سن الخمسين قبل تاريخ 1-2-2026" polarity="positive" from="169" to="211"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="65">
+                    <text ref="584"/>
+                    <aspectTerms>
+                        <aspectTerm target="الاستقرار الوظيفي" polarity="positive" from="102" to="119"/> <aspectTerm target="راتب ممتاز مقارنة بالقطاعات الحكومية الأخرى" polarity="positive" from="122" to="165"/> <aspectTerm target=" تنمية المهارة البحثية " polarity="positive" from="167" to="190"/> <aspectTerm target="حرية في الحضور والانصراف" polarity="positive" from="192" to="216"/> <aspectTerm target="أيام دوام أقل من 5 أسبوعياً " polarity="positive" from="226" to="254"/> <aspectTerm target=" التأثير الإيجابي والنفع" polarity="positive" from="255" to="279"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="66">
+                    <text ref="585"/>
+                    <aspectTerms>
+                        <aspectTerm target="المعلم يحتاج الى بيئة عمل تعينه على الانتاج بجودة عالية" polarity="positive" from="0" to="55"/> <aspectTerm target=" يجب إلا يزيد عدد الطلبة في الفصل عن 25 تلميذا" polarity="positive" from="91" to="137"/> <aspectTerm target="مكاتب وغرف ملائمه تعينه على البقاء" polarity="positive" from="239" to="273"/> <aspectTerm target="الساعات للتحضير وتقييم اداء الطلبة 'تصحيح الاختبارات '" polarity="positive" from="182" to="236"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="68">
+                    <text ref="586"/>
+                    <aspectTerms>
+                        <aspectTerm target=" رصد ساعات أنشطة التطوير المهني" polarity="neutral" from="35" to="66"/> <aspectTerm target="جميع شاغلي الوظائف التعليمية" polarity="neutral" from="0" to="28"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="71">
+                    <text ref="587"/>
+                    <aspectTerms>
+                        <aspectTerm target="تخفيض يتراوح بين 3 إلى 5 سنوات في السن للإحالة على التقاعد" polarity="positive" from="29" to="87"/> <aspectTerm target="عطلة التحرك المهني مدفوعة الراتب" polarity="positive" from="111" to="143"/> <aspectTerm target="تخفيض الحجم الساعي الأسبوعي لأساتذة " polarity="positive" from="176" to="212"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="72">
+                    <text ref="588"/>
+                    <aspectTerms>
+                        <aspectTerm target="نماذج احترافية ومتنوعة" polarity="positive" from="18" to="40"/> <aspectTerm target="تدعم ممارساتك المهنية" polarity="positive" from="41" to="62"/> <aspectTerm target=" نظام الأداء الوظيفي الجديد" polarity="neutral" from="114" to="141"/> <aspectTerm target="استمارات الزيارات المتبادلة بين المعلمين" polarity="positive" from="144" to="184"/> <aspectTerm target="نموذج درس تطبيقي" polarity="positive" from="186" to="202"/> <aspectTerm target="قالب ورشة تعليمية" polarity="positive" from="204" to="221"/> <aspectTerm target="خطة تطوير مهني" polarity="positive" from="223" to="237"/> <aspectTerm target="محاضر اجتماعات مجتمعات التعلم المهني" polarity="positive" from="239" to="275"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="73">
+                    <text ref="589"/>
+                    <aspectTerms>
+                        <aspectTerm target=" المعلم ملزم بالإنفاق على التعليم" polarity="negative" from="34" to="67"/> <aspectTerm target="يشتري جهاز لابتوب وأن يشترك في باقة انترنت" polarity="negative" from="153" to="195"/> <aspectTerm target=" التعلم التقني من جيبه" polarity="negative" from="201" to="223"/> <aspectTerm target="يطالب بتعزيز طلبته " polarity="negative" from="247" to="266"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="74">
+                    <text ref="590"/>
+                    <aspectTerms>
+                        <aspectTerm target="المغرب منبع العلم والعلماء" polarity="positive" from="24" to="50"/> <aspectTerm target="أنجب عبر العصور علماء ذاع صيتهم عبر الآفاق" polarity="positive" from="56" to="98"/> <aspectTerm target=" الفقه والسنن والشريعه" polarity="positive" from="194" to="216"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="75">
+                    <text ref="591"/>
+                    <aspectTerms>
+                        <aspectTerm target="بيان رابطة علماء المغرب العربي" polarity="neutral" from="19" to="49"/> <aspectTerm target=" لعلماء خارج المغرب" polarity="neutral" from="52" to="71"/> <aspectTerm target="المسالة شرعية" polarity="neutral" from="188" to="201"/> <aspectTerm target="فأئمة المغرب الرسميون" polarity="neutral" from="245" to="266"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="77">
+                    <text ref="592"/>
+                    <aspectTerms>
+                        <aspectTerm target="وزارة االتعليم" polarity="neutral" from="10" to="24"/> <aspectTerm target=" 20 ألف من الأساتذة المتعاقدين" polarity="positive" from="36" to="66"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="78">
+                    <text ref="593"/>
+                    <aspectTerms>
+                        <aspectTerm target="العقد دائم و ليس له مدة محددة" polarity="positive" from="56" to="85"/> <aspectTerm target="العقد لا يتطلب التجديد سنويا" polarity="positive" from="88" to="116"/> <aspectTerm target="حسب إدارة التعليم التي يرشح فيها المعلم" polarity="neutral" from="136" to="175"/> <aspectTerm target="العقد لائحي حسب لوائح وزارة الموارد البشرية" polarity="neutral" from="178" to="221"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="82">
+                    <text ref="594"/>
+                    <aspectTerms>
+                        <aspectTerm target="رتبة معلم ممارس" polarity="neutral" from="24" to="39"/> <aspectTerm target="للترقية لرتبة معلم متقدم" polarity="positive" from="47" to="71"/> <aspectTerm target=" أداء وظيفي لا يقل عن جيد آخر 3 سنوات" polarity="positive" from="164" to="201"/> <aspectTerm target="رخصة معلم متقدم" polarity="positive" from="214" to="229"/> <aspectTerm target="الحد الأدنى من النمو المهني" polarity="positive" from="238" to="265"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="83">
+                    <text ref="595"/>
+                    <aspectTerms>
+                        <aspectTerm target=" النصاب التعليمي" polarity="neutral" from="59" to="75"/> <aspectTerm target="ساعات العمل الأسبوعية" polarity="neutral" from="122" to="143"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="85">
+                    <text ref="596"/>
+                    <aspectTerms>
+                        <aspectTerm target=" العلاقة بين العلماء والدولة في المغرب" polarity="neutral" from="11" to="49"/> <aspectTerm target="بالمشورة أو بتولي مناصب القضاء والإفتاء" polarity="positive" from="210" to="249"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="86">
+                    <text ref="597"/>
+                    <aspectTerms>
+                        <aspectTerm target="الهوية الوطنية" polarity="neutral" from="51" to="65"/> <aspectTerm target=" للمؤهل الدراسي" polarity="neutral" from="91" to="106"/> <aspectTerm target="السجل الاكاديمي" polarity="neutral" from="136" to="151"/> <aspectTerm target=" الرخصة المهنية" polarity="neutral" from="172" to="187"/> <aspectTerm target="مؤهل إضافي " polarity="neutral" from="195" to="206"/> <aspectTerm target=" شهادة الدبلوم التربوي" polarity="neutral" from="239" to="261"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="87">
+                    <text ref="598"/>
+                    <aspectTerms>
+                        <aspectTerm target=" مرونة الدوام" polarity="positive" from="52" to="65"/> <aspectTerm target="البيئة الصحية الداعمة" polarity="positive" from="67" to="88"/> <aspectTerm target=" مكان العمل اللائق" polarity="positive" from="89" to="107"/> <aspectTerm target="التبريد والتدفئة" polarity="positive" from="133" to="149"/> <aspectTerm target="توفر الأدوات التعليمية الأساسية" polarity="positive" from="180" to="211"/> <aspectTerm target="أجهزة الكمبيوتر الحديثة " polarity="positive" from="213" to="237"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="88">
+                    <text ref="599"/>
+                    <aspectTerms>
+                        <aspectTerm target="صورة من الهوية الوطنية مع الأصل" polarity="neutral" from="46" to="77"/> <aspectTerm target="صورة للمؤهل الدراسي" polarity="neutral" from="81" to="100"/> <aspectTerm target="المعادلة للمؤهل لمن حصل عليه من خارج المملكة" polarity="neutral" from="135" to="179"/> <aspectTerm target=" السجل الأكاديمي" polarity="neutral" from="183" to="199"/> <aspectTerm target=" الرخصة المهنية" polarity="neutral" from="215" to="230"/> <aspectTerm target="مؤهل إضافي موثق في منصة جدارات" polarity="neutral" from="238" to="268"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="89">
+                    <text ref="600"/>
+                    <aspectTerms>
+                        <aspectTerm target="بدأت الجامعات بتغيير المسمى الوظيفي" polarity="neutral" from="0" to="35"/> <aspectTerm target="الكادر التعليمي في المدارس" polarity="neutral" from="61" to="87"/> <aspectTerm target="سلم المعلمين في الرواتب" polarity="neutral" from="126" to="149"/> <aspectTerm target=" بدلات الأكاديميين وحقوقهم" polarity="negative" from="154" to="180"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="90">
+                    <text ref="601"/>
+                    <aspectTerms>
+                        <aspectTerm target="نظام التعاقد المكاني" polarity="neutral" from="36" to="56"/> <aspectTerm target=" تشملهم جميع أنواع الإجازات" polarity="positive" from="119" to="146"/> <aspectTerm target="إجازة اضطرارية لمدة خمسة أيام" polarity="positive" from="199" to="228"/> <aspectTerm target="إجازة أبوة ثلاثة أيام" polarity="positive" from="245" to="266"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="91">
+                    <text ref="602"/>
+                    <aspectTerms>
+                        <aspectTerm target="شاغلي #الوظائف_التعليمية" polarity="neutral" from="12" to="36"/> <aspectTerm target=" الأداء الوظيفي الجديد" polarity="positive" from="109" to="131"/> <aspectTerm target=" لن تحتاج إلى دورات تدريبية أو شروحات إضافية" polarity="positive" from="168" to="212"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="92">
+                    <text ref="603"/>
+                    <aspectTerms>
+                        <aspectTerm target="لقاءات متفرقة" polarity="negative" from="0" to="13"/> <aspectTerm target=" الوزير والنقابات" polarity="negative" from="17" to="34"/> <aspectTerm target="أزمة الحوار" polarity="negative" from="44" to="55"/> <aspectTerm target="التعليم العالي" polarity="negative" from="59" to="73"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="93">
+                    <text ref="604"/>
+                    <aspectTerms>
+                        <aspectTerm target="والمعلم والمعلمة ملزمان بالدوام " polarity="positive" from="42" to="74"/> <aspectTerm target="أداء مهامهم بالكامل داخل المدرسة" polarity="positive" from="75" to="107"/> <aspectTerm target="فحصة واحدة منهم تحمل جهدًا بدنيًا وذهنيًا يعادل يوم عمل" polarity="positive" from="137" to="192"/> <aspectTerm target="يقفون على أقدامهم يتنقلون بين الفصول" polarity="negative" from="242" to="278"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="94">
+                    <text ref="605"/>
+                    <aspectTerms>
+                        <aspectTerm target="جامعة محمد السادس متعددة التخصصات التقنية" polarity="positive" from="27" to="68"/> <aspectTerm target="فرعاً أمريكياً جديداً" polarity="positive" from="74" to="95"/> <aspectTerm target=" مشروع سيادة تكنولوجية بأفق عالمي" polarity="positive" from="208" to="241"/> <aspectTerm target="ربط إفريقيا برأس المال المعرفي" polarity="positive" from="243" to="273"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="95">
+                    <text ref="606"/>
+                    <aspectTerms>
+                        <aspectTerm target="المعلمين والمعلمات خريجين وخربجات الجامعات الحكوميه" polarity="positive" from="3" to="54"/> <aspectTerm target="يصدر انظمه جديده" polarity="negative" from="119" to="135"/> <aspectTerm target=" لتأخير توظيف المعلمين والمعلمات" polarity="negative" from="141" to="173"/> <aspectTerm target="وظفوهم ولو بنص الراتب" polarity="positive" from="182" to="203"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="96">
+                    <text ref="607"/>
+                    <aspectTerms>
+                        <aspectTerm target="التعلّم والتعليم" polarity="neutral" from="1" to="17"/> <aspectTerm target=" بالمتعلم والمعلم" polarity="neutral" from="35" to="52"/> <aspectTerm target="للعوامل المؤثرة" polarity="neutral" from="189" to="204"/> <aspectTerm target="الرخصة_المهنية" polarity="positive" from="137" to="151"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="97">
+                    <text ref="608"/>
+                    <aspectTerms>
+                        <aspectTerm target="الوظائف التعليمية" polarity="neutral" from="0" to="17"/> <aspectTerm target="اختبار الرخصة المهنية" polarity="neutral" from="26" to="47"/> <aspectTerm target="اختبار الرخصة المهنية ( عام - تربوي )" polarity="neutral" from="59" to="96"/> <aspectTerm target="الوظائف الإدارية" polarity="neutral" from="100" to="116"/> <aspectTerm target="اختبار القدرة المعرفية" polarity="neutral" from="125" to="147"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="98">
+                    <text ref="609"/>
+                    <aspectTerms>
+                        <aspectTerm target="تدريب اثناء العمل" polarity="positive" from="6" to="23"/> <aspectTerm target="بالنسبة للمعلمين الجدد" polarity="neutral" from="62" to="84"/> <aspectTerm target="برنامج التاهيل التربوي" polarity="positive" from="105" to="127"/> <aspectTerm target=" وصل التعليم اليه في بلادنا" polarity="positive" from="158" to="185"/> <aspectTerm target="باعتبارهم متعاقدين" polarity="neutral" from="231" to="249"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="99">
+                    <text ref="610"/>
+                    <aspectTerms>
+                        <aspectTerm target="إعادة نحو 17 ألف معلم ومعلمة" polarity="positive" from="17" to="45"/> <aspectTerm target="مراجعة المديريات المعنية" polarity="neutral" from="128" to="152"/> <aspectTerm target="لاستكمال إجراءات العودة إلى العمل" polarity="positive" from="191" to="224"/> <aspectTerm target="دعم المعلمين، وتعزيز" polarity="positive" from="251" to="271"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="101">
+                    <text ref="611"/>
+                    <aspectTerms>
+                        <aspectTerm target="وحدة اللغة العربية إجبارية" polarity="positive" from="16" to="42"/> <aspectTerm target="جميع مسالك الإجازة والماستر بالمغرب" polarity="neutral" from="46" to="81"/> <aspectTerm target="العلمية والطبية والهندسية" polarity="neutral" from="92" to="117"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="102">
+                    <text ref="612"/>
+                    <aspectTerms>
+                        <aspectTerm target="الواقع التعليمي بالمغرب" polarity="negative" from="52" to="75"/> <aspectTerm target="مناهج مفككة" polarity="negative" from="121" to="132"/> <aspectTerm target="خصاص في الأطر" polarity="negative" from="135" to="148"/> <aspectTerm target="اهتراء في البنية التحتية" polarity="negative" from="151" to="175"/> <aspectTerm target="فساد مالي" polarity="negative" from="178" to="187"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="103">
+                    <text ref="613"/>
+                    <aspectTerms>
+                        <aspectTerm target="أفضل الطلبة تميزا وكفاءة" polarity="positive" from="47" to="71"/> <aspectTerm target="نخبة طلاب مدارس المملكة" polarity="positive" from="190" to="213"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="104">
+                    <text ref="614"/>
+                    <aspectTerms>
+                        <aspectTerm target=" حياة المعلم" polarity="positive" from="13" to="25"/> <aspectTerm target="رسالة التعليم" polarity="positive" from="132" to="145"/> <aspectTerm target="بناء للإنسان وصناعة للحلم" polarity="positive" from="198" to="223"/> <aspectTerm target="واجبات أو درجات" polarity="neutral" from="176" to="191"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="105">
+                    <text ref="615"/>
+                    <aspectTerms>
+                        <aspectTerm target="تجربة قيادة #طائرة " polarity="positive" from="16" to="35"/> <aspectTerm target="جهاز محاكاة #الطيران" polarity="positive" from="43" to="63"/> <aspectTerm target="جيتكس_إفريقيا_المغرب2025" polarity="positive" from="117" to="141"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="106">
+                    <text ref="616"/>
+                    <aspectTerms>
+                        <aspectTerm target=" أساتذة الجامعات" polarity="negative" from="21" to="37"/> <aspectTerm target="الطلبة بالمغرب" polarity="negative" from="39" to="53"/> <aspectTerm target=" السياسة التي ينهجها وزير التعليم العالي" polarity="negative" from="58" to="98"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="108">
+                    <text ref="617"/>
+                    <aspectTerms>
+                        <aspectTerm target=" الدوام المدرسي طويل وطويل جداً" polarity="negative" from="58" to="89"/> <aspectTerm target="لين يرتاح ويبدل " polarity="negative" from="144" to="160"/> <aspectTerm target=" يبتدي بالدراسة وحل الواجبات" polarity="negative" from="170" to="198"/> <aspectTerm target="ينتهي الا جات الساعة 7 المساء ويتعشى وينام " polarity="negative" from="207" to="250"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="109">
+                    <text ref="618"/>
+                    <aspectTerms>
+                        <aspectTerm target="مدة الدراسة 8 أشهر" polarity="positive" from="10" to="28"/> <aspectTerm target="تعدد مصادر المعرفة" polarity="positive" from="149" to="167"/> <aspectTerm target="لم تعد المدرسة وحدها مصدر للتعلّم" polarity="positive" from="186" to="219"/> <aspectTerm target=" تسرّب الملل في نفس الطالب من طول العام الدراسي" polarity="negative" from="230" to="277"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="110">
+                    <text ref="619"/>
+                    <aspectTerms>
+                        <aspectTerm target="المعلم مثاب مأجور على نفس تعليمه" polarity="positive" from="0" to="32"/> <aspectTerm target="كان أجره جاريًا للمعلم" polarity="positive" from="96" to="118"/> <aspectTerm target="على المعلم أن يقصد بتعليم طلابه وتهذيبهم وجه الله تعالى" polarity="positive" from="188" to="243"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="111">
+                    <text ref="620"/>
+                    <aspectTerms>
+                        <aspectTerm target=" ﺃثنت ﻋﻠﻴﻪ ﺍلمعلمة ﺛﻨﺎﺀً ﻋﻄﺮﺍً" polarity="positive" from="32" to="62"/> <aspectTerm target=" ﺃﻣﺮت ﺍلتلاميذ ﺑﺎﻟﺘﺼﻔﻴﻖ ﻟﻪ" polarity="positive" from="64" to="90"/> <aspectTerm target=" ﺍلتلاميذ ﺑﻴﻦ ﻣﺬﻫﻮﻝ ﻭ ﻣﺸﺪﻭﻩ و ﻣﺘﻌﺠﺐ ﻭ ﻣﺴﺘﻐﺮﺏ" polarity="positive" from="92" to="136"/> <aspectTerm target="ﺃﺟﺎﺏ ﺍلتلميذ" polarity="neutral" from="0" to="12"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="112">
+                    <text ref="621"/>
+                    <aspectTerms>
+                        <aspectTerm target="إعداد قراءة موجهة " polarity="positive" from="6" to="24"/> <aspectTerm target=" استبانة تقييم القراءة الموجهة" polarity="positive" from="34" to="64"/> <aspectTerm target="التفاعل مع المجتمع المهني" polarity="positive" from="91" to="116"/> <aspectTerm target="عنصر التقييم المستهدف" polarity="positive" from="67" to="88"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="113">
+                    <text ref="622"/>
+                    <aspectTerms>
+                        <aspectTerm target="القراءة الموجهة" polarity="positive" from="6" to="21"/> <aspectTerm target=" لتطوير قدرات المعلمين مهنياً،" polarity="positive" from="61" to="91"/> <aspectTerm target="توجيههم نحو قراءة مواد علمية وتربوية متخصصة" polarity="positive" from="100" to="143"/> <aspectTerm target="تطوير أدائهم وتحسين الممارسات التعليمية" polarity="positive" from="174" to="213"/> <aspectTerm target="خطوات تنفيذ القراءة الموجهة" polarity="positive" from="222" to="249"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="114">
+                    <text ref="623"/>
+                    <aspectTerms>
+                        <aspectTerm target="المعلمون والمعلمات هم منارات المجتمعات" polarity="positive" from="0" to="38"/> <aspectTerm target="أصحاب الرسالة الأسمى، والوظيفة الأعلى" polarity="positive" from="44" to="81"/> <aspectTerm target="ما يقومون به من جهد وبذل وعطاء وصبر" polarity="positive" from="85" to="120"/> <aspectTerm target="ما يقومون به من جهد وبذل وعطاء وصبر" polarity="positive" from="85" to="120"/> <aspectTerm target=" يُعلّمونهم ويربّونهم ويُوجّهونهم، ويصبرون عليهم" polarity="positive" from="228" to="276"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="115">
+                    <text ref="624"/>
+                    <aspectTerms>
+                        <aspectTerm target="الأداء_الوظيفي_الجديد_للمعلمين_والمعلمات" polarity="positive" from="15" to="55"/> <aspectTerm target=" نذروا أعمارهم للعلم والتربية" polarity="positive" from="145" to="174"/> <aspectTerm target="سقوا الميدان بعرقهم، وصبرهم،" polarity="positive" from="177" to="205"/> <aspectTerm target="صمت عطائهم" polarity="positive" from="207" to="217"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="116">
+                    <text ref="625"/>
+                    <aspectTerms>
+                        <aspectTerm target="التفاعل مع المجتمع المهني" polarity="positive" from="0" to="25"/> <aspectTerm target="المشاركة الفاعلة في مجتمعات التعلم المهنية" polarity="positive" from="72" to="114"/> <aspectTerm target="تبادل الزيارات" polarity="positive" from="117" to="131"/> <aspectTerm target="حضور الدورات و الورش التدريبية" polarity="positive" from="166" to="196"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="117">
+                    <text ref="626"/>
+                    <aspectTerms>
+                        <aspectTerm target="ألف معلم وإداري يتوجهون غدًا إلى مدارسهم" polarity="positive" from="36" to="76"/> <aspectTerm target=" انطلاق العام الدراسي الجدي" polarity="neutral" from="89" to="116"/> <aspectTerm target="التواجيه الفنية للمواد الدراسية" polarity="positive" from="217" to="248"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="119">
+                    <text ref="627"/>
+                    <aspectTerms>
+                        <aspectTerm target="معلم/ مساعد معلم " polarity="neutral" from="16" to="33"/> <aspectTerm target=" يمارس التدريس" polarity="neutral" from="90" to="104"/> <aspectTerm target="محضر مختبر محضر معمل حاسب" polarity="neutral" from="147" to="172"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="120">
+                    <text ref="628"/>
+                    <aspectTerms>
+                        <aspectTerm target="إلغاء ربط العلاوة بالرخصة المهنية" polarity="positive" from="17" to="50"/> <aspectTerm target="آلية النقل الخارجي عبر برنامج فرص" polarity="positive" from="55" to="88"/> <aspectTerm target=" دليل ساعات التطوير المهني" polarity="positive" from="92" to="118"/> <aspectTerm target="إدارة الأداء الوظيفي " polarity="positive" from="122" to="143"/> <aspectTerm target="ترقية_المعلم_والمعلمة " polarity="positive" from="182" to="204"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="121">
+                    <text ref="629"/>
+                    <aspectTerms>
+                        <aspectTerm target="تقييم الأداء للوظائف التعليمية" polarity="positive" from="53" to="83"/> <aspectTerm target="شرح تفصيلي لعناصر التقييم مع شواهدها" polarity="positive" from="124" to="160"/> <aspectTerm target="اجتماع المدير مع المعلمين والموظفين" polarity="positive" from="172" to="207"/> <aspectTerm target="ورشة عمل مجانية " polarity="positive" from="0" to="16"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="122">
+                    <text ref="630"/>
+                    <aspectTerms>
+                        <aspectTerm target=" مصدر نقابي عن الجامعة الوطنية لموظفي التعليم العالي" polarity="neutral" from="3" to="55"/> <aspectTerm target="الاتحاد العام للشغالين بالمغرب" polarity="neutral" from="92" to="122"/> <aspectTerm target="جانب النقابة الوطنية للتعليم" polarity="neutral" from="164" to="192"/> <aspectTerm target=" فرع التعليم العالي" polarity="neutral" from="194" to="213"/> <aspectTerm target="مع وزارة التعليم العالي" polarity="neutral" from="254" to="277"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="123">
+                    <text ref="631"/>
+                    <aspectTerms>
+                        <aspectTerm target="تواصل وزارة التعليم" polarity="neutral" from="70" to="89"/> <aspectTerm target="وزارة الموارد البشريه" polarity="neutral" from="99" to="120"/> <aspectTerm target="مؤسسة التقاعد" polarity="neutral" from="168" to="181"/> <aspectTerm target="هيئة تقويم التعليم" polarity="neutral" from="131" to="149"/> <aspectTerm target="-التأمينات الاجتماعية:" polarity="neutral" from="197" to="219"/> <aspectTerm target="جدارات وطاقات" polarity="neutral" from="237" to="250"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="125">
+                    <text ref="632"/>
+                    <aspectTerms>
+                        <aspectTerm target="المعلم والمعلمة" polarity="positive" from="0" to="15"/> <aspectTerm target="المهام الإدارية والتربوية داخل المدرسة" polarity="neutral" from="84" to="122"/> <aspectTerm target="رؤية المملكة 2030" polarity="positive" from="160" to="177"/> <aspectTerm target="التشكيك فيهم أو التقليل من شأنهم" polarity="negative" from="217" to="249"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="124">
+                    <text ref="633"/>
+                    <aspectTerms>
+                        <aspectTerm target="المعلمين والمعلمات" polarity="negative" from="17" to="35"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="126">
+                    <text ref="634"/>
+                    <aspectTerms>
+                        <aspectTerm target="البند ١٠٥" polarity="negative" from="151" to="160"/> <aspectTerm target="تغيير السلم الوظيفي" polarity="negative" from="182" to="201"/> <aspectTerm target="اختبارات الرخصة المهنية" polarity="negative" from="203" to="226"/> <aspectTerm target="الأظمة والقرارات التي سنّت تعطيهم حقوقهم" polarity="negative" from="93" to="133"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="127">
+                    <text ref="635"/>
+                    <aspectTerms>
+                        <aspectTerm target="لقاءات متفرقة" polarity="negative" from="0" to="13"/> <aspectTerm target=" الوزير والنقابات" polarity="neutral" from="17" to="34"/> <aspectTerm target="عمق أزمة الحوار" polarity="negative" from="40" to="55"/> <aspectTerm target="التعليم العالي" polarity="neutral" from="59" to="73"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="128">
+                    <text ref="636"/>
+                    <aspectTerms>
+                        <aspectTerm target="كرة القدم:12 عالميا" polarity="positive" from="22" to="41"/> <aspectTerm target="التعليم:110عالميا" polarity="negative" from="42" to="59"/> <aspectTerm target="الصحة العامة:120 عالميا" polarity="negative" from="61" to="84"/> <aspectTerm target="المندوبية السامية:82%من المغاربة على عتبة الفقر" polarity="negative" from="86" to="133"/> <aspectTerm target="نسبة البطالة:48%" polarity="negative" from="135" to="151"/> <aspectTerm target="البنك الدولي:ألاف المؤسسات تحت رحمة الديون والافلاس" polarity="negative" from="153" to="204"/> <aspectTerm target="0 مليار دولار حجم ديون المغرب" polarity="negative" from="234" to="263"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="129">
+                    <text ref="637"/>
+                    <aspectTerms>
+                        <aspectTerm target="قطاع التعليم" polarity="negative" from="105" to="117"/> <aspectTerm target="الحكومة" polarity="negative" from="81" to="88"/> <aspectTerm target="علامات العبث والتخبط واللامسؤولية" polarity="negative" from="152" to="185"/> <aspectTerm target=" لخوض إضراب وطني" polarity="negative" from="196" to="212"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="130">
+                    <text ref="638"/>
+                    <aspectTerms>
+                        <aspectTerm target="تراجع التعليم بالمغرب" polarity="negative" from="75" to="96"/> <aspectTerm target="الناحية الكمية والكيفية" polarity="negative" from="101" to="124"/> <aspectTerm target="أزمة تعليمية" polarity="negative" from="170" to="182"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="131">
+                    <text ref="639"/>
+                    <aspectTerms>
+                        <aspectTerm target="وزارة التّعليم مُطَالَبة بإصلاح الخَلَل في التّعليم العام" polarity="negative" from="0" to="57"/> <aspectTerm target=" تغيّب معظم الطلاب" polarity="negative" from="75" to="93"/> <aspectTerm target=" تَراخي نسبة من المُعلّمين والمُعلّمات عن أداء أدوارهم" polarity="negative" from="174" to="228"/> <aspectTerm target="قاعُسِهم عن القيام بِمَهامهم. _  الدمج" polarity="negative" from="233" to="271"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="132">
+                    <text ref="640"/>
+                    <aspectTerms>
+                        <aspectTerm target="ظروف التشييد الكثيفة" polarity="negative" from="7" to="27"/> <aspectTerm target="ازمة تعليمية في المغرب" polarity="negative" from="112" to="134"/> <aspectTerm target=" الناس لا يرغبون بالتعلم" polarity="negative" from="244" to="268"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="133">
+                    <text ref="641"/>
+                    <aspectTerms>
+                        <aspectTerm target="حال التعليم العام" polarity="negative" from="188" to="205"/> <aspectTerm target="أشبّهه ببيتٍ من طين، جُهِّز بورق جدران فاخر" polarity="negative" from="206" to="249"/> <aspectTerm target="المعلّم بريء من اتّهامكم" polarity="negative" from="0" to="24"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="134">
+                    <text ref="642"/>
+                    <aspectTerms>
+                        <aspectTerm target=" المشكل فالتعليم والصحة يكمن فالعنصر البشري" polarity="negative" from="12" to="55"/> <aspectTerm target="العنصر البشري لايقوم بواجبه فالمستشفى أو المدرسة أو الجامعة" polarity="negative" from="150" to="209"/> <aspectTerm target="اللامبالاة والوصولية والرشوة والسرقة" polarity="negative" from="244" to="280"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="136">
+                    <text ref="643"/>
+                    <aspectTerms>
+                        <aspectTerm target="المغرب عنده خصاص في الكوادر الطبية والتمريضية والتعليمية" polarity="negative" from="79" to="135"/> <aspectTerm target="وزارة التعليم هي المسؤولة" polarity="negative" from="139" to="164"/> <aspectTerm target="كان عليها منذ زمان، أن تشرف على توجيه الطلبة إلى القطاع" polarity="negative" from="168" to="223"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="137">
+                    <text ref="644"/>
+                    <aspectTerms>
+                        <aspectTerm target="التعليم رسالة تقوم على الشغف والكفاءة" polarity="neutral" from="16" to="53"/> <aspectTerm target="وزارة التعليم أجرت اختبارات" polarity="negative" from="88" to="115"/> <aspectTerm target="شترطت على المتقدمين الاستقالة من أعمالهم السابقة " polarity="negative" from="119" to="168"/> <aspectTerm target="غيرت رأيها فجأة وحذفت أسماء" polarity="negative" from="194" to="221"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="138">
+                    <text ref="645"/>
+                    <aspectTerms>
+                        <aspectTerm target=" زيادة كبيرة في أعداد المنقطعين عن الدراسة" polarity="negative" from="56" to="98"/> <aspectTerm target=" بمنحهم ملابس ودفع مصاريف الدراسة " polarity="positive" from="195" to="229"/> <aspectTerm target=" خبيرين رأيا ذلك غير كافٍ" polarity="negative" from="237" to="262"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="139">
+                    <text ref="646"/>
+                    <aspectTerms>
+                        <aspectTerm target="مناهج جديدة لم يطلع عليها المعلمون" polarity="negative" from="27" to="61"/> <aspectTerm target=" تقويم دراسي لمدة خمس سنوات" polarity="negative" from="99" to="126"/> <aspectTerm target="ولم يؤخذ رأي المعلم في هذا التقويم" polarity="negative" from="160" to="194"/> <aspectTerm target="مطبخ القرار في التربية بوادٍ والواقع بوادٍ" polarity="negative" from="236" to="278"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="141">
+                    <text ref="647"/>
+                    <aspectTerms>
+                        <aspectTerm target="تصنيف_المدارس_الأهلية" polarity="positive" from="40" to="61"/> <aspectTerm target="المعلمون" polarity="positive" from="82" to="90"/> <aspectTerm target="المبنى" polarity="positive" from="91" to="97"/> <aspectTerm target="المناشط" polarity="positive" from="98" to="105"/> <aspectTerm target="ليعرف ولي الأمر مستواه" polarity="positive" from="109" to="131"/> <aspectTerm target=" الوزارة تستطيع تقييمها من خلال المعايي" polarity="positive" from="178" to="217"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="142">
+                    <text ref="648"/>
+                    <aspectTerms>
+                        <aspectTerm target="نقص الكوادر التعليمية" polarity="negative" from="102" to="123"/> <aspectTerm target="سوء توزيعها" polarity="negative" from="125" to="136"/> <aspectTerm target=" أجبر بعض المعلمين على تدريس عدة مناهج" polarity="negative" from="140" to="178"/> <aspectTerm target="تجاوز النصاب المحدد" polarity="negative" from="180" to="199"/> <aspectTerm target="غياب الجاهزية المدرسية" polarity="negative" from="202" to="224"/> <aspectTerm target="ضعف المرافق" polarity="negative" from="226" to="237"/> <aspectTerm target="ضعف المرافق" polarity="negative" from="226" to="237"/> <aspectTerm target="التجهيزات الأساسية" polarity="negative" from="239" to="257"/> <aspectTerm target="شواغر إدارية" polarity="negative" from="261" to="273"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="144">
+                    <text ref="649"/>
+                    <aspectTerms>
+                        <aspectTerm target="ارتفاع عدد الطلبة في الصفوف الدراسية فوق الطاقة الاستيعابية" polarity="negative" from="53" to="112"/> <aspectTerm target="استغلال 123 مرفق تربوي كفصول دراسية" polarity="negative" from="130" to="165"/> <aspectTerm target="عدم وجود فصول دراسية كافية" polarity="negative" from="171" to="197"/> <aspectTerm target=" تقادم بعض المباني المدرسية" polarity="negative" from="201" to="228"/> <aspectTerm target="الحالة الإنشائية لـ54 مدرسة سيئة" polarity="negative" from="231" to="263"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="145">
+                    <text ref="650"/>
+                    <aspectTerms>
+                        <aspectTerm target="جودة التعليم" polarity="positive" from="190" to="202"/> <aspectTerm target="قوة الاقتصاد" polarity="positive" from="204" to="216"/> <aspectTerm target="دخل الفرد" polarity="positive" from="218" to="227"/> <aspectTerm target=" مستوى الخدمات الصحية،" polarity="positive" from="228" to="250"/> <aspectTerm target="متانة البنية التحتية والطرق" polarity="positive" from="251" to="278"/> <aspectTerm target="بالحفلات الصاخبة ولا بالمهرجانات التي تُقام لتغطية العجز والفساد" polarity="negative" from="39" to="103"/> <aspectTerm target=" بالشعارات والخطب الفارغة" polarity="negative" from="108" to="133"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="146">
+                    <text ref="651"/>
+                    <aspectTerms>
+                        <aspectTerm target="بلغ صبر المعلمين الزُّبى" polarity="negative" from="16" to="40"/> <aspectTerm target="الظروف الصعبة" polarity="negative" from="51" to="64"/> <aspectTerm target="الوعود الكاذبة" polarity="negative" from="66" to="80"/> <aspectTerm target=" يُفترض أن يكون هؤلاء المعلمون متواجدين في مدارسهم يؤدون مهمتهم" polarity="negative" from="114" to="177"/> <aspectTerm target="ترك الكتب وحمل شعارات الحقوق" polarity="negative" from="204" to="232"/> <aspectTerm target=" تهميش المعلمين وهضم حقوقهم" polarity="negative" from="253" to="280"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="148">
+                    <text ref="652"/>
+                    <aspectTerms>
+                        <aspectTerm target=" المدارس والمناهج الاجنبية" polarity="negative" from="5" to="31"/> <aspectTerm target="خلل فكري وثقافي" polarity="negative" from="35" to="50"/> <aspectTerm target="اجيال مشوهة لا تفقه دينها" polarity="negative" from="136" to="161"/> <aspectTerm target="لا تجيد لغتها ولا تعرف تاريخها" polarity="negative" from="163" to="193"/> <aspectTerm target="لا تعي المسؤولية العائلية والمجتمعية" polarity="negative" from="195" to="231"/> <aspectTerm target="شباب عرب شكلا واجانب فكرا ومضمونا وسلوكا" polarity="negative" from="233" to="273"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="149">
+                    <text ref="653"/>
+                    <aspectTerms>
+                        <aspectTerm target=" ضعف القدرة على القراءة والكتابة باللغتين العربية والإنجليزية" polarity="negative" from="46" to="107"/> <aspectTerm target=" بل ان الكثير منهم لا يستطيع كتابة اسمه" polarity="negative" from="136" to="175"/> <aspectTerm target="لا أعرف حقيقةً أسباب هذه المعضلة الكبيرة" polarity="negative" from="180" to="220"/> <aspectTerm target=" المتسبب فيها ؟! الأهالي؟! أم أنظمة التعليم الحالية" polarity="conflict" from="225" to="276"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="150">
+                    <text ref="654"/>
+                    <aspectTerms>
+                        <aspectTerm target="إلزامية مادة الموسيقى" polarity="neutral" from="50" to="71"/> <aspectTerm target="يتعلمون حب الوطن" polarity="neutral" from="97" to="113"/> <aspectTerm target="تزداد اليوم الأعباء المدرسية على ابناءنا " polarity="negative" from="150" to="191"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="151">
+                    <text ref="655"/>
+                    <aspectTerms>
+                        <aspectTerm target="حُرم أكثر من 700 ألف طفل من العودة إلى مدارسهم في سبتمبر" polarity="negative" from="38" to="94"/> <aspectTerm target=" نصف سكان القطاع تقريبًا من الأطفال يعانون منذ عامين" polarity="negative" from="108" to="160"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="152">
+                    <text ref="656"/>
+                    <aspectTerms>
+                        <aspectTerm target=" نصف سكان القطاع تقريبًا من الأطفال يعانون منذ عامين" polarity="positive" from="108" to="160"/> <aspectTerm target=" أحسنتم له، أحسنتم لأنفسكم." polarity="positive" from="148" to="175"/> <aspectTerm target=" أسأتم له،أسأتم لأنفسكم." polarity="positive" from="179" to="203"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="153">
+                    <text ref="657"/>
+                    <aspectTerms>
+                        <aspectTerm target=" تراجع التعليم في المغرب مشكل اللغة" polarity="negative" from="17" to="52"/> <aspectTerm target=" مثال بسيط لما يعانيه طفل عمره 6 سنوات" polarity="negative" from="60" to="98"/> <aspectTerm target="البيت قرعة ديال الماء اسمها قرعة والصبح عند استاذة العربية اسمها قنينة " polarity="negative" from="104" to="175"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="154">
+                    <text ref="658"/>
+                    <aspectTerms>
+                        <aspectTerm target="باختيار وزير تعليم يمتلك المؤهلات الصحيحة" polarity="positive" from="59" to="100"/> <aspectTerm target="الوزير الناجح يجب أن يتصف باتساع الأفق ليستوعب الاتجاهات العالمية" polarity="positive" from="102" to="167"/> <aspectTerm target="يمتلك رؤية استراتيجية واضحة للنهوض بالمنظومة" polarity="positive" from="173" to="217"/> <aspectTerm target=" قدرة قيادية تلهم المعلمين والطلاب" polarity="positive" from="221" to="255"/> <aspectTerm target="كفاءة إدارية تدير" polarity="positive" from="258" to="275"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="155">
+                    <text ref="659"/>
+                    <aspectTerms>
+                        <aspectTerm target="إغلاق المدارس ومنع الطلاب من الوصول إليها" polarity="negative" from="60" to="101"/> <aspectTerm target="خاصة المدارس التي تتبع المنهاج الرسمي للدولة" polarity="negative" from="103" to="147"/> <aspectTerm target=" فرض منهاج مؤدلج يحمل أفكاراً انفصالية ضيقة" polarity="negative" from="151" to="194"/> <aspectTerm target=" بهدف غسل عقول الطلاب وتوجيههم فكرياً" polarity="negative" from="195" to="232"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="156">
+                    <text ref="660"/>
+                    <aspectTerms>
+                        <aspectTerm target="بزيادة مصاريف الكتب الدراسية بشكل مبالغ فيه" polarity="negative" from="67" to="110"/> <aspectTerm target=" إلزام أولياء الأمور بشرائها من المدارس" polarity="negative" from="152" to="191"/> <aspectTerm target=" تسبب في زيادة أعباء مصاريف الدراسة" polarity="negative" from="223" to="258"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="157">
+                    <text ref="661"/>
+                    <aspectTerms>
+                        <aspectTerm target="مشكل التعليم في المغرب" polarity="negative" from="0" to="22"/> <aspectTerm target="أصبح ملاذًا من البطالة" polarity="negative" from="27" to="49"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="158">
+                    <text ref="662"/>
+                    <aspectTerms>
+                        <aspectTerm target="غرفة المعلمات" polarity="positive" from="11" to="24"/> <aspectTerm target="رائحة القهوة تختلط بأوراق التحضير" polarity="positive" from="38" to="71"/> <aspectTerm target="ضحكة خفيفة تكسر صمت الجداول" polarity="positive" from="72" to="99"/> <aspectTerm target="يتدرج الحوار من طرائف طالبات الأمس إلى خطط حصص اليوم" polarity="positive" from="135" to="187"/> <aspectTerm target="وتجارب لا تصنعها الكتب بل تصنعها قلوبنا" polarity="positive" from="239" to="278"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="161">
+                    <text ref="663"/>
+                    <aspectTerms>
+                        <aspectTerm target="أطفالًا في عمر الزهور يذهبون إلى مدارسهم حاملين أكياسًا بلاستيكية بدلًا من الحقائب" polarity="negative" from="21" to="103"/> <aspectTerm target="حكاية آلاف الأسر العاجزة عن توفير أبسط مستلزمات الدراسة" polarity="negative" from="122" to="177"/> <aspectTerm target="تكشف حجم الفقر الذي لم يترك للناس مساحة حتى لتأمين دفتر أو حقيبة" polarity="negative" from="180" to="244"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="162">
+                    <text ref="664"/>
+                    <aspectTerms>
+                        <aspectTerm target="تزرع لديهم منذ الصغر حلم ان يكون اطباء في المستقبل" polarity="positive" from="90" to="140"/> <aspectTerm target=" تراجع الفرص للعاملين في السلك الطبي وكثرة التنافس" polarity="negative" from="229" to="279"/> <aspectTerm target="أصبحت ثقافة او تقليد اجتماعي" polarity="negative" from="185" to="213"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="163">
+                    <text ref="665"/>
+                    <aspectTerms>
+                        <aspectTerm target="حديث عن ظواهر نعيشها جميعًا والتعليم يمس الجميع" polarity="negative" from="159" to="206"/> <aspectTerm target="ازدحام الشوارع في أوقات الدوامات" polarity="negative" from="210" to="242"/> <aspectTerm target=" تخف أثناء الإجازات" polarity="positive" from="246" to="265"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="165">
+                    <text ref="666"/>
+                    <aspectTerms>
+                        <aspectTerm target=" عجز الطالب" polarity="negative" from="28" to="39"/> <aspectTerm target="وجود إعاقة عقلية" polarity="negative" from="90" to="106"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="166">
+                    <text ref="667"/>
+                    <aspectTerms>
+                        <aspectTerm target="يكره الطلاب المدارس" polarity="negative" from="39" to="58"/> <aspectTerm target=" دراسة وليس طرح" polarity="neutral" from="66" to="81"/> <aspectTerm target="وزارة التعليم" polarity="conflict" from="162" to="175"/> <aspectTerm target="اصدار القرارات جز" polarity="negative" from="253" to="270"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="167">
+                    <text ref="668"/>
+                    <aspectTerms>
+                        <aspectTerm target="نفذ معلم برنامجًا تدريبيًا" polarity="positive" from="22" to="48"/> <aspectTerm target=" مركز مصادر التعلم في المدرسة" polarity="positive" from="51" to="80"/> <aspectTerm target="توظيف المشروع في التدريس" polarity="positive" from="87" to="111"/> <aspectTerm target="المقررات الدراسية" polarity="positive" from="119" to="136"/> <aspectTerm target="مراحل إعداد المشروع" polarity="neutral" from="147" to="166"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="168">
+                    <text ref="669"/>
+                    <aspectTerms>
+                        <aspectTerm target=" الشباب ما بين 15 و24 سنة لا يعملون ولا يدرسون" polarity="negative" from="25" to="71"/> <aspectTerm target="الحكم فاشل، لا ينتج تنمية" polarity="negative" from="150" to="175"/> <aspectTerm target=" ثروة المغاربة محتكرة ومهربة" polarity="negative" from="199" to="227"/> <aspectTerm target=" لا يدرسون لسيادة مخطط التجهيل" polarity="negative" from="236" to="266"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="169">
+                    <text ref="670"/>
+                    <aspectTerms>
+                        <aspectTerm target="التعليم في المغرب" polarity="negative" from="67" to="84"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="170">
+                    <text ref="671"/>
+                    <aspectTerms>
+                        <aspectTerm target=" لكل فتاة فالمغرب لم تستطع اتمام تعليمها" polarity="negative" from="57" to="97"/> <aspectTerm target=" الاعدادية بعيدة بكيلومترات" polarity="negative" from="166" to="193"/> <aspectTerm target="شكرات واليديها" polarity="positive" from="243" to="257"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="172">
+                    <text ref="672"/>
+                    <aspectTerms>
+                        <aspectTerm target="غياب الطالب 3 أيام متصلة" polarity="positive" from="28" to="52"/> <aspectTerm target="يحيل ملفه للجهات المختصة لتطبيق “حماية الطفل" polarity="positive" from="62" to="106"/> <aspectTerm target=" متابعة يومية تبدأ من اليوم الأول للتغيب" polarity="positive" from="111" to="151"/> <aspectTerm target="تواصل مباشر مع ولي الأمر برسائل أو مكالمات" polarity="positive" from="156" to="198"/> <aspectTerm target="تواصل مباشر مع ولي الأمر برسائل أو مكالمات" polarity="positive" from="156" to="198"/> <aspectTerm target=" أيام غياب: إحالة للجنة التوجيه الطلابي وخطة علاجية" polarity="positive" from="204" to="255"/> <aspectTerm target=" 10 أيام غياب: مخاطبة" polarity="positive" from="259" to="280"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="173">
+                    <text ref="673"/>
+                    <aspectTerms>
+                        <aspectTerm target="مؤشر التنمية البشرية (2025)" polarity="negative" from="0" to="27"/> <aspectTerm target=" مؤشر حرية الصحافة (2025" polarity="negative" from="67" to="91"/> <aspectTerm target="مؤشر التعليم" polarity="negative" from="133" to="145"/> <aspectTerm target="مؤشر الرعاية الصحية (2025" polarity="negative" from="186" to="211"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="174">
+                    <text ref="674"/>
+                    <aspectTerms>
+                        <aspectTerm target="الأوضاع المزرية. في مستشفيات المغرب " polarity="negative" from="59" to="95"/> <aspectTerm target="مظاهرات. قطاعات أخرى مثل التعليم" polarity="negative" from="126" to="158"/> <aspectTerm target=" الدولة الاموال وتصرفها على الكرة" polarity="negative" from="245" to="278"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="175">
+                    <text ref="675"/>
+                    <aspectTerms>
+                        <aspectTerm target="لتعزيز الابتكار الرقمي في مجالات التعليم" polarity="positive" from="170" to="210"/> <aspectTerm target="البحث" polarity="positive" from="212" to="217"/> <aspectTerm target="تطبيقات الذكاء الاصطناعي" polarity="positive" from="220" to="244"/> <aspectTerm target=" الابتكار الأخلاقي" polarity="positive" from="33" to="51"/> <aspectTerm target="ريادة التكنولوجيا في المنطقة" polarity="positive" from="53" to="81"/> <aspectTerm target=" وقع المغرب اتفاقية مع شركة" polarity="positive" from="104" to="131"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="176">
+                    <text ref="676"/>
+                    <aspectTerms>
+                        <aspectTerm target="وزير التعليم" polarity="neutral" from="0" to="12"/> <aspectTerm target="و يزورو مدارس #الرياضة في المغرب" polarity="positive" from="46" to="78"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="178">
+                    <text ref="677"/>
+                    <aspectTerms>
+                        <aspectTerm target="شارك نحو عشرين طالب دكتوراه مغربياً" polarity="positive" from="58" to="93"/> <aspectTerm target="برنامج تدريبي مكثف أقيم بالصين " polarity="positive" from="97" to="128"/> <aspectTerm target=" البرنامج استكمالاً لبروتوكول التعاون" polarity="positive" from="159" to="196"/> <aspectTerm target="لموقع بين وزارة التعليم العالي والبحث العلمي والابتكار " polarity="positive" from="198" to="253"/> <aspectTerm target="شركة هواوي" polarity="positive" from="254" to="264"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="179">
+                    <text ref="678"/>
+                    <aspectTerms>
+                        <aspectTerm target=" المغرب يدخل تصنيف شنغهاي للجامعات" polarity="negative" from="13" to="47"/> <aspectTerm target=" تصنيف دولي يضع المغرب في المراتب الأخيرة" polarity="negative" from="73" to="114"/> <aspectTerm target="مؤشر التعليم العالي" polarity="negative" from="118" to="137"/> <aspectTerm target="الجامعات التي تخرج منها منار الخريطي و الصنايبي و النعوم " polarity="negative" from="147" to="204"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="180">
+                    <text ref="679"/>
+                    <aspectTerms>
+                        <aspectTerm target=" لا أعرف من هو وزير الصحة أو وزير التعليم في المغرب" polarity="negative" from="194" to="245"/> <aspectTerm target="أنا أعرف جميع الوزراء الصينيين بأسمائهم ومناصبهم وخلفياتهم" polarity="negative" from="0" to="58"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="184">
+                    <text ref="680"/>
+                    <aspectTerms>
+                        <aspectTerm target=" الصحة و التعليم ديال المغرب." polarity="negative" from="12" to="41"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="186">
+                    <text ref="681"/>
+                    <aspectTerms>
+                        <aspectTerm target="السنة الدراسية الجديدة في المدرسة الإسبانية بالرباط" polarity="positive" from="84" to="135"/> <aspectTerm target="حفل حضره أفراد المجتمع التعليمي" polarity="positive" from="140" to="171"/> <aspectTerm target="تعزيز القيم والمعرفة والالتزام المشترك بين إسبانيا والمغرب" polarity="positive" from="210" to="268"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="188">
+                    <text ref="682"/>
+                    <aspectTerms>
+                        <aspectTerm target="انهيار التعليم والصحة" polarity="negative" from="60" to="81"/> <aspectTerm target="فتح باب للإستثمار في هاذين المرفقين العمومين" polarity="negative" from="88" to="132"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="189">
+                    <text ref="683"/>
+                    <aspectTerms>
+                        <aspectTerm target=" ايخدم التعليم ويصلحه في المغرب" polarity="negative" from="22" to="53"/> <aspectTerm target="التعليم والصحة يتم توكيلهما لمن يهدم ويدمر اكث" polarity="negative" from="82" to="128"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="190">
+                    <text ref="684"/>
+                    <aspectTerms>
+                        <aspectTerm target="اغلب هؤلاء النساء في القطاع التربوي و التعليم" polarity="negative" from="0" to="45"/> <aspectTerm target="اي ايديولوجية يحملن في ادمغتهن" polarity="negative" from="49" to="79"/> <aspectTerm target=" بيداغوجية" polarity="negative" from="83" to="93"/> <aspectTerm target=" سينتجن شباب داعشي الفكر مشرقي الهوى" polarity="negative" from="99" to="135"/> <aspectTerm target="متطرف الأفكار" polarity="negative" from="137" to="150"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="191">
+                    <text ref="685"/>
+                    <aspectTerms>
+                        <aspectTerm target="هدا هو وزير التعليم" polarity="negative" from="9" to="28"/> <aspectTerm target="ترتيب المغرب في التعليم" polarity="negative" from="36" to="59"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="193">
+                    <text ref="686"/>
+                    <aspectTerms>
+                        <aspectTerm target=" تحسّنت اللغة العربية" polarity="positive" from="16" to="37"/> <aspectTerm target="المغرب افضل نطقًا من مصر في اللغة العربية الفصحى بسبب التعليم" polarity="positive" from="91" to="152"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        </sentences>

@@ -1,0 +1,1502 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sentences>
+           <sentence id="0">
+                    <text ref="191"/>
+                    <aspectTerms>
+                        <aspectTerm target="لسد الفجوة الرقمية" polarity="positive" from="81" to="99"/> <aspectTerm target="مايكروسوفت" polarity="positive" from="149" to="159"/> <aspectTerm target=" التعليم" polarity="positive" from="102" to="110"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="Positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="1">
+                    <text ref="192"/>
+                    <aspectTerms>
+                        <aspectTerm target="الرقابة الافتراضية " polarity="negative" from="10" to="29"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="2">
+                    <text ref="193"/>
+                    <aspectTerms>
+                        <aspectTerm target="وسائل الاتصال الرقمي" polarity="neutral" from="122" to="142"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="3">
+                    <text ref="194"/>
+                    <aspectTerms>
+                        <aspectTerm target="شات جي بي تي" polarity="negative" from="92" to="104"/> <aspectTerm target=" الذكاء الاصطناعي" polarity="neutral" from="109" to="126"/> <aspectTerm target="مواكبة التكنولوجيا" polarity="positive" from="225" to="243"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="4">
+                    <text ref="195"/>
+                    <aspectTerms>
+                        <aspectTerm target="مستقبل التعليم " polarity="neutral" from="104" to="119"/> <aspectTerm target="التحول الرقمي" polarity="positive" from="142" to="155"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="5">
+                    <text ref="196"/>
+                    <aspectTerms>
+                        <aspectTerm target="مستقبل التعليم" polarity="neutral" from="165" to="179"/> <aspectTerm target="التحول الرقمي" polarity="positive" from="203" to="216"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="6">
+                    <text ref="197"/>
+                    <aspectTerms>
+                        <aspectTerm target=" الجانب التربوي" polarity="positive" from="200" to="215"/> <aspectTerm target="الطريقة السليمة" polarity="neutral" from="239" to="254"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="7">
+                    <text ref="198"/>
+                    <aspectTerms>
+                        <aspectTerm target="مستقبل التعليم " polarity="neutral" from="79" to="94"/> <aspectTerm target=" التحول الرقمي" polarity="positive" from="116" to="130"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="9">
+                    <text ref="199"/>
+                    <aspectTerms>
+                        <aspectTerm target="تجربة" polarity="neutral" from="228" to="233"/> <aspectTerm target="الرقمنة" polarity="positive" from="234" to="241"/> <aspectTerm target=" التعليم عن بعد" polarity="positive" from="263" to="278"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="10">
+                    <text ref="200"/>
+                    <aspectTerms>
+                        <aspectTerm target="للتعليم الرقمي" polarity="positive" from="69" to="83"/> <aspectTerm target="تكافئان" polarity="positive" from="32" to="39"/> <aspectTerm target=" مبادرات" polarity="positive" from="44" to="52"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="11">
+                    <text ref="201"/>
+                    <aspectTerms>
+                        <aspectTerm target="التعليم العالي" polarity="neutral" from="216" to="230"/> <aspectTerm target=" الانتقال الرقمي" polarity="negative" from="250" to="266"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="12">
+                    <text ref="202"/>
+                    <aspectTerms>
+                        <aspectTerm target="التعليم " polarity="neutral" from="0" to="8"/> <aspectTerm target="المسألة التعليمية" polarity="negative" from="9" to="26"/> <aspectTerm target="المستقبل_الرقمي" polarity="positive" from="197" to="212"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="13">
+                    <text ref="203"/>
+                    <aspectTerms>
+                        <aspectTerm target="لتعليم عن بعد" polarity="positive" from="93" to="106"/> <aspectTerm target="للأطر التقنية والتربوية والإدارية" polarity="positive" from="152" to="185"/> <aspectTerm target="البوابة الإلكترونية" polarity="positive" from="22" to="41"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="14">
+                    <text ref="204"/>
+                    <aspectTerms>
+                        <aspectTerm target="التعليم عن بعد" polarity="positive" from="16" to="30"/> <aspectTerm target="تعليم حضوري" polarity="neutral" from="202" to="213"/> <aspectTerm target="الموسم الدراسي" polarity="neutral" from="54" to="68"/> <aspectTerm target="المؤسسات العمومية والخصوصية" polarity="neutral" from="139" to="166"/> <aspectTerm target="البعثات الأجنبية" polarity="neutral" from="174" to="190"/> <aspectTerm target="أولياء أمورهم" polarity="positive" from="245" to="258"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="15">
+                    <text ref="205"/>
+                    <aspectTerms>
+                        <aspectTerm target=" للتعليم الرقمي" polarity="positive" from="51" to="66"/> <aspectTerm target="إغلاق كامل للمدارس" polarity="negative" from="99" to="117"/> <aspectTerm target=" التعليم عن بعد" polarity="positive" from="191" to="206"/> <aspectTerm target="لأسرة التعليم" polarity="positive" from="260" to="273"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="17">
+                    <text ref="206"/>
+                    <aspectTerms>
+                        <aspectTerm target="حاسوب مغربي" polarity="positive" from="61" to="72"/> <aspectTerm target="نظام تشغيل مغربي" polarity="positive" from="79" to="95"/> <aspectTerm target=" بيئة متكاملة من البرامج" polarity="positive" from="137" to="161"/> <aspectTerm target="تعليم" polarity="positive" from="259" to="264"/> <aspectTerm target="برمجة" polarity="positive" from="266" to="271"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="18">
+                    <text ref="207"/>
+                    <aspectTerms>
+                        <aspectTerm target="المواطنة الرقمية" polarity="positive" from="6" to="22"/> <aspectTerm target="القوة الناعمة للمغرب" polarity="positive" from="80" to="100"/> <aspectTerm target="رامج دعم وتكوينات" polarity="positive" from="157" to="174"/> <aspectTerm target="تمكين الشباب من أدوات متطور" polarity="positive" from="183" to="210"/> <aspectTerm target=" الأمن الرقمي" polarity="positive" from="255" to="268"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="19">
+                    <text ref="208"/>
+                    <aspectTerms>
+                        <aspectTerm target="المعلمين" polarity="negative" from="9" to="17"/> <aspectTerm target="ووزارة التعليم" polarity="negative" from="151" to="165"/> <aspectTerm target="في الصحاري كي يدرس هناك" polarity="negative" from="94" to="117"/> <aspectTerm target="الانتقام من الأطفال" polarity="negative" from="193" to="212"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="20">
+                    <text ref="209"/>
+                    <aspectTerms>
+                        <aspectTerm target="المساعدة في التعليم" polarity="negative" from="48" to="67"/> <aspectTerm target="التسول الرقمي" polarity="negative" from="198" to="211"/> <aspectTerm target=" منصات التواصل الاجتماعي" polarity="negative" from="155" to="179"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="21">
+                    <text ref="210"/>
+                    <aspectTerms>
+                        <aspectTerm target="التحول الرقمي " polarity="positive" from="120" to="134"/> <aspectTerm target="الإدارية والتعليمية " polarity="positive" from="145" to="165"/> <aspectTerm target=" بنية التعليم الرقمية" polarity="positive" from="184" to="205"/> <aspectTerm target="تدريب الكوادر التعليمية" polarity="positive" from="216" to="239"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="22">
+                    <text ref="211"/>
+                    <aspectTerms>
+                        <aspectTerm target="بطاقات رقميَّة ذكيَّة" polarity="positive" from="53" to="74"/> <aspectTerm target="لطُّلاب" polarity="positive" from="76" to="83"/> <aspectTerm target="المعلِّمين والإداريِّين" polarity="positive" from="85" to="108"/> <aspectTerm target="تسجيل الحضور" polarity="positive" from="127" to="139"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="24">
+                    <text ref="212"/>
+                    <aspectTerms>
+                        <aspectTerm target="تعليم أونلاين متكامل" polarity="positive" from="34" to="54"/> <aspectTerm target="وقت الأسرة والطلاب" polarity="positive" from="153" to="171"/> <aspectTerm target="معلمين خبراء" polarity="positive" from="176" to="188"/> <aspectTerm target="المدرسين المتخصصين" polarity="positive" from="203" to="221"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="25">
+                    <text ref="213"/>
+                    <aspectTerms>
+                        <aspectTerm target="التعليم الرقمي في الحواضر و غير متاح للجميع" polarity="negative" from="0" to="43"/> <aspectTerm target="فبالاحرى بالبوادي و القفار" polarity="negative" from="44" to="70"/> <aspectTerm target="تاجيل الدخول" polarity="neutral" from="136" to="148"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="26">
+                    <text ref="214"/>
+                    <aspectTerms>
+                        <aspectTerm target="دور الأساتذة مهم" polarity="positive" from="0" to="16"/> <aspectTerm target="التعليم الرقمي في المغرب العربي" polarity="positive" from="45" to="76"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="27">
+                    <text ref="215"/>
+                    <aspectTerms>
+                        <aspectTerm target="مؤتمر التعليم الرقمي" polarity="positive" from="33" to="53"/> <aspectTerm target="أستاذة هبة غنام" polarity="neutral" from="72" to="87"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="28">
+                    <text ref="216"/>
+                    <aspectTerms>
+                        <aspectTerm target="بتعزيز التعليم الرقمي" polarity="positive" from="60" to="81"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="29">
+                    <text ref="217"/>
+                    <aspectTerms>
+                        <aspectTerm target="وزارة الانتقال الرقمي" polarity="neutral" from="11" to="32"/> <aspectTerm target="الانتقال الرقمي" polarity="neutral" from="17" to="32"/> <aspectTerm target="وزير التعليم العالي" polarity="positive" from="197" to="216"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="31">
+                    <text ref="218"/>
+                    <aspectTerms>
+                        <aspectTerm target="تقنيات الذكاء الاصطناعي" polarity="positive" from="0" to="23"/> <aspectTerm target="الذكاء_الاصطناعي #الشباب_المغربي" polarity="neutral" from="169" to="201"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="32">
+                    <text ref="219"/>
+                    <aspectTerms>
+                        <aspectTerm target="تكنولوجيا المعلومات" polarity="positive" from="22" to="41"/> <aspectTerm target="التعليم" polarity="positive" from="46" to="53"/> <aspectTerm target="برامج المغرب الرقمي" polarity="positive" from="61" to="80"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="33">
+                    <text ref="220"/>
+                    <aspectTerms>
+                        <aspectTerm target="دعم التعليم" polarity="positive" from="60" to="71"/> <aspectTerm target=" التعليم الرقمي في المغرب" polarity="positive" from="63" to="88"/> <aspectTerm target="مشروع “Samsung Innovation Campus" polarity="positive" from="25" to="57"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="34">
+                    <text ref="221"/>
+                    <aspectTerms>
+                        <aspectTerm target="التعليم" polarity="positive" from="97" to="104"/> <aspectTerm target="الحلول الرقمية الحديثة" polarity="positive" from="66" to="88"/> <aspectTerm target="الحلول الرقمية الحديثة" polarity="positive" from="66" to="88"/> <aspectTerm target="استراتيجية &quot;المغرب الرقمي 2030" polarity="positive" from="18" to="48"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="35">
+                    <text ref="222"/>
+                    <aspectTerms>
+                        <aspectTerm target=" الحكومة " polarity="conflict" from="57" to="66"/> <aspectTerm target="بيان وزارة #امزازي" polarity="negative" from="121" to="139"/> <aspectTerm target=" التعليم الرقمي" polarity="conflict" from="215" to="230"/> <aspectTerm target="الإمكانيات" polarity="negative" from="266" to="276"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="36">
+                    <text ref="223"/>
+                    <aspectTerms>
+                        <aspectTerm target=" الإدماج #الرقمي" polarity="positive" from="81" to="97"/> <aspectTerm target="التعليم_العالي" polarity="positive" from="102" to="116"/> <aspectTerm target="البحث_العلمي" polarity="positive" from="120" to="132"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="37">
+                    <text ref="224"/>
+                    <aspectTerms>
+                        <aspectTerm target="تغطية ضعيفة للإنترنت" polarity="negative" from="32" to="52"/> <aspectTerm target=" أداء الطلاب والمدرّسين" polarity="negative" from="178" to="201"/> <aspectTerm target="التعليم_عن_بع" polarity="negative" from="241" to="254"/> <aspectTerm target="التعليم_عن_بعد" polarity="negative" from="241" to="255"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="38">
+                    <text ref="225"/>
+                    <aspectTerms>
+                        <aspectTerm target="الثقافة الرقمية" polarity="positive" from="11" to="26"/> <aspectTerm target="الأدب الرقمي" polarity="positive" from="28" to="40"/> <aspectTerm target="أستاذة التعليم العالي" polarity="positive" from="110" to="131"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="39">
+                    <text ref="226"/>
+                    <aspectTerms>
+                        <aspectTerm target=" إيصال خط انتيرنيت عالي السرعة" polarity="negative" from="43" to="73"/> <aspectTerm target="تمديد الألياف البصرية الى البوادي" polarity="negative" from="103" to="136"/> <aspectTerm target="جعل الأثمنة في متناول الجميع" polarity="negative" from="138" to="166"/> <aspectTerm target="المساهمة في الانتقال الرقمي للإدارة و التعليم" polarity="negative" from="168" to="213"/> <aspectTerm target=" تحويل الأرباح للمساهمين دون أي استثمار" polarity="negative" from="231" to="270"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="40">
+                    <text ref="227"/>
+                    <aspectTerms>
+                        <aspectTerm target="كمسطحة رقمية" polarity="positive" from="65" to="77"/> <aspectTerm target="للتعلم عن بعد" polarity="positive" from="110" to="123"/> <aspectTerm target="تلميذ في الثانوي التأهيلي" polarity="positive" from="176" to="201"/> <aspectTerm target=" 700 فيديو في 10 مواد دراسية." polarity="positive" from="140" to="169"/> <aspectTerm target=" يراجع دروسه" polarity="positive" from="210" to="222"/> <aspectTerm target="وزارة التربية الوطنية" polarity="positive" from="8" to="29"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="41">
+                    <text ref="228"/>
+                    <aspectTerms>
+                        <aspectTerm target=" تحول الجامعات المغربية نحو الرقمنة" polarity="negative" from="101" to="136"/> <aspectTerm target="الجامعة تبقى على حالها دون رقمنة" polarity="negative" from="220" to="252"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="42">
+                    <text ref="229"/>
+                    <aspectTerms>
+                        <aspectTerm target="مجموعة واتس للأمهات" polarity="neutral" from="54" to="73"/> <aspectTerm target=" قراءة وإملاء" polarity="neutral" from="151" to="164"/> <aspectTerm target="أضيف درجات في برنامج كلاس دوجوا" polarity="positive" from="166" to="197"/> <aspectTerm target="كحافز لهن لعدم الانقطاع" polarity="positive" from="225" to="248"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="43">
+                    <text ref="230"/>
+                    <aspectTerms>
+                        <aspectTerm target="الملزمة الإلكترونية " polarity="positive" from="1" to="21"/> <aspectTerm target="المعايير المهنية العشرة" polarity="positive" from="28" to="51"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="44">
+                    <text ref="231"/>
+                    <aspectTerms>
+                        <aspectTerm target="الرقمنة" polarity="positive" from="25" to="32"/> <aspectTerm target="المغرب يمكن أن يصبح رائدا" polarity="positive" from="60" to="85"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="45">
+                    <text ref="232"/>
+                    <aspectTerms>
+                        <aspectTerm target="لمدرسة محمد بن راشد الرقمية" polarity="positive" from="13" to="40"/> <aspectTerm target="تّفاقيات تستهدف 5 مليون مستفيد" polarity="positive" from="61" to="91"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="46">
+                    <text ref="233"/>
+                    <aspectTerms>
+                        <aspectTerm target="الذكاء الاصطناعي للجميع" polarity="positive" from="35" to="58"/> <aspectTerm target="الذكاء_الاصطناعي في #التعليم" polarity="positive" from="130" to="158"/> <aspectTerm target="أكاديمية_بناة_المستقبل_الدولية" polarity="positive" from="230" to="260"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="49">
+                    <text ref="234"/>
+                    <aspectTerms>
+                        <aspectTerm target="المغرب يعزز قدراته التكنولوجية" polarity="positive" from="1" to="31"/> <aspectTerm target="اقتناء قمر صناعي متطور" polarity="positive" from="43" to="65"/> <aspectTerm target="الاتصال الآمن" polarity="positive" from="112" to="125"/> <aspectTerm target="اتصال 26 دولة افريقية بالانترنت عالي السرعة" polarity="positive" from="134" to="177"/> <aspectTerm target=" الاتصالات الفضائية" polarity="positive" from="248" to="267"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="50">
+                    <text ref="235"/>
+                    <aspectTerms>
+                        <aspectTerm target="أساتذة في كل شيء" polarity="positive" from="208" to="224"/> <aspectTerm target="مؤهلون جدا لإعطاء الدروس" polarity="positive" from="229" to="253"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="51">
+                    <text ref="236"/>
+                    <aspectTerms>
+                        <aspectTerm target="للقاءات التدريبية الافتراضية" polarity="positive" from="74" to="102"/> <aspectTerm target="منصة_مدرستي" polarity="positive" from="147" to="158"/> <aspectTerm target="مركز التطوير المهني التعليمي" polarity="positive" from="31" to="59"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="52">
+                    <text ref="237"/>
+                    <aspectTerms>
+                        <aspectTerm target="اللقاءات التدريبية الافتراضية" polarity="positive" from="32" to="61"/> <aspectTerm target="منصة_مدرستي" polarity="positive" from="66" to="77"/> <aspectTerm target="وزارة_التعليم" polarity="positive" from="5" to="18"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="53">
+                    <text ref="238"/>
+                    <aspectTerms>
+                        <aspectTerm target="المقررات الإلكترونية المعيارية" polarity="positive" from="0" to="30"/> <aspectTerm target=" تكافؤ الفرص التعليمية" polarity="positive" from="68" to="90"/> <aspectTerm target="تجربة تعليمية موحدة" polarity="positive" from="143" to="162"/> <aspectTerm target=" استخدام المقررات الإلكترونية" polarity="positive" from="181" to="210"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="54">
+                    <text ref="239"/>
+                    <aspectTerms>
+                        <aspectTerm target="منصة وطنية محلية " polarity="positive" from="20" to="37"/> <aspectTerm target="كوادر وطنية" polarity="positive" from="44" to="55"/> <aspectTerm target="استمرارية التعليم عن بُعد" polarity="positive" from="137" to="162"/> <aspectTerm target="رؤية مختلفة ومستدامة" polarity="positive" from="180" to="200"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="55">
+                    <text ref="240"/>
+                    <aspectTerms>
+                        <aspectTerm target="المدرسة الافتراضية" polarity="positive" from="86" to="104"/> <aspectTerm target="للتعليم عن بُعد" polarity="positive" from="113" to="128"/> <aspectTerm target="المركز_الوطني_للتعليم_الإلكتروني" polarity="positive" from="20" to="52"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="56">
+                    <text ref="241"/>
+                    <aspectTerms>
+                        <aspectTerm target="تنمية القدرات الرقمية" polarity="positive" from="66" to="87"/> <aspectTerm target="معلمي ومعلمات" polarity="positive" from="89" to="102"/> <aspectTerm target="الذكاء الاصطناعي" polarity="positive" from="217" to="233"/> <aspectTerm target="الأمن السيبراني" polarity="positive" from="235" to="250"/> <aspectTerm target="علم البيانات" polarity="positive" from="252" to="264"/> <aspectTerm target="المعهد الوطني للتطوير المهني التعليمي" polarity="positive" from="7" to="44"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="57">
+                    <text ref="242"/>
+                    <aspectTerms>
+                        <aspectTerm target="التعلم_الإلكتروني" polarity="positive" from="24" to="41"/> <aspectTerm target="دورات تدريبية للتعلم الذاتي" polarity="positive" from="47" to="74"/> <aspectTerm target="المركز_الوطني_للتعليم_الإلكتروني" polarity="positive" from="83" to="115"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="58">
+                    <text ref="243"/>
+                    <aspectTerms>
+                        <aspectTerm target="الدروس والمواد العلمية" polarity="positive" from="39" to="61"/> <aspectTerm target="المنصات التعليمية " polarity="positive" from="86" to="104"/> <aspectTerm target="القناة التربوية" polarity="positive" from="105" to="120"/> <aspectTerm target="لدراسة عن بعد" polarity="positive" from="200" to="213"/> <aspectTerm target="المتعلم والمعلم يمتلكان كل الإمكانيات" polarity="positive" from="161" to="198"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="59">
+                    <text ref="244"/>
+                    <aspectTerms>
+                        <aspectTerm target="PISA" polarity="neutral" from="129" to="133"/> <aspectTerm target=" للتطوير المهني" polarity="positive" from="30" to="45"/> <aspectTerm target="دورات تدريبية" polarity="positive" from="59" to="72"/> <aspectTerm target="التطوير_المهني " polarity="positive" from="89" to="104"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="60">
+                    <text ref="245"/>
+                    <aspectTerms>
+                        <aspectTerm target="تنفيذ المشاريع" polarity="positive" from="86" to="100"/> <aspectTerm target="الحصة الدراسية" polarity="neutral" from="106" to="120"/> <aspectTerm target="الموارد المتاحة داخل المدرسة" polarity="positive" from="131" to="159"/> <aspectTerm target="عبئاً مالياً إضافياً على الطالب" polarity="negative" from="208" to="239"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="61">
+                    <text ref="246"/>
+                    <aspectTerms>
+                        <aspectTerm target="منصة_مدرستي" polarity="positive" from="103" to="114"/> <aspectTerm target="Webinars" polarity="positive" from="73" to="81"/> <aspectTerm target=" للتدريب الإلكتروني" polarity="positive" from="43" to="62"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="62">
+                    <text ref="247"/>
+                    <aspectTerms>
+                        <aspectTerm target=" منصه تعليمية" polarity="positive" from="33" to="46"/> <aspectTerm target="مصادر تعلم متنوعه" polarity="positive" from="63" to="80"/> <aspectTerm target="التعلم الذاتي" polarity="positive" from="86" to="99"/> <aspectTerm target="فصول افتراضية" polarity="positive" from="111" to="124"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="63">
+                    <text ref="248"/>
+                    <aspectTerms>
+                        <aspectTerm target="لنظام_المعلوماتي" polarity="positive" from="34" to="50"/> <aspectTerm target="الخدمات_الالكترونية" polarity="positive" from="122" to="141"/> <aspectTerm target="استمارة المعلومات للتلاميذ" polarity="positive" from="200" to="226"/> <aspectTerm target="الشهادة المدرسية" polarity="positive" from="230" to="246"/> <aspectTerm target="دليل المؤسسات التعليمية" polarity="positive" from="254" to="277"/> <aspectTerm target="ستخراج مجمل الخدمات لكل موظف" polarity="positive" from="155" to="183"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="64">
+                    <text ref="249"/>
+                    <aspectTerms>
+                        <aspectTerm target="للرخصة المهنية" polarity="positive" from="46" to="60"/> <aspectTerm target="حقائب تدريبية وزارية" polarity="positive" from="63" to="83"/> <aspectTerm target="للاختبارات التجريبية" polarity="positive" from="191" to="211"/> <aspectTerm target="معلومات هامة للكوادر الادارية والتعليمية" polarity="positive" from="240" to="280"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="65">
+                    <text ref="250"/>
+                    <aspectTerms>
+                        <aspectTerm target=" الانترنت" polarity="positive" from="16" to="25"/> <aspectTerm target="تسهيل وتيسير وتسريع إنجاز المعاملات اليومية" polarity="positive" from="237" to="280"/> <aspectTerm target="الانترنت أصبح له دور فعال ورئيس في حياة الشعوب اليوم،" polarity="positive" from="40" to="93"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="66">
+                    <text ref="251"/>
+                    <aspectTerms>
+                        <aspectTerm target="حقائب تدريبية" polarity="positive" from="69" to="82"/> <aspectTerm target="القيادة التربوية" polarity="positive" from="108" to="124"/> <aspectTerm target="التعلم التعاوني" polarity="positive" from="126" to="141"/> <aspectTerm target="تنمية مهارات الاتصال" polarity="positive" from="151" to="171"/> <aspectTerm target="الإنجاز الالكتروني" polarity="positive" from="190" to="208"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="67">
+                    <text ref="252"/>
+                    <aspectTerms>
+                        <aspectTerm target="جودة #التعليم" polarity="positive" from="37" to="50"/> <aspectTerm target="القائمين على هذه المنظومه التعليمية" polarity="neutral" from="94" to="129"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="68">
+                    <text ref="253"/>
+                    <aspectTerms>
+                        <aspectTerm target="التكنولوجيا" polarity="positive" from="0" to="11"/> <aspectTerm target="الابتكار" polarity="positive" from="13" to="21"/> <aspectTerm target="تطوير قطاعات حيوية مثل الصحة والتعليم " polarity="positive" from="121" to="159"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="70">
+                    <text ref="254"/>
+                    <aspectTerms>
+                        <aspectTerm target="الجانب العلمي" polarity="neutral" from="15" to="28"/> <aspectTerm target="لمعلم الناجح" polarity="positive" from="68" to="80"/> <aspectTerm target="مهارات تواصل فعالة" polarity="positive" from="103" to="121"/> <aspectTerm target="الاستماع الجيد" polarity="positive" from="127" to="141"/> <aspectTerm target="إدارة الصف" polarity="positive" from="143" to="153"/> <aspectTerm target="بيئة تعليمية محفزة" polarity="positive" from="162" to="180"/> <aspectTerm target="دعم الطلاب" polarity="positive" from="183" to="193"/> <aspectTerm target="تعزيز ثقتهم بأنفسهم" polarity="positive" from="195" to="214"/> <aspectTerm target="التكامل بين المعرفة العلمية والمهارات" polarity="positive" from="224" to="261"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="71">
+                    <text ref="255"/>
+                    <aspectTerms>
+                        <aspectTerm target="طلابنا يتعلمون منَّا" polarity="negative" from="0" to="20"/> <aspectTerm target="أهداف الدرس " polarity="positive" from="118" to="130"/> <aspectTerm target="نتائجهم ضعيفة" polarity="negative" from="136" to="149"/> <aspectTerm target="المراجعةوحدة أساسية بعد نهاية كل درس" polarity="positive" from="186" to="222"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="72">
+                    <text ref="256"/>
+                    <aspectTerms>
+                        <aspectTerm target="تحسين مهارات تحليل النصوص" polarity="positive" from="70" to="95"/> <aspectTerm target="التفكير في المعنى" polarity="positive" from="144" to="161"/> <aspectTerm target="مناقشته مع زميل" polarity="positive" from="166" to="181"/> <aspectTerm target="مشاركة التفسيرات مع الفصل" polarity="positive" from="191" to="216"/> <aspectTerm target="تعزيز الفهم" polarity="positive" from="250" to="261"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="73">
+                    <text ref="257"/>
+                    <aspectTerms>
+                        <aspectTerm target="يضع الأسئلة" polarity="negative" from="55" to="66"/> <aspectTerm target="ايعرف التلاميذ ولا يعرف مستوياتهم" polarity="negative" from="68" to="101"/> <aspectTerm target="لا يعرف قياس المستوى التحصيلي لدى التلاميذ" polarity="negative" from="103" to="145"/> <aspectTerm target="مشرفا" polarity="negative" from="154" to="159"/> <aspectTerm target="ابتعد عن المقرر" polarity="negative" from="164" to="179"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="74">
+                    <text ref="258"/>
+                    <aspectTerms>
+                        <aspectTerm target="تطوير قدرات المعلمين" polarity="positive" from="0" to="20"/> <aspectTerm target="وتعزيز الأنشطة التربوية" polarity="positive" from="21" to="44"/> <aspectTerm target="برامج تدريبية مكثفة للمعلمين" polarity="positive" from="101" to="129"/> <aspectTerm target=" ثقافة الحوار" polarity="positive" from="143" to="156"/> <aspectTerm target="تعزيز التفكير النقدي" polarity="positive" from="158" to="178"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="75">
+                    <text ref="259"/>
+                    <aspectTerms>
+                        <aspectTerm target="التكامل بين المواد الدراسية" polarity="positive" from="5" to="32"/> <aspectTerm target="دمج التكنولوجيا في تعلم اللغة" polarity="positive" from="62" to="91"/> <aspectTerm target="طبيقها في مواقف الحياة" polarity="positive" from="94" to="116"/> <aspectTerm target="تحسين جودة التعليم" polarity="positive" from="201" to="219"/> <aspectTerm target=" اكتساب المعلم والطلبة" polarity="positive" from="148" to="170"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="76">
+                    <text ref="260"/>
+                    <aspectTerms>
+                        <aspectTerm target="المنهج الدراسي التقني" polarity="neutral" from="0" to="21"/> <aspectTerm target="التكوين المهني" polarity="neutral" from="45" to="59"/> <aspectTerm target="المتعلم وأدوات إنتاجه" polarity="positive" from="178" to="199"/> <aspectTerm target=" التشكيل المهني، الذي تتبناه النظم" polarity="conflict" from="238" to="272"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="Neutral" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="77">
+                    <text ref="261"/>
+                    <aspectTerms>
+                        <aspectTerm target="لتمكين معلمة رياض الاطفال من التقنية" polarity="positive" from="21" to="57"/> <aspectTerm target="ChatGPT" polarity="positive" from="139" to="146"/> <aspectTerm target="Quiver ( رسومات الواقع المعزز" polarity="positive" from="211" to="240"/> <aspectTerm target="تطبيقات قوقل" polarity="positive" from="245" to="257"/> <aspectTerm target="العملية التدريسية" polarity="positive" from="118" to="135"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="78">
+                    <text ref="262"/>
+                    <aspectTerms>
+                        <aspectTerm target=" تعاون بين المعلمين والطلبة" polarity="positive" from="33" to="60"/> <aspectTerm target="التفاهم والتكامل بين المواد الدراسية" polarity="positive" from="91" to="127"/> <aspectTerm target="تحفيز الطلبة" polarity="positive" from="134" to="146"/> <aspectTerm target="لاستكشاف استخدام التكنولوجيا" polarity="positive" from="162" to="190"/> <aspectTerm target="دراستهم وحياتهم اليومية" polarity="positive" from="209" to="232"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="79">
+                    <text ref="263"/>
+                    <aspectTerms>
+                        <aspectTerm target="تقييم الفروقات بين الجامعات" polarity="neutral" from="45" to="72"/> <aspectTerm target="تحليل جودة البرامج الإلكترونية" polarity="positive" from="74" to="104"/> <aspectTerm target="التكافؤ في فرص التعلم" polarity="positive" from="144" to="165"/> <aspectTerm target=" تصميم محتوى تعليمي" polarity="positive" from="176" to="195"/> <aspectTerm target=" المؤهلات الأكاديمية العليا" polarity="positive" from="213" to="240"/> <aspectTerm target=" المؤهلات الأكاديمية العليا" polarity="positive" from="213" to="240"/> <aspectTerm target="احتياجاتهم العلمية" polarity="positive" from="247" to="265"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="80">
+                    <text ref="264"/>
+                    <aspectTerms>
+                        <aspectTerm target="جهاز مدرسي ( لابتوب)" polarity="neutral" from="70" to="90"/> <aspectTerm target="المعلم كائن لطيف" polarity="neutral" from="9" to="25"/> <aspectTerm target="انترنت للقيام بمهام المنصة" polarity="neutral" from="116" to="142"/> <aspectTerm target="لجوائز والتحفيزات للطلاب" polarity="positive" from="165" to="189"/> <aspectTerm target="شراء أدوات" polarity="neutral" from="219" to="229"/> <aspectTerm target="التواصل مع ولي" polarity="positive" from="262" to="276"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Faculty and Staff"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="81">
+                    <text ref="265"/>
+                    <aspectTerms>
+                        <aspectTerm target="تطالب الطالب بمهارة ليست في المنهج" polarity="negative" from="3" to="37"/> <aspectTerm target="ضبط البيئة المدرسية" polarity="positive" from="127" to="146"/> <aspectTerm target="الروضة ثم الابتدائي" polarity="positive" from="166" to="185"/> <aspectTerm target=" احتياج المرحلة العرية" polarity="positive" from="230" to="252"/> <aspectTerm target="منهج" polarity="neutral" from="33" to="37"/> <aspectTerm target="معلم" polarity="neutral" from="158" to="162"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="82">
+                    <text ref="266"/>
+                    <aspectTerms>
+                        <aspectTerm target=" مهارات العمل" polarity="neutral" from="24" to="37"/> <aspectTerm target="الذكاء الاصطناعي" polarity="positive" from="52" to="68"/> <aspectTerm target="مجال التعليم " polarity="positive" from="163" to="176"/> <aspectTerm target=" تساعد المعلمين" polarity="positive" from="228" to="243"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="83">
+                    <text ref="267"/>
+                    <aspectTerms>
+                        <aspectTerm target="أداة للذكاء الإصطناعي" polarity="positive" from="22" to="43"/> <aspectTerm target=" إعداد دروسك" polarity="positive" from="61" to="73"/> <aspectTerm target="ينشيء محتوى " polarity="positive" from="91" to="103"/> <aspectTerm target="مداخل للدرس" polarity="positive" from="139" to="150"/> <aspectTerm target="شرح وتوضيح للمفاهيم" polarity="positive" from="152" to="171"/> <aspectTerm target="أسئلة اختيار" polarity="positive" from="179" to="191"/> <aspectTerm target="الاجابات القصيرة" polarity="positive" from="213" to="229"/> <aspectTerm target=" التعليم العالي في العالم العربي" polarity="positive" from="31" to="63"/> <aspectTerm target="الأردن_يتقدم" polarity="positive" from="66" to="78"/> <aspectTerm target="التعليم العالي في العالم العربي" polarity="positive" from="32" to="63"/> <aspectTerm target="الأردن حصل على المركز الثاني" polarity="positive" from="0" to="28"/> <aspectTerm target="لتعليم العالي في العالم العربي" polarity="positive" from="33" to="63"/> <aspectTerm target="المركز الثاني في التعليم العالي" polarity="positive" from="15" to="46"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="84">
+                    <text ref="268"/>
+                    <aspectTerms>
+                        <aspectTerm target="الذكاء الاصطناعي" polarity="positive" from="51" to="67"/> <aspectTerm target="دورات تدريبية" polarity="positive" from="69" to="82"/> <aspectTerm target="لغة البايثون" polarity="positive" from="117" to="129"/> <aspectTerm target="تطوير أساليب" polarity="positive" from="207" to="219"/> <aspectTerm target="تدريس علوم الحاسوب والبرمجة" polarity="positive" from="220" to="247"/> <aspectTerm target="التعليم الرقمي" polarity="neutral" from="39" to="53"/> <aspectTerm target="التعليم_الالكتروني في العالم العربي" polarity="positive" from="72" to="107"/> <aspectTerm target="معرض التعليم الرقمي" polarity="positive" from="34" to="53"/> <aspectTerm target=" معرض التعليم الرقمي" polarity="positive" from="33" to="53"/> <aspectTerm target="التعليم_الالكتروني" polarity="positive" from="72" to="90"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="85">
+                    <text ref="269"/>
+                    <aspectTerms>
+                        <aspectTerm target="المعلم" polarity="neutral" from="78" to="84"/> <aspectTerm target="متمكّنًا أكاديميًا" polarity="positive" from="94" to="112"/> <aspectTerm target="مهارات التدريس الفعالة" polarity="negative" from="128" to="150"/> <aspectTerm target="القدرة على تبسيط المعلومات" polarity="negative" from="156" to="182"/> <aspectTerm target="التواصل مع الطلاب" polarity="negative" from="185" to="202"/> <aspectTerm target="الإلمام بالمادة" polarity="positive" from="215" to="230"/> <aspectTerm target="القدرة على إيصالها بفاعلية" polarity="negative" from="239" to="265"/> <aspectTerm target="التعلم عن بعد" polarity="positive" from="68" to="81"/> <aspectTerm target=" الدول المتقدمة" polarity="positive" from="116" to="131"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="86">
+                    <text ref="270"/>
+                    <aspectTerms>
+                        <aspectTerm target=" الممكنات الرقمية" polarity="positive" from="6" to="23"/> <aspectTerm target="الإفراط في الاعتماد عليها" polarity="negative" from="71" to="96"/> <aspectTerm target="التفاعل بين المعلم والطالب" polarity="negative" from="115" to="141"/> <aspectTerm target=" تنمية مهارات التفكير النقدي والتواصل" polarity="negative" from="155" to="192"/> <aspectTerm target=" التفاوت في الوصول إلى الأجهزة والإنترنت" polarity="negative" from="202" to="242"/> <aspectTerm target=" التفاوت في الوصول إلى الأجهزة والإنترنت" polarity="negative" from="202" to="242"/> <aspectTerm target=" الفجوة التعليمية" polarity="negative" from="253" to="270"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="87">
+                    <text ref="271"/>
+                    <aspectTerms>
+                        <aspectTerm target="جهاز الكمبيوتر" polarity="positive" from="41" to="55"/> <aspectTerm target="الأجهزة الذكية" polarity="negative" from="64" to="78"/> <aspectTerm target=" التحصيل الدراسي" polarity="positive" from="198" to="214"/> <aspectTerm target="دراسة علمية" polarity="positive" from="127" to="138"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="88">
+                    <text ref="272"/>
+                    <aspectTerms>
+                        <aspectTerm target="التفكير النقدي" polarity="positive" from="13" to="27"/> <aspectTerm target=" المؤسسات التعليمية" polarity="positive" from="53" to="72"/> <aspectTerm target="بيئة تعليمية" polarity="positive" from="131" to="143"/> <aspectTerm target="قوانين منظمة" polarity="positive" from="32" to="44"/> <aspectTerm target=" يمكن للطلاب تطوير مهارات تحليلية" polarity="positive" from="199" to="232"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="89">
+                    <text ref="273"/>
+                    <aspectTerms>
+                        <aspectTerm target=" التقنيات" polarity="positive" from="3" to="12"/> <aspectTerm target="التطبيقات" polarity="positive" from="14" to="23"/> <aspectTerm target="عملية التعليم" polarity="positive" from="40" to="53"/> <aspectTerm target="أداة تقنية مهمة جداً للمعلمين" polarity="positive" from="65" to="94"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="91">
+                    <text ref="274"/>
+                    <aspectTerms>
+                        <aspectTerm target="تدريس مادة المهارات الرقمية" polarity="positive" from="20" to="47"/> <aspectTerm target=" لطلاب وطالبات الصفين الخامس والسادس الابتدائي" polarity="positive" from="62" to="108"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="92">
+                    <text ref="275"/>
+                    <aspectTerms>
+                        <aspectTerm target="التحول من التعليم التقليدي إلى الرقمي" polarity="positive" from="81" to="118"/> <aspectTerm target="دمج النموذجين في تكامل استراتيجي" polarity="positive" from="130" to="162"/> <aspectTerm target="لبناء منظومة تعليمية مرنة" polarity="positive" from="163" to="188"/> <aspectTerm target="تواكب المستقبل" polarity="positive" from="189" to="203"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="93">
+                    <text ref="276"/>
+                    <aspectTerms>
+                        <aspectTerm target="التعليم في مواجهة التحول الرقمي" polarity="positive" from="1" to="32"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="94">
+                    <text ref="277"/>
+                    <aspectTerms>
+                        <aspectTerm target="مواقع عربية تعليمية" polarity="positive" from="0" to="19"/> <aspectTerm target="تفيدكم في اعداد الدروس" polarity="positive" from="40" to="62"/> <aspectTerm target="تفيدكم في اعداد الدروس" polarity="positive" from="40" to="62"/> <aspectTerm target="التعليم المنزلي" polarity="positive" from="81" to="96"/> <aspectTerm target="مدينة الأطفال" polarity="positive" from="100" to="113"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="95">
+                    <text ref="278"/>
+                    <aspectTerms>
+                        <aspectTerm target="دمج التقنيات الرقمية" polarity="positive" from="8" to="28"/> <aspectTerm target="لتحسين تجربة التعلم" polarity="positive" from="66" to="85"/> <aspectTerm target=" إعداد الطلاب للمستقبل" polarity="positive" from="97" to="119"/> <aspectTerm target=" تمكين المعلمين" polarity="positive" from="122" to="137"/> <aspectTerm target="تصميم الدروس في بيئات التعلم" polarity="positive" from="153" to="181"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="96">
+                    <text ref="279"/>
+                    <aspectTerms>
+                        <aspectTerm target="نُحدّث الوسائل دون أن نراجع الغايات" polarity="negative" from="50" to="85"/> <aspectTerm target="نُدخل التكنولوجيا، ونُغيّر المقررات، ونُضيف مفاهيم، ونظن أن التعلّم سيتحسن" polarity="negative" from="88" to="162"/> <aspectTerm target="فقدنا الرؤية الفلسفية للتعليم" polarity="negative" from="190" to="219"/> <aspectTerm target="غابت الأسئلة الكبرى" polarity="negative" from="225" to="244"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="97">
+                    <text ref="280"/>
+                    <aspectTerms>
+                        <aspectTerm target="وزارة_التعليم تتيح للطلاب والطالبات التعلم عن بُعد عبر منصة المدرسة الافتراضية" polarity="positive" from="1" to="79"/> <aspectTerm target="بشكل متزامن كبديل لإتمام العمليات التعليمية" polarity="positive" from="101" to="144"/> <aspectTerm target="عمودي من خلال 14 قناة تعليمية" polarity="positive" from="215" to="244"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="98">
+                    <text ref="281"/>
+                    <aspectTerms>
+                        <aspectTerm target="المنصة وفرت جميع الكتب ولخصت المناهج" polarity="positive" from="131" to="167"/> <aspectTerm target="التطور ساعد على تخفيف #الحقيبة_الدراسية عن الطالب" polarity="positive" from="189" to="238"/> <aspectTerm target="تفاعل الطلاب" polarity="positive" from="91" to="103"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="99">
+                    <text ref="282"/>
+                    <aspectTerms>
+                        <aspectTerm target="ستبدال التعليم التقليدي بالتعليم عن بعد خيار صعب" polarity="neutral" from="1" to="49"/> <aspectTerm target="بمواصلة التعلم عن بعد بالإنترنت" polarity="positive" from="159" to="190"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="102">
+                    <text ref="283"/>
+                    <aspectTerms>
+                        <aspectTerm target="التعليم الرقمي عن بُعد كرافعة للتنمية في العالم العربي" polarity="positive" from="90" to="144"/> <aspectTerm target="شاركت بندوة تفاعلية هامة منذ قليل مع عمداء وأساتذة" polarity="positive" from="0" to="50"/> <aspectTerm target="جامعات مرموقة في الوطن العربي، حول &quot;التعليم الرقمي" polarity="positive" from="54" to="104"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="103">
+                    <text ref="284"/>
+                    <aspectTerms>
+                        <aspectTerm target="التحول الرقمي في التعليم" polarity="positive" from="253" to="277"/> <aspectTerm target="التعليم الرقمي في العالم العربي" polarity="neutral" from="23" to="54"/> <aspectTerm target=" أستاذ تقنية المعلومات" polarity="positive" from="67" to="89"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="104">
+                    <text ref="285"/>
+                    <aspectTerms>
+                        <aspectTerm target="للتعلم_الرقمي" polarity="positive" from="41" to="54"/> <aspectTerm target="دور التكنولوجيا في تعزيز فرص التعلم الشامل والمستدام" polarity="positive" from="67" to="119"/> <aspectTerm target="الابتكار الرقمي في تطوير نظم التعليم" polarity="positive" from="163" to="199"/> <aspectTerm target="تمكين الأفراد من الوصول إلى المعرفة بطرق أكثر تفاعلية ومرونة" polarity="positive" from="202" to="262"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="105">
+                    <text ref="286"/>
+                    <aspectTerms>
+                        <aspectTerm target="مشروع &quot;تربية 21&quot; صُمّم لدعم التربويّين عموماً" polarity="positive" from="12" to="57"/> <aspectTerm target="تحسين نوعيّة عمليّة التعليم والتعلّم " polarity="positive" from="85" to="122"/> <aspectTerm target="تحويل_التعليم " polarity="positive" from="159" to="173"/> <aspectTerm target="جودة_التعليم" polarity="positive" from="232" to="244"/> <aspectTerm target="التحوّل_الرقميّ" polarity="positive" from="246" to="261"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="106">
+                    <text ref="287"/>
+                    <aspectTerms>
+                        <aspectTerm target="المؤتمر_الدولي_لمستقبل_التعليم_الرقمي" polarity="positive" from="26" to="63"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="107">
+                    <text ref="288"/>
+                    <aspectTerms>
+                        <aspectTerm target=" التصحيح الرقمي" polarity="positive" from="119" to="134"/> <aspectTerm target=" المحتوى العربي الرقمي" polarity="positive" from="140" to="162"/> <aspectTerm target="مخرجات التعلم" polarity="positive" from="169" to="182"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="108">
+                    <text ref="289"/>
+                    <aspectTerms>
+                        <aspectTerm target="العالم الرقمي" polarity="positive" from="46" to="59"/> <aspectTerm target="التعليم_الرقمي" polarity="positive" from="106" to="120"/> <aspectTerm target="مهارة الاستقصاء الفقهي الرقمي" polarity="positive" from="210" to="239"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="109">
+                    <text ref="290"/>
+                    <aspectTerms>
+                        <aspectTerm target="مبادرات التعليم الرقمي" polarity="positive" from="0" to="22"/> <aspectTerm target="لمستقبل_التعليم_الرقمي_في_العالم_العربي" polarity="positive" from="49" to="88"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="110">
+                    <text ref="291"/>
+                    <aspectTerms>
+                        <aspectTerm target="للتعلم الرقمي" polarity="positive" from="22" to="35"/> <aspectTerm target=" للتعليم الذكي" polarity="positive" from="68" to="82"/> <aspectTerm target="جامعات التعليم الذكي" polarity="positive" from="174" to="194"/> <aspectTerm target="يوم_التعليم_الرقمي" polarity="positive" from="247" to="265"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="111">
+                    <text ref="292"/>
+                    <aspectTerms>
+                        <aspectTerm target="التعليم الرقمي" polarity="positive" from="79" to="93"/> <aspectTerm target="التجارب والخبرات الدولية" polarity="positive" from="51" to="75"/> <aspectTerm target="وتطبيقها على أرض الواقع في العالم العربي" polarity="positive" from="94" to="134"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="112">
+                    <text ref="293"/>
+                    <aspectTerms>
+                        <aspectTerm target="المؤتمر_الدولي_لمستقبل_التعليم_الرقمي_في_العالم_العربي" polarity="positive" from="69" to="123"/> <aspectTerm target="للتسجيل" polarity="neutral" from="204" to="211"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="113">
+                    <text ref="294"/>
+                    <aspectTerms>
+                        <aspectTerm target="التعليم الإلكتروني" polarity="positive" from="41" to="59"/> <aspectTerm target="التكنولوجيا" polarity="positive" from="71" to="82"/> <aspectTerm target="المعلم والمتعلم" polarity="positive" from="100" to="115"/> <aspectTerm target="زيادة فرص التعلم مدى الحياة" polarity="positive" from="128" to="155"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="114">
+                    <text ref="295"/>
+                    <aspectTerms>
+                        <aspectTerm target="لإدارة الرقمية" polarity="positive" from="19" to="33"/> <aspectTerm target="حوكمة مدارس التعليم" polarity="positive" from="37" to="56"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="115">
+                    <text ref="296"/>
+                    <aspectTerms>
+                        <aspectTerm target="برنامج التحول الرقمي" polarity="positive" from="63" to="83"/> <aspectTerm target="تطوير مهاراتي في التعليم والتدريس" polarity="positive" from="169" to="202"/> <aspectTerm target="حضور جميع الندوات للإستفادة" polarity="positive" from="140" to="167"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="116">
+                    <text ref="297"/>
+                    <aspectTerms>
+                        <aspectTerm target="المؤتمر_الدولي_لمستقبل_التعليم_الرقمي" polarity="positive" from="26" to="63"/> <aspectTerm target="التسجيل مستمراً " polarity="positive" from="6" to="22"/> <aspectTerm target="التعليم_الرقمي_في_العالم_العربي" polarity="positive" from="49" to="80"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="117">
+                    <text ref="298"/>
+                    <aspectTerms>
+                        <aspectTerm target="التوجهات العالمية نحو العالم الرقمي" polarity="positive" from="24" to="59"/> <aspectTerm target="المؤتمر_الدولي_الافتراضي_لمستقبل_التعليم_الرقمي_في_الوطن_العربي" polarity="positive" from="73" to="136"/> <aspectTerm target="تطبيق الصور التشاركية" polarity="positive" from="207" to="228"/> <aspectTerm target="التحديات المعاصرة" polarity="neutral" from="235" to="252"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="118">
+                    <text ref="299"/>
+                    <aspectTerms>
+                        <aspectTerm target="منع الإشارة لها في الشهادات بأنها إلكترونية" polarity="positive" from="0" to="43"/> <aspectTerm target="أنماط التعليم الإلكترونية " polarity="positive" from="59" to="85"/> <aspectTerm target="التعليم الاعتيادي الحضوري" polarity="neutral" from="105" to="130"/> <aspectTerm target="التعليم المعزز بالتقنية" polarity="positive" from="133" to="156"/> <aspectTerm target="التعليم المدمج" polarity="positive" from="159" to="173"/> <aspectTerm target="التعليم عن بعد المتزامن" polarity="positive" from="176" to="199"/> <aspectTerm target="التعليم عن بعد غير المتزامن" polarity="positive" from="202" to="229"/> <aspectTerm target="التدريب الإلكتروني" polarity="positive" from="232" to="250"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="119">
+                    <text ref="300"/>
+                    <aspectTerms>
+                        <aspectTerm target="ملتقى بوابةالمصدر المفتوح في التقنيات" polarity="positive" from="124" to="161"/> <aspectTerm target="الذكاء_الاصطناعي" polarity="positive" from="229" to="245"/> <aspectTerm target="الروبوت" polarity="positive" from="249" to="256"/> <aspectTerm target="للامن السيبراني" polarity="positive" from="19" to="34"/> <aspectTerm target="وزارة الاتصالات و وزارة التعليم و الكلية التقنية" polarity="positive" from="39" to="87"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="121">
+                    <text ref="301"/>
+                    <aspectTerms>
+                        <aspectTerm target="العالم الرقمي" polarity="positive" from="70" to="83"/> <aspectTerm target="ثقافة الطفل العربي" polarity="positive" from="85" to="103"/> <aspectTerm target="ثقافة الطفل العربي" polarity="positive" from="85" to="103"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="122">
+                    <text ref="302"/>
+                    <aspectTerms>
+                        <aspectTerm target=" التحول الرقمي" polarity="positive" from="70" to="84"/> <aspectTerm target="تطوير مهاراتي في التعليم والتدريس" polarity="positive" from="170" to="203"/> <aspectTerm target="انضم الى مئات المعلمين في العالم العربي" polarity="positive" from="215" to="254"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="123">
+                    <text ref="303"/>
+                    <aspectTerms>
+                        <aspectTerm target="ملامح التعلّم الرقمي" polarity="positive" from="17" to="37"/> <aspectTerm target="مهارات " polarity="positive" from="0" to="7"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="124">
+                    <text ref="304"/>
+                    <aspectTerms>
+                        <aspectTerm target="اليوم_العالمي_للمعلمين" polarity="positive" from="195" to="217"/> <aspectTerm target="للتدريب التربوي" polarity="positive" from="14" to="29"/> <aspectTerm target="أبناؤنا والعالم الرقمي" polarity="positive" from="95" to="117"/> <aspectTerm target="أثر العالم الرقمي على مستقبل التعليم" polarity="positive" from="119" to="155"/> <aspectTerm target="دور المعلم" polarity="positive" from="157" to="167"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="125">
+                    <text ref="305"/>
+                    <aspectTerms>
+                        <aspectTerm target="التحول الرقمي والتعليم " polarity="negative" from="0" to="23"/> <aspectTerm target=" أستاذ تقنية المعلومات" polarity="positive" from="94" to="116"/> <aspectTerm target="ضعف التحول الرقمي في التعليم" polarity="negative" from="120" to="148"/> <aspectTerm target="التعليم هو القطاع الأقل حظًا في الاستفادة من التحول الرقمي" polarity="negative" from="151" to="209"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="127">
+                    <text ref="306"/>
+                    <aspectTerms>
+                        <aspectTerm target="الاستثمارات في مجال الاقتصاد الرقمي" polarity="negative" from="152" to="187"/> <aspectTerm target="لقادة الرأي في التعليم" polarity="negative" from="41" to="63"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="128">
+                    <text ref="307"/>
+                    <aspectTerms>
+                        <aspectTerm target="دعم المناهج الدراسية" polarity="positive" from="17" to="37"/> <aspectTerm target="تنظيم ورش العمل" polarity="positive" from="40" to="55"/> <aspectTerm target="بناء برامج تدريبية حديثة" polarity="positive" from="58" to="82"/> <aspectTerm target="تخدم الطلبة وأعضاء الهيئة التدريسية" polarity="positive" from="83" to="118"/> <aspectTerm target="خطوة جديدة نحو مستقبل التعليم القانوني الرقمي " polarity="positive" from="141" to="187"/> <aspectTerm target=" ربط التعليم القانوني بسوق العمل" polarity="positive" from="224" to="256"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="129">
+                    <text ref="308"/>
+                    <aspectTerms>
+                        <aspectTerm target="برنامج التحول الرقمي" polarity="positive" from="55" to="75"/> <aspectTerm target="حضور جميع الندوات" polarity="positive" from="132" to="149"/> <aspectTerm target="تطوير مهاراتي في التعليم والتدريس" polarity="positive" from="161" to="194"/> <aspectTerm target="انضم الى مئات المعلمين في العالم العربي" polarity="positive" from="206" to="245"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="130">
+                    <text ref="309"/>
+                    <aspectTerms>
+                        <aspectTerm target="تعلم بناء مسيرة في العصر الرقمي" polarity="positive" from="56" to="87"/> <aspectTerm target=" المنصة الرائدة في مجالات التعليم الإلكتروني" polarity="positive" from="114" to="158"/> <aspectTerm target="تقديم تعليمٍ عالي الجودة" polarity="positive" from="185" to="209"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="131">
+                    <text ref="310"/>
+                    <aspectTerms>
+                        <aspectTerm target="محاضرات إعتيادية حضورية ومحاضرات عن بعد" polarity="positive" from="220" to="259"/> <aspectTerm target=" إيقاف جميع أنماط التعليم الجامعي" polarity="negative" from="21" to="54"/> <aspectTerm target="نمط التعليم الإعتيادي" polarity="neutral" from="85" to="106"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="133">
+                    <text ref="311"/>
+                    <aspectTerms>
+                        <aspectTerm target="في زمن التعلم الإلكتروني والعصر الرقمي" polarity="positive" from="2" to="40"/> <aspectTerm target=" لتقنيات التعليم" polarity="neutral" from="81" to="97"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="134">
+                    <text ref="312"/>
+                    <aspectTerms>
+                        <aspectTerm target="الذكاء الاصطناعي" polarity="negative" from="13" to="29"/> <aspectTerm target="اثراء الانترنت العربي" polarity="positive" from="87" to="108"/> <aspectTerm target="بتعريب كم ضخم من الاطروحات الجامعية " polarity="positive" from="109" to="145"/> <aspectTerm target=" بنك الابتكارات" polarity="positive" from="176" to="191"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="135">
+                    <text ref="313"/>
+                    <aspectTerms>
+                        <aspectTerm target=" التطور التكنولوجي المتسارع" polarity="positive" from="2" to="29"/> <aspectTerm target=" أدوات التعليم الرقمي" polarity="positive" from="74" to="95"/> <aspectTerm target=" لتعزيز المنظومة التعليمية" polarity="positive" from="95" to="121"/> <aspectTerm target="تلبية متطلبات سوق العمل الحديث" polarity="positive" from="123" to="153"/> <aspectTerm target="التعليم_الرقمي" polarity="positive" from="196" to="210"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="136">
+                    <text ref="314"/>
+                    <aspectTerms>
+                        <aspectTerm target=" برنامج التحول الرقمي" polarity="positive" from="68" to="89"/> <aspectTerm target=" الندوات" polarity="positive" from="155" to="163"/> <aspectTerm target="تطوير مهاراتي في التعليم والتدريس" polarity="positive" from="175" to="208"/> <aspectTerm target="مئات المعلمين في العالم العربي" polarity="positive" from="229" to="259"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="137">
+                    <text ref="315"/>
+                    <aspectTerms>
+                        <aspectTerm target="المؤتمر الدولي لمستقبل التعليم الرقمي" polarity="positive" from="12" to="49"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="138">
+                    <text ref="316"/>
+                    <aspectTerms>
+                        <aspectTerm target="رفع مستوى جودة البحوث العلمية" polarity="positive" from="29" to="58"/> <aspectTerm target="متطلبات العصر في المجال الأكاديمي او الانتاج العلمي" polarity="positive" from="67" to="118"/> <aspectTerm target="مستقبل التعليم الرقمي في العالم العربي" polarity="positive" from="129" to="167"/> <aspectTerm target="المؤتمر_والمعرض_الدولي_للتعليم" polarity="positive" from="211" to="241"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="139">
+                    <text ref="317"/>
+                    <aspectTerms>
+                        <aspectTerm target="برنامج #قادة_أعمال_المستقبل" polarity="positive" from="10" to="37"/> <aspectTerm target="إعداد وتأهيل جيل جديد من قادة الأعمال القادرين على قيادة التحول الرقمي" polarity="positive" from="61" to="131"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="140">
+                    <text ref="318"/>
+                    <aspectTerms>
+                        <aspectTerm target=" المخاطر الإلكترونية" polarity="negative" from="26" to="46"/> <aspectTerm target="تعزيز المهارات الرقمية" polarity="positive" from="182" to="204"/> <aspectTerm target=" تهيئة بيئة رقمية" polarity="positive" from="252" to="269"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="141">
+                    <text ref="319"/>
+                    <aspectTerms>
+                        <aspectTerm target="لبطاقة الطالب للتعليم الرقمي" polarity="positive" from="42" to="70"/> <aspectTerm target=" منصة #التعليم_الرقمي الذاتي" polarity="positive" from="129" to="157"/> <aspectTerm target="باللغة العربية والانجليزية" polarity="positive" from="204" to="230"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="142">
+                    <text ref="320"/>
+                    <aspectTerms>
+                        <aspectTerm target="برنامج التحول الرقمي" polarity="positive" from="47" to="67"/> <aspectTerm target="حضور جميع الندوات" polarity="positive" from="124" to="141"/> <aspectTerm target=" مهاراتي في التعليم والتدريس" polarity="positive" from="158" to="186"/> <aspectTerm target="انضم الى مئات المعلمين في العالم العربي" polarity="positive" from="197" to="236"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="144">
+                    <text ref="321"/>
+                    <aspectTerms>
+                        <aspectTerm target="تطور التكنلوجيا " polarity="positive" from="3" to="19"/> <aspectTerm target="تعلم مهارة جديدة" polarity="positive" from="22" to="38"/> <aspectTerm target=" التعلم الذاتي" polarity="positive" from="71" to="85"/> <aspectTerm target=" الاستعانه بالمنصات" polarity="positive" from="87" to="106"/> <aspectTerm target="المواقع التعليمية" polarity="positive" from="109" to="126"/> <aspectTerm target="منصة وموقع عربي تعليمي" polarity="positive" from="187" to="209"/> <aspectTerm target="منصات او مواقع تعليمية" polarity="positive" from="218" to="240"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="145">
+                    <text ref="322"/>
+                    <aspectTerms>
+                        <aspectTerm target="التعليم في الوطن العربي" polarity="positive" from="22" to="45"/> <aspectTerm target=" النهوض بالتعليم في الوطن العربي" polarity="positive" from="92" to="124"/> <aspectTerm target=" الركائز الأساسية للتنمية وتعزيز الأمنين الوطني والقومي العربي" polarity="positive" from="137" to="199"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Curriculum and Instruction"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="146">
+                    <text ref="323"/>
+                    <aspectTerms>
+                        <aspectTerm target="العولمة" polarity="positive" from="37" to="44"/> <aspectTerm target="فتح جهازه ويدرس مناهج جامعات عالمية" polarity="positive" from="63" to="98"/> <aspectTerm target="التدريس الجامعي" polarity="neutral" from="117" to="132"/> <aspectTerm target="الوصول للمعرفة" polarity="positive" from="152" to="166"/> <aspectTerm target="الجامعة كانت تسهله" polarity="positive" from="176" to="194"/> <aspectTerm target="جمع الاشخاص ذوي المعرفة مع الطلاب في القاعات" polarity="positive" from="203" to="247"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="147">
+                    <text ref="324"/>
+                    <aspectTerms>
+                        <aspectTerm target="منصة مهارات" polarity="positive" from="19" to="30"/> <aspectTerm target="تمكين #المرأة" polarity="positive" from="56" to="69"/> <aspectTerm target="وزيادة القدرات الرقمية" polarity="positive" from="70" to="92"/> <aspectTerm target="للتحول الرقمي" polarity="positive" from="120" to="133"/> <aspectTerm target="منصات التعليم" polarity="neutral" from="166" to="179"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="149">
+                    <text ref="325"/>
+                    <aspectTerms>
+                        <aspectTerm target="بوابة المستقبل" polarity="positive" from="0" to="14"/> <aspectTerm target="يثبت أن التعليم في المملكة في تقدم مستمر" polarity="positive" from="55" to="95"/> <aspectTerm target="وابةالتحول_الرقمي" polarity="positive" from="99" to="116"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="150">
+                    <text ref="326"/>
+                    <aspectTerms>
+                        <aspectTerm target="تدعو أعداد غفيرة" polarity="positive" from="18" to="34"/> <aspectTerm target="لقفزات كبيرة في مجال #التعليم_الرقمي" polarity="positive" from="35" to="71"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="151">
+                    <text ref="327"/>
+                    <aspectTerms>
+                        <aspectTerm target="التعليم المُعتمد عبر #الإنترنت " polarity="negative" from="1" to="32"/> <aspectTerm target="نادر في العالم العربي، إذا لم يكن منعدم" polarity="negative" from="32" to="71"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="152">
+                    <text ref="328"/>
+                    <aspectTerms>
+                        <aspectTerm target="نقص التعليم" polarity="negative" from="149" to="160"/> <aspectTerm target=" للتعبير في الفضاء الرقمي" polarity="neutral" from="231" to="256"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="153">
+                    <text ref="329"/>
+                    <aspectTerms>
+                        <aspectTerm target="نقلة نوعية في مجال التعليم والتحول الرقمي" polarity="positive" from="30" to="71"/> <aspectTerm target=" زيادة الوعي لدى الطلاب" polarity="positive" from="120" to="143"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="155">
+                    <text ref="330"/>
+                    <aspectTerms>
+                        <aspectTerm target="MOOC" polarity="positive" from="49" to="53"/> <aspectTerm target="نصّة علّمني" polarity="neutral" from="9" to="20"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="159">
+                    <text ref="331"/>
+                    <aspectTerms>
+                        <aspectTerm target="مع التعليم عن بُعد" polarity="positive" from="7" to="25"/> <aspectTerm target="فالتجربة الأولى للتعليم عن بعد" polarity="positive" from="56" to="86"/> <aspectTerm target="تجربة طموحة" polarity="positive" from="101" to="112"/> <aspectTerm target="إلزامية الدخول للمنصات الرقمية" polarity="positive" from="200" to="230"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="160">
+                    <text ref="332"/>
+                    <aspectTerms>
+                        <aspectTerm target="جودة التعليم" polarity="neutral" from="6" to="18"/> <aspectTerm target=" مؤشر التعليم لعام 2022" polarity="neutral" from="39" to="62"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="neutral" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="161">
+                    <text ref="333"/>
+                    <aspectTerms>
+                        <aspectTerm target="إحلال التعليم الإلكتروني محل التعليم الأصلي" polarity="negative" from="12" to="55"/> <aspectTerm target="التعليم الإلكتروني مساعد وتبَعي لا أصلي" polarity="neutral" from="77" to="116"/> <aspectTerm target="طلابا في أخلاقهم زعارة" polarity="negative" from="133" to="155"/> <aspectTerm target="التربية أس التعليم" polarity="positive" from="158" to="176"/> <aspectTerm target=" الصف المقلوب التمركز حول الطالب" polarity="negative" from="185" to="217"/> <aspectTerm target=" التلقين" polarity="negative" from="221" to="229"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="162">
+                    <text ref="334"/>
+                    <aspectTerms>
+                        <aspectTerm target="الوحدة الصناعية لإنتاج مواد البطاريات الكهربائية" polarity="positive" from="0" to="48"/> <aspectTerm target=" خطوة كبرى للصناعة المغربية" polarity="positive" from="64" to="91"/> <aspectTerm target="كوبكو" polarity="neutral" from="56" to="61"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="165">
+                    <text ref="335"/>
+                    <aspectTerms>
+                        <aspectTerm target="الطفل المغربي أمين أخباش" polarity="positive" from="150" to="174"/> <aspectTerm target="مام عمالقة التكنولوجيا اختراعاته" polarity="positive" from="240" to="272"/> <aspectTerm target="معرض جيتكس إفريقيا للتكنولوجيا" polarity="neutral" from="23" to="53"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Student Experience"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="170">
+                    <text ref="336"/>
+                    <aspectTerms>
+                        <aspectTerm target="المملكة المغربية" polarity="positive" from="51" to="67"/> <aspectTerm target="الرتبة الأولى" polarity="positive" from="71" to="84"/> <aspectTerm target="على المستوى التكنولوجي" polarity="positive" from="118" to="140"/> <aspectTerm target="المنظمة العالمية للملكية الفكرية " polarity="neutral" from="157" to="190"/> <aspectTerm target="اعتمد الموقع في تصنيفه على مجموعة من المعايير" polarity="neutral" from="200" to="245"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="171">
+                    <text ref="337"/>
+                    <aspectTerms>
+                        <aspectTerm target=" المنظومة الصحية" polarity="negative" from="23" to="39"/> <aspectTerm target="التعليم العمومي" polarity="negative" from="48" to="63"/> <aspectTerm target="القضاء" polarity="negative" from="73" to="79"/> <aspectTerm target=" المواطن البسيط" polarity="negative" from="152" to="167"/> <aspectTerm target=" ملاعب تلميع الصورة" polarity="negative" from="260" to="279"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="negative" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="179">
+                    <text ref="338"/>
+                    <aspectTerms>
+                        <aspectTerm target=" ارتفاع مؤشر الابتكار" polarity="positive" from="8" to="29"/> <aspectTerm target=" استثماراته في التعليم" polarity="positive" from="53" to="75"/> <aspectTerm target="التصاميم الصناعية" polarity="positive" from="101" to="118"/> <aspectTerm target="الصناعات عالية التقنية" polarity="positive" from="132" to="154"/> <aspectTerm target="والطاقة المتجددة" polarity="positive" from="156" to="172"/> <aspectTerm target="تنويع اقتصادي" polarity="positive" from="194" to="207"/> <aspectTerm target="البيروقراطية" polarity="negative" from="257" to="269"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="conflict" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="183">
+                    <text ref="339"/>
+                    <aspectTerms>
+                        <aspectTerm target="الكفاءات المغربية من أوروبا ثورة وطنية للإبتكار والتحول الرقمي" polarity="positive" from="21" to="83"/> <aspectTerm target="المغرب_الرقمي_2030" polarity="positive" from="187" to="205"/> <aspectTerm target="جامعة_محمد_السادس_متعددة_التخصصات" polarity="positive" from="209" to="242"/> <aspectTerm target="استقطاب المواهب" polarity="positive" from="143" to="158"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Technology Integration"/>
+              </aspectCategories>
+              </sentence>
+        ,
+           <sentence id="184">
+                    <text ref="340"/>
+                    <aspectTerms>
+                        <aspectTerm target=" بناء المدينة. الصناعية محمد السادس (طنجة تيك)" polarity="positive" from="192" to="238"/>
+                    </aspectTerms>
+              <aspectCategories>
+                <aspectCategory polarity="positive" category="Outcomes and Performance"/>
+              </aspectCategories>
+              </sentence>
+        </sentences>
