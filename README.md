@@ -32,8 +32,8 @@ AraABSAMD/
 │ └── annotation_guidelines.pdf    
 │
 ├── code/ # Preprocessing and evaluation scripts  
-│ ├── preprocessing/  
-│ ├── iob_encoding/  
+│ └── preprocessing/  
+│ └── iob_encoding/  
 │ └── evaluation/  
 ├── requirements.txt
 ├── LICENSE # CC BY-NC 4.0 license for the dataset  
