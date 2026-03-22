@@ -5,7 +5,7 @@
 
 ## 📌 Overview
 
-**AraABSAMD** is the first publicly available dataset for Aspect-Based Sentiment Analysis (ABSA) in the Moroccan education domain. It contains **1,360 manually annotated tweets** in Modern Standard Arabic (MSA), covering discussions about education in Morocco.
+**AraABSAMD** provides the first publicly available annotation labels for Aspect-Based Sentiment Analysis (ABSA) in the Moroccan education domain. It contains **1,360 manually annotated tweets** in Modern Standard Arabic (MSA), covering discussions about education in Morocco.
 
 This dataset was created to address the lack of Arabic ABSA resources in the education sector and to enable fine-grained opinion mining for educational stakeholders, policymakers, and researchers.
 
