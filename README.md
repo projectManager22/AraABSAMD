@@ -202,7 +202,7 @@ pip install -r requirements.txt
 2. Run the experiment notebook:
 
 ```
-experiments/baseline_models.ipynb
+code/Aspect term extraction (ATE) Aspect sentiment classification (ASCV2).ipynb
 ```
 
 The notebook includes:
